@@ -1,0 +1,470 @@
+---
+de:
+- c: 3
+  r: 1
+  v: ausstrecken
+  x:
+  - s: We have <v>stretched</v> <p>out</p> our hand.
+    t: Wir haben die Hand <a>ausgestreckt</a>.
+  - s: a Parliament which is <v>stretching</v> <p>out</p> its hand, which wants to
+      review essential points for better democratic control for a better budget and
+      therefore for a better European Union.
+    t: auf der einen Seite der Rat, der nicht bereit - oder sollte ich sagen nicht
+      fähig - ist, sich auf einen Dialog festzulegen, und auf der anderen Seite ein
+      Parlament, das die Hand <a>ausstreckt</a> und die notwendigen Fragen einer besseren
+      demokratischen Kontrolle für einen besseren Haushalt und damit für eine bessere
+      Europäische Union prüfen möchte.
+  - s: Despite all our negative experiences and our reservations concerning the government
+      of Mr Lukashenko, the EU has <v>stretched</v> <p>out</p> its hand to Belarus
+      over recent months.
+    t: Trotz aller negativen Erfahrungen und Vorbehalte gegenüber der Regierung Lukaschenko
+      war die Hand der EU in den letzten Monaten weit <a>ausgestreckt</a>.
+- c: 1
+  r: 2
+  v: ausgestreckt
+  x:
+  - s: It is an important language not only because of its history and its current
+      contribution in this House, but also because it is a linguistic hand of solidarity
+      and cooperation <v>stretched</v> <p>out</p> towards South America.
+    t: Eine bedeutende Sprache, nicht nur wegen ihrer Geschichte, sondern eine bedeutende
+      Sprache wegen ihres gegenwärtigen Beitrags in diesem Haus, in dieser Institution,
+      aber sie ist auch eine <a>ausgestreckte</a> <a>Sprach-Hand</a> der Solidarität
+      und Zusammenarbeit mit Südamerika.
+- c: 1
+  r: 2
+  v: Länge
+  x:
+  - s: Even if the original determinations begin at the right time, the necessary
+      subsequent surveys <v>stretch</v> <p>out</p>, so that the limitation period
+      applies.
+    t: Selbst wenn die ursprünglichen Ermittlungen rechtzeitig beginnen, ziehen sich
+      die notwendigen <a>Nachfolgeerhebungen</a> in die <a>Länge</a>, so daß es dann
+      zur Verjährung kommt.
+- c: 1
+  r: 2
+  v: strecken
+  x:
+  - s: Why not <v>stretch</v> <p>out</p> the mining of a reserve that is running out
+      anyway and first of all develop these new technologies?
+    t: Warum dann nicht den Abbau einer ohnehin zu Ende gehenden Reserve etwas <a>strecken</a>,
+      und diese neuen Technologien erst einmal entwickeln?
+- c: 1
+  r: 2
+  v: unhaltbar
+  x:
+  - s: The European manna is being used solely to <v>stretch</v> <p>out</p> an untenable
+      regime.
+    t: Das europäische Manna wird lediglich verwendet, um ein <a>unhaltbares</a> Regime
+      an der Macht zu halten.
+- c: 1
+  r: 2
+  v: ziehen
+  x:
+  - s: But, Mr Schüssel, you cannot <v>stretch</v> it <p>out</p> like strudel pastry
+      until it is ready.
+    t: Nur, Herr Schüssel, dann darf sie sich nicht <a>ziehen</a> wie ein Strudelteig,
+      bis sie fertig ist.
+- c: 1
+  r: 2
+  v: reichen
+  x:
+  - s: I believe it to be also the best thing we can do for peaceful development,
+      and, at this time, I would also like to thank those from the peoples about to
+      join us who have <v>stretched</v> <p>out</p> their hands to us.
+    t: Ich glaube, das ist auch das Beste, was wir für die friedliche Entwicklung
+      tun können, und ich möchte mich auch gerade in diesen Tagen bei denjenigen aus
+      den jetzt beitretenden Völkern bedanken, die uns die Hand <a>gereicht</a> haben.
+- c: 1
+  r: 2
+  v: Bedienung
+  x:
+  - s: A network is only properly European if its branches <v>stretch</v> <p>out</p>
+      across the whole of Europe, and not simply into the rich and profitable areas.
+    t: Ein Netz ist nur dann im eigentlichen Sinne europäisch, wenn damit die gesamte
+      Europäische Union abgedeckt wird und nicht lediglich reiche Gebiete, deren <a>Bedienung</a>
+      somit „rentabel ist“.
+es:
+- c: 4
+  r: 1
+  v: tender
+  x:
+  - s: Many hands have been <v>stretched</v> <p>out</p> to Iran, and the European
+      Parliament is stretching out another to it today.
+    t: Se han <a>tendido</a> muchas manos a Irán, y hoy el Parlamento Europeo le está
+      tendiendo otra.
+  - s: Many hands have been stretched out to Iran, and the European Parliament is
+      <v>stretching</v> <p>out</p> another to it today.
+    t: Se han tendido muchas manos a Irán, y hoy el Parlamento Europeo le está <a>tendiendo</a>
+      otra.
+  - s: We have the whole of ’blue Europe’ <v>stretching</v> <p>out</p> before us waiting
+      to be reorganised.
+    t: Tenemos <a>tendida</a> ante nosotros a toda la llamada «Europa azul» esperando
+      su reorganización.
+  - s: I believe it to be also the best thing we can do for peaceful development,
+      and, at this time, I would also like to thank those from the peoples about to
+      join us who have <v>stretched</v> <p>out</p> their hands to us.
+    t: También considero que es lo mejor que podemos hacer por el desarrollo pacífico
+      y, en esta ocasión, quiero dar las gracias a los pueblos que están a punto de
+      unirse a nosotros y que nos han <a>tendido</a> su mano.
+- c: 3
+  r: 2
+  v: extender
+  x:
+  - s: It is an important language not only because of its history and its current
+      contribution in this House, but also because it is a linguistic hand of solidarity
+      and cooperation <v>stretched</v> <p>out</p> towards South America.
+    t: Una lengua importante no sólo por su historia, sino una lengua importante por
+      su contribución actual en esta Casa, en esta institución, pero también como
+      una mano lingüística <a>extendida</a> de solidaridad y cooperación hacia América
+      del Sur.
+  - s: a Parliament which is <v>stretching</v> <p>out</p> its hand, which wants to
+      review essential points for better democratic control for a better budget and
+      therefore for a better European Union.
+    t: el Consejo no quiere —o debo decir, no es capaz de— entablar un diálogo con
+      un Parlamento que está <a>extendiendo</a> su mano, que desea revisar puntos
+      esenciales para un mejor control democrático, para un mejor presupuesto y, en
+      definitiva, para una mejor Unión Europea.
+  - s: Has it ever occurred to you that it might be better if Ireland left the euro,
+      rather than <v>stretching</v> <p>out</p> its begging hand to the contributing
+      countries of the European Union?
+    t: ¿Se le ha ocurrido que podría ser mejor que Irlanda abandonara el euro, en
+      lugar de <a>extender</a> su mano pidiendo limosnas a los países contribuyentes
+      de la Unión Europea?
+- c: 1
+  r: 3
+  v: prorrogar
+  x:
+  - s: The European manna is being used solely to <v>stretch</v> <p>out</p> an untenable
+      regime.
+    t: El maná europeo sólo sirve para <a>prorrogar</a> un régimen insostenible.
+- c: 1
+  r: 3
+  v: abarcar
+  x:
+  - s: A network is only properly European if its branches <v>stretch</v> <p>out</p>
+      across the whole of Europe, and not simply into the rich and profitable areas.
+    t: Una red es realmente europea siempre y cuando <a>abarque</a> el conjunto de
+      Europa y no solamente las zonas ricas y, por lo tanto, rentables para ese servicio.
+- c: 1
+  r: 3
+  v: hacer
+  x:
+  - s: Mrs Haug has <v>stretched</v> <p>out</p> her hand.
+    t: La Señora Haug lo ha <a>hecho</a>.
+- c: 1
+  r: 3
+  v: inflar
+  x:
+  - s: But, Mr Schüssel, you cannot <v>stretch</v> it <p>out</p> like strudel pastry
+      until it is ready.
+    t: Señor Schüssel, sólo que no debe <a>inflarse</a> como la masa del Strudel hasta
+      que esté terminada.
+- c: 1
+  r: 3
+  v: prolongar
+  x:
+  - s: Why not <v>stretch</v> <p>out</p> the mining of a reserve that is running out
+      anyway and first of all develop these new technologies?
+    t: ¿Por qué no <a>prolongar</a> la extracción de un yacimiento que se agotará
+      de todos modos y, antes que nada, desarrollar estas nuevas tecnologías?
+fr:
+- c: 4
+  r: 1
+  v: tendre
+  x:
+  - s: We have <v>stretched</v> <p>out</p> our hand.
+    t: Nous avons <a>tendu</a> la main.
+  - s: Many hands have been stretched out to Iran, and the European Parliament is
+      <v>stretching</v> <p>out</p> another to it today.
+    t: De nombreuses mains se sont tendues, vers l’Iran, et le Parlement européen
+      lui en <a>tend</a> une autre aujourd’hui.
+  - s: I believe it to be also the best thing we can do for peaceful development,
+      and, at this time, I would also like to thank those from the peoples about to
+      join us who have <v>stretched</v> <p>out</p> their hands to us.
+    t: Je pense que c’est également la meilleure chose que nous puissions faire pour
+      un développement pacifique, et je voudrais à présent exprimer mes remerciements
+      aux peuples qui sont sur le point de nous rejoindre pour nous avoir <a>tendu</a>
+      la main.
+  - s: Despite all our negative experiences and our reservations concerning the government
+      of Mr Lukashenko, the EU has <v>stretched</v> <p>out</p> its hand to Belarus
+      over recent months.
+    t: En dépit de toutes nos expériences négatives et de nos réserves concernant
+      le gouvernement de M. Loukachenko ces derniers mois, l’UE a <a>tendu</a> la
+      main à la Biélorussie.
+- c: 1
+  r: 2
+  v: retirer
+  x:
+  - s: In my opinion, there is a much greater danger of the House ending up like Sancho
+      Panza - who was content simply to complain, to hang back eating his lunch, and
+      to <v>stretch</v> himself <p>out</p> under the trees.
+    t: Je crois que le risque de finir comme Sancho Pança, qui lentement se <a>retire</a>
+      en maugréant dans les buissons, couché dans l’herbe avec son saucisson sur le
+      dos, est beaucoup plus grand pour cet hémicycle et, aux yeux des citoyens d’Europe,
+      ce serait un rôle beaucoup plus lamentable que, dans cette bataille historique,
+      vu le chômage de masse, vu la crise de démocratie et d’acceptation de cette
+      Union, celui de se battre pour que cette chance historique ne soit pas perdue
+      et il ne se passe actuellement rien d’autre à cette Conférence intergouvernementale.
+- c: 1
+  r: 2
+  v: demander
+  x:
+  - s: Has it ever occurred to you that it might be better if Ireland left the euro,
+      rather than <v>stretching</v> <p>out</p> its begging hand to the contributing
+      countries of the European Union?
+    t: Ne vous est-il jamais venu à l’esprit qu’il pourrait être préférable que l’Irlande
+      quitte la zone euro, au lieu de <a>demander</a> l’aumône aux pays contributeurs
+      de l’Union européenne ?
+- c: 1
+  r: 2
+  v: répandre
+  x:
+  - s: It is an important language not only because of its history and its current
+      contribution in this House, but also because it is a linguistic hand of solidarity
+      and cooperation <v>stretched</v> <p>out</p> towards South America.
+    t: Une langue importante non seulement en raison de son histoire, mais aussi en
+      raison de sa contribution actuelle au sein de cette maison, cette institution,
+      et aussi en tant que langue <a>répandue</a> de solidarité et de coopération
+      avec l’Amérique du sud.
+- c: 1
+  r: 2
+  v: prolonger
+  x:
+  - s: The European manna is being used solely to <v>stretch</v> <p>out</p> an untenable
+      regime.
+    t: La manne européenne ne sert qu’à <a>prolonger</a> un régime insoutenable.
+- c: 1
+  r: 2
+  v: irriguer
+  x:
+  - s: A network is only properly European if its branches <v>stretch</v> <p>out</p>
+      across the whole of Europe, and not simply into the rich and profitable areas.
+    t: Un réseau n’est proprement européen qu’à la condition d’<a>irriguer</a> l’ensemble
+      de l’Europe et pas simplement des zones riches et donc «rentables» à desservir.
+- c: 1
+  r: 2
+  v: reporter
+  x:
+  - s: Why not <v>stretch</v> <p>out</p> the mining of a reserve that is running out
+      anyway and first of all develop these new technologies?
+    t: Pourquoi ne pas <a>reporter</a> l’exploitation d’une réserve qui s’épuise de
+      toute façon et tout d’abord développer ces nouvelles technologies ?
+- c: 1
+  r: 2
+  v: faire
+  x:
+  - s: Mrs Haug has <v>stretched</v> <p>out</p> her hand.
+    t: Mme Haug l’a <a>fait</a>.
+it:
+- c: 3
+  r: 1
+  v: tendere
+  x:
+  - s: We have <v>stretched</v> <p>out</p> our hand.
+    t: Abbiamo <a>teso</a> la mano.
+  - s: I believe it to be also the best thing we can do for peaceful development,
+      and, at this time, I would also like to thank those from the peoples about to
+      join us who have <v>stretched</v> <p>out</p> their hands to us.
+    t: Credo anche che sia la soluzione migliore per uno sviluppo pacifico e perciò
+      in questo momento vorrei ringraziare tutti i cittadini dei popoli prossimi ad
+      aderire che ci hanno <a>teso</a> la mano.
+  - s: Despite all our negative experiences and our reservations concerning the government
+      of Mr Lukashenko, the EU has <v>stretched</v> <p>out</p> its hand to Belarus
+      over recent months.
+    t: Malgrado tutte le nostre esperienze negative e le riserve in merito al governo
+      di Lukashenko, negli ultimi mesi l’Unione europea ha <a>teso</a> la mano alla
+      Bielorussia.
+- c: 1
+  r: 2
+  v: allungare
+  x:
+  - s: Has it ever occurred to you that it might be better if Ireland left the euro,
+      rather than <v>stretching</v> <p>out</p> its begging hand to the contributing
+      countries of the European Union?
+    t: Le è mai venuto in mente che sarebbe stato meglio se l’Irlanda fosse uscita
+      dall’euro, piuttosto che <a>allungare</a> la mano per chiedere l’elemosina ai
+      paesi contributori dell’Unione europea?
+- c: 1
+  r: 2
+  v: fermare
+  x:
+  - s: In my remaining seconds I would like to warn anyone who is listening against
+      the dangers of seeking to take hostages in this process that will <v>stretch</v>
+      <p>out</p> in the years ahead.
+    t: Come ultima cosa, vorrei ammonire quanti mi ascoltano contro il pericolo di
+      voler fare degli ostaggi in questo processo che non si <a>fermerà</a> nel prossimo
+      futuro.
+- c: 1
+  r: 2
+  v: potere
+  x:
+  - s: However, the discussions that <v>stretch</v> <p>out</p> into infinity concerning,
+      for example, the membership prospects for certain countries in this region do
+      not instil optimism.
+    t: Tuttavia, la discussione <a>può</a> ampliarsi all’infinito per quanto riguarda,
+      per esempio, le prospettive di adesione per alcuni paesi in questa regione che
+      non infondono ottimismo.
+- c: 1
+  r: 2
+  v: estendere
+  x:
+  - s: It is an important language not only because of its history and its current
+      contribution in this House, but also because it is a linguistic hand of solidarity
+      and cooperation <v>stretched</v> <p>out</p> towards South America.
+    t: Una lingua importante non solo per la sua storia, ma anche per il suo contributo
+      reale alla nostra Istituzione, come una mano linguistica <a>estesa</a> con solidarietà
+      e cooperazione all’America del Sud.
+- c: 1
+  r: 2
+  v: tesa
+  x:
+  - s: Many hands have been <v>stretched</v> <p>out</p> to Iran, and the European
+      Parliament is stretching out another to it today.
+    t: Molte mani sono state <a>tese</a> all’Iran e il Parlamento europeo ne sta tendendo
+      un’altra oggi.
+- c: 1
+  r: 2
+  v: tendere mano
+  x:
+  - s: a Parliament which is <v>stretching</v> <p>out</p> its hand, which wants to
+      review essential points for better democratic control for a better budget and
+      therefore for a better European Union.
+    t: il Consiglio non ha la volontà - o forse dovrei dire la capacità - di impegnarsi
+      in un dialogo con un Parlamento che gli <a>tende</a> la <a>mano</a> e vuole
+      rivedere certi temi cruciali per un miglior controllo democratico, per un miglior
+      bilancio e, di conseguenza, per una migliore Unione europea.
+pt:
+- c: 6
+  r: 1
+  v: estender
+  x:
+  - s: It is an important language not only because of its history and its current
+      contribution in this House, but also because it is a linguistic hand of solidarity
+      and cooperation <v>stretched</v> <p>out</p> towards South America.
+    t: Uma língua importante não só pela sua história, uma língua importante pela
+      sua contribuição actual nesta casa, nesta instituição, mas também como uma mão
+      linguística de solidariedade e de cooperação <a>estendida</a> à América do Sul.
+  - s: Many hands have been <v>stretched</v> <p>out</p> to Iran, and the European
+      Parliament is stretching out another to it today.
+    t: Muitas mãos se <a>estenderam</a> ao Irão, e o Parlamento Europeu está também
+      a estender-lhe a mão hoje.
+  - s: a Parliament which is <v>stretching</v> <p>out</p> its hand, which wants to
+      review essential points for better democratic control for a better budget and
+      therefore for a better European Union.
+    t: o Conselho não está disposto, ou antes, talvez não seja capaz de entrar em
+      diálogo com um Parlamento que lhe <a>estende</a> a mão, que pretende rever aspectos
+      essenciais a um controlo democrático mais eficaz, para que o orçamento possa
+      ser melhor e, portanto, para que a União Europeia seja também melhor.
+  - s: I believe it to be also the best thing we can do for peaceful development,
+      and, at this time, I would also like to thank those from the peoples about to
+      join us who have <v>stretched</v> <p>out</p> their hands to us.
+    t: Creio que esta é também a melhor coisa que podemos fazer em prol do desenvolvimento
+      pacífico e, neste momento, gostaria igualmente de agradecer àqueles, de entre
+      os povos que em breve se irão juntar a nós, que nos <a>estenderam</a> a mão.
+  - s: Has it ever occurred to you that it might be better if Ireland left the euro,
+      rather than <v>stretching</v> <p>out</p> its begging hand to the contributing
+      countries of the European Union?
+    t: Alguma vez lhe ocorreu que poderia ser melhor se a Irlanda deixasse o Euro,
+      em vez de <a>estender</a> a mão de pedinte aos países contribuintes da União
+      Europeia?
+  - s: Despite all our negative experiences and our reservations concerning the government
+      of Mr Lukashenko, the EU has <v>stretched</v> <p>out</p> its hand to Belarus
+      over recent months.
+    t: Apesar de todas as experiências negativas e de todas as nossas reservas relativamente
+      à governação do Presidente Lukashenko, a UE manteve a mão <a>estendida</a> à
+      Bielorússia ao longo dos últimos meses.
+- c: 1
+  r: 2
+  v: voz
+  x:
+  - s: In my opinion, there is a much greater danger of the House ending up like Sancho
+      Panza - who was content simply to complain, to hang back eating his lunch, and
+      to <v>stretch</v> himself <p>out</p> under the trees.
+    t: Creio que o perigo de acabar como Sancho Pança, que se retira para detrás dos
+      arbustos, resmungando em <a>voz</a> baixa, deitado de costas a saborear a sua
+      salsicha, é muito maior para esta assembleia, e esse sim, seria um papel muito
+      mais lamentável aos olhos dos cidadãos do que lutar, nesta histórica discussão,
+      quando se assiste ao desemprego em massa e a uma crise maciça de democracia
+      e aceitação da União, para que não se desperdice esta oportunidade única;
+- c: 1
+  r: 2
+  v: prolongar
+  x:
+  - s: The European manna is being used solely to <v>stretch</v> <p>out</p> an untenable
+      regime.
+    t: O maná europeu é utilizado apenas para <a>prolongar</a> um regime insustentável.
+- c: 1
+  r: 2
+  v: fazer
+  x:
+  - s: Mrs Haug has <v>stretched</v> <p>out</p> her hand.
+    t: A senhora deputada Haug <a>fê</a><a>-lo</a>.
+sv:
+- c: 2
+  r: 1
+  v: utsträcka
+  x:
+  - s: It is an important language not only because of its history and its current
+      contribution in this House, but also because it is a linguistic hand of solidarity
+      and cooperation <v>stretched</v> <p>out</p> towards South America.
+    t: Ett viktigt språk, inte enbart på grund av dess historia, utan också genom
+      dess nuvarande bidrag i denna kammare, denna institution, men också som en lingvistiskt
+      <a>utsträckt</a> hand av solidaritet och samarbete gentemot Sydamerika.
+  - s: Many hands have been <v>stretched</v> <p>out</p> to Iran, and the European
+      Parliament is stretching out another to it today.
+    t: Iran har fått många <a>utsträckta</a> händer.
+- c: 1
+  r: 2
+  v: betjäna
+  x:
+  - s: A network is only properly European if its branches <v>stretch</v> <p>out</p>
+      across the whole of Europe, and not simply into the rich and profitable areas.
+    t: Ett nät är bara riktigt europeiskt om det <a>betjänar</a> hela Europa och inte
+      bara de rika områdena som därmed är ”lönsamma” att betjäna.
+- c: 1
+  r: 2
+  v: blå
+  x:
+  - s: We have the whole of ’blue Europe’ <v>stretching</v> <p>out</p> before us waiting
+      to be reorganised.
+    t: Hela det <a>blåa</a> Europa måste göras om.
+- c: 1
+  r: 2
+  v: efterkrav ut
+  x:
+  - s: Even if the original determinations begin at the right time, the necessary
+      subsequent surveys <v>stretch</v> <p>out</p>, so that the limitation period
+      applies.
+    t: Även om de ursprungliga registreringarna börjar i rätt tid så drar den nödvändiga
+      uppbörden av <a>efterkraven</a> <a>ut</a> på tiden så att de preskriberas.
+- c: 1
+  r: 2
+  v: fastställa
+  x:
+  - s: But, Mr Schüssel, you cannot <v>stretch</v> it <p>out</p> like strudel pastry
+      until it is ready.
+    t: För att bevara målsättningen med en ekonomisk och social sammanhållning räcker
+      det definitivt inte med ett tak på 1, 27 procent av BNP för de egna resurserna,
+      vilket <a>fastställs</a> i den aktuella gemenskapsbudgeten med dess stora begränsningar.
+- c: 1
+  r: 2
+  v: ge
+  x:
+  - s: Many hands have been stretched out to Iran, and the European Parliament is
+      <v>stretching</v> <p>out</p> another to it today.
+    t: 'Europaparlamentet <a>ger</a> en till idag:'
+- c: 1
+  r: 2
+  v: Haug göra
+  x:
+  - s: Mrs Haug has <v>stretched</v> <p>out</p> her hand.
+    t: <a>Haug</a> har <a>gjort</a> det.
+- c: 1
+  r: 2
+  v: pågå
+  x:
+  - s: However, the discussions that <v>stretch</v> <p>out</p> into infinity concerning,
+      for example, the membership prospects for certain countries in this region do
+      not instil optimism.
+    t: Men diskussioner som <a>pågår</a> i det oändliga om till exempel möjligheterna
+      för vissa länder i denna region att ansluta sig ger inte upphov till någon optimism.

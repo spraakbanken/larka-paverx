@@ -1,0 +1,832 @@
+---
+de:
+- c: 3
+  r: 1
+  v: fallen
+  x:
+  - s: Zimbabwe är ett land som har <v>fallit</v> <p>in</p> i ett ”svart hål”.
+    t: Simbabwe ist in ein „schwarzes Loch“ <a>gefallen</a>.
+  - s: Alla de ändringsförslag som hon har satt upp på dagordningen <v>faller</v>
+      <p>in</p> i två kategorier.
+    t: Alle von ihr vorgebrachten Änderungsanträge <a>fallen</a> in zwei Kategorien.
+  - s: Det är inte minst bra att Kirkhope har tagit med att allt som ger sken av att
+      vara barnpornografi också skall <v>falla</v> <p>in</p> under denna definition.
+    t: Ich halte es vor allem für positiv, daß auch alles, was den Anschein erweckt,
+      Kinderpornographie zu sein, unter Herrn Kirkhopes Definition <a>fallen</a> soll.
+- c: 1
+  r: 2
+  v: einfallen sein
+  x:
+  - s: Om vi inte tar upp listan i resolutionen i dag, så är det bara på grund av
+      att alltför många ytterligare länder har <v>fallit</v> oss <p>in</p>, av vilka
+      vi inte kan ta med allihop.
+    t: Wenn wir diese Liste heute in der Entschließung nicht aufführen, dann weil
+      uns leider zusätzlich noch viel zu viele andere Länder <a>eingefallen</a> <a>sind</a>,
+      die wir nicht alle aufführen konnten.
+- c: 1
+  r: 2
+  v: lassen
+  x:
+  - s: Det skulle aldrig <v>falla</v> mig <p>in</p>, så att ni nu begriper det!
+    t: Das <a>lasse</a> ich mir nicht gefallen, damit Sie das richtig verstehen!
+- c: 1
+  r: 2
+  v: kommen
+  x:
+  - s: Hon bjöd in oss till en grekisk vinafton, och jag instämde helt med henne -
+      jag hoppas att jag inte var ensam om det - i att det inte skulle <v>falla</v>
+      någon <p>in</p> att göra om det vin vi bjöds till ren sprit.
+    t: Als sie uns heute Abend zu griechischem Wein eingeladen hat, war ich vollständig
+      mit ihr einverstanden - ich hoffe Sie auch -, dass niemand auf die Idee <a>käme</a>,
+      aus dem Wein, der uns dort kredenzt wurde, Sprit zu machen.
+- c: 1
+  r: 2
+  v: Feld
+  x:
+  - s: Denna europeiska union har en nyckelroll att spela på den europeiska scenen
+      för att leda den kampen och får inte <v>falla</v> <p>in</p> i ledet bakom dem
+      som ser säkerhet som enda svar på detta skrämmande problem.
+    t: Diese Europäische Union muss in Europa eine Schlüsselrolle in diesem Kampf
+      spielen und darf nicht denjenigen das <a>Feld</a> überlassen, die glauben, dass
+      die Ausweitung der Sicherheitsmaßnahmen als Antwort auf dieses schreckliche
+      Problem ausreicht.
+- c: 1
+  r: 2
+  v: verfallen
+  x:
+  - s: Vi gläder oss också över antagandet av huvudlinjerna av det avgiftssystem som
+      föreslagits som, vilket man också kommenterat, har vissa likheter med ett system
+      utan särskilda avgifter men genom vilket man undviker att <v>falla</v> <p>in</p>
+      i ett system som liknar budgivning på auktion.
+    t: Auch die Annahme des vorgeschlagenen Gebührensystems, welches - wie ebenfalls
+      schon gesagt wurde - dem sondergebührenfreien System sehr nahe kommt, ohne dabei
+      in ein System des Unterbietens zu <a>verfallen</a>, ist im großen und ganzen
+      zu begrüßen.
+- c: 1
+  r: 2
+  v: Rückfall
+  x:
+  - s: Er uppfattning om det öppna samarbetet är att <v>falla</v> <p>in</p> i det
+      institutionella system som domineras av kommissionens tjänstemän.
+    t: Ihre Auffassung von offener Zusammenarbeit ist gleichbedeutend mit einem <a>Rückfall</a>
+      in das von Kommissionsbeamten dominierte institutionelle Schema.
+- c: 1
+  r: 2
+  v: widerstandslos übernehmen
+  x:
+  - s: De förefaller vara rädda för att medlemsstaterna kanske inte <v>faller</v>
+      <p>in</p> i ledet när det gäller denna förfärliga lagstiftning om de pressas
+      av de demokratiska gräsrotsrörelser som redan gett uttryck för sina åsikter
+      i många länder.
+    t: Offensichtlich gibt es die Befürchtung, diese monströsen Rechtsvorschriften
+      könnten angesichts des Drucks der demokratischen Volksbewegung, die sich in
+      den meisten Ländern erhoben hat, möglicherweise nicht <a>widerstandslos</a>
+      <a>übernommen</a> werden.
+- c: 1
+  r: 2
+  v: einfallen
+  x:
+  - s: Det som här i parlamentet för länge sedan är färdigt för beslut skjuts upp
+      i och med att man anför helt egendomliga argument - statistiken, världshälsoorganisationen
+      och vad som än <v>faller</v> oss <p>in</p>.
+    t: Was hier im Hause längst Beschlußlage war, wird verschoben, indem man ganz
+      eigenartige Argumente heranzieht, die Statistik, die WTO und was uns sonst noch
+      so alles <a>einfällt</a>.
+- c: 1
+  r: 2
+  v: sein
+  x:
+  - s: 'Jag sökte efter en liknelse, och då <v>föll</v> det mig <p>in</p>, att man
+      skulle kunna formulera det på följande vis:'
+    t: 'Ich habe vorhin nach einem Bild gesucht, und dann <a>ist</a> mir eingefallen,
+      man könnte es ja so formulieren:'
+- c: 1
+  r: 2
+  v: gehören
+  x:
+  - s: Också böckerna <v>faller</v> <p>in</p> under detta.
+    t: Der Wettbewerb dient dazu, daß die Macht der Monopole gebrochen wird, daß es
+      für Güter und Dienstleistungen verschiedene Anbieter gibt und daß auf diese
+      Art und Weise die Menschen zu günstigen Bedingungen mit diesen Gütern und Dienstleistungen
+      bedient werden, und dazu <a>gehören</a> auch Bücher.
+en:
+- c: 5
+  r: 1
+  v: occur
+  x:
+  - s: allt som jag engagerat mig för har varit så naturligt europeiskt att det aldrig
+      har <v>fallit</v> mig <p>in</p> att betrakta det som sådant.
+    t: everything with which I have always identified myself was so naturally European
+      that it never <a>occurred</a> to me to consider it as such.
+  - s: Hon bjöd in oss till en grekisk vinafton, och jag instämde helt med henne -
+      jag hoppas att jag inte var ensam om det - i att det inte skulle <v>falla</v>
+      någon <p>in</p> att göra om det vin vi bjöds till ren sprit.
+    t: When she invited us to a Greek wine evening, I fully agreed with her - and
+      I hope I was not alone in this - that it would not <a>occur</a> to anyone to
+      make the wine proffered to us there into pure spirit.
+  - s: Det skulle aldrig <v>falla</v> mig <p>in</p> att någon som är så ung som ni
+      redan skulle ha drabbats av en sjukdom som även om den inte drabbat er, drabbar
+      miljontals européer.
+    t: Mr Cohn-Bendit, it would never have <a>occurred</a> to me that someone so young
+      as you should already be affected by a disease which, although it does not affect
+      you, affects millions of Europeans.
+  - s: Dessutom skulle jag inte kunna göra det och det skulle inte heller <v>falla</v>
+      mig <p>in</p> att göra det.
+    t: besides, I would not be able to do so and it would not even <a>occur</a> to
+      me to do so.
+  - s: Trots det skulle det aldrig <v>falla</v> mig <p>in</p> att diskutera eller
+      ge råd i denna fråga i Europaparlamentet.
+    t: Even so, it would never <a>occur</a> to me to debate the matter in the European
+      Parliament and to give advice.
+- c: 1
+  r: 2
+  v: consider
+  x:
+  - s: Det <v>faller</v> dem inte <p>in</p> att det kan finnas andra samstämmigheter
+      än deras byråkratiska samstämmigheter, till exempel demokratisk samstämmighet.
+    t: They do not <a>consider</a> the idea that there could be any other type of
+      consistency than their bureaucratic consistency, for example, democratic consistency.
+- c: 1
+  r: 2
+  v: be
+  x:
+  - s: Också böckerna <v>faller</v> <p>in</p> under detta.
+    t: Competition serves to break the power of monopolies, to ensure a variety of
+      suppliers of goods and services, and thus to provide people with these goods
+      and services under favourable conditions, and books <a>are</a> also amongst
+      these.
+- c: 1
+  r: 2
+  v: occur here
+  x:
+  - s: 'Det andra påpekandet, som <v>faller</v> mig <p>in</p>, är:'
+    t: The second comment that <a>occurs</a> to me <a>here</a> is that we also need
+      some form of monitoring, not merely budgetary monitoring but better monitoring
+      of research.
+- c: 1
+  r: 2
+  v: put up
+  x:
+  - s: Det skulle aldrig <v>falla</v> mig <p>in</p>, så att ni nu begriper det!
+    t: I will not <a>put</a> <a>up</a> with that, make no mistake!
+- c: 1
+  r: 2
+  v: strike
+  x:
+  - s: Föredraganden är känd för att vara en brinnande förespråkare för den så kalla
+      de fria marknaden och det skulle aldrig <v>falla</v> honom <p>in</p> att föreslå
+      finansiellt stöd till arbetstagare som avskedas av samma industri- och finanskoncerner
+      och deras anhang.
+    t: It would never <a>strike</a> Mr <a>Bushill-Matthews</a>, who is known for his
+      fervent support of the so-called free market, to propose financial assistance
+      for workers who have been made redundant by the very same industrial and financial
+      corporations or their counterparts.
+- c: 1
+  r: 2
+  v: welcome
+  x:
+  - s: Vi gläder oss också över antagandet av huvudlinjerna av det avgiftssystem som
+      föreslagits som, vilket man också kommenterat, har vissa likheter med ett system
+      utan särskilda avgifter men genom vilket man undviker att <v>falla</v> <p>in</p>
+      i ett system som liknar budgivning på auktion.
+    t: The fee system proposed, which comes very close to a ’no-special-fee’ system
+      but avoids any downward pressure, is to be <a>welcomed</a> in general terms.
+- c: 1
+  r: 2
+  v: enter
+  x:
+  - s: Men jag vill inte <v>falla</v> <p>in</p> i ett gräl mellan personer, och jag
+      vill undvika den här typen av totalt negativa diskussioner.
+    t: I should not, however, like to <a>enter</a> into personal squabbles, and I
+      think we should refrain from that sort of completely negative discussion.
+- c: 1
+  r: 2
+  v: give
+  x:
+  - s: För den skull får vi inte automatiskt <v>falla</v> <p>in</p> i att frågan brådskar
+      och jag tror att det skulle ha varit att föredra om vi inom ramen för de institutionella
+      och förtroendefulla förbindelser som på ett tydligt sätt har upprättats mellan
+      unionen och Egypten i förväg hade förankrat vår egen uppfattning och våra egna
+      reflektioner kring de åtgärder som ett antal parlamentariker i denna kammare
+      redan har vidtagit.
+    t: However, we must not systematically <a>give</a> way to urgent resolutions and
+      I believe that, in the institutional relationships of confidence which have
+      clearly been established between the European Union and Egypt, it would have
+      been preferable to base our own opinion, our own debate, on the steps that certain
+      Members of Parliament have already taken in this Chamber.
+- c: 1
+  r: 2
+  v: be include
+  x:
+  - s: Det är inte minst bra att Kirkhope har tagit med att allt som ger sken av att
+      vara barnpornografi också skall <v>falla</v> <p>in</p> under denna definition.
+    t: It is particularly good that Mr Kirkhope has also stated that everything that
+      has the appearance of being child pornography shall also <a>be</a> <a>included</a>
+      under this definition.
+es:
+- c: 5
+  r: 1
+  v: ocurrir
+  x:
+  - s: Hon bjöd in oss till en grekisk vinafton, och jag instämde helt med henne -
+      jag hoppas att jag inte var ensam om det - i att det inte skulle <v>falla</v>
+      någon <p>in</p> att göra om det vin vi bjöds till ren sprit.
+    t: Hoy, cuando nos ha invitado a degustar un vino griego, estoy totalmente de
+      acuerdo con ella —y espero que sus Señorías también— en que a nadie se le <a>ocurriría</a>
+      hacer licor con el vino que se nos ha ofrecido.
+  - s: Det skulle inte <v>falla</v> någon <p>in</p>, minst av alla mig, att ifrågasätta
+      nyttan med Nato.
+    t: A nadie se le <a>ocurriría</a>, a mí menos que a nadie, discutir la utilidad
+      de la OTAN.
+  - s: Dessutom skulle jag inte kunna göra det och det skulle inte heller <v>falla</v>
+      mig <p>in</p> att göra det.
+    t: además, no sería capaz ni se me <a>ocurriría</a> nunca hacerlo.
+  - s: Föredraganden är känd för att vara en brinnande förespråkare för den så kalla
+      de fria marknaden och det skulle aldrig <v>falla</v> honom <p>in</p> att föreslå
+      finansiellt stöd till arbetstagare som avskedas av samma industri- och finanskoncerner
+      och deras anhang.
+    t: Nunca se le <a>ocurriría</a> al ponente, conocido por ser un ferviente partidario
+      del mercado llamado libre, proponer una ayuda financiera a favor de los trabajadores
+      despedidos por los mismos grupos industriales y financieros o similares.
+  - s: Trots det skulle det aldrig <v>falla</v> mig <p>in</p> att diskutera eller
+      ge råd i denna fråga i Europaparlamentet.
+    t: Sin embargo, nunca se me <a>ocurriría</a> debatir esa cuestión en el Parlamento
+      Europeo ni dar consejos.
+- c: 4
+  r: 2
+  v: caer
+  x:
+  - s: Jag vill inte <v>falla</v> <p>in</p> i ovanan att tugga om för att bekräfta
+      era uttalanden med en repetition av vad jag sade i början av debatten.
+    t: No quisiera <a>caer</a> en el defecto de la paráfrasis para confirmar sus palabras
+      repitiendo las reflexiones que hice en la apertura de este debate.
+  - s: Vi gläder oss också över antagandet av huvudlinjerna av det avgiftssystem som
+      föreslagits som, vilket man också kommenterat, har vissa likheter med ett system
+      utan särskilda avgifter men genom vilket man undviker att <v>falla</v> <p>in</p>
+      i ett system som liknar budgivning på auktion.
+    t: También nos satisface la aprobación, en líneas generales, del sistema de tasas
+      propuesto, que se aproxima —como se ha dicho también— al sistema libre de tasas
+      especiales pero evitando <a>caer</a> en un sistema de pujas a la baja.
+  - s: Er uppfattning om det öppna samarbetet är att <v>falla</v> <p>in</p> i det
+      institutionella system som domineras av kommissionens tjänstemän.
+    t: La concepción que ustedes tienen de la cooperación abierta es <a>caer</a> en
+      el esquema institucional dominado por los funcionarios de la Comisión.
+  - s: Men jag vill inte <v>falla</v> <p>in</p> i ett gräl mellan personer, och jag
+      vill undvika den här typen av totalt negativa diskussioner.
+    t: Pero no quisiera <a>caer</a> en disputas personales, sino que pretendo evitar
+      este tipo de discusión totalmente negativa.
+- c: 3
+  r: 3
+  v: haber
+  x:
+  - s: Har det <v>fallit</v> er <p>in</p> att till exempel fråga vad kostnaden för
+      frånvaro är i Europa?
+    t: ¿Se les <a>ha</a> ocurrido pedir, por ejemplo, el coste del absentismo laboral
+      en Europa?
+  - s: 'Jag sökte efter en liknelse, och då <v>föll</v> det mig <p>in</p>, att man
+      skulle kunna formulera det på följande vis:'
+    t: 'He estado buscando hace un rato una imagen y se me <a>ha</a> ocurrido que
+      esto se podría formular así:'
+  - s: Om vi inte tar upp listan i resolutionen i dag, så är det bara på grund av
+      att alltför många ytterligare länder har <v>fallit</v> oss <p>in</p>, av vilka
+      vi inte kan ta med allihop.
+    t: Si no incorporamos esta lista a la resolución de hoy es porque se nos <a>han</a>
+      ocurrido otros muchos países más y no podemos mencionarlos todos.
+- c: 1
+  r: 4
+  v: adoptar
+  x:
+  - s: Jag tycker att dagens debatt har <v>fallit</v> <p>in</p> i ett mönster där
+      man i första hand inriktar sig på att bota de symptom som är följden av den
+      allvarliga situationen i Georgien.
+    t: Señora Presidenta, creo que este debate ha <a>adoptado</a> la pauta de centrarse
+      principalmente en curar los síntomas que han provocado la grave situación en
+      Georgia.
+- c: 1
+  r: 4
+  v: donde
+  x:
+  - s: Det ökade våldet, tillsammans med det dödande och sårande av människor i Sydossetien
+      förra sommaren som fördömts, visar hur bräckligt Georgien, liksom hela södra
+      Kaukasien, förblir och hur stor risk det är för att regionen <v>faller</v> <p>in</p>
+      i en beväpnad konflikt.
+    t: Una región <a>donde</a> distintas culturas y grupos étnicos, cristianos y musulmanes,
+      respiran el mismo aire, con todas las dificultades que eso conlleva.
+- c: 1
+  r: 4
+  v: tema
+  x:
+  - s: Men, som så ofta sker, använder vissa kolleger problemet med könsstympade flickor
+      och kvinnor för att främja abort genom att <v>falla</v> <p>in</p> i mantrat
+      ”de sexuella rättigheterna och rätten till fortplantning” i betänkandet.
+    t: Sin embargo, como sucede habitualmente, mis colegas utilizan la difícil situación
+      de las niñas y mujeres mutiladas para fomentar una vez más el <a>tema</a> del
+      aborto, deslizando en este informe el mantra de «los derechos sexuales y reproductivos».
+- c: 1
+  r: 4
+  v: vencer
+  x:
+  - s: För den skull får vi inte automatiskt <v>falla</v> <p>in</p> i att frågan brådskar
+      och jag tror att det skulle ha varit att föredra om vi inom ramen för de institutionella
+      och förtroendefulla förbindelser som på ett tydligt sätt har upprättats mellan
+      unionen och Egypten i förväg hade förankrat vår egen uppfattning och våra egna
+      reflektioner kring de åtgärder som ett antal parlamentariker i denna kammare
+      redan har vidtagit.
+    t: Sin embargo, no debemos dejarnos <a>vencer</a> sistemáticamente por la urgencia,
+      y creo que, dentro de las relaciones institucionales de confianza claramente
+      establecidas entre la Unión y Egipto, habría sido preferible consolidar previamente
+      nuestra propia opinión, nuestra propia reflexión sobre las gestiones que un
+      cierto número de parlamentarios ya ha llevado a cabo en esta Asamblea.
+- c: 1
+  r: 4
+  v: recaer
+  x:
+  - s: Det har som mål att minska spridningen av hiv/aids i en åldersgrupp som är
+      särskilt svårt drabbad och visar tecken på att <v>falla</v> <p>in</p> i gamla
+      beteendemönster, såväl som inom den högre utbildningen i allmänhet.
+    t: Este programa es la continuación de un proyecto financiado por el programa
+      del Departamento de Desarrollo Internacional del Reino Unido (DfiD) e Irlanda
+      y está destinado a reducir la propagación del VIH/sida en un grupo de edad especialmente
+      afectado y muestra signos de <a>recaer</a> en antiguas pautas de comportamiento,
+      así como en la comunidad de la enseñanza superior en general.
+- c: 1
+  r: 4
+  v: implicar
+  x:
+  - s: Nederländarna och även fransmännen måste således <v>falla</v> <p>in</p> i takten
+      i en framtida process på grundval av ett dokument som en överväldigande majoritet
+      av medlemsstaterna har sagt ja till.
+    t: No es aceptable que todos debamos debatir el futuro de Europa, mientras que
+      los partidarios del «no» piensan que no tiene nada que ver con ellos, así que
+      también los neerlandeses y los franceses tienen que <a>implicarse</a> en un
+      proceso futuro sobre la base de un documento al que la gran mayoría de los Estados
+      miembros han dicho «sí».
+- c: 1
+  r: 4
+  v: incluir
+  x:
+  - s: Det är inte minst bra att Kirkhope har tagit med att allt som ger sken av att
+      vara barnpornografi också skall <v>falla</v> <p>in</p> under denna definition.
+    t: Resulta especialmente útil que Kirkhope haya <a>incluido</a> en esta definición
+      todo aquello que tenga el aspecto de pornografía infantil.
+- c: 1
+  r: 4
+  v: mezclar
+  x:
+  - s: Naturligtvis <v>faller</v> det oss inte <p>in</p> att blanda ihop Tjetjenienfrågan
+      med mordanklagelser, som vi har hört här i dag, om att general Lebev har mördats
+      av den ryska regeringen för att ha ställt sig positiv till vissa av Tjetjeniens
+      ståndpunkter.
+    t: Desde luego, no se nos ocurre <a>mezclar</a> el tema de Chechenia con acusaciones
+      de asesinato, como las que hemos escuchado hoy aquí, como la que decía que el
+      general Lebev ha sido asesinado por el Gobierno ruso por haber sido partidario
+      de ciertas posiciones de Chechenia.
+- c: 1
+  r: 4
+  v: presentar
+  x:
+  - s: Alla de ändringsförslag som hon har satt upp på dagordningen <v>faller</v>
+      <p>in</p> i två kategorier.
+    t: 'Se pueden clasificar las enmiendas que ha <a>presentado</a> en dos categorías:'
+fr:
+- c: 3
+  r: 1
+  v: venir
+  x:
+  - s: Det skulle inte <v>falla</v> någon av er <p>in</p> att skicka en Airbus från
+      EU på service till en Tupolev-verkstad.
+    t: Il ne vous <a>viendrait</a> pas à l’idée d’envoyer un Airbus européen en maintenance
+      dans un atelier de Tupolev.
+  - s: Dessutom skulle jag inte kunna göra det och det skulle inte heller <v>falla</v>
+      mig <p>in</p> att göra det.
+    t: d’ailleurs j’en serais bien incapable et ça ne me <a>viendrait</a> même pas
+      à l’idée.
+  - s: Föredraganden är känd för att vara en brinnande förespråkare för den så kalla
+      de fria marknaden och det skulle aldrig <v>falla</v> honom <p>in</p> att föreslå
+      finansiellt stöd till arbetstagare som avskedas av samma industri- och finanskoncerner
+      och deras anhang.
+    t: Il ne <a>viendrait</a> jamais à l’idée du rapporteur, connu pour être un fervent
+      partisan du marché dit libre, de proposer une assistance financière en faveur
+      des travailleurs licenciés par les mêmes groupes industriels et financiers ou
+      leurs semblables.
+- c: 2
+  r: 2
+  v: idée
+  x:
+  - s: Hon bjöd in oss till en grekisk vinafton, och jag instämde helt med henne -
+      jag hoppas att jag inte var ensam om det - i att det inte skulle <v>falla</v>
+      någon <p>in</p> att göra om det vin vi bjöds till ren sprit.
+    t: Lorsqu’elle nous a invités à une soirée de dégustation de vins grecs, je pensais
+      comme elle - et j’espère ne pas avoir été le seul - que personne n’aurait l’<a>idée</a>
+      de transformer le vin offert en alcool pur.
+  - s: Det skulle inte <v>falla</v> någon <p>in</p>, minst av alla mig, att ifrågasätta
+      nyttan med Nato.
+    t: Naturellement, il y a l’OTAN et il ne vient à l’<a>idée</a> de personne, et
+      certainement pas à moi, de contester l’utilité de l’OTAN.
+- c: 1
+  r: 3
+  v: basculer
+  x:
+  - s: Jag tror att det är viktigt att erinra om att det inte är förvånande, om än
+      mycket beklagligt, att en del av oppositionen <v>faller</v> <p>in</p> i upproret
+      och allierar sig med RUF, i detta land som inte respekterar de mest grundläggande
+      demokratiska principer och där all opposition är belagd med munkavle.
+    t: Je crois qu’il est important de rappeler que, dans ce pays qui ne respecte
+      pas les principes démocratiques les plus élémentaires et où toute opposition
+      est muselée, il n’est pas étonnant, même si c’est très regrettable, qu’une partie
+      de l’opposition au régime <a>bascule</a> dans la rébellion et fasse alliance
+      avec le FRU.
+- c: 1
+  r: 3
+  v: diviser
+  x:
+  - s: Alla de ändringsförslag som hon har satt upp på dagordningen <v>faller</v>
+      <p>in</p> i två kategorier.
+    t: 'Les amendements qu’elle a présentés peuvent être <a>divisés</a> en deux catégories
+      :'
+- c: 1
+  r: 3
+  v: faux
+  x:
+  - s: Jag tycker att dagens debatt har <v>fallit</v> <p>in</p> i ett mönster där
+      man i första hand inriktar sig på att bota de symptom som är följden av den
+      allvarliga situationen i Georgien.
+    t: Madame la Présidente, à mes yeux, le présent débat fait <a>fausse</a> route
+      en se focalisant essentiellement sur les remèdes aux symptômes qui résultent
+      de la grave situation de la Géorgie.
+- c: 1
+  r: 3
+  v: glisser
+  x:
+  - s: Men, som så ofta sker, använder vissa kolleger problemet med könsstympade flickor
+      och kvinnor för att främja abort genom att <v>falla</v> <p>in</p> i mantrat
+      ”de sexuella rättigheterna och rätten till fortplantning” i betänkandet.
+    t: Cependant, comme d’habitude, mes collègues utilisent le sort tragique des fillettes
+      et des femmes mutilées pour promouvoir une fois encore l’avortement en <a>glissant</a>
+      le mantra des «droits sexuels et génésiques» dans ce rapport.
+- c: 1
+  r: 3
+  v: introduire
+  x:
+  - s: Stormakten, Förenta staterna, lämnar dem inget annat val än att antingen <v>falla</v>
+      <p>in</p> i ledet bakom Washington eller ta sin tillflykt till maktlöst surande.
+    t: <a>Introduire</a> une clause de solidarité en matière de sécurité européenne
+      ou établir des quartiers généraux séparés pour la planification et la gestion
+      risque de faire inutilement double emploi avec l’OTAN.
+- c: 1
+  r: 3
+  v: venir esprit
+  x:
+  - s: Trots det skulle det aldrig <v>falla</v> mig <p>in</p> att diskutera eller
+      ge råd i denna fråga i Europaparlamentet.
+    t: Pourtant, il ne me <a>viendrait</a> jamais à l’<a>esprit</a> d’aborder cette
+      question au Parlement européen et de donner des conseils.
+- c: 1
+  r: 3
+  v: laisser tomber
+  x:
+  - s: Det skulle aldrig <v>falla</v> mig <p>in</p>, så att ni nu begriper det!
+    t: Je ne <a>laisserai</a> pas <a>tomber</a> pour que vous compreniez bien !
+- c: 1
+  r: 3
+  v: retomber
+  x:
+  - s: Er uppfattning om det öppna samarbetet är att <v>falla</v> <p>in</p> i det
+      institutionella system som domineras av kommissionens tjänstemän.
+    t: Votre conception de la coopération ouverte c’est de <a>retomber</a> dans le
+      schéma institutionnel dominé par les fonctionnaires de la Commission.
+- c: 1
+  r: 3
+  v: oublier
+  x:
+  - s: Finns det någon bland oss som inte tror att utvidgningsfasen med de tio länder
+      som skall ansluta sig till EU nästa år är det främsta skälet till att åtminstone
+      några av dem inte <v>faller</v> <p>in</p> i diktatur eller kaos, i en situation
+      som den som Georgien nästan hamnade i?
+    t: Ensuite, après la Première Guerre mondiale, la Géorgie a connu une brève période
+      d’indépendance durant ce que nous pourrions appeler le «printemps caucasien»
+      - un point qui est généralement <a>oublié</a>.
+- c: 1
+  r: 3
+  v: entrer
+  x:
+  - s: Det är inte minst bra att Kirkhope har tagit med att allt som ger sken av att
+      vara barnpornografi också skall <v>falla</v> <p>in</p> under denna definition.
+    t: Je considère en particulier comme bienvenu le fait de faire <a>entrer</a> dans
+      cette définition tout ce qui ressemble à de la pédopornographie.
+it:
+- c: 4
+  r: 1
+  v: venire menta
+  x:
+  - s: 'Det andra påpekandet, som <v>faller</v> mig <p>in</p>, är:'
+    t: 'La seconda osservazione che mi <a>viene</a> in <a>mente</a> è:'
+  - s: allt som jag engagerat mig för har varit så naturligt europeiskt att det aldrig
+      har <v>fallit</v> mig <p>in</p> att betrakta det som sådant.
+    t: tutto ciò a cui mi sono avvicinato nella mia vita è sempre risultato così naturalmente
+      europeo, che non mi è mai <a>venuto</a> in <a>mente</a> di considerarlo come
+      tale, né ho mai ritenuto necessario definirlo in questo modo, associando il
+      mio pensiero al nome di un continente.
+  - s: Hon bjöd in oss till en grekisk vinafton, och jag instämde helt med henne -
+      jag hoppas att jag inte var ensam om det - i att det inte skulle <v>falla</v>
+      någon <p>in</p> att göra om det vin vi bjöds till ren sprit.
+    t: Quando ci ha invitati a bere il vino greco questa sera, mi sono trovato in
+      pieno accordo con lei - e spero di non essere stato l’unico - sul fatto che
+      a nessuno <a>verrebbe</a> in <a>mente</a> di trasformare il vino offertoci in
+      tale occasione in puro spirito.
+  - s: Föredraganden är känd för att vara en brinnande förespråkare för den så kalla
+      de fria marknaden och det skulle aldrig <v>falla</v> honom <p>in</p> att föreslå
+      finansiellt stöd till arbetstagare som avskedas av samma industri- och finanskoncerner
+      och deras anhang.
+    t: Al relatore, noto per essere fervente fautore del mercato detto libero, non
+      <a>verrebbe</a> mai in <a>mente</a> di proporre un’assistenza finanziaria a
+      favore dei lavoratori licenziati da quegli stessi gruppi industriali e finanziari
+      o loro simili.
+- c: 3
+  r: 2
+  v: cadere
+  x:
+  - s: Jag vill inte <v>falla</v> <p>in</p> i ovanan att tugga om för att bekräfta
+      era uttalanden med en repetition av vad jag sade i början av debatten.
+    t: Non vorrei <a>cadere</a> nei tranelli della parafrasi per confermare i vostri
+      propositi ripetendo le riflessioni che ho già fatto in apertura di discussione.
+  - s: Vi gläder oss också över antagandet av huvudlinjerna av det avgiftssystem som
+      föreslagits som, vilket man också kommenterat, har vissa likheter med ett system
+      utan särskilda avgifter men genom vilket man undviker att <v>falla</v> <p>in</p>
+      i ett system som liknar budgivning på auktion.
+    t: In linea di principio esprimiamo, inoltre, soddisfazione per il sistema fiscale
+      proposto, che si avvicina, come è già stato sottolineato, al sistema libero
+      di tasse speciali evitando però di <a>cadere</a> in un sistema di corsa al ribasso.
+  - s: När kraven på säkerhet kväver friheten håller vi på att förråda våra värden
+      och <v>falla</v> <p>in</p> i tyranniet.
+    t: Quando le esigenze di sicurezza soffocano le libertà significa che stiamo tradendo
+      i nostri valori e <a>cadendo</a> nella tirannia.
+- c: 1
+  r: 3
+  v: finire
+  x:
+  - s: Jag tycker att dagens debatt har <v>fallit</v> <p>in</p> i ett mönster där
+      man i första hand inriktar sig på att bota de symptom som är följden av den
+      allvarliga situationen i Georgien.
+    t: ritengo che la presenta discussione abbia <a>finito</a> con il concentrarsi
+      essenzialmente sulla cura dei sintomi determinati dalla grave situazione in
+      Georgia.
+- c: 1
+  r: 3
+  v: suddividere
+  x:
+  - s: Alla de ändringsförslag som hon har satt upp på dagordningen <v>faller</v>
+      <p>in</p> i två kategorier.
+    t: 'Gli emendamenti che ha presentato possono essere <a>suddivisi</a> in due categorie:'
+- c: 1
+  r: 3
+  v: sconfinare
+  x:
+  - s: Det ökade våldet, tillsammans med det dödande och sårande av människor i Sydossetien
+      förra sommaren som fördömts, visar hur bräckligt Georgien, liksom hela södra
+      Kaukasien, förblir och hur stor risk det är för att regionen <v>faller</v> <p>in</p>
+      i en beväpnad konflikt.
+    t: L’ di violenza, unitamente alle uccisioni e ai ferimenti condannati l’estate
+      scorsa nell’Ossezia meridionale, dimostrano quanto la situazione in Georgia,
+      come nell’intera regione del Caucaso meridionale, resti fragile e rischi di
+      <a>sconfinare</a> nel conflitto armato.
+- c: 1
+  r: 3
+  v: rientrare
+  x:
+  - s: Det är inte minst bra att Kirkhope har tagit med att allt som ger sken av att
+      vara barnpornografi också skall <v>falla</v> <p>in</p> under denna definition.
+    t: Ed è altrettanto un bene che l’onorevole Kirkhope abbia accolto l’idea che
+      in quella definizione debba <a>rientrare</a> anche tutto ciò che dà l’impressione
+      di pornografia infantile.
+- c: 1
+  r: 3
+  v: non
+  x:
+  - s: Det <v>faller</v> dem inte <p>in</p> att det kan finnas andra samstämmigheter
+      än deras byråkratiska samstämmigheter, till exempel demokratisk samstämmighet.
+    t: <a>Non</a> li tocca neppure l’idea che possano esistere altre coerenze oltre
+      alle loro coerenze burocratiche, come la coerenza democratica per esempio.
+- c: 1
+  r: 3
+  v: menta
+  x:
+  - s: När jag skrev detta betänkande <v>föll</v> det mig exempelvis <p>in</p> att
+      fråga hur förenliga de olika sätten att fastställa omfattningen av fiskerättigheter
+      är.
+    t: Durante la stesura della relazione, per esempio, mi è venuto in <a>mente</a>
+      di chiedere semplicemente quanto fossero reciprocamente compatibili i diversi
+      modi di definire la portata dei diritti di pesca.
+- c: 1
+  r: 3
+  v: fare parte
+  x:
+  - s: Också böckerna <v>faller</v> <p>in</p> under detta.
+    t: Essa serve a spezzare la potenza dei monopoli, a far sì che esistano offerte
+      diverse di beni e servizi e che in questo modo si creino condizioni favorevoli
+      ai cittadini per l’offerta di questi beni e servizi, realtà di cui anche i libri
+      <a>fanno</a> <a>parte</a>.
+- c: 1
+  r: 3
+  v: esimere
+  x:
+  - s: Men jag vill inte <v>falla</v> <p>in</p> i ett gräl mellan personer, och jag
+      vill undvika den här typen av totalt negativa diskussioner.
+    t: Ma vorrei <a>esimermi</a> da sterili polemiche e commenti solo negativi.
+- c: 1
+  r: 3
+  v: ricadere
+  x:
+  - s: Er uppfattning om det öppna samarbetet är att <v>falla</v> <p>in</p> i det
+      institutionella system som domineras av kommissionens tjänstemän.
+    t: La vostra idea di cooperazione aperta è quella che consiste nel <a>ricadere</a>
+      nello schema istituzionale dominato dai funzionari della Commissione.
+pt:
+- c: 7
+  r: 1
+  v: ocorrer
+  x:
+  - s: Har det <v>fallit</v> er <p>in</p> att till exempel fråga vad kostnaden för
+      frånvaro är i Europa?
+    t: Já vos <a>ocorreu</a> perguntar, por exemplo, qual é o custo do absentismo
+      na Europa?
+  - s: allt som jag engagerat mig för har varit så naturligt europeiskt att det aldrig
+      har <v>fallit</v> mig <p>in</p> att betrakta det som sådant.
+    t: tudo aquilo em que sempre me empenhei era tão naturalmente europeu que nunca
+      me <a>ocorreu</a> <a>considerálo</a> como tal.
+  - s: Det som här i parlamentet för länge sedan är färdigt för beslut skjuts upp
+      i och med att man anför helt egendomliga argument - statistiken, världshälsoorganisationen
+      och vad som än <v>faller</v> oss <p>in</p>.
+    t: Uma decisão já há muito aprovada pelo Parlamento foi adiada, invocando-se argumentos
+      muito peculiares, como as estatísticas, a OMC ou o que mais nos possa <a>ocorrer</a>.
+  - s: Om vi inte tar upp listan i resolutionen i dag, så är det bara på grund av
+      att alltför många ytterligare länder har <v>fallit</v> oss <p>in</p>, av vilka
+      vi inte kan ta med allihop.
+    t: Se não incorporamos esta lista na resolução de hoje é porque infelizmente nos
+      <a>ocorreram</a> ainda muitos outros países e não poderíamos enumerar todos.
+  - s: Det skulle inte <v>falla</v> någon <p>in</p>, minst av alla mig, att ifrågasätta
+      nyttan med Nato.
+    t: Não <a>ocorreria</a> a ninguém, muito menos a mim, pôr em causa a utilidade
+      da NATO.
+  - s: Det skulle aldrig <v>falla</v> mig <p>in</p> att någon som är så ung som ni
+      redan skulle ha drabbats av en sjukdom som även om den inte drabbat er, drabbar
+      miljontals européer.
+    t: Senhor Deputado Cohn-Bendit, nunca me teria <a>ocorrido</a> que alguém tão
+      jovem como o senhor pudesse já sofrer de uma doença que, apesar de não o afectar
+      a si, afecta milhões de europeus.
+  - s: Dessutom skulle jag inte kunna göra det och det skulle inte heller <v>falla</v>
+      mig <p>in</p> att göra det.
+    t: além disso, não poderia fazê-lo, nem tal coisa me <a>ocorreria</a>.
+  - s: Trots det skulle det aldrig <v>falla</v> mig <p>in</p> att diskutera eller
+      ge råd i denna fråga i Europaparlamentet.
+    t: Ainda assim, nunca me <a>ocorreria</a> debater a questão no Parlamento Europeu
+      e emitir um parecer.
+- c: 6
+  r: 2
+  v: cair
+  x:
+  - s: Det ökade våldet, tillsammans med det dödande och sårande av människor i Sydossetien
+      förra sommaren som fördömts, visar hur bräckligt Georgien, liksom hela södra
+      Kaukasien, förblir och hur stor risk det är för att regionen <v>faller</v> <p>in</p>
+      i en beväpnad konflikt.
+    t: Ora, a escalada de violência, as mortes e os feridos chorados no Verão passado
+      na Ossétia do Sul mostram o quanto a Geórgia, bem como toda aquela região do
+      Cáucaso do Sul, se mantém frágil e se arrisca a <a>cair</a> num conflito armado.
+  - s: Jag vill inte <v>falla</v> <p>in</p> i ovanan att tugga om för att bekräfta
+      era uttalanden med en repetition av vad jag sade i början av debatten.
+    t: Não gostaria de <a>cair</a> nos trejeitos da paráfrase para confirmar as vossas
+      palavras, o que sucederia se repetisse as reflexões que fiz aquando da abertura
+      deste debate.
+  - s: Zimbabwe är ett land som har <v>fallit</v> <p>in</p> i ett ”svart hål”.
+    t: O Zimbabué é um país que <a>caiu</a> num «buraco negro».
+  - s: Vi gläder oss också över antagandet av huvudlinjerna av det avgiftssystem som
+      föreslagits som, vilket man också kommenterat, har vissa likheter med ett system
+      utan särskilda avgifter men genom vilket man undviker att <v>falla</v> <p>in</p>
+      i ett system som liknar budgivning på auktion.
+    t: Consideramos também positivo, em linhas gerais, o sistema de taxas proposto,
+      que se aproxima - como também já foi dito - de um sistema isento de taxas especiais,
+      mas evitando <a>cair</a> num sistema de licitações em baixa.
+  - s: Men jag vill inte <v>falla</v> <p>in</p> i ett gräl mellan personer, och jag
+      vill undvika den här typen av totalt negativa diskussioner.
+    t: Mas não gostaria de <a>cair</a> nas querelas pessoais, evitando esse tipo de
+      discussão totalmente negativa.
+  - s: När kraven på säkerhet kväver friheten håller vi på att förråda våra värden
+      och <v>falla</v> <p>in</p> i tyranniet.
+    t: Quando as exigências da segurança sufocam as liberdades estamos a trair os
+      nossos valores e a <a>cair</a> na tirania.
+- c: 1
+  r: 3
+  v: ocorrer
+  x:
+  - s: Har det <v>fallit</v> er <p>in</p> att till exempel fråga vad kostnaden för
+      frånvaro är i Europa?
+    t: Já vos <a>ocorreu</a> perguntar, por exemplo, qual é o custo do absentismo
+      na Europa?
+  - s: allt som jag engagerat mig för har varit så naturligt europeiskt att det aldrig
+      har <v>fallit</v> mig <p>in</p> att betrakta det som sådant.
+    t: tudo aquilo em que sempre me empenhei era tão naturalmente europeu que nunca
+      me <a>ocorreu</a> <a>considerálo</a> como tal.
+  - s: Det som här i parlamentet för länge sedan är färdigt för beslut skjuts upp
+      i och med att man anför helt egendomliga argument - statistiken, världshälsoorganisationen
+      och vad som än <v>faller</v> oss <p>in</p>.
+    t: Uma decisão já há muito aprovada pelo Parlamento foi adiada, invocando-se argumentos
+      muito peculiares, como as estatísticas, a OMC ou o que mais nos possa <a>ocorrer</a>.
+  - s: Om vi inte tar upp listan i resolutionen i dag, så är det bara på grund av
+      att alltför många ytterligare länder har <v>fallit</v> oss <p>in</p>, av vilka
+      vi inte kan ta med allihop.
+    t: Se não incorporamos esta lista na resolução de hoje é porque infelizmente nos
+      <a>ocorreram</a> ainda muitos outros países e não poderíamos enumerar todos.
+  - s: Det skulle inte <v>falla</v> någon <p>in</p>, minst av alla mig, att ifrågasätta
+      nyttan med Nato.
+    t: Não <a>ocorreria</a> a ninguém, muito menos a mim, pôr em causa a utilidade
+      da NATO.
+  - s: Det skulle aldrig <v>falla</v> mig <p>in</p> att någon som är så ung som ni
+      redan skulle ha drabbats av en sjukdom som även om den inte drabbat er, drabbar
+      miljontals européer.
+    t: Senhor Deputado Cohn-Bendit, nunca me teria <a>ocorrido</a> que alguém tão
+      jovem como o senhor pudesse já sofrer de uma doença que, apesar de não o afectar
+      a si, afecta milhões de europeus.
+  - s: Dessutom skulle jag inte kunna göra det och det skulle inte heller <v>falla</v>
+      mig <p>in</p> att göra det.
+    t: além disso, não poderia fazê-lo, nem tal coisa me <a>ocorreria</a>.
+  - s: Trots det skulle det aldrig <v>falla</v> mig <p>in</p> att diskutera eller
+      ge råd i denna fråga i Europaparlamentet.
+    t: Ainda assim, nunca me <a>ocorreria</a> debater a questão no Parlamento Europeu
+      e emitir um parecer.
+- c: 1
+  r: 3
+  v: ser englobar
+  x:
+  - s: Det är inte minst bra att Kirkhope har tagit med att allt som ger sken av att
+      vara barnpornografi också skall <v>falla</v> <p>in</p> under denna definition.
+    t: E não é menos importante o facto de ter especificado que tudo aquilo que dê
+      a impressão de ser pornografia infantil deve <a>ser</a> <a>englobado</a> nessa
+      definição.
+- c: 1
+  r: 3
+  v: tolerar
+  x:
+  - s: Det skulle aldrig <v>falla</v> mig <p>in</p>, så att ni nu begriper det!
+    t: Não <a>tolero</a> isso, para que compreenda bem o que estou a dizer!
+- c: 1
+  r: 3
+  v: até
+  x:
+  - s: När jag skrev detta betänkande <v>föll</v> det mig exempelvis <p>in</p> att
+      fråga hur förenliga de olika sätten att fastställa omfattningen av fiskerättigheter
+      är.
+    t: Enquanto escrevia o relatório, por exemplo, ocorreu-me perguntar <a>até</a>
+      que ponto são compatíveis umas com as outras as diferentes formas de definir
+      a dimensão do direito de pescar.
+- c: 1
+  r: 3
+  v: lembrar
+  x:
+  - s: 'Jag sökte efter en liknelse, och då <v>föll</v> det mig <p>in</p>, att man
+      skulle kunna formulera det på följande vis:'
+    t: 'Estive a tentar encontrar uma imagem e só me <a>lembrei</a> da seguinte formulação:'
+- c: 1
+  r: 3
+  v: centrar
+  x:
+  - s: Jag tycker att dagens debatt har <v>fallit</v> <p>in</p> i ett mönster där
+      man i första hand inriktar sig på att bota de symptom som är följden av den
+      allvarliga situationen i Georgien.
+    t: Senhora Presidente, creio que o actual debate se tem <a>centrado</a> sobretudo
+      na cura dos sintomas decorrentes da grave situação vivida na Geórgia.
+- c: 1
+  r: 3
+  v: causa
+  x:
+  - s: Men, som så ofta sker, använder vissa kolleger problemet med könsstympade flickor
+      och kvinnor för att främja abort genom att <v>falla</v> <p>in</p> i mantrat
+      ”de sexuella rättigheterna och rätten till fortplantning” i betänkandet.
+    t: Contudo, como habitualmente acontece, os colegas servem-se da situação dramática
+      das meninas e mulheres mutiladas para, uma vez mais, promover a <a>causa</a>
+      do aborto, inserindo no presente relatório a máxima dos «direitos sexuais e
+      reprodutivos».
+- c: 1
+  r: 3
+  v: integrar
+  x:
+  - s: Nederländarna och även fransmännen måste således <v>falla</v> <p>in</p> i takten
+      i en framtida process på grundval av ett dokument som en överväldigande majoritet
+      av medlemsstaterna har sagt ja till.
+    t: Os Países Baixos e a França devem igualmente <a>integrar</a>-se num futuro
+      processo com base num texto que a maioria dos Estados-Membros aprovou.
+- c: 1
+  r: 3
+  v: estar incluir
+  x:
+  - s: Också böckerna <v>faller</v> <p>in</p> under detta.
+    t: A concorrência destina-se a reduzir o poder dos monopólios, por forma a existir
+      uma oferta diversificada de bens e serviços e para que, desta forma, as pessoas
+      tenham acesso a esses bens e serviços a preços mais favoráveis, no que <a>estão</a>
+      <a>incluídos</a> os livros.
+- c: 1
+  r: 3
+  v: dividir
+  x:
+  - s: Alla de ändringsförslag som hon har satt upp på dagordningen <v>faller</v>
+      <p>in</p> i två kategorier.
+    t: Todas as alterações apresentadas pela relatora se <a>dividem</a> em duas categorias.

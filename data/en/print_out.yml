@@ -1,0 +1,75 @@
+---
+de:
+- c: 2
+  r: 1
+  v: ausdrucken
+  x:
+  - s: In my opinion, we should have this material only on the Internet and put a
+      stop to <v>printing</v> it <p>out</p>.
+    t: Meiner Meinung nach sollten wir dieses Material nur ins Internet stellen und
+      damit aufhören, es <a>auszudrucken</a>.
+  - s: all this confusion would have been quite unnecessary if the parliamentary administration
+      - after producing the record and noting that contrary to the result given, only
+      272 votes against were <v>printed</v> <p>out</p> - had detected the error before
+      this record was published.
+    t: Diese ganze Aufregung wäre völlig überflüssig gewesen, wenn die Parlamentsverwaltung
+      nach dem Erstellen dieser Liste und der Feststellung, dass anders als beim verkündeten
+      Ergebnis nur 272 Nein-Stimmen <a>ausgedruckt</a> waren, den Fehler ermittelt
+      hätte, bevor diese Liste publiziert wurde.
+es:
+- c: 1
+  r: 1
+  v: pronunciado
+  x:
+  - s: all this confusion would have been quite unnecessary if the parliamentary administration
+      - after producing the record and noting that contrary to the result given, only
+      272 votes against were <v>printed</v> <p>out</p> - had detected the error before
+      this record was published.
+    t: toda esta agitación habría sido totalmente innecesaria si la administración
+      del Parlamento, tras la elaboración de esta lista y la constatación de que,
+      al contrario que en el resultado anunciado, sólo se habían <a>pronunciado</a>
+      272 votos negativos, hubiese detectado el error antes de publicar esta lista.
+fr:
+- c: 1
+  r: 1
+  v: imprimer
+  x:
+  - s: In my opinion, we should have this material only on the Internet and put a
+      stop to <v>printing</v> it <p>out</p>.
+    t: Je pense que nous devrions disposer de ces documents sur l’internet et qu’ils
+      ne devraient plus être <a>imprimés</a>.
+it:
+- c: 2
+  r: 1
+  v: stampare
+  x:
+  - s: In my opinion, we should have this material only on the Internet and put a
+      stop to <v>printing</v> it <p>out</p>.
+    t: A mio avviso, dovremmo ricevere questo materiale solo su Internet e smettere
+      di <a>stamparlo</a>.
+  - s: all this confusion would have been quite unnecessary if the parliamentary administration
+      - after producing the record and noting that contrary to the result given, only
+      272 votes against were <v>printed</v> <p>out</p> - had detected the error before
+      this record was published.
+    t: tutta questa agitazione si sarebbe potuta evitare se i servizi del Parlamento,
+      dopo la redazione della lista e dopo aver constatato che, diversamente dal risultato
+      annunciato, erano stati <a>stampati</a> solo 272 voti contrari, avesse reso
+      noto l’errore prima che la lista venisse pubblicata.
+pt:
+- c: 1
+  r: 1
+  v: impressão
+  x:
+  - s: In my opinion, we should have this material only on the Internet and put a
+      stop to <v>printing</v> it <p>out</p>.
+    t: Na minha opinião, este material deveria estar disponível apenas na Internet
+      e deveríamos acabar com a sua <a>impressão</a>.
+sv:
+- c: 1
+  r: 1
+  v: trycka
+  x:
+  - s: In my opinion, we should have this material only on the Internet and put a
+      stop to <v>printing</v> it <p>out</p>.
+    t: Enligt min åsikt bör vi enbart ha tillgång till detta material på Internet
+      och sätta stopp för att det <a>trycks</a>.

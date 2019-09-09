@@ -1,0 +1,364 @@
+---
+de:
+- c: 2
+  r: 1
+  v: halten
+  x:
+  - s: In spite of that, I am pleased that we nonetheless arrived at some sort of
+      milestone, or something to grasp and <v>hold</v> <p>on</p> to.
+    t: Dennoch bin ich froh darüber, dass wir eine Art Grenzmarke erreicht haben,
+      etwas das greifbar ist und woran wir uns <a>halten</a> können.
+  - s: On the other hand, Russia is <v>holding</v> <p>on</p> tightly to its regional
+      unity, which is something the international community has also given its clear
+      support to.
+    t: Auf der anderen Seite <a>hält</a> Russland unbeirrt an seiner territorialen
+      Integrität fest, was auch von der internationalen Gemeinschaft eindeutig unterstützt
+      wird.
+- c: 1
+  r: 2
+  v: behalten
+  x:
+  - s: The banks of Central Europe, hard hit by the crisis, were only too pleased
+      to ’<v>hold</v> <p>on</p> to’ these funds.
+    t: Die von der Krise gebeutelten Banken Mitteleuropas haben diese Mittel mit dem
+      größten Vergnügen „<a>behalten</a>“.
+- c: 1
+  r: 2
+  v: Volksabstimmung
+  x:
+  - s: Anything else would also, of course, be objectionable, unacceptable and impossible
+      for the politicians in the new Member States to <v>hold</v> referendums <p>on</p>.
+    t: So ist es, und alles andere wäre ja auch kritikwürdig, unannehmbar und könnte
+      von den Politikern der neuen Mitgliedstaaten unmöglich zum Gegenstand einer
+      <a>Volksabstimmung</a> gemacht werden.
+- c: 1
+  r: 2
+  v: Abhaltung
+  x:
+  - s: Mr President, I am grateful to Parliament for having had the initiative to
+      <v>hold</v> this debate <p>on</p>, it seems to me, one of the most important,
+      most relevant aspects from the democratic point of view, on the development
+      of the European Union and of Europeanism amongst the European public.
+    t: Herr Präsident, ich bin dem Parlament dankbar, dass es die Initiative zur <a>Abhaltung</a>
+      dieser Debatte ergriffen hat, die meines Erachtens vom demokratischen Standpunkt
+      aus betrachtet einen der wichtigsten, relevantesten Aspekte behandelt, nämlich
+      die Entwicklung der Europäischen Union und des Europäismus in der europäischen
+      Öffentlichkeit.
+- c: 1
+  r: 2
+  v: bewahren
+  x:
+  - s: Those gains must be <v>held</v> <p>on</p> to.
+    t: Beibehaltung der Errungenschaften der bisherigen Politik, solche gibt es ja,
+      zum Beispiel Eindämmung der Inflation und Wiederherstellung der Rentabilität
+      der Unternehmen, alles positive Dinge, die <a>bewahrt</a> werden müssen.
+- c: 1
+  r: 2
+  v: festhalten
+  x:
+  - s: That is precisely the civilisation which we have achieved here in Europe and
+      that is the civilisation which we must <v>hold</v> <p>on</p> to.
+    t: In Europa haben wir heute diese Zivilisationsstufe erreicht, und an dieser
+      Zivilisationsstufe müssen wir <a>festhalten</a>.
+es:
+- c: 2
+  r: 1
+  v: asidero
+  x:
+  - s: Selecting a number of model projects and developing them successfully is precisely
+      what is needed to provide the Kosovars with something concrete to <v>hold</v>
+      <p>on</p> to, for it is progress that is likely to help them gain in courage.
+    t: Precisamente, la selección de algunos proyectos piloto y su desarrollo con
+      éxito ofrece a los kosovares un <a>asidero</a> concreto, puesto que progresar,
+      quizá, les confiera un valor adicional.
+  - s: But I also understand that the many crises in Europe, and I also refer to my
+      own country, have shown that we mainly need something to <v>hold</v> <p>on</p>
+      to.
+    t: Comprendo, sin embargo, que las numerosas crisis que ha sufrido Europa —y remito
+      entre otros a mi propio país— han demostrado que lo que más necesitamos es un
+      <a>asidero</a>.
+- c: 1
+  r: 2
+  v: someter
+  x:
+  - s: Although Luxembourg was one of the countries which had the most to lose from
+      a decline in rail traffic, it has <v>held</v> <p>on</p> to its railways, modernised
+      them and downsized, in the only operation of its kind in Europe, and yet at
+      the same time care was taken to ensure that no social hardship was suffered.
+    t: Aunque Luxemburgo ha sido uno de los países que ha tenido que padecer más por
+      la reducción de los transportes por ferrocarril, ha conservado los suyos, los
+      ha modernizado y los ha <a>sometido</a> a una cura de adelgazamiento en sus
+      empleados que es única en Europa, prestando sin embargo atención a que no surgiesen
+      dificultades sociales.
+- c: 1
+  r: 2
+  v: mantener
+  x:
+  - s: These problems would not exist if the Member States had <v>held</v> <p>on</p>
+      to their fiscal sovereignty and were able to use it to stimulate employment.
+    t: Estos problemas no existirían si los Estados miembros hubieran <a>mantenido</a>
+      su soberanía fiscal y pudieran utilizarla para estimular el empleo.
+- c: 1
+  r: 2
+  v: agarrar
+  x:
+  - s: For his parents, Edna and Tom, in Cork in Ireland, who mourn his passing and
+      who will never recover from his loss, the only hope they can <v>hold</v> <p>on</p>
+      to is that James is no longer with us but that, owing to his generosity, others
+      have lived.
+    t: Para ellos, que lloran su muerte y nunca podrán recuperarse de su pérdida,
+      la única esperanza a la que pueden <a>agarrarse</a> es que, aunque James ya
+      no está con nosotros, otras personas están vivas gracias a su generosidad.
+- c: 1
+  r: 2
+  v: acerca celebrar
+  x:
+  - s: He has <v>held</v> <p>on</p> to power by means of fraud.
+    t: Señorías, quiero mencionar un asunto que hasta ahora no se planteado en este
+      debate, ya que hemos estado discutiendo, como es lógico, <a>acerca</a> de los
+      delitos relacionados con las elecciones que se han <a>celebrado</a> hace unos
+      días en Belarús.
+- c: 1
+  r: 2
+  v: aferrar
+  x:
+  - s: In spite of that, I am pleased that we nonetheless arrived at some sort of
+      milestone, or something to grasp and <v>hold</v> <p>on</p> to.
+    t: A pesar de ello, me complace saber que, no obstante, hemos llegado a una especie
+      de hito o, por lo menos, algo a lo que <a>aferrarnos</a>.
+fr:
+- c: 3
+  r: 1
+  v: conserver
+  x:
+  - s: That is precisely the civilisation which we have achieved here in Europe and
+      that is the civilisation which we must <v>hold</v> <p>on</p> to.
+    t: Voilà précisément la civilisation à laquelle nous sommes arrivés en Europe,
+      et c’est cette civilisation que nous devons <a>conserver</a>.
+  - s: These problems would not exist if the Member States had <v>held</v> <p>on</p>
+      to their fiscal sovereignty and were able to use it to stimulate employment.
+    t: Ces problèmes n’existeraient pas si les États avaient <a>conservé</a> leur
+      souveraineté fiscale et pouvaient en jouer pour stimuler l’emploi.
+  - s: Although Luxembourg was one of the countries which had the most to lose from
+      a decline in rail traffic, it has <v>held</v> <p>on</p> to its railways, modernised
+      them and downsized, in the only operation of its kind in Europe, and yet at
+      the same time care was taken to ensure that no social hardship was suffered.
+    t: Bien que le Luxembourg soit l’un des pays qui ait le plus souffert du déclin
+      des transports ferroviaires, il a <a>conservé</a> son chemin de fer, l’a modernisé,
+      lui a fait subir un dégraissage unique en Europe tout en veillant à ne pas provoquer
+      d’injustices sociales.
+- c: 1
+  r: 2
+  v: respecter
+  x:
+  - s: When a politician has reached such a high level and has <v>held</v> <p>on</p>
+      to them so tightly, he deserves thanks, recognition and best wishes.
+    t: Lorsqu’un homme politique a atteint un tel niveau et a <a>respecté</a> si rigoureusement
+      ces vertus, il mérite nos remerciements, notre reconnaissance et nos meilleurs
+      vœux.
+- c: 1
+  r: 2
+  v: tenir
+  x:
+  - s: He has <v>held</v> <p>on</p> to power by means of fraud.
+    t: Mesdames et Messieurs, je souhaiterais mentionner un sujet qui n’a pas encore
+      été abordé dans ce débat dès lors que nous avons naturellement discuté des irrégularités
+      inhérentes aux élections qui se sont <a>tenues</a> il y a quelques jours au
+      Belarus.
+- c: 1
+  r: 2
+  v: accrocher préserver
+  x:
+  - s: In spite of that, I am pleased that we nonetheless arrived at some sort of
+      milestone, or something to grasp and <v>hold</v> <p>on</p> to.
+    t: Je suis néanmoins contente de voir que nous sommes finalement parvenus à une
+      sorte de frontière, quelque chose à quoi s’<a>accrocher</a>, quelque chose à
+      <a>préserver</a>.
+- c: 1
+  r: 2
+  v: retenir
+  x:
+  - s: The banks of Central Europe, hard hit by the crisis, were only too pleased
+      to ’<v>hold</v> <p>on</p> to’ these funds.
+    t: Les banques d’Europe centrale, durement touchées par la crise, ont été trop
+      heureuses de «<a>retenir</a>» ces fonds.
+it:
+- c: 2
+  r: 1
+  v: conservare
+  x:
+  - s: Consequently, all our efforts should be aimed at ensuring that all those men
+      and women who are today excluded from progress because of unfettered globalisation
+      can <v>hold</v> <p>on</p> to, or regain, their dignity.
+    t: Di conseguenza, le nostre azioni devono essere volte a garantire che tutti
+      gli uomini e le donne cui oggi il progresso è precluso a causa di una globalizzazione
+      mal gestita possano <a>conservare</a> o ritrovare la propria dignità.
+  - s: These problems would not exist if the Member States had <v>held</v> <p>on</p>
+      to their fiscal sovereignty and were able to use it to stimulate employment.
+    t: Questi problemi non esisterebbero se gli Stati membri avessero <a>conservato</a>
+      la sovranità fiscale e potessero avvalersene per promuovere l’occupazione.
+- c: 2
+  r: 1
+  v: mantenere
+  x:
+  - s: Although Luxembourg was one of the countries which had the most to lose from
+      a decline in rail traffic, it has <v>held</v> <p>on</p> to its railways, modernised
+      them and downsized, in the only operation of its kind in Europe, and yet at
+      the same time care was taken to ensure that no social hardship was suffered.
+    t: Sebbene il Lussemburgo fosse uno dei paesi che ha sofferto in misura maggiore
+      della riduzione dei trasporti ferroviari, ha <a>mantenuto</a> la propria ferrovia,
+      l’ha modernizzata, l’ha sottoposta ad una cura dimagrante in termini di posti
+      di lavoro unica in Europa ed ha fatto in modo che non sorgessero danni a livello
+      sociale.
+  - s: When a politician has reached such a high level and has <v>held</v> <p>on</p>
+      to them so tightly, he deserves thanks, recognition and best wishes.
+    t: Un politico che è arrivato a un livello così alto e si è <a>mantenuto</a> così
+      coerente, merita ringraziamenti, riconoscenza e i migliori auguri.
+- c: 1
+  r: 2
+  v: attenere
+  x:
+  - s: That is precisely the civilisation which we have achieved here in Europe and
+      that is the civilisation which we must <v>hold</v> <p>on</p> to.
+    t: Questo è il grado di civilizzazione che abbiamo conquistato in Europa e al
+      quale dobbiamo <a>attenerci</a>;
+- c: 1
+  r: 2
+  v: base solido
+  x:
+  - s: But I also understand that the many crises in Europe, and I also refer to my
+      own country, have shown that we mainly need something to <v>hold</v> <p>on</p>
+      to.
+    t: Capisco però che le molte crisi scoppiate in Europa - e mi riferisco anche
+      a quelle che hanno interessato il mio paese - hanno dimostrato che abbiamo bisogno
+      soprattutto di una <a>base</a> <a>solida</a>.
+- c: 1
+  r: 2
+  v: difendere
+  x:
+  - s: On the other hand, Russia is <v>holding</v> <p>on</p> tightly to its regional
+      unity, which is something the international community has also given its clear
+      support to.
+    t: D’altro canto, la Russia <a>difende</a> tenacemente l’unità regionale, obiettivo
+      chiaramente sostenuto dalla comunità internazionale.
+- c: 1
+  r: 2
+  v: salvaguardare
+  x:
+  - s: Those gains must be <v>held</v> <p>on</p> to.
+    t: deve conservare quanto di positivo si è raggiunto con la politica perseguita
+      finora, perché indubbiamente vi sono elementi positivi, come il controllo dell’inflazione
+      e il ritorno delle imprese ai profitti, fatti positivi che debbono essere <a>salvaguardati</a>.
+- c: 1
+  r: 2
+  v: tenere fede
+  x:
+  - s: In spite of that, I am pleased that we nonetheless arrived at some sort of
+      milestone, or something to grasp and <v>hold</v> <p>on</p> to.
+    t: Ciononostante, sono lieta che si sia comunque arrivati ad una specie di pietra
+      miliare, o qualcosa a cui aggrapparsi e <a>tenere</a> <a>fede</a>.
+- c: 1
+  r: 2
+  v: trattenere
+  x:
+  - s: The banks of Central Europe, hard hit by the crisis, were only too pleased
+      to ’<v>hold</v> <p>on</p> to’ these funds.
+    t: Le banche dell’Europa centrale, duramente colpite dalla crisi, sono state ben
+      liete di «<a>trattenere</a>» tali fondi.
+pt:
+- c: 3
+  r: 1
+  v: conservar
+  x:
+  - s: Consequently, all our efforts should be aimed at ensuring that all those men
+      and women who are today excluded from progress because of unfettered globalisation
+      can <v>hold</v> <p>on</p> to, or regain, their dignity.
+    t: Por conseguinte, todos os nossos esforços deveriam ter por objectivo garantir
+      que todas as mulheres e todos os homens que hoje são excluídos do progresso,
+      devido a uma globalização desenfreada, possam <a>conservar</a>, ou reencontrar,
+      a sua dignidade.
+  - s: Those gains must be <v>held</v> <p>on</p> to.
+    t: deve conservar os resultados positivos da política exercida até hoje, porque
+      decerto que os há, designadamente o controlo da inflação, o restabelecimento
+      da produtividade das empresas, coisas positivas que devem ser <a>conservadas</a>.
+  - s: Although Luxembourg was one of the countries which had the most to lose from
+      a decline in rail traffic, it has <v>held</v> <p>on</p> to its railways, modernised
+      them and downsized, in the only operation of its kind in Europe, and yet at
+      the same time care was taken to ensure that no social hardship was suffered.
+    t: Embora o Luxemburgo fosse dos países que mais sofreria com a redução dos transportes
+      ferroviários, <a>conservou</a> os seus caminhos-de-ferro, modernizou-os, conseguindo
+      aplicar-lhe uma cura de emagrecimento em termos de efectivos, que é única na
+      Europa, tendo-se tido o cuidado, no entanto, de evitar injustiças sociais.
+- c: 1
+  r: 2
+  v: agarrar
+  x:
+  - s: For his parents, Edna and Tom, in Cork in Ireland, who mourn his passing and
+      who will never recover from his loss, the only hope they can <v>hold</v> <p>on</p>
+      to is that James is no longer with us but that, owing to his generosity, others
+      have lived.
+    t: Para os seus pais, Edna e Tom, em Cork, na Irlanda, que choram a sua morte
+      e jamais recuperarão de tão triste perda, a única esperança a que se podem <a>agarrar</a>
+      é a de que, embora James já não esteja connosco, outros viveram graças à sua
+      generosidade.
+- c: 1
+  r: 2
+  v: eleger
+  x:
+  - s: The Commission has <v>held</v> <p>on</p> to intercultural dialogue as an objective.
+    t: A Comissão <a>elegeu</a> o diálogo intercultural como um dos objectivos.
+- c: 1
+  r: 2
+  v: manter
+  x:
+  - s: When a politician has reached such a high level and has <v>held</v> <p>on</p>
+      to them so tightly, he deserves thanks, recognition and best wishes.
+    t: Quando um político atingiu um nível tão elevado e <a>manteve</a> tão firmemente
+      essas qualidades, merece agradecimentos, reconhecimento e desejos de felicidades.
+- c: 1
+  r: 2
+  v: sólido
+  x:
+  - s: But I also understand that the many crises in Europe, and I also refer to my
+      own country, have shown that we mainly need something to <v>hold</v> <p>on</p>
+      to.
+    t: No entanto, percebo também que muitas crises ocorridas na Europa - e refiro-me
+      aqui também ao meu próprio país - revelaram que carecemos sobretudo de referências
+      <a>sólidas</a>.
+- c: 1
+  r: 2
+  v: reter
+  x:
+  - s: The banks of Central Europe, hard hit by the crisis, were only too pleased
+      to ’<v>hold</v> <p>on</p> to’ these funds.
+    t: Os bancos da Europa Central, duramente atingidos pela crise, viram com bom
+      grado a possibilidade de «<a>reter</a>» esses fundos.
+sv:
+- c: 1
+  r: 1
+  v: behålla
+  x:
+  - s: Consequently, all our efforts should be aimed at ensuring that all those men
+      and women who are today excluded from progress because of unfettered globalisation
+      can <v>hold</v> <p>on</p> to, or regain, their dignity.
+    t: Alla våra insatser bör därför syfta till att se till att alla de män och kvinnor
+      som i dag är uteslutna från framsteg på grund av ohämmad globalisering kan <a>behålla</a>
+      eller återvinna sin värdighet.
+- c: 1
+  r: 1
+  v: fast hållpunkt
+  x:
+  - s: But I also understand that the many crises in Europe, and I also refer to my
+      own country, have shown that we mainly need something to <v>hold</v> <p>on</p>
+      to.
+    t: Jag inser dock även att de många kriserna i Europa, och då hänvisar jag även
+      till mitt land, har visat att vi främst behöver en <a>fast</a> <a>hållpunkt</a>.
+- c: 1
+  r: 1
+  v: hålla
+  x:
+  - s: On the other hand, Russia is <v>holding</v> <p>on</p> tightly to its regional
+      unity, which is something the international community has also given its clear
+      support to.
+    t: Ryssland, å sin sida, <a>håller</a> hårt på den regionala sammanhållningen,
+      vilket världssamfundet också klart stöder.

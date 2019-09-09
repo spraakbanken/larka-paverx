@@ -1,0 +1,76 @@
+---
+de:
+- c: 1
+  r: 1
+  v: reinwaschen
+  x:
+  - s: Det är ett försök att <v>tvätta</v> <p>bort</p> de nazistiska brotten, och
+      det handlar inte endast om förintelsen av judarna, utan om förintelsen i hela
+      Europa.
+    t: Es ist ein Versuch, die Verbrechen der Nazis <a>reinzuwaschen</a>, wobei es
+      nicht nur um den Holocaust an den Juden, sondern um den Holocaust an ganz Europa
+      geht.
+en:
+- c: 1
+  r: 1
+  v: whitewash
+  x:
+  - s: Det är ett försök att <v>tvätta</v> <p>bort</p> de nazistiska brotten, och
+      det handlar inte endast om förintelsen av judarna, utan om förintelsen i hela
+      Europa.
+    t: It is an attempt to <a>whitewash</a> Nazi-like crimes, and not just the holocaust
+      of the Jews but holocausts all over Europe;
+- c: 1
+  r: 1
+  v: forget
+  x:
+  - s: Peru anstränger sig verkligen för att <v>tvätta</v> <p>bort</p> det dåliga
+      ryktet från det förgångna, som överskuggades av terrordåd.
+    t: We should also not <a>forget</a> that a military court has just convicted four
+      officers for abusing their powers.
+es:
+- c: 1
+  r: 1
+  v: olvidar
+  x:
+  - s: Peru anstränger sig verkligen för att <v>tvätta</v> <p>bort</p> det dåliga
+      ryktet från det förgångna, som överskuggades av terrordåd.
+    t: Tampoco debemos <a>olvidar</a> que un tribunal militar acaba de condenar a
+      cuatro oficiales por abuso del cargo.
+fr:
+- c: 1
+  r: 1
+  v: oublier officier
+  x:
+  - s: Peru anstränger sig verkligen för att <v>tvätta</v> <p>bort</p> det dåliga
+      ryktet från det förgångna, som överskuggades av terrordåd.
+    t: N’<a>oublions</a> pas non plus qu’un tribunal militaire vient de condamner
+      quatre <a>officiers</a> pour abus de fonction.
+- c: 1
+  r: 1
+  v: blanchir
+  x:
+  - s: Det är ett försök att <v>tvätta</v> <p>bort</p> de nazistiska brotten, och
+      det handlar inte endast om förintelsen av judarna, utan om förintelsen i hela
+      Europa.
+    t: Ce sont les crimes nazis qu’il vise à <a>blanchir</a>, et il ne s’agit pas
+      seulement de l’Holocauste perpétré contre les Israélites mais des holocaustes
+      qui ont endeuillé l’Europe entière.
+it:
+- c: 1
+  r: 1
+  v: neppure dimenticare
+  x:
+  - s: Peru anstränger sig verkligen för att <v>tvätta</v> <p>bort</p> det dåliga
+      ryktet från det förgångna, som överskuggades av terrordåd.
+    t: Non dovremmo <a>neppure</a> <a>dimenticare</a> che un tribunale militare ha
+      persino condannato quattro ufficiali per abuso d’ufficio.
+pt:
+- c: 1
+  r: 1
+  v: esquecer
+  x:
+  - s: Peru anstränger sig verkligen för att <v>tvätta</v> <p>bort</p> det dåliga
+      ryktet från det förgångna, som överskuggades av terrordåd.
+    t: Também não devíamos <a>esquecer</a> que, há pouco tempo, um tribunal militar
+      condenou quatro oficiais por abuso de autoridade.

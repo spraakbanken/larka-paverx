@@ -1,0 +1,99 @@
+---
+de:
+- c: 1
+  r: 1
+  v: Wahlfarce
+  x:
+  - s: They have not even felt the need to apologize or to express contrition for
+      having closed their eyes in order to avoid upsetting their man, Mr Berisha,
+      even though they knew what was <v>boiling</v> <p>up</p> in Albania.
+    t: 'Auch nach der jüngsten <a>Wahlfarce</a> in Albanien haben Europaabgeordnete
+      aus allen Fraktionen in ihren Anfragen oftmals die Alarmglocke geschlagen, aber
+      wir haben immer dieselbe Antwort bekommen:'
+- c: 1
+  r: 1
+  v: vertuschen Ausbruch
+  x:
+  - s: Sooner or later it will <v>boil</v> <p>up</p> again and you will discover that
+      you cannot establish real democracy at the point of a multinational gun.
+    t: Diese Sache läßt sich nicht <a>vertuschen</a>, früher oder später wird es wieder
+      zu einem <a>Ausbruch</a> kommen, und dann können Sie von den multinationalen
+      Kasernen aus keine Demokratie herstellen.
+es:
+- c: 1
+  r: 1
+  v: estallido
+  x:
+  - s: Sooner or later it will <v>boil</v> <p>up</p> again and you will discover that
+      you cannot establish real democracy at the point of a multinational gun.
+    t: Tarde o temprano habrá otro <a>estallido</a>, pues no puede crearse una democracia
+      desde los cuarteles de las tropas multinacionales.
+- c: 1
+  r: 1
+  v: ebullición
+  x:
+  - s: Here is a great crisis <v>boiling</v> <p>up</p> on the margins of Europe, on
+      the margins of our consciousness, that is being dealt with by DG VI when one
+      presumes that DG XXIV was saying nothing about it.
+    t: Hay una gran crisis en <a>ebullición</a> en los límites de Europa, en los límites
+      de nuestra conciencia, de la que se está ocupando la DG VI cuando se supone
+      que la DG XXIV no estaba diciendo nada al respecto.
+fr:
+- c: 1
+  r: 1
+  v: explosion
+  x:
+  - s: Sooner or later it will <v>boil</v> <p>up</p> again and you will discover that
+      you cannot establish real democracy at the point of a multinational gun.
+    t: On ne pourra passer cette affaire sous silence, et, tôt ou tard, une nouvelle
+      <a>explosion</a> se produira.
+pt:
+- c: 1
+  r: 1
+  v: ficar encobrir
+  x:
+  - s: Sooner or later it will <v>boil</v> <p>up</p> again and you will discover that
+      you cannot establish real democracy at the point of a multinational gun.
+    t: Este caso não vai <a>ficar</a> <a>encoberto</a> e, mais tarde ou mais cedo,
+      haverá uma nova explosão e não podeis criar democracia a partir das casernas
+      militares multinacionais.
+- c: 1
+  r: 1
+  v: registar
+  x:
+  - s: They have not even felt the need to apologize or to express contrition for
+      having closed their eyes in order to avoid upsetting their man, Mr Berisha,
+      even though they knew what was <v>boiling</v> <p>up</p> in Albania.
+    t: Não sentiram seque a necessidade de pedir desculpas ou de exprimir o seu pesar
+      porque, perante os acontecimentos que se <a>registavam</a> na Albânia, fecharam
+      os olhos, para não fazerem zangar o seu eleito, o senhor Berisha.
+- c: 1
+  r: 1
+  v: desenrolar
+  x:
+  - s: Here is a great crisis <v>boiling</v> <p>up</p> on the margins of Europe, on
+      the margins of our consciousness, that is being dealt with by DG VI when one
+      presumes that DG XXIV was saying nothing about it.
+    t: Estava a <a>desenrolar</a>-se uma enorme crise nas margens da Europa, nas margens
+      da nossa consciência, uma crise de que a DG VI se estava ocupar e parece que
+      a DG XXIV não estava a dizer nada sobre o assunto.
+sv:
+- c: 1
+  r: 1
+  v: dölja
+  x:
+  - s: Sooner or later it will <v>boil</v> <p>up</p> again and you will discover that
+      you cannot establish real democracy at the point of a multinational gun.
+    t: Det går inte att <a>dölja</a> den här affären och förr eller senare kommer
+      det att ske en ny explosion och ni kan inte skapa demokrati utifrån multinationella
+      militärkaserner.
+- c: 1
+  r: 1
+  v: val-parodin
+  x:
+  - s: They have not even felt the need to apologize or to express contrition for
+      having closed their eyes in order to avoid upsetting their man, Mr Berisha,
+      even though they knew what was <v>boiling</v> <p>up</p> in Albania.
+    t: 'Sedan den senaste <a>val-parodin</a> i Albanien och efteråt, har ledamöterna
+      i parlamentet från alla de politiska grupperna många gånger med sina frågor
+      slagit larm om riskerna och vi har alltid fått samma svar:'

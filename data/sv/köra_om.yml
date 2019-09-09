@@ -1,0 +1,88 @@
+---
+de:
+- c: 2
+  r: 1
+  v: überholen
+  x:
+  - s: Det är illa nog att kämpa sig fram på motorvägarna när två långtradare med
+      tung last kör bredvid varandra, eftersom en av långtradarna bestämt sig för
+      att <v>köra</v> <p>om</p> på en kulle, och uppenbarligen inte kan öka hastigheten.
+    t: Es ist schon jetzt schlimm genug, wenn man auf der Autobahn unterwegs ist und
+      zwei Lastwagen nebeneinander herfahren, weil der eine an einer Steigung <a>überholen</a>
+      will und nicht beschleunigen kann.
+  - s: Det går inte att <v>köra</v> <p>om</p> extrema högernationalister ännu längre
+      till höger, vilket är vad somliga försöker göra.
+    t: Man kann nicht die rechtsextremen Nationalisten noch weiter rechts <a>überholen</a>,
+      wie das einige versuchen zu tun.
+en:
+- c: 2
+  r: 1
+  v: overtake
+  x:
+  - s: Vi har länder som Kroatien och Makedonien, som är i färd med att <v>köra</v>
+      <p>om</p> andra anslutningskandidater.
+    t: We have countries such as Croatia and Macedonia that are about to <a>overtake</a>
+      candidate countries.
+  - s: Det går inte att <v>köra</v> <p>om</p> extrema högernationalister ännu längre
+      till höger, vilket är vad somliga försöker göra.
+    t: You cannot <a>overtake</a> extremist right-wing nationalists even further to
+      the right, which is what some people are trying to do.
+- c: 1
+  r: 2
+  v: drive
+  x:
+  - s: 'Det handlar om en trafikförseelse, och i punkt två t.o.m. den sista punkten
+      på sidan 10 i mitt betänkande tar jag upp detta: ”Det åtal som väckts mot Jeggle
+      gäller brottet framkallande av fara i trafiken, eftersom hon den 4 maj 1999
+      som bilförare skall ha <v>kört</v> <p>om</p> ett annat fordon på ett hänsynslöst
+      sätt som grovt strider mot trafikreglerna, trots att siktförhållandena inte
+      var tillräckliga för omkörning”.'
+    t: It is a case concerning a traffic violation, as the second to last paragraph
+      on page 10 of my report says, ‘the charge against Mrs Jeggle relates to the
+      offence of dangerous driving since it is alleged that when <a>driving</a> her
+      car on 4 May 1999 she acted recklessly and in gross violation of road traffic
+      regulations by overtaking another vehicle at a point that did not afford sufficient
+      visibility to do so.’
+fr:
+- c: 1
+  r: 1
+  v: dépasser
+  x:
+  - s: Det är illa nog att kämpa sig fram på motorvägarna när två långtradare med
+      tung last kör bredvid varandra, eftersom en av långtradarna bestämt sig för
+      att <v>köra</v> <p>om</p> på en kulle, och uppenbarligen inte kan öka hastigheten.
+    t: Il est déjà suffisamment difficile d’avancer sur les autoroutes lorsque deux
+      poids lourds roulent côte à côte parce que l’un d’eux a décidé de <a>dépasser</a>
+      l’autre au sommet d’une colline, alors qu’il est manifestement incapable d’accélérer.
+it:
+- c: 1
+  r: 1
+  v: velocità
+  x:
+  - s: För detta finns bl.a. ”godskorridorerna” och det glädjer mig att en del av
+      de europeiska järnvägarna för en gångs skull lyckats <v>köra</v> <p>om</p> hela
+      den politiska världen genom att inrätta ”godskorridorer”.
+    t: A questo scopo abbiamo creato i «corridoi ferroviari per il trasporto merci«
+      e sono lieta che per una volta una parte delle ferrovie europee sia riuscita
+      a battere in <a>velocità</a> tutto il mondo politico con la creazione di queste
+      «superstrade ferroviarie».
+- c: 1
+  r: 1
+  v: superare
+  x:
+  - s: Vi har länder som Kroatien och Makedonien, som är i färd med att <v>köra</v>
+      <p>om</p> andra anslutningskandidater.
+    t: abbiamo paesi, come la Croazia e la Macedonia, che stanno per <a>superare</a>
+      paesi candidati.
+pt:
+- c: 1
+  r: 1
+  v: rápido
+  x:
+  - s: För detta finns bl.a. ”godskorridorerna” och det glädjer mig att en del av
+      de europeiska järnvägarna för en gångs skull lyckats <v>köra</v> <p>om</p> hela
+      den politiska världen genom att inrätta ”godskorridorer”.
+    t: Para isso, existem, nomeadamente, os «itinerários livres para o transporte
+      ferroviário de mercadorias», e congratulo-me com o facto de, por uma vez, uma
+      parte dos caminhos-de-ferro europeus ter conseguido ser mais <a>rápida</a> do
+      que o mundo político, criando os referidos «itinerários livres».

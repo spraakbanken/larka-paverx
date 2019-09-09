@@ -1,0 +1,173 @@
+---
+de:
+- c: 1
+  r: 1
+  v: Garaus
+  x:
+  - s: Om vi ställer överdrivna krav så leder det till att små företag får <v>packa</v>
+      <p>in</p> och inte kan överleva.
+    t: Durch überzogene Anforderungen wird Kleinunternehmen der <a>Garaus</a> gemacht,
+      und sie werden nicht überleben.
+- c: 1
+  r: 1
+  v: reinpacken
+  x:
+  - s: Tyvärr får jag en känsla av att det gjorts desperata försök att <v>packa</v>
+      <p>in</p> alla möjliga frågor här utan att följa en tydlig strategi.
+    t: Leider hat man aber irgendwie den Eindruck, dass hier krampfhaft versucht worden
+      ist, alle möglichen Sachverhalte irgendwie <a>reinzupacken</a>, ohne klare Strategie.
+- c: 1
+  r: 1
+  v: Wünschbare mit
+  x:
+  - s: Vi bör bara ställa det krav på kandidatländerna som medlemsstaterna i Europeiska
+      unionen i dag själva uppfyller, och inte <v>packa</v> <p>in</p> alla möjliga
+      önskemål i förhandlingspaketet.
+    t: Wir sollten von den Beitrittskandidaten nur das verlangen, was die Mitgliedstaaten
+      der Europäischen Union heute selbst erfüllen, und in das Verhandlungspaket nicht
+      alles <a>Wünschbare</a> <a>mit</a> hineinpacken.
+en:
+- c: 1
+  r: 1
+  v: pack up
+  x:
+  - s: I dag kan vi tryggt säga att den järnridån inte bara har lyfts upp utan även
+      har plockats ned, <v>packats</v> <p>in</p> i en låda och förvisats till historiens
+      vindskammare där den kommer att tjäna för att påminna oss om historiska hemskheter.
+    t: Today we can safely say that the iron curtain has not only been lifted but
+      has been dismantled, <a>packed</a> <a>up</a> in its box and consigned to the
+      attic of history where it will serve to remind us of the horrors of the past.
+- c: 1
+  r: 1
+  v: pull plug
+  x:
+  - s: Om vi ställer överdrivna krav så leder det till att små företag får <v>packa</v>
+      <p>in</p> och inte kan överleva.
+    t: Imposing excessive demands will <a>pull</a> the <a>plug</a> on small businesses,
+      and they will not survive.
+es:
+- c: 1
+  r: 1
+  v: guardar
+  x:
+  - s: I dag kan vi tryggt säga att den järnridån inte bara har lyfts upp utan även
+      har plockats ned, <v>packats</v> <p>in</p> i en låda och förvisats till historiens
+      vindskammare där den kommer att tjäna för att påminna oss om historiska hemskheter.
+    t: Hoy puede decirse con toda seguridad que el telón de acero no sólo se ha levantado,
+      sino que se ha desmantelado, <a>guardado</a> en su caja y subido al desván de
+      la historia, donde servirá para recordarnos los horrores del pasado.
+- c: 1
+  r: 1
+  v: meter
+  x:
+  - s: Vi bör bara ställa det krav på kandidatländerna som medlemsstaterna i Europeiska
+      unionen i dag själva uppfyller, och inte <v>packa</v> <p>in</p> alla möjliga
+      önskemål i förhandlingspaketet.
+    t: Debemos exigir de los países candidatos sólo lo que los Estados miembros de
+      la Unión Europea cumplen hoy ellos mismos y no <a>meter</a> en el paquete de
+      negociaciones todo lo que sería deseable.
+- c: 1
+  r: 1
+  v: amontonar
+  x:
+  - s: Tyvärr får jag en känsla av att det gjorts desperata försök att <v>packa</v>
+      <p>in</p> alla möjliga frågor här utan att följa en tydlig strategi.
+    t: Lamentablemente, de alguna manera, me da la impresión de que ha habido un intento
+      desesperado de <a>amontonar</a> todos los temas posibles aquí sin seguir una
+      estrategia clara.
+fr:
+- c: 1
+  r: 1
+  v: aborder
+  x:
+  - s: Tyvärr får jag en känsla av att det gjorts desperata försök att <v>packa</v>
+      <p>in</p> alla möjliga frågor här utan att följa en tydlig strategi.
+    t: Malheureusement, j’ai un peu l’impression qu’il est le résultat d’une tentative
+      désespérée d’<a>aborder</a> tous les thèmes possibles sans suivre une stratégie
+      claire.
+- c: 1
+  r: 1
+  v: replier remettre
+  x:
+  - s: I dag kan vi tryggt säga att den järnridån inte bara har lyfts upp utan även
+      har plockats ned, <v>packats</v> <p>in</p> i en låda och förvisats till historiens
+      vindskammare där den kommer att tjäna för att påminna oss om historiska hemskheter.
+    t: Aujourd’hui, nous pouvons affirmer en toute sécurité que le rideau de fer a
+      non seulement été levé mais a également été démantelé, <a>replié</a>, <a>remis</a>
+      dans sa boîte et rangé dans le grenier de l’histoire où il servira à nous rappeler
+      les horreurs du passé.
+- c: 1
+  r: 1
+  v: pousser décrocher
+  x:
+  - s: Om vi ställer överdrivna krav så leder det till att små företag får <v>packa</v>
+      <p>in</p> och inte kan överleva.
+    t: En posant des exigences déraisonnables, nous <a>pousserions</a> les petites
+      entreprises à <a>décrocher</a>, elles ne survivraient pas.
+it:
+- c: 1
+  r: 1
+  v: decretare
+  x:
+  - s: Om vi ställer överdrivna krav så leder det till att små företag får <v>packa</v>
+      <p>in</p> och inte kan överleva.
+    t: la richiesta di garanzie sproporzionate mette in crisi le piccole imprese e
+      ne <a>decreta</a> la morte.
+- c: 1
+  r: 1
+  v: inserire
+  x:
+  - s: Vi bör bara ställa det krav på kandidatländerna som medlemsstaterna i Europeiska
+      unionen i dag själva uppfyller, och inte <v>packa</v> <p>in</p> alla möjliga
+      önskemål i förhandlingspaketet.
+    t: Dai paesi candidati dovremmo pretendere di assumersi soltanto gli obblighi
+      che oggi sono tenuti a rispettare gli Stati membri dell’Unione e non cercare
+      di <a>inserire</a> nel pacchetto dei negoziati tutto il desiderabile.
+- c: 1
+  r: 1
+  v: includere
+  x:
+  - s: Tyvärr får jag en känsla av att det gjorts desperata försök att <v>packa</v>
+      <p>in</p> alla möjliga frågor här utan att följa en tydlig strategi.
+    t: Sfortunatamente, ho come l’impressione che si sia fatto un disperato tentativo
+      di <a>includere</a> ogni problema possibile senza seguire una chiara strategia.
+- c: 1
+  r: 1
+  v: smantellare
+  x:
+  - s: I dag kan vi tryggt säga att den järnridån inte bara har lyfts upp utan även
+      har plockats ned, <v>packats</v> <p>in</p> i en låda och förvisats till historiens
+      vindskammare där den kommer att tjäna för att påminna oss om historiska hemskheter.
+    t: Oggi possiamo dire con certezza che la cortina di ferro non solo è stata sollevata,
+      ma è stata <a>smantellata</a>, chiusa nella sua scatola e relegata nella soffitta
+      della storia, dove servirà a ricordarci gli orrori del passato.
+pt:
+- c: 1
+  r: 1
+  v: desmantelar encerrar
+  x:
+  - s: I dag kan vi tryggt säga att den järnridån inte bara har lyfts upp utan även
+      har plockats ned, <v>packats</v> <p>in</p> i en låda och förvisats till historiens
+      vindskammare där den kommer att tjäna för att påminna oss om historiska hemskheter.
+    t: Hoje podemos dizer, com alguma segurança, que a cortina-de-ferro não só foi
+      levantada como foi <a>desmantelada</a>, <a>encerrada</a> numa arca e colocada
+      no sótão da História, onde ficará para nos lembrar os horrores do passado.
+- c: 1
+  r: 1
+  v: incluir
+  x:
+  - s: Tyvärr får jag en känsla av att det gjorts desperata försök att <v>packa</v>
+      <p>in</p> alla möjliga frågor här utan att följa en tydlig strategi.
+    t: Infelizmente, fico com a impressão de que houve uma tentativa desesperada de
+      <a>incluir</a> todas as matérias possíveis sem observação de uma estratégia
+      clara.
+- c: 1
+  r: 1
+  v: abster
+  x:
+  - s: Vi bör bara ställa det krav på kandidatländerna som medlemsstaterna i Europeiska
+      unionen i dag själva uppfyller, och inte <v>packa</v> <p>in</p> alla möjliga
+      önskemål i förhandlingspaketet.
+    t: Deveríamos exigir apenas aos países candidatos à adesão aquilo que os próprios
+      Estados-Membros da União Europeia cumprem actualmente, <a>abstendo</a>-nos de
+      acrescentar ainda ao pacote de negociações tudo aquilo que seria desejável.

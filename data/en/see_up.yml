@@ -1,0 +1,278 @@
+---
+de:
+- c: 2
+  r: 1
+  v: sehen
+  x:
+  - s: We look forward to achieving a good result in the vote tomorrow with the cooperation
+      that we have <v>seen</v> <p>up</p> to now.
+    t: Angesichts der bisherigen Zusammenarbeit <a>sehen</a> wir einem guten Ergebnis
+      der morgigen Abstimmung mit Freude entgehen.
+  - s: I am sorry about that, and I apologise for not having <v>seen</v> your hand
+      <p>up</p>.
+    t: Es tut mir Leid, und ich entschuldige mich dafür, dass ich Ihr Handzeichen
+      nicht <a>gesehen</a> habe.
+- c: 1
+  r: 2
+  v: erkennen lassen
+  x:
+  - s: I therefore see it as a very urgent task, also under the Swedish Presidency,
+      to ensure that developments in Turkey proceed in such a way that we can gradually
+      see the country draw nearer to the European family in a more concrete way than
+      we have <v>seen</v> <p>up</p> to now.
+    t: Darum betrachte ich es als äußerst wichtige Aufgabe, auch während der schwedischen
+      Ratspräsidentschaft dafür zu wirken, dass die Entwicklung in der Türkei in eine
+      Richtung geht, die eine Annäherung an die europäische Familie <a>erkennen</a>
+      <a>lässt</a>.
+- c: 1
+  r: 2
+  v: bisher beobachten
+  x:
+  - s: is the Council prepared to continue exerting its influence - I do not want
+      to use stronger words - on the Romanian authorities so that they may make progress
+      more quickly than we have <v>seen</v> <p>up</p> until now, despite all the promises
+      in these two fields of applying the new legislation and of resolving these cases?
+    t: Ist der Rat bereit, weiterhin seinen Einfluss - ich will mich nicht schärfer
+      ausdrücken - gegenüber den rumänischen Behörden geltend zu machen, damit man
+      schneller, als wir es <a>bisher</a> trotz aller Versprechen <a>beobachtet</a>
+      haben, in dieser Doppelfrage, das heißt, bei der Durchsetzung der Gesetzgebung
+      und dem Abschluss dieser Vorgänge, vorankommt?
+- c: 1
+  r: 2
+  v: bisher
+  x:
+  - s: This is a very important area and needs a great deal of preparation, which
+      has already been demonstrated by what we have <v>seen</v> <p>up</p> till now
+      in Europe’s relations with the United States.
+    t: Ein sehr wichtiger Punkt, der eine äußerst gründliche Vorbereitung erfordert,
+      was sich ja bereits bei den Problemen gezeigt hat, die wir <a>bisher</a> in
+      den Beziehungen zwischen Europa und den Vereinigten Staaten hatten.
+- c: 1
+  r: 2
+  v: bisherig
+  x:
+  - s: rising costs as a result of enlargement eastward, of e-commerce, and that is
+      on top of the rates of increase we have <v>seen</v> <p>up</p> to now.
+    t: Zuwächse durch die Osterweiterung, durch den e-commerce, und zwar zusätzlich
+      zu den <a>bisherigen</a> Zuwachsraten.
+es:
+- c: 2
+  r: 1
+  v: ver
+  x:
+  - s: It is an obvious way to organise it and we hope to <v>see</v> it <p>up</p>
+      and running again soon.
+    t: Es una manera natural de organizarlo y esperamos poder <a>verlo</a> funcionar
+      pronto de nuevo.
+  - s: I therefore believe that, although we in Parliament certainly do have an important
+      role under Article 129, since we can step in and bring matters to a rapid conclusion,
+      we share Mrs Gradin’s desire to <v>see</v> this programme <p>up</p> and running
+      by early 2000.
+    t: Es por esto que si, por una parte considero que, gracias al artículo 129, nosotros,
+      como Parlamento, desempeñamos un papel más sustancial, ya que podemos intervenir
+      y llegar rápidamente a una conclusión, el objetivo de la Comisaria Gradin y
+      el nuestro es que este programa <a>vea</a> la luz al principio del año 2000.
+- c: 1
+  r: 2
+  v: ver aparecer
+  x:
+  - s: I said it will raise the antennae of Mrs Van Dijk when she hears that and when
+      I <v>saw</v> her name <p>up</p> to make a statement.
+    t: He dicho que la Sra. Van Dijk aguzará el oído, cuando lo oiga, y cuando he
+      <a>visto</a> al <a>aparecer</a> su nombre, que iba a hacer una declaración.
+- c: 1
+  r: 2
+  v: ver levantar
+  x:
+  - s: I am sorry about that, and I apologise for not having <v>seen</v> your hand
+      <p>up</p>.
+    t: Lo lamento y pido disculpas por no haber <a>visto</a> su mano <a>levantada</a>.
+fr:
+- c: 1
+  r: 1
+  v: voir
+  x:
+  - s: I am sorry about that, and I apologise for not having <v>seen</v> your hand
+      <p>up</p>.
+    t: Je le regrette et je vous demande pardon de ne pas avoir <a>vu</a> votre main
+      levée.
+- c: 1
+  r: 1
+  v: pouvoir constater
+  x:
+  - s: This is a very important area and needs a great deal of preparation, which
+      has already been demonstrated by what we have <v>seen</v> <p>up</p> till now
+      in Europe’s relations with the United States.
+    t: Un domaine capital, qui nécessite une préparation considérable, vu tout ce
+      que nous avons <a>pu</a> <a>constaté</a> dans les relations entre l’Union européenne
+      et les États-Unis.
+- c: 1
+  r: 1
+  v: voir pied
+  x:
+  - s: It is an obvious way to organise it and we hope to <v>see</v> it <p>up</p>
+      and running again soon.
+    t: Cette façon de l’organiser paraît évidente et nous espérons bientôt <a>voir</a>
+      ce programme de nouveau sur <a>pied</a>.
+it:
+- c: 1
+  r: 1
+  v: costruire finora
+  x:
+  - s: We look forward to achieving a good result in the vote tomorrow with the cooperation
+      that we have <v>seen</v> <p>up</p> to now.
+    t: Vogliamo conseguire un buon risultato nel voto di domani grazie alla collaborazione
+      che abbiamo <a>costruito</a> <a>finora</a>.
+- c: 1
+  r: 1
+  v: finora vista
+  x:
+  - s: is the Council prepared to continue exerting its influence - I do not want
+      to use stronger words - on the Romanian authorities so that they may make progress
+      more quickly than we have <v>seen</v> <p>up</p> until now, despite all the promises
+      in these two fields of applying the new legislation and of resolving these cases?
+    t: il Consiglio è disposto a continuare ad esercitare la propria influenza - non
+      voglio utilizzare espressioni più forti - sulle autorità rumene affinché si
+      possa avanzare con una celerità che <a>finora</a> non si è <a>vista</a>, nonostante
+      tutte le promesse fatte in questo duplice campo, ovvero nel campo dell’attuazione
+      della nuova legislazione e in quello dell’espletamento delle suddette pratiche?
+- c: 1
+  r: 1
+  v: fatto finora
+  x:
+  - s: I therefore see it as a very urgent task, also under the Swedish Presidency,
+      to ensure that developments in Turkey proceed in such a way that we can gradually
+      see the country draw nearer to the European family in a more concrete way than
+      we have <v>seen</v> <p>up</p> to now.
+    t: Far sì che la Turchia imbocchi una strada che la avvicini alla famiglia europea
+      in modo graduale e più concreto di quanto <a>fatto</a> <a>finora</a> è, a mio
+      parere, un compito di grande rilievo, e lo sarà anche durante la Presidenza
+      svedese.
+- c: 1
+  r: 1
+  v: sinora affrontare
+  x:
+  - s: This is a very important area and needs a great deal of preparation, which
+      has already been demonstrated by what we have <v>seen</v> <p>up</p> till now
+      in Europe’s relations with the United States.
+    t: Il primo punto concerne l’agenda transatlantica, ovvero un aspetto molto importante,
+      che necessita di una grande preparazione, come già dimostrato dalle questioni
+      <a>sinora</a> <a>affrontate</a> nei rapporti tra l’Europa e gli USA.
+- c: 1
+  r: 1
+  v: vedere alzare
+  x:
+  - s: I am sorry about that, and I apologise for not having <v>seen</v> your hand
+      <p>up</p>.
+    t: Mi dispiace e mi scuso per non avere <a>visto</a> che aveva <a>alzato</a> la
+      mano.
+- c: 1
+  r: 1
+  v: venire
+  x:
+  - s: It is an obvious way to organise it and we hope to <v>see</v> it <p>up</p>
+      and running again soon.
+    t: È una maniera ovvia di organizzarlo e speriamo che <a>venga</a> presto riattivato.
+pt:
+- c: 1
+  r: 1
+  v: ver erguer
+  x:
+  - s: I am sorry about that, and I apologise for not having <v>seen</v> your hand
+      <p>up</p>.
+    t: As minhas desculpas por não o ter <a>visto</a> <a>erguer</a> a mão.
+- c: 1
+  r: 1
+  v: ver estruturar
+  x:
+  - s: It is an obvious way to organise it and we hope to <v>see</v> it <p>up</p>
+      and running again soon.
+    t: Há obviamente que o organizar e esperamos <a>vê</a>-lo <a>estruturado</a> e
+      novamente em funcionamento em breve.
+- c: 1
+  r: 1
+  v: defrontar até
+  x:
+  - s: This is a very important area and needs a great deal of preparation, which
+      has already been demonstrated by what we have <v>seen</v> <p>up</p> till now
+      in Europe’s relations with the United States.
+    t: Um sector extremamente importante que exige uma grande preparação, conforme
+      já ficou demonstrado por aquilo com que nos <a>defrontámos</a> <a>até</a> agora
+      nas relações da Europa com os Estados Unidos.
+- c: 1
+  r: 1
+  v: até
+  x:
+  - s: I therefore see it as a very urgent task, also under the Swedish Presidency,
+      to ensure that developments in Turkey proceed in such a way that we can gradually
+      see the country draw nearer to the European family in a more concrete way than
+      we have <v>seen</v> <p>up</p> to now.
+    t: Por conseguinte, considero uma tarefa muito importante verificar, também durante
+      a Presidência sueca, se a evolução na Turquia vai no sentido de, gradualmente,
+      aproximar o país da família europeia, de forma mais efectiva do que <a>até</a>
+      agora.
+- c: 1
+  r: 1
+  v: até ver
+  x:
+  - s: is the Council prepared to continue exerting its influence - I do not want
+      to use stronger words - on the Romanian authorities so that they may make progress
+      more quickly than we have <v>seen</v> <p>up</p> until now, despite all the promises
+      in these two fields of applying the new legislation and of resolving these cases?
+    t: está o Conselho disposto a continuar a exercer a sua influência - para não
+      utilizar, o que não desejo, termos mais fortes - sobre as autoridades romenas
+      para que seja imprimida uma celeridade que <a>até</a> agora não <a>vimos</a>,
+      pese embora todas as promessas tanto no domínio de implementar a nova legislação
+      como de dar solução a esses processos já iniciados?
+sv:
+- c: 1
+  r: 1
+  v: ha hittills
+  x:
+  - s: We look forward to achieving a good result in the vote tomorrow with the cooperation
+      that we have <v>seen</v> <p>up</p> to now.
+    t: Vi ser fram emot att uppnå ett bra resultat i omröstningen i morgon i och med
+      det samarbete som vi har <a>haft</a> <a>hittills</a>.
+- c: 1
+  r: 1
+  v: se uppsträckt
+  x:
+  - s: I am sorry about that, and I apologise for not having <v>seen</v> your hand
+      <p>up</p>.
+    t: Jag beklagar detta, och jag ber om ursäkt för att jag inte <a>såg</a> er <a>uppsträckta</a>
+      hand.
+- c: 1
+  r: 1
+  v: starta
+  x:
+  - s: I therefore believe that, although we in Parliament certainly do have an important
+      role under Article 129, since we can step in and bring matters to a rapid conclusion,
+      we share Mrs Gradin’s desire to <v>see</v> this programme <p>up</p> and running
+      by early 2000.
+    t: Det är därför kommissionär Gradins och vårt mål är att programmet skall <a>starta</a>
+      i början av år 2000, fastän jag anser att vi som parlament säkerligen får en
+      viktigare roll med artikel 129, eftersom vi kan ingripa och snabbt komma fram
+      till en lösning.
+- c: 1
+  r: 1
+  v: fram
+  x:
+  - s: This is a very important area and needs a great deal of preparation, which
+      has already been demonstrated by what we have <v>seen</v> <p>up</p> till now
+      in Europe’s relations with the United States.
+    t: Ett väldigt viktigt område vilket behöver förberedas, något som redan har visat
+      sig av det som vi <a>fram</a> till nu har bemött i relationerna mellan Europa
+      och Förenta staterna.
+- c: 1
+  r: 1
+  v: göra
+  x:
+  - s: is the Council prepared to continue exerting its influence - I do not want
+      to use stronger words - on the Romanian authorities so that they may make progress
+      more quickly than we have <v>seen</v> <p>up</p> until now, despite all the promises
+      in these two fields of applying the new legislation and of resolving these cases?
+    t: är rådet berett att fortsätta utöva sitt inflytande - jag vill inte använda
+      ett starkare ord - över de rumänska myndigheterna för att de skall skynda på
+      den här frågan, vilket de inte har <a>gjort</a> hittills trots alla löften när
+      det gäller dessa två frågor, det vill säga, att börja tillämpa den nya lagstiftningen
+      och för att lösa problemet med dessa adoptionsansökningar?

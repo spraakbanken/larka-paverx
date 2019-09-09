@@ -1,0 +1,85 @@
+---
+de:
+- c: 1
+  r: 1
+  v: Diener
+  x:
+  - s: De främjar överföringen av tjänster från den offentliga till den privata sektorn
+      (så att de statliga myndigheterna förpassas till att ”<v>passa</v> <p>upp</p>
+      på” den ”fria konkurrensen”) och upprättandet av offentlig-privata partnerskap
+      som utgör ”murbräckan” för företagsgrupper med monopol som vill ta sig in i
+      sektorn för tjänster av allmänt intresse.
+    t: Sie setzen sich für die Umverteilung von Aufgaben vom öffentlichen auf den
+      privaten Sektor (wodurch die öffentlichen Behörden zu „<a>Dienern</a>“ des „freien
+      Wettbewerbs“ werden) sowie die Entwicklung öffentlich-privater Partnerschaften
+      ein, die den „Rammbock“ für das Eindringen der Monopolgruppen in den Sektor
+      der Sozialdienstleistungen von allgemeinem Interesse bilden.
+- c: 1
+  r: 1
+  v: versorgen werden
+  x:
+  - s: Kvinnor får inte gå på gator, kvinnor får inte följa undervisning, kvinnor
+      får inte arbeta, men kvinnor måste se till att deras män <v>passas</v> <p>upp</p>.
+    t: Frauen dürfen nicht auf die Straße, Frauen dürfen keinen Unterricht besuchen,
+      Frauen dürfen nicht arbeiten, Frauen müssen jedoch dafür sorgen, daß ihre Männer
+      und die Kinder ihrer Männer gut <a>versorgt</a> <a>werden</a>.
+- c: 1
+  r: 1
+  v: Flugbegleiter
+  x:
+  - s: champagne, vackra flygvärdinnor och flygvärdar som <v>passade</v> <p>upp</p>
+      på dem, fåtöljer, bekvämlighet ?
+    t: Champagner, bildhübsche Stewardessen, männliche <a>Flugbegleiter</a>, die sie
+      bedienten, Sessel, Komfort?
+en:
+- c: 1
+  r: 1
+  v: waiter
+  x:
+  - s: De främjar överföringen av tjänster från den offentliga till den privata sektorn
+      (så att de statliga myndigheterna förpassas till att ”<v>passa</v> <p>upp</p>
+      på” den ”fria konkurrensen”) och upprättandet av offentlig-privata partnerskap
+      som utgör ”murbräckan” för företagsgrupper med monopol som vill ta sig in i
+      sektorn för tjänster av allmänt intresse.
+    t: They are promoting the allocation of duties from the public to the private
+      sector (so that the public authorities are turning into the ’<a>waiters</a>’
+      of ’free competition’) and the development of public private partnerships which
+      constitute the ’battering ram’ for the penetration of monopoly business groups
+      into the social services of general interest sector.
+- c: 1
+  r: 1
+  v: look
+  x:
+  - s: Kvinnor får inte gå på gator, kvinnor får inte följa undervisning, kvinnor
+      får inte arbeta, men kvinnor måste se till att deras män <v>passas</v> <p>upp</p>.
+    t: Women must not go onto the streets, women must not receive an education, women
+      must not work, but women must ensure that their men are well <a>looked</a> after.
+es:
+- c: 1
+  r: 1
+  v: marido marido
+  x:
+  - s: Kvinnor får inte gå på gator, kvinnor får inte följa undervisning, kvinnor
+      får inte arbeta, men kvinnor måste se till att deras män <v>passas</v> <p>upp</p>.
+    t: Las mujeres no pueden salir a la calle, las mujeres no pueden recibir educación,
+      las mujeres no pueden trabajar, pero las mujeres han de cuidar de sus <a>maridos</a>
+      y de los hijos de sus <a>maridos</a>.
+fr:
+- c: 1
+  r: 1
+  v: mari
+  x:
+  - s: Kvinnor får inte gå på gator, kvinnor får inte följa undervisning, kvinnor
+      får inte arbeta, men kvinnor måste se till att deras män <v>passas</v> <p>upp</p>.
+    t: Les femmes n’ont pas le droit de sortir dans la rue, les femmes n’ont pas le
+      droit de faire des études, les femmes n’ont pas le droit de travailler, mais
+      par contre, les femmes doivent bien s’occuper de leurs <a>maris</a> et de leurs
+      enfants.
+it:
+- c: 1
+  r: 1
+  v: steward
+  x:
+  - s: champagne, vackra flygvärdinnor och flygvärdar som <v>passade</v> <p>upp</p>
+      på dem, fåtöljer, bekvämlighet ?
+    t: champagne, bellissime hostess, <a>steward</a> che li servivano, poltrone, confort.

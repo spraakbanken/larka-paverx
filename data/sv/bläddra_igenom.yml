@@ -1,0 +1,156 @@
+---
+de:
+- c: 1
+  r: 1
+  v: Durchblättern
+  x:
+  - s: Vi bör hädanefter tala om ’droits de la personne’ och när jag snabbt <v>bläddrar</v>
+      <p>igenom</p> Corbetts betänkande konstaterar jag att det tyvärr, trots vår
+      ömsesidiga vaksamhet, fortfarande finns rester av det förlegade uttrycket.
+    t: Beim raschen <a>Durchblättern</a> des Berichts von Herrn Corbett stelle ich
+      leider fest, dass trotz unser beider Wachsamkeit einige Stellen übersehen wurden.
+- c: 1
+  r: 1
+  v: konsultieren
+  x:
+  - s: Om ni <v>bläddrar</v> <p>igenom</p> denna studie kommer ni att se att dess
+      slutsatser när det gäller frågorna om skattepolitik är exakt desamma som jag
+      just utvecklat.
+    t: Wenn Sie diese Studie <a>konsultieren</a>, dann werden Sie feststellen, dass
+      die darin enthaltenen Schlussfolgerungen zu den steuerpolitischen Fragen genau
+      die sind, die ich soeben dargelegt habe.
+- c: 1
+  r: 1
+  v: mal Blick
+  x:
+  - s: Omfattningen av denna företeelse är enorm, något som man märker genom att bara
+      <v>bläddra</v> <p>igenom</p> dagstidningarna.
+    t: Das Ausmaß dieses Phänomens ist riesig, dafür muss man nur <a>mal</a> einen
+      <a>Blick</a> in die Tageszeitungen werfen.
+- c: 1
+  r: 1
+  v: blättern
+  x:
+  - s: Det kan visserligen vara fascinerande att <v>bläddra</v> <p>igenom</p> katalogen
+      med de 110 modeller som för närvarande är i omlopp och att studera de olika
+      giltighetstiderna och säkerhetskännetecknen, men det är inte praktiskt att arbeta
+      med en sådan katalog.
+    t: Es mag interessant sein, im Katalog mit den heute gültigen 110 Modellen zu
+      <a>blättern</a> und die Gültigkeit sowie die Sicherheitsmerkmale zu studieren
+      - allein praktisch für die Anwendung ist so ein Katalog nicht.
+- c: 1
+  r: 1
+  v: durchblättern
+  x:
+  - s: Jag var tvungen att tänka på det när jag ännu en gång <v>bläddrade</v> <p>igenom</p>
+      grönboken om hamnar och sjötransportens infrastruktur och lät den andra meningen
+      sjunka in ordentligt.
+    t: Daran mußte ich denken, als ich das Grünbuch über Seehäfen und Seeverkehrs-Infrastruktur
+      noch einmal <a>durchblätterte</a> und die zweite Zeile auf mich wirken ließ.
+es:
+- c: 1
+  r: 1
+  v: examinar
+  x:
+  - s: Om ni <v>bläddrar</v> <p>igenom</p> denna studie kommer ni att se att dess
+      slutsatser när det gäller frågorna om skattepolitik är exakt desamma som jag
+      just utvecklat.
+    t: Si <a>examina</a> ese estudio, verá que sus conclusiones sobre las cuestiones
+      de políticas fiscales son exactamente las que acabo de exponer.
+fr:
+- c: 3
+  r: 1
+  v: feuilleter
+  x:
+  - s: Vi bör hädanefter tala om ’droits de la personne’ och när jag snabbt <v>bläddrar</v>
+      <p>igenom</p> Corbetts betänkande konstaterar jag att det tyvärr, trots vår
+      ömsesidiga vaksamhet, fortfarande finns rester av det förlegade uttrycket.
+    t: Nous devons dorénavant parler de «droits de la personne», et en <a>feuilletant</a>
+      rapidement le rapport de M. Corbett, je constate que malheureusement, en dépit
+      de notre vigilance mutuelle, il y a encore des scories.
+  - s: Det kan visserligen vara fascinerande att <v>bläddra</v> <p>igenom</p> katalogen
+      med de 110 modeller som för närvarande är i omlopp och att studera de olika
+      giltighetstiderna och säkerhetskännetecknen, men det är inte praktiskt att arbeta
+      med en sådan katalog.
+    t: S’il peut être fascinant de <a>feuilleter</a> l’éventail des 110 modèles actuellement
+      en circulation et d’étudier les différentes périodes de validité et les caractéristiques
+      de sécurité, l’utilisation d’une telle liste n’est pas pratique.
+  - s: Jag var tvungen att tänka på det när jag ännu en gång <v>bläddrade</v> <p>igenom</p>
+      grönboken om hamnar och sjötransportens infrastruktur och lät den andra meningen
+      sjunka in ordentligt.
+    t: J’y ai repensé en <a>feuilletant</a> le Livre vert sur les ports et l’infrastructure
+      maritime, quand j’ai lu la deuxième ligne.
+- c: 1
+  r: 2
+  v: parcourir
+  x:
+  - s: Om ni <v>bläddrar</v> <p>igenom</p> denna studie kommer ni att se att dess
+      slutsatser när det gäller frågorna om skattepolitik är exakt desamma som jag
+      just utvecklat.
+    t: Si vous <a>parcourez</a> cette étude, vous verrez que ses conclusions sur les
+      questions de politique fiscale sont exactement celles que je viens de développer.
+- c: 1
+  r: 2
+  v: publier
+  x:
+  - s: Omfattningen av denna företeelse är enorm, något som man märker genom att bara
+      <v>bläddra</v> <p>igenom</p> dagstidningarna.
+    t: L’ampleur du phénomène est énorme, rien qu’à en juger par les articles <a>publiés</a>
+      dans la presse quotidienne.
+it:
+- c: 1
+  r: 1
+  v: sfogliare
+  x:
+  - s: Det kan visserligen vara fascinerande att <v>bläddra</v> <p>igenom</p> katalogen
+      med de 110 modeller som för närvarande är i omlopp och att studera de olika
+      giltighetstiderna och säkerhetskännetecknen, men det är inte praktiskt att arbeta
+      med en sådan katalog.
+    t: Se può essere interessante <a>sfogliare</a> un catalogo con i 110 modelli attualmente
+      in circolazione e studiare i vari periodi di validità e le molteplici caratteristiche
+      di sicurezza, questa varietà non agevola le cose dal punto di vista pratico.
+- c: 1
+  r: 1
+  v: scorrere
+  x:
+  - s: Om ni <v>bläddrar</v> <p>igenom</p> denna studie kommer ni att se att dess
+      slutsatser när det gäller frågorna om skattepolitik är exakt desamma som jag
+      just utvecklat.
+    t: <a>Scorrendo</a> questo studio si vedrà che le sue conclusioni sulle questioni
+      di politica fiscale sono esattamente quelle che ho appena illustrato.
+- c: 1
+  r: 1
+  v: occhiata
+  x:
+  - s: Omfattningen av denna företeelse är enorm, något som man märker genom att bara
+      <v>bläddra</v> <p>igenom</p> dagstidningarna.
+    t: La portata di tale fenomeno è smisurata, come si comprende dando anche solo
+      un’<a>occhiata</a> ai quotidiani.
+pt:
+- c: 1
+  r: 1
+  v: ler
+  x:
+  - s: Om ni <v>bläddrar</v> <p>igenom</p> denna studie kommer ni att se att dess
+      slutsatser när det gäller frågorna om skattepolitik är exakt desamma som jag
+      just utvecklat.
+    t: Se <a>ler</a> esse estudo, verá que as suas conclusões sobre as questões relativas
+      a políticas fiscais são exactamente as que acabo de desenvolver.
+- c: 1
+  r: 1
+  v: folhear
+  x:
+  - s: Jag var tvungen att tänka på det när jag ännu en gång <v>bläddrade</v> <p>igenom</p>
+      grönboken om hamnar och sjötransportens infrastruktur och lät den andra meningen
+      sjunka in ordentligt.
+    t: Pensei nesta história quando, ao <a>folhear</a> novamente o Livro Verde relativo
+      aos portos e às infra-estruturas marítimas, me detive sobre o sentido da sua
+      segunda frase.
+- c: 1
+  r: 1
+  v: leitura
+  x:
+  - s: Omfattningen av denna företeelse är enorm, något som man märker genom att bara
+      <v>bläddra</v> <p>igenom</p> dagstidningarna.
+    t: A escala deste fenómeno é enorme, como pode ser constatado pela <a>leitura</a>
+      dos jornais diários.

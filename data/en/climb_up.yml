@@ -1,0 +1,172 @@
+---
+de:
+- c: 1
+  r: 1
+  v: mittelgroß
+  x:
+  - s: I would not like to know how much money the insurers of this building will
+      have to pay out in future for all the medium-sized persons <v>climbing</v> <p>up</p>
+      on these chairs.
+    t: Ich möchte nicht wissen, wieviel Geld zukünftig die Versicherung dieses Hauses
+      zahlen muß für alle auf die Stühle steigenden <a>mittelgroß</a> gewachsenen
+      Personen.
+- c: 1
+  r: 1
+  v: Gerüst
+  x:
+  - s: Anyone who has tried to <v>climb</v> <p>up</p> scaffolding knows how, in that
+      situation, one wonders whether the construction, which looks so flimsy, has
+      been put together properly.
+    t: Alle, die sich schon einmal auf einem <a>Gerüst</a> bewegt haben, wissen, dass
+      man in dieser Situation darüber nachdenkt, ob die so leicht wirkenden Konstruktionen
+      auch korrekt montiert sind.
+es:
+- c: 1
+  r: 1
+  v: dispensario
+  x:
+  - s: An ill man, leaning on his walking stick for support, who came to be treated
+      for diabetes, was killed by a bullet as he <v>climbed</v> <p>up</p> the first
+      step into the hospital.
+    t: Un hombre enfermo, apoyado en su bastón, acude a tratar su diabetes, pero una
+      bala lo mata en el primer escalón del <a>dispensario</a>.
+- c: 1
+  r: 1
+  v: estatura subir
+  x:
+  - s: I would not like to know how much money the insurers of this building will
+      have to pay out in future for all the medium-sized persons <v>climbing</v> <p>up</p>
+      on these chairs.
+    t: No quiero saber cuánto dinero habrá de pagar en el futuro la compañía de seguros
+      de esta Asamblea por todas las personas de <a>estatura</a> media que se <a>suban</a>
+      a las sillas.
+- c: 1
+  r: 1
+  v: escalar
+  x:
+  - s: We are of the opinion that they will have a successful outcome if we manage
+      to preserve the trend evident over the last year, when climate change has continued
+      to <v>climb</v> <p>up</p> the political agenda.
+    t: Creemos que tendrán un resultado positivo si logramos evitar la tendencia palpable
+      del pasado año durante el que el cambio climático ha seguido <a>escalando</a>
+      puestos en la agenda política.
+fr:
+- c: 2
+  r: 1
+  v: monter
+  x:
+  - s: Anyone who has tried to <v>climb</v> <p>up</p> scaffolding knows how, in that
+      situation, one wonders whether the construction, which looks so flimsy, has
+      been put together properly.
+    t: Tous ceux qui ont déjà essayé de <a>monter</a> sur un échafaudage savent que,
+      dans pareille situation, on se demande si ces constructions, qui semblent si
+      légères, sont bien agencées.
+  - s: I would not like to know how much money the insurers of this building will
+      have to pay out in future for all the medium-sized persons <v>climbing</v> <p>up</p>
+      on these chairs.
+    t: Je ne veux pas savoir combien d’argent l’assurance de ce bâtiment va devoir
+      payer pour toutes les personnes de taille moyenne <a>montant</a> sur les chaises.
+it:
+- c: 1
+  r: 1
+  v: scalata
+  x:
+  - s: There are still considerable difficulties in <v>climbing</v> <p>up</p> the
+      career ladder.
+    t: Nella <a>scalata</a> alla carriera si riscontrano ancora gravi insufficienze.
+- c: 1
+  r: 1
+  v: acquisire
+  x:
+  - s: We are of the opinion that they will have a successful outcome if we manage
+      to preserve the trend evident over the last year, when climate change has continued
+      to <v>climb</v> <p>up</p> the political agenda.
+    t: Riteniamo che sortiranno un risultato positivo se riusciamo a mantenere la
+      tendenza emersa nell’ultimo anno, in cui il cambiamento climatico è un tema
+      che ha <a>acquisito</a> sempre più priorità nell’agenda politica.
+- c: 1
+  r: 1
+  v: altezza salire
+  x:
+  - s: I would not like to know how much money the insurers of this building will
+      have to pay out in future for all the medium-sized persons <v>climbing</v> <p>up</p>
+      on these chairs.
+    t: Non voglio sapere quanti soldi dovrà pagare in futuro l’assicurazione di questo
+      Parlamento per tutto il personale di media <a>altezza</a> che sarà costretto
+      a <a>salire</a> sulle sedie.
+- c: 1
+  r: 1
+  v: uccidere dispensario
+  x:
+  - s: An ill man, leaning on his walking stick for support, who came to be treated
+      for diabetes, was killed by a bullet as he <v>climbed</v> <p>up</p> the first
+      step into the hospital.
+    t: Un uomo malato, appoggiato sul proprio bastone, viene a curarsi il diabete,
+      ma una pallottola lo <a>uccide</a> sul primo gradino del <a>dispensario</a>.
+pt:
+- c: 1
+  r: 1
+  v: ganhar
+  x:
+  - s: We are of the opinion that they will have a successful outcome if we manage
+      to preserve the trend evident over the last year, when climate change has continued
+      to <v>climb</v> <p>up</p> the political agenda.
+    t: Consideramos que serão concluídas com êxito, caso consigamos preservar a tendência
+      evidenciada durante o ano passado, altura em que a questão das alterações climáticas
+      continuou a <a>ganhar</a> importância na agenda política.
+- c: 1
+  r: 1
+  v: cima
+  x:
+  - s: Anyone who has tried to <v>climb</v> <p>up</p> scaffolding knows how, in that
+      situation, one wonders whether the construction, which looks so flimsy, has
+      been put together properly.
+    t: Quem já andou em <a>cima</a> de um andaime <a>interrogase</a> quanto à segurança
+      da montagem de uma estrutura aparentemente tão ligeira.
+- c: 1
+  r: 1
+  v: dispensário
+  x:
+  - s: An ill man, leaning on his walking stick for support, who came to be treated
+      for diabetes, was killed by a bullet as he <v>climbed</v> <p>up</p> the first
+      step into the hospital.
+    t: Um homem doente, apoiado numa bengala, vem receber o tratamento para os diabetes,
+      mas uma bala mata-o no primeiro degrau do <a>dispensário</a>.
+- c: 1
+  r: 1
+  v: estatura subir
+  x:
+  - s: I would not like to know how much money the insurers of this building will
+      have to pay out in future for all the medium-sized persons <v>climbing</v> <p>up</p>
+      on these chairs.
+    t: Não gostaria de saber quanto é que a companhia de seguros desta casa terá futuramente
+      de pagar a todas as pessoas de <a>estatura</a> média que <a>sobem</a> para essas
+      cadeiras.
+sv:
+- c: 1
+  r: 1
+  v: underskott klättring uppföra
+  x:
+  - s: There are still considerable difficulties in <v>climbing</v> <p>up</p> the
+      career ladder.
+    t: Fortfarande finns det åtskilliga <a>underskott</a> vid <a>klättringen</a> <a>uppför</a>
+      karriärstegen.
+- c: 1
+  r: 1
+  v: vårdcentral
+  x:
+  - s: An ill man, leaning on his walking stick for support, who came to be treated
+      for diabetes, was killed by a bullet as he <v>climbed</v> <p>up</p> the first
+      step into the hospital.
+    t: En sjuk man som stöder sig på sin käpp går för att sköta om sin diabetes, men
+      en kula dödar honom på <a>vårdcentralens</a> nedersta trappsteg.
+- c: 1
+  r: 1
+  v: klättra uppåt
+  x:
+  - s: We are of the opinion that they will have a successful outcome if we manage
+      to preserve the trend evident over the last year, when climate change has continued
+      to <v>climb</v> <p>up</p> the political agenda.
+    t: Vår uppfattning är att vi kan nå ett framgångsrikt resultat om vi lyckas upprätthålla
+      den tendens som varit tydlig under det gångna året, då frågan om klimatförändringar
+      har fortsatt att <a>klättra</a> <a>uppåt</a> på den politiska agendan.

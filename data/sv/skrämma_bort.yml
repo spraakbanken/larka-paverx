@@ -1,0 +1,542 @@
+---
+de:
+- c: 1
+  r: 1
+  v: verängstigen
+  x:
+  - s: Under framför allt dessa svåra tider får vi inte <v>skrämma</v> <p>bort</p>
+      kvinnorna från arbetsmarknaden.
+    t: Besonders in diesen schwierigen Zeiten dürfen wir Frauen nicht <a>verängstigen</a>
+      und aus dem Arbeitsmarkt drängen.
+- c: 1
+  r: 1
+  v: erschrecken
+  x:
+  - s: Jag tror inte att jag med mina ord, som var mycket vänliga, <v>skrämde</v>
+      <p>bort</p> de unga europeiska medborgarna.
+    t: Ich glaube nicht, daß ich mit meinen Worten, die sehr liebenswürdig waren,
+      die jungen europäischen Bürger <a>erschreckt</a> habe.
+- c: 1
+  r: 1
+  v: geglaubt
+  x:
+  - s: För det andra har det talats om den stora prövningen för EU, oron för att det
+      europeiska projektet till och med skulle kunna misslyckas och att gamla spöken
+      som vi trodde att vi hade <v>skrämt</v> <p>bort</p> skulle kunna återvända till
+      EU.
+    t: Es wurde von der großen Bewährungsprobe für Europa gesprochen, von der Sorge,
+      dass das Projekt vielleicht auch scheitern könnte, dass alte, besiegt <a>geglaubte</a>
+      Geister wiederkommen könnten in der Europäischen Union.
+- c: 1
+  r: 1
+  v: Angst beseitigen
+  x:
+  - s: Med en sådan handlingsplan, och genom att intensifiera samarbetet mellan kommissionen
+      och Europaparlamentet, är jag övertygad om att vi kommer att ha ett rättsligt
+      instrument som skrämmer bort kontradiktionens spöke, som <v>skrämmer</v> <p>bort</p>
+      den europeiska superstatens spöke, men som framför allt säkerställer en rättsordning
+      baserad på de grundläggande rättigheterna för dem som vi alla är här för, det
+      vill säga unionens medborgare.
+    t: Wenn wir die Zusammenarbeit zwischen der Kommission und dem Europäischen Parlament
+      verstärken, bin ich überzeugt, daß wir mit diesem Aktionsrahmen über ein Rechtsinstrument
+      verfügen, das die phantomhafte <a>Angst</a> vor Widersprüchen und einem europäischen
+      Überstaat <a>beseitigt</a>, insbesondere aber eine auf den Grundrechten beruhende
+      Rechtsordnung garantiert.
+- c: 1
+  r: 1
+  v: abschrecken
+  x:
+  - s: Det bästa vi kan göra är att låta dem få tillträde till Europa, men då kan
+      vi inte ha avgifter som kommer att <v>skrämma</v> <p>bort</p> eller göra det
+      omöjligt för de flesta av deras medborgare.
+    t: Der beste Weg dazu wäre wohl, diese Bürger nach Europa einreisen zu lassen,
+      und zwar nicht zu Kosten, die die meisten Bürger <a>abschrecken</a> oder gar
+      nicht erst aufbringen können.
+- c: 1
+  r: 1
+  v: Angst
+  x:
+  - s: Med en sådan handlingsplan, och genom att intensifiera samarbetet mellan kommissionen
+      och Europaparlamentet, är jag övertygad om att vi kommer att ha ett rättsligt
+      instrument som <v>skrämmer</v> <p>bort</p> kontradiktionens spöke, som skrämmer
+      bort den europeiska superstatens spöke, men som framför allt säkerställer en
+      rättsordning baserad på de grundläggande rättigheterna för dem som vi alla är
+      här för, det vill säga unionens medborgare.
+    t: Wenn wir die Zusammenarbeit zwischen der Kommission und dem Europäischen Parlament
+      verstärken, bin ich überzeugt, daß wir mit diesem Aktionsrahmen über ein Rechtsinstrument
+      verfügen, das die <a>phantomhafte</a> <a>Angst</a> vor Widersprüchen und einem
+      europäischen Überstaat beseitigt, insbesondere aber eine auf den Grundrechten
+      beruhende Rechtsordnung garantiert.
+en:
+- c: 2
+  r: 1
+  v: frighten
+  x:
+  - s: Det bästa vi kan göra är att låta dem få tillträde till Europa, men då kan
+      vi inte ha avgifter som kommer att <v>skrämma</v> <p>bort</p> eller göra det
+      omöjligt för de flesta av deras medborgare.
+    t: The best way we can do that is to allow those citizens access into Europe not
+      at rates which will <a>frighten</a> or prohibit entry by most citizens.
+  - s: Jag tror inte att jag med mina ord, som var mycket vänliga, <v>skrämde</v>
+      <p>bort</p> de unga europeiska medborgarna.
+    t: I do not believe that I <a>frightened</a> our young European visitors with
+      my warm words.
+- c: 1
+  r: 2
+  v: alienate
+  x:
+  - s: Frågan om Afrika togs visserligen upp kort i Heiligendamm, även om det var
+      för att inte <v>skrämma</v> <p>bort</p> Bono och Bob Geldof.
+    t: Indeed, the subject of Africa did come up briefly in Heiligendamm, even if
+      it was with the intention of not <a>alienating</a> Bono and Bob Geldof.
+- c: 1
+  r: 2
+  v: frighten off
+  x:
+  - s: Det leder till att utländska investerare <v>skräms</v> <p>bort</p>, att turismen
+      kraftigt minskar och att det ekonomiska biståndet avbryts.
+    t: This <a>frightens</a> <a>off</a> overseas investment, sharply reduces the flow
+      of tourists, and stops financial aid.
+- c: 1
+  r: 2
+  v: scare away
+  x:
+  - s: Det är inte parlamentsledamöternas besök som <v>skrämmer</v> <p>bort</p> potentiella
+      husköpare.
+    t: It is not the visits by MEPs that are <a>scaring</a> <a>away</a> potential
+      home buyers.
+- c: 1
+  r: 2
+  v: scare off
+  x:
+  - s: Osäkerhet <v>skrämmer</v> <p>bort</p> investeringar medan förtroende drar dem
+      till sig.
+    t: Uncertainty <a>scares</a> <a>off</a> investment whereas trust attracts it.
+  - s: Fragmenteringen av befintliga lagar <v>skrämmer</v> <p>bort</p> både konsumenter
+      och företag som funderar på att medverka i gränsöverskridande handel.
+    t: The fragmentation of existing laws <a>scares</a> <a>off</a> both consumers
+      and businesses who are considering becoming involved in cross-border trade.
+- c: 1
+  r: 2
+  v: scare
+  x:
+  - s: Sprängämnen och racerbåtar används allmänt för att <v>skrämma</v> <p>bort</p>
+      delfiner, och enligt programmet är det till och med tillåtet att döda djuren
+      avsiktligt.
+    t: Explosives and speedboats are commonly used to <a>scare</a> dolphins and the
+      programme even allows the deliberate killing of these animals, with over 1 400
+      observed dead last year, according to the Earth Island Institute’s ‘Dolphin
+      Safe’ programme.
+- c: 1
+  r: 2
+  v: prevent
+  x:
+  - s: Här behöver medlemsstaterna ta krafttag och samarbeta mer för att få bort dessa
+      produkter från marknaden och <v>skrämma</v> <p>bort</p> aktörer från att placera
+      produkter på marknaden om de innehåller farliga kemikalier.
+    t: In this regard, the Member States need to make vigorous efforts and cooperate
+      more to remove these products from the market and <a>prevent</a> players from
+      placing products on the market when these contain hazardous chemicals.
+- c: 1
+  r: 2
+  v: frighten away
+  x:
+  - s: Under framför allt dessa svåra tider får vi inte <v>skrämma</v> <p>bort</p>
+      kvinnorna från arbetsmarknaden.
+    t: During these difficult times in particular, we must not <a>frighten</a> women
+      <a>away</a> from the labour market.
+- c: 1
+  r: 2
+  v: fear
+  x:
+  - s: Med en sådan handlingsplan, och genom att intensifiera samarbetet mellan kommissionen
+      och Europaparlamentet, är jag övertygad om att vi kommer att ha ett rättsligt
+      instrument som skrämmer bort kontradiktionens spöke, som <v>skrämmer</v> <p>bort</p>
+      den europeiska superstatens spöke, men som framför allt säkerställer en rättsordning
+      baserad på de grundläggande rättigheterna för dem som vi alla är här för, det
+      vill säga unionens medborgare.
+    t: I am sure that under this action plan, with closer collaboration between the
+      Commission and the European Parliament, we will have a legal instrument that
+      will banish the spectre created by the <a>fear</a> of contradictions and the
+      spectre of the European superstate, but which will above all ensure that there
+      is a legal system, based on fundamental rights, for the benefit of those on
+      whose behalf we are all here - the citizens of our Union.
+- c: 1
+  r: 2
+  v: exclude
+  x:
+  - s: De europeiska myndigheterna kan vidta alla åtgärder de vill, det kommer kanske
+      att <v>skrämma</v> <p>bort</p> afrikanska, latinamerikanska eller östeuropeiska
+      flygplan, men i och med det gemensamma luftrummet och de planerade privatiseringarna
+      kommer det europeiska luftrummet att närma sig de förhållanden som gäller i
+      tredje världen.
+    t: These same European authorities can take all the steps they like - that may
+      well <a>exclude</a> African, Latin American or Eastern European planes - but
+      with the Single Sky and their privatisation projects, conditions in the European
+      sky are going to end up more like a third-world sky.
+- c: 1
+  r: 2
+  v: eradicate
+  x:
+  - s: För det andra har det talats om den stora prövningen för EU, oron för att det
+      europeiska projektet till och med skulle kunna misslyckas och att gamla spöken
+      som vi trodde att vi hade <v>skrämt</v> <p>bort</p> skulle kunna återvända till
+      EU.
+    t: The second thought is that mention has been made of the big test for Europe
+      and of the concern that the project could perhaps even fail and that old ghosts
+      that we had thought we had <a>eradicated</a> could return to the European Union.
+- c: 1
+  r: 2
+  v: away
+  x:
+  - s: Även om fiskar är mindre känsliga för systemets skadliga effekter än havsdäggdjuren,
+      är det klart att oljudet från radarn kan <v>skrämma</v> <p>bort</p> fiskarna
+      och på så sätt försvåra yrkesutövandet.
+    t: Although fish might be less prone than marine mammals to the harmful effects
+      of the system, obviously the noise of the radar could drive them <a>away</a>
+      and thus harm people’s livelihoods.
+- c: 1
+  r: 2
+  v: banish
+  x:
+  - s: Med en sådan handlingsplan, och genom att intensifiera samarbetet mellan kommissionen
+      och Europaparlamentet, är jag övertygad om att vi kommer att ha ett rättsligt
+      instrument som <v>skrämmer</v> <p>bort</p> kontradiktionens spöke, som skrämmer
+      bort den europeiska superstatens spöke, men som framför allt säkerställer en
+      rättsordning baserad på de grundläggande rättigheterna för dem som vi alla är
+      här för, det vill säga unionens medborgare.
+    t: I am sure that under this action plan, with closer collaboration between the
+      Commission and the European Parliament, we will have a legal instrument that
+      will <a>banish</a> the spectre created by the fear of contradictions and the
+      spectre of the European superstate, but which will above all ensure that there
+      is a legal system, based on fundamental rights, for the benefit of those on
+      whose behalf we are all here - the citizens of our Union.
+es:
+- c: 1
+  r: 1
+  v: asustar extranjero
+  x:
+  - s: Det leder till att utländska investerare <v>skräms</v> <p>bort</p>, att turismen
+      kraftigt minskar och att det ekonomiska biståndet avbryts.
+    t: Estos hechos <a>asustan</a> a la inversión <a>extranjera</a>, reducen considerablemente
+      la entrada de turistas y detienen la ayuda financiera.
+- c: 1
+  r: 1
+  v: exclusión acabar parecer
+  x:
+  - s: De europeiska myndigheterna kan vidta alla åtgärder de vill, det kommer kanske
+      att <v>skrämma</v> <p>bort</p> afrikanska, latinamerikanska eller östeuropeiska
+      flygplan, men i och med det gemensamma luftrummet och de planerade privatiseringarna
+      kommer det europeiska luftrummet att närma sig de förhållanden som gäller i
+      tredje världen.
+    t: Esas mismas autoridades europeas pueden tomar todas las medidas que quieran
+      (entre ellas, la <a>exclusión</a> de aviones africanos, latinoamericanos o de
+      la Europa oriental), pero con el de «cielo único» y sus proyectos de privatización,
+      el estado del espacio aéreo europeo va a ser tal que va a <a>acabar</a> <a>pareciendo</a>
+      un espacio aéreo del tercer mundo.
+- c: 1
+  r: 1
+  v: evitar
+  x:
+  - s: Här behöver medlemsstaterna ta krafttag och samarbeta mer för att få bort dessa
+      produkter från marknaden och <v>skrämma</v> <p>bort</p> aktörer från att placera
+      produkter på marknaden om de innehåller farliga kemikalier.
+    t: En este sentido, los Estados miembros tienen que hacer grandes esfuerzos y
+      cooperar más para retirar estos productos del mercado y <a>evitar</a> que los
+      agentes introduzcan productos en el mercado cuando estos contengan sustancias
+      químicas peligrosas.
+- c: 1
+  r: 1
+  v: erradicar
+  x:
+  - s: För det andra har det talats om den stora prövningen för EU, oron för att det
+      europeiska projektet till och med skulle kunna misslyckas och att gamla spöken
+      som vi trodde att vi hade <v>skrämt</v> <p>bort</p> skulle kunna återvända till
+      EU.
+    t: La segunda idea es que se ha mencionado la gran prueba de Europa y la preocupación
+      de que el proyecto tal vez incluso podría fracasar y que los viejos fantasmas
+      que creíamos que habíamos <a>erradicado</a> podrían volver a la Unión Europea.
+- c: 1
+  r: 1
+  v: atemorizar
+  x:
+  - s: Det bästa vi kan göra är att låta dem få tillträde till Europa, men då kan
+      vi inte ha avgifter som kommer att <v>skrämma</v> <p>bort</p> eller göra det
+      omöjligt för de flesta av deras medborgare.
+    t: La mejor manera en que podemos abordar esta tarea es permitir que estos ciudadanos
+      accedan a Europa, pero no a unos precios que les <a>atemoricen</a> o que directamente
+      impidan el acceso a la mayoría de ellos.
+- c: 1
+  r: 1
+  v: alejar miedo
+  x:
+  - s: Med en sådan handlingsplan, och genom att intensifiera samarbetet mellan kommissionen
+      och Europaparlamentet, är jag övertygad om att vi kommer att ha ett rättsligt
+      instrument som <v>skrämmer</v> <p>bort</p> kontradiktionens spöke, som skrämmer
+      bort den europeiska superstatens spöke, men som framför allt säkerställer en
+      rättsordning baserad på de grundläggande rättigheterna för dem som vi alla är
+      här för, det vill säga unionens medborgare.
+    t: Con ese marco de acción, estoy convencido de que, estrechando la colaboración
+      entre la Comisión y el Parlamento Europeo, tendremos un instrumento jurídico
+      que <a>aleje</a> los fantasmas de los <a>miedos</a> a las contradicciones, el
+      fantasma del superestado europeo, pero que, sobre todo, garantice un orden jurídico
+      basado en los derechos fundamentales pensando en aquellos en nombre de los cuales
+      estamos todos nosotros aquí, que son los ciudadanos de nuestra Unión.
+- c: 1
+  r: 1
+  v: alejar
+  x:
+  - s: Medan vi diskuterar här kommer vi att <v>skrämma</v> <p>bort</p> ytterligare
+      konsumenter från köttdiskarna.
+    t: Si seguimos discutiendo así, sólo conseguiremos que un número cada vez más
+      elevado de consumidores se <a>aleje</a> de los mostradores de carne.
+- c: 1
+  r: 1
+  v: ahuyentar
+  x:
+  - s: Även om fiskar är mindre känsliga för systemets skadliga effekter än havsdäggdjuren,
+      är det klart att oljudet från radarn kan <v>skrämma</v> <p>bort</p> fiskarna
+      och på så sätt försvåra yrkesutövandet.
+    t: Aunque los peces estén expuestos en menor medida que los cetáceos a los efectos
+      nocivos del sistema, es evidente que el ruido puede <a>ahuyentarlos</a> y, por
+      consiguiente, poner en peligro la subsistencia de la gente.
+fr:
+- c: 2
+  r: 1
+  v: fuir
+  x:
+  - s: Även om fiskar är mindre känsliga för systemets skadliga effekter än havsdäggdjuren,
+      är det klart att oljudet från radarn kan <v>skrämma</v> <p>bort</p> fiskarna
+      och på så sätt försvåra yrkesutövandet.
+    t: Même si les poissons se révélaient moins sensibles que les mammifères marins
+      aux effets pervers du système, il est clair que le bruit du sonar pourrait les
+      faire <a>fuir</a> et donc nuire à l’activité halieutique.
+  - s: Medan vi diskuterar här kommer vi att <v>skrämma</v> <p>bort</p> ytterligare
+      konsumenter från köttdiskarna.
+    t: Tandis que nous discutons ici, nous faisons <a>fuir</a> d’autres consommateurs
+      des comptoirs de boucherie.
+- c: 2
+  r: 1
+  v: effrayer
+  x:
+  - s: Det leder till att utländska investerare <v>skräms</v> <p>bort</p>, att turismen
+      kraftigt minskar och att det ekonomiska biståndet avbryts.
+    t: Cette situation <a>effraye</a> les investisseurs étrangers, fait fortement
+      diminuer la fréquentation touristique et met un terme à l’aide financière.
+  - s: Fragmenteringen av befintliga lagar <v>skrämmer</v> <p>bort</p> både konsumenter
+      och företag som funderar på att medverka i gränsöverskridande handel.
+    t: La fragmentation des lois actuelles <a>effraye</a> autant les consommateurs
+      que les entreprises qui souhaiteraient participer davantage au commerce transfrontalier.
+- c: 2
+  r: 1
+  v: écarter
+  x:
+  - s: De europeiska myndigheterna kan vidta alla åtgärder de vill, det kommer kanske
+      att <v>skrämma</v> <p>bort</p> afrikanska, latinamerikanska eller östeuropeiska
+      flygplan, men i och med det gemensamma luftrummet och de planerade privatiseringarna
+      kommer det europeiska luftrummet att närma sig de förhållanden som gäller i
+      tredje världen.
+    t: Ces mêmes autorités européennes peuvent prendre toutes les mesures qu’elles
+      veulent, cela <a>écartera</a> peut-être des avions africains, latino-américains
+      ou est-européens, mais avec le ciel unique et ses projets de privatisation,
+      c’est le ciel européen qui se rapprochera des conditions que subit le tiers-monde.
+  - s: Med en sådan handlingsplan, och genom att intensifiera samarbetet mellan kommissionen
+      och Europaparlamentet, är jag övertygad om att vi kommer att ha ett rättsligt
+      instrument som <v>skrämmer</v> <p>bort</p> kontradiktionens spöke, som skrämmer
+      bort den europeiska superstatens spöke, men som framför allt säkerställer en
+      rättsordning baserad på de grundläggande rättigheterna för dem som vi alla är
+      här för, det vill säga unionens medborgare.
+    t: Si ce cadre est appliqué, je suis convaincu qu’en rapprochant la collaboration
+      entre la Commission et le Parlement européen, nous disposerons d’un instrument
+      juridique qui <a>écartera</a> les fantasmes des peurs des contradictions, les
+      peurs d’un super-État européen, et que, surtout, on garantira un ordre juridique
+      basé sur les droits fondamentaux de ceux au nom de qui nous sommes tous ici
+      présents, c’est à dire les citoyens de notre Union.
+- c: 1
+  r: 2
+  v: citt
+  x:
+  - s: Sprängämnen och racerbåtar används allmänt för att <v>skrämma</v> <p>bort</p>
+      delfiner, och enligt programmet är det till och med tillåtet att döda djuren
+      avsiktligt.
+    t: La décision prévoyait que l’Espagne participerait aux décisions de la <a>CITT</a>,
+      en ligne avec la position communautaire et en étroite coopération avec la Commission,
+      garantissant ainsi une participation effective de la Communauté dans la CITT.
+- c: 1
+  r: 2
+  v: aliéner
+  x:
+  - s: Frågan om Afrika togs visserligen upp kort i Heiligendamm, även om det var
+      för att inte <v>skrämma</v> <p>bort</p> Bono och Bob Geldof.
+    t: En effet, le thème de l’Afrique a été abordé brièvement à Heiligendamm, même
+      si c’était avec la volonté de ne pas s’<a>aliéner</a> les amis Bono et Bob Geldof.
+- c: 1
+  r: 2
+  v: effrayer pas
+  x:
+  - s: Det bästa vi kan göra är att låta dem få tillträde till Europa, men då kan
+      vi inte ha avgifter som kommer att <v>skrämma</v> <p>bort</p> eller göra det
+      omöjligt för de flesta av deras medborgare.
+    t: Le mieux que l’on puisse faire est de permettre à ces citoyens de venir en
+      Europe et ce, à un prix qui ne les <a>effrayera</a> <a>pas</a> et n’empêchera
+      pas la plupart d’entre eux d’entrer sur le territoire européen.
+- c: 1
+  r: 2
+  v: éviter détourner
+  x:
+  - s: Under framför allt dessa svåra tider får vi inte <v>skrämma</v> <p>bort</p>
+      kvinnorna från arbetsmarknaden.
+    t: En ces temps difficiles, <a>évitons</a> plus que jamais de <a>détourner</a>
+      les femmes du marché de l’emploi.
+it:
+- c: 2
+  r: 1
+  v: spaventare
+  x:
+  - s: Det bästa vi kan göra är att låta dem få tillträde till Europa, men då kan
+      vi inte ha avgifter som kommer att <v>skrämma</v> <p>bort</p> eller göra det
+      omöjligt för de flesta av deras medborgare.
+    t: Il modo migliore è consentire a quei cittadini di accedere in Europa non con
+      spese che <a>spaventerebbero</a> o impedirebbero l’entrata della maggior parte
+      dei cittadini.
+  - s: Jag tror inte att jag med mina ord, som var mycket vänliga, <v>skrämde</v>
+      <p>bort</p> de unga europeiska medborgarna.
+    t: Non penso che le mie parole di simpatia abbiano <a>spaventato</a> i giovani
+      cittadini europei presenti fra il pubblico.
+- c: 2
+  r: 1
+  v: allontanare
+  x:
+  - s: De europeiska myndigheterna kan vidta alla åtgärder de vill, det kommer kanske
+      att <v>skrämma</v> <p>bort</p> afrikanska, latinamerikanska eller östeuropeiska
+      flygplan, men i och med det gemensamma luftrummet och de planerade privatiseringarna
+      kommer det europeiska luftrummet att närma sig de förhållanden som gäller i
+      tredje världen.
+    t: Queste stesse autorità europee possono adottare tutte le misure che vogliono
+      - questo <a>allontanerà</a> forse aerei africani, latino-americani o est-europei
+      - ma con il cielo unico e i loro progetti di privatizzazione, le condizioni
+      del cielo europeo finiranno per assomigliare a quelle di un cielo da terzo mondo.
+  - s: Med en sådan handlingsplan, och genom att intensifiera samarbetet mellan kommissionen
+      och Europaparlamentet, är jag övertygad om att vi kommer att ha ett rättsligt
+      instrument som <v>skrämmer</v> <p>bort</p> kontradiktionens spöke, som skrämmer
+      bort den europeiska superstatens spöke, men som framför allt säkerställer en
+      rättsordning baserad på de grundläggande rättigheterna för dem som vi alla är
+      här för, det vill säga unionens medborgare.
+    t: 'In questo quadro d’azione, sono convinto che rafforzando la collaborazione
+      fra la Commissione e il Parlamento europeo, disporremo di uno strumento giuridico
+      che <a>allontana</a> i fantasmi del superstato europeo, ma che, soprattutto,
+      garantisce un ordine giuridico fondato sui diritti fondamentali e volto a tutelare
+      coloro in nome dei quali tutti noi siamo qui:'
+- c: 2
+  r: 1
+  v: scacciare
+  x:
+  - s: Medan vi diskuterar här kommer vi att <v>skrämma</v> <p>bort</p> ytterligare
+      konsumenter från köttdiskarna.
+    t: Mentre siamo qui a discutere, <a>scacciamo</a> altri consumatori dai banconi
+      della carne.
+  - s: För det andra har det talats om den stora prövningen för EU, oron för att det
+      europeiska projektet till och med skulle kunna misslyckas och att gamla spöken
+      som vi trodde att vi hade <v>skrämt</v> <p>bort</p> skulle kunna återvända till
+      EU.
+    t: La seconda è che si è parlato del grande banco di prova per l’Europa e della
+      preoccupazione che il progetto possa eventualmente fallire e i vecchi fantasmi,
+      che pensavamo di aver <a>scacciato</a>, possano ritornare nell’Unione europea.
+- c: 1
+  r: 2
+  v: esasperare
+  x:
+  - s: Frågan om Afrika togs visserligen upp kort i Heiligendamm, även om det var
+      för att inte <v>skrämma</v> <p>bort</p> Bono och Bob Geldof.
+    t: Di fatto, il tema dell’Africa è stato citato brevemente a Heiligendamm, anche
+      se solo allo scopo di non <a>esasperare</a> Bono e Bob Geldof.
+- c: 1
+  r: 2
+  v: deterrente
+  x:
+  - s: Fragmenteringen av befintliga lagar <v>skrämmer</v> <p>bort</p> både konsumenter
+      och företag som funderar på att medverka i gränsöverskridande handel.
+    t: La frammentazione delle norme è un <a>deterrente</a> sia per i consumatori
+      sia per le imprese dall’acquistare o vendere oltre frontiera.
+- c: 1
+  r: 2
+  v: tenere lontano
+  x:
+  - s: Osäkerhet <v>skrämmer</v> <p>bort</p> investeringar medan förtroende drar dem
+      till sig.
+    t: l’incertezza <a>tiene</a> <a>lontani</a> gli investimenti, mentre la fiducia
+      li attrae.
+- c: 1
+  r: 2
+  v: evitare
+  x:
+  - s: Här behöver medlemsstaterna ta krafttag och samarbeta mer för att få bort dessa
+      produkter från marknaden och <v>skrämma</v> <p>bort</p> aktörer från att placera
+      produkter på marknaden om de innehåller farliga kemikalier.
+    t: In proposito, gli Stati membri devono compiere intensi sforzi e collaborare
+      maggiormente per eliminare tali prodotti dal mercato ed <a>evitare</a> che gli
+      operatori immettano sul mercato prodotti contenenti sostanze chimiche pericolose.
+pt:
+- c: 3
+  r: 1
+  v: afugentar
+  x:
+  - s: Det leder till att utländska investerare <v>skräms</v> <p>bort</p>, att turismen
+      kraftigt minskar och att det ekonomiska biståndet avbryts.
+    t: Esta situação <a>afugenta</a> o investimento estrangeiro, reduz drasticamente
+      o fluxo de turistas e põe termo à assistência financeira.
+  - s: Medan vi diskuterar här kommer vi att <v>skrämma</v> <p>bort</p> ytterligare
+      konsumenter från köttdiskarna.
+    t: Enquanto discutimos aqui, estamos a <a>afugentar</a> mais consumidores dos
+      balcões da carne.
+  - s: Under framför allt dessa svåra tider får vi inte <v>skrämma</v> <p>bort</p>
+      kvinnorna från arbetsmarknaden.
+    t: Durante estes tempos difíceis, em particular, não devemos <a>afugentar</a>
+      as mulheres do mercado de trabalho.
+- c: 3
+  r: 1
+  v: afastar
+  x:
+  - s: De europeiska myndigheterna kan vidta alla åtgärder de vill, det kommer kanske
+      att <v>skrämma</v> <p>bort</p> afrikanska, latinamerikanska eller östeuropeiska
+      flygplan, men i och med det gemensamma luftrummet och de planerade privatiseringarna
+      kommer det europeiska luftrummet att närma sig de förhållanden som gäller i
+      tredje världen.
+    t: Essas mesmas autoridades europeias podem tomar todas as medidas que queiram,
+      <a>afastando</a> talvez aviões africanos, latino-americanos ou do leste europeu,
+      mas com o Céu Único e os seus projectos de privatização, será o céu europeu
+      que se aproximará das condições vividas no terceiro mundo.
+  - s: Med en sådan handlingsplan, och genom att intensifiera samarbetet mellan kommissionen
+      och Europaparlamentet, är jag övertygad om att vi kommer att ha ett rättsligt
+      instrument som <v>skrämmer</v> <p>bort</p> kontradiktionens spöke, som skrämmer
+      bort den europeiska superstatens spöke, men som framför allt säkerställer en
+      rättsordning baserad på de grundläggande rättigheterna för dem som vi alla är
+      här för, det vill säga unionens medborgare.
+    t: Com este quadro de acção, estou convencido que, estreitando a colaboração entre
+      a Comissão e o Parlamento Europeu, teremos um instrumento jurídico que <a>afaste</a>
+      os fantasmas dos medos das contradições, que afaste o fantasma do superEstado
+      europeu, mas que, sobretudo, garanta uma ordem jurídica baseada nos direitos
+      fundamentais a pensar naqueles em nome dos quais nós todos estamos aqui, que
+      são os cidadãos da nossa União.
+  - s: Med en sådan handlingsplan, och genom att intensifiera samarbetet mellan kommissionen
+      och Europaparlamentet, är jag övertygad om att vi kommer att ha ett rättsligt
+      instrument som skrämmer bort kontradiktionens spöke, som <v>skrämmer</v> <p>bort</p>
+      den europeiska superstatens spöke, men som framför allt säkerställer en rättsordning
+      baserad på de grundläggande rättigheterna för dem som vi alla är här för, det
+      vill säga unionens medborgare.
+    t: Com este quadro de acção, estou convencido que, estreitando a colaboração entre
+      a Comissão e o Parlamento Europeu, teremos um instrumento jurídico que afaste
+      os fantasmas dos medos das contradições, que <a>afaste</a> o fantasma do superEstado
+      europeu, mas que, sobretudo, garanta uma ordem jurídica baseada nos direitos
+      fundamentais a pensar naqueles em nome dos quais nós todos estamos aqui, que
+      são os cidadãos da nossa União.
+- c: 1
+  r: 2
+  v: assustar
+  x:
+  - s: Det bästa vi kan göra är att låta dem få tillträde till Europa, men då kan
+      vi inte ha avgifter som kommer att <v>skrämma</v> <p>bort</p> eller göra det
+      omöjligt för de flesta av deras medborgare.
+    t: A melhor forma de o fazermos é permitir que esses cidadãos tenham acesso à
+      Europa sem terem de pagar encargos que os <a>assustam</a> ou os proíbem, na
+      sua maioria, de nos visitar.

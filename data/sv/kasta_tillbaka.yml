@@ -1,0 +1,283 @@
+---
+de:
+- c: 2
+  r: 1
+  v: zurückwerfen
+  x:
+  - s: Det måste göras en översyn av den nuvarande politiken, enligt vilken yrkesfiskarna
+      måste <v>kasta</v> <p>tillbaka</p> överflödiga och till och med alltför små
+      fiskar i havet, trots att de är döda eller döende på grund av att simblåsan
+      skadas när de alltför snabbt förs upp till ytan.
+    t: Es muss eine Umkehr der gegenwärtigen Politik geben, gemäß der Fischer im Überfluss
+      gefangene und untermaßige Fische in das Meer <a>zurückwerfen</a> müssen, sogar
+      dann, wenn sie tot sind oder wegen Schwimmblasenverletzung sterben, da sie zu
+      schnell an die Oberfläche gebracht wurden.
+  - s: Fiskarna själva ogillar starkt att de måste <v>kasta</v> <p>tillbaka</p> delar
+      av sin fångst, som skulle kunna säljas om reglerna inte fanns.
+    t: Die Fischer selber bedauern sehr, einen Teil ihrer Fänge <a>zurückwerfen</a>
+      zu müssen, die verkauft werden könnten, wenn es nicht solche Regelungen gäbe.
+- c: 1
+  r: 2
+  v: Vermarktung
+  x:
+  - s: Gemenskapens stöd för att <v>kasta</v> <p>tillbaka</p> vissa fiskeprodukter
+      i havet i vissa yttre randområden, bland vilka den autonoma regionen Madeira
+      finns, som fastställdes 1992 efter införandet av Posei-programmet, har varit
+      föremål för successiva förlängningar och revisioner.
+    t: Das 1992 im Gefolge der POSEI-Programme eingerichtete Gemeinschaftssystem zur
+      Unterstützung der <a>Vermarktung</a> bestimmter Fischereierzeugnisse aus Gebieten
+      in äußerster Randlage, zu denen die Autonome Region Madeira gehört, ist mehrfach
+      verlängert und revidiert worden.
+- c: 1
+  r: 2
+  v: wieder werfen
+  x:
+  - s: Vi tar endast upp 25 000 ton djaboï som tilläggsfångst, för att slippa <v>kasta</v>
+      <p>tillbaka</p> den.
+    t: Wir fangen 25 000 Tonnen Djaboï lediglich als Beifang, um ihn nicht <a>wieder</a>
+      in die See zu <a>werfen</a>.
+- c: 1
+  r: 2
+  v: Verarbeitung
+  x:
+  - s: På jordbruksområdet har vissa smärre justeringar gjorts av åtgärderna och när
+      det gäller fiskeriet har stödet för att <v>kasta</v> <p>tillbaka</p> vissa produkter
+      i havet förlängts, som det nu föreslås igen för ytterligare ett år.
+    t: In der Landwirtschaft erfolgten kleine Anpassungen im Rahmen der Maßnahmen,
+      und in der Fischerei wurden die Beihilfen für die <a>Verarbeitung</a> bestimmter
+      Fischereierzeugnisse verlängert, was auch mit dem aktuellen Vorschlag um ein
+      weiteres Jahr geschehen soll.
+en:
+- c: 2
+  r: 1
+  v: throw back
+  x:
+  - s: Att <v>kasta</v> <p>tillbaka</p> redan upptagen död fisk som duger att äta
+      är givetvis raka motsatsen till hållbarhet.
+    t: But <a>throwing</a> <a>back</a> into the sea dead fish that have already been
+      caught and are good for the table is surely the opposite of sustainability.
+  - s: Sportfiskarna fångar och tar endast upp ur havet det de tänker äta och lämnar
+      småfisken kvar att växa och frodas och <v>kastar</v> <p>tillbaka</p> den fisk
+      som de inte absolut behöver.
+    t: Recreational sea anglers catch and remove from the sea only what they intend
+      to eat, leaving small young fish to develop and breed, and <a>throwing</a> <a>back</a>
+      what they do not strictly need.
+  - s: Fiskarna själva ogillar starkt att de måste <v>kasta</v> <p>tillbaka</p> delar
+      av sin fångst, som skulle kunna säljas om reglerna inte fanns.
+    t: The fishermen themselves deeply resent having to <a>throw</a> <a>back</a> parts
+      of their catch, which could be sold if the rules did not exist.
+- c: 2
+  r: 1
+  v: disposal
+  x:
+  - s: På jordbruksområdet har vissa smärre justeringar gjorts av åtgärderna och när
+      det gäller fiskeriet har stödet för att <v>kasta</v> <p>tillbaka</p> vissa produkter
+      i havet förlängts, som det nu föreslås igen för ytterligare ett år.
+    t: In agriculture, some small improvements have been made to the framework of
+      measures, and in fisheries, aid has been extended for the <a>disposal</a> of
+      certain products, as is now being proposed once again, for a further year.
+  - s: Gemenskapens stöd för att <v>kasta</v> <p>tillbaka</p> vissa fiskeprodukter
+      i havet i vissa yttre randområden, bland vilka den autonoma regionen Madeira
+      finns, som fastställdes 1992 efter införandet av Posei-programmet, har varit
+      föremål för successiva förlängningar och revisioner.
+    t: The Community system of support for the <a>disposal</a> of some fishery products
+      in certain outermost regions, including the Autonomous Region of Madeira, a
+      system established in 1992 following on from the POSEI programmes, has been
+      subject to successive extensions and revisions.
+- c: 1
+  r: 2
+  v: discard
+  x:
+  - s: Vi tar endast upp 25 000 ton djaboï som tilläggsfångst, för att slippa <v>kasta</v>
+      <p>tillbaka</p> den.
+    t: We shall only be landing 25 000 tonnes of djaboï as a by-catch, so as not to
+      <a>discard</a> it.
+- c: 1
+  r: 2
+  v: return
+  x:
+  - s: Det måste göras en översyn av den nuvarande politiken, enligt vilken yrkesfiskarna
+      måste <v>kasta</v> <p>tillbaka</p> överflödiga och till och med alltför små
+      fiskar i havet, trots att de är döda eller döende på grund av att simblåsan
+      skadas när de alltför snabbt förs upp till ytan.
+    t: There must be a revision of the present policy under which fishermen must <a>return</a>
+      excess and even undersized fish to the sea, even though they are dead or dying
+      as the result of swim bladder damage by being brought too quickly to the surface.
+- c: 1
+  r: 2
+  v: throw back
+  x:
+  - s: Att <v>kasta</v> <p>tillbaka</p> redan upptagen död fisk som duger att äta
+      är givetvis raka motsatsen till hållbarhet.
+    t: But <a>throwing</a> <a>back</a> into the sea dead fish that have already been
+      caught and are good for the table is surely the opposite of sustainability.
+  - s: Sportfiskarna fångar och tar endast upp ur havet det de tänker äta och lämnar
+      småfisken kvar att växa och frodas och <v>kastar</v> <p>tillbaka</p> den fisk
+      som de inte absolut behöver.
+    t: Recreational sea anglers catch and remove from the sea only what they intend
+      to eat, leaving small young fish to develop and breed, and <a>throwing</a> <a>back</a>
+      what they do not strictly need.
+  - s: Fiskarna själva ogillar starkt att de måste <v>kasta</v> <p>tillbaka</p> delar
+      av sin fångst, som skulle kunna säljas om reglerna inte fanns.
+    t: The fishermen themselves deeply resent having to <a>throw</a> <a>back</a> parts
+      of their catch, which could be sold if the rules did not exist.
+es:
+- c: 3
+  r: 1
+  v: devolver
+  x:
+  - s: Att <v>kasta</v> <p>tillbaka</p> redan upptagen död fisk som duger att äta
+      är givetvis raka motsatsen till hållbarhet.
+    t: Pero <a>devolver</a> al mar los peces muertos que ya han sido capturados y
+      son buenos para la mesa es sin duda lo contrario a la sostenibilidad.
+  - s: Sportfiskarna fångar och tar endast upp ur havet det de tänker äta och lämnar
+      småfisken kvar att växa och frodas och <v>kastar</v> <p>tillbaka</p> den fisk
+      som de inte absolut behöver.
+    t: Los pescadores recreativos capturan y recogen del mar únicamente lo que lo
+      que tienen intención de comer, dejando que los peces jóvenes y pequeños se desarrollen
+      y reproduzcan, y <a>devuelven</a> lo que no necesitan estrictamente.
+  - s: Det måste göras en översyn av den nuvarande politiken, enligt vilken yrkesfiskarna
+      måste <v>kasta</v> <p>tillbaka</p> överflödiga och till och med alltför små
+      fiskar i havet, trots att de är döda eller döende på grund av att simblåsan
+      skadas när de alltför snabbt förs upp till ytan.
+    t: Tiene que haber una revisión de la política actual bajo la cual los pescadores
+      han de <a>devolver</a> al mar los excesos de capturas e incluso las que no tienen
+      la talla mínima, aunque los peces estén muertos o agonizando como resultado
+      de daños de su vejiga natatoria, al ser izados a la superficie demasiado rápido.
+- c: 2
+  r: 2
+  v: salida
+  x:
+  - s: På jordbruksområdet har vissa smärre justeringar gjorts av åtgärderna och när
+      det gäller fiskeriet har stödet för att <v>kasta</v> <p>tillbaka</p> vissa produkter
+      i havet förlängts, som det nu föreslås igen för ytterligare ett år.
+    t: En la agricultura, se hicieron pequeños ajustes en el marco de la adopción
+      de ciertas medidas y en la pesca se ha prorrogado el apoyo a la <a>salida</a>
+      de algunos productos, como ahora se propone, de nuevo, durante un año más.
+  - s: Gemenskapens stöd för att <v>kasta</v> <p>tillbaka</p> vissa fiskeprodukter
+      i havet i vissa yttre randområden, bland vilka den autonoma regionen Madeira
+      finns, som fastställdes 1992 efter införandet av Posei-programmet, har varit
+      föremål för successiva förlängningar och revisioner.
+    t: El sistema comunitario de apoyo a la <a>salida</a> de ciertos productos de
+      pesca de determinadas regiones ultraperiféricas, entre la cuales se encuentra
+      la Región Autónoma de Madeira, establecido en 1992 a raíz de los programas POSEI,
+      ha sido objeto de sucesivas prórrogas y revisiones.
+- c: 1
+  r: 3
+  v: rechazar
+  x:
+  - s: Vi tar endast upp 25 000 ton djaboï som tilläggsfångst, för att slippa <v>kasta</v>
+      <p>tillbaka</p> den.
+    t: Sólo pescamos sardinela a razón de 25.000 toneladas como captura accesoria,
+      para no <a>rechazarlo</a>.
+- c: 1
+  r: 3
+  v: arrojar vez
+  x:
+  - s: Fiskarna själva ogillar starkt att de måste <v>kasta</v> <p>tillbaka</p> delar
+      av sin fångst, som skulle kunna säljas om reglerna inte fanns.
+    t: Los propios pescadores llevan muy mal la obligación de <a>arrojar</a> otra
+      <a>vez</a> al mar parte de sus capturas, que, si no existieran esas normas,
+      se podrían vender.
+fr:
+- c: 4
+  r: 1
+  v: rejeter
+  x:
+  - s: Det måste göras en översyn av den nuvarande politiken, enligt vilken yrkesfiskarna
+      måste <v>kasta</v> <p>tillbaka</p> överflödiga och till och med alltför små
+      fiskar i havet, trots att de är döda eller döende på grund av att simblåsan
+      skadas när de alltför snabbt förs upp till ytan.
+    t: Il faut revoir la politique actuelle qui prévoit que les pêcheurs doivent <a>rejeter</a>
+      à la mer les poissons excédentaires ou même ceux qui n’ont pas la taille requise,
+      y compris lorsqu’ils sont morts ou mourants à la suite d’une blessure à la vessie
+      natatoire provoquée par une remontée trop rapide à la surface.
+  - s: Vi tar endast upp 25 000 ton djaboï som tilläggsfångst, för att slippa <v>kasta</v>
+      <p>tillbaka</p> den.
+    t: Nous ne pêchons le djaboï à raison de 25.000 tonnes, que comme capture accessoire,
+      pour ne pas le <a>rejeter</a>.
+  - s: Jordens största nedsmutsare <v>kastar</v> <p>tillbaka</p> skulden och de åtgärder
+      som bör vidtas på offret, nämligen länderna i söder.
+    t: Les plus gros pollueurs de la planète <a>rejettent</a> la faute et les actions
+      à entreprendre sur les victimes, les pays du Sud.
+  - s: Fiskarna själva ogillar starkt att de måste <v>kasta</v> <p>tillbaka</p> delar
+      av sin fångst, som skulle kunna säljas om reglerna inte fanns.
+    t: Les pêcheurs eux-mêmes ont beaucoup de mal à accepter l’idée de devoir <a>rejeter</a>
+      une partie de leurs prises, des prises qu’ils pourraient vendre si les règlements
+      n’existaient pas.
+- c: 2
+  r: 2
+  v: écoulement
+  x:
+  - s: På jordbruksområdet har vissa smärre justeringar gjorts av åtgärderna och när
+      det gäller fiskeriet har stödet för att <v>kasta</v> <p>tillbaka</p> vissa produkter
+      i havet förlängts, som det nu föreslås igen för ytterligare ett år.
+    t: Des succès limités ont été enregistrés dans le cadre des mesures, pour ce qui
+      concerne l’agriculture, et l’aide à l’<a>écoulement</a> de certains produits
+      a été prorogée, pour ce qui concerne la pêche, comme cela vient d’être proposé
+      de nouveau, pour une année supplémentaire.
+  - s: Gemenskapens stöd för att <v>kasta</v> <p>tillbaka</p> vissa fiskeprodukter
+      i havet i vissa yttre randområden, bland vilka den autonoma regionen Madeira
+      finns, som fastställdes 1992 efter införandet av Posei-programmet, har varit
+      föremål för successiva förlängningar och revisioner.
+    t: Le système communautaire d’aide à l’<a>écoulement</a> de certains produits
+      de la pêche des régions ultrapériphériques, dont la région autonome de Madère,
+      créé en 1992 à la suite des programmes POSEI, a fait l’objet de prorogations
+      et de révisions successives.
+- c: 1
+  r: 3
+  v: rejeter mer
+  x:
+  - s: Att <v>kasta</v> <p>tillbaka</p> redan upptagen död fisk som duger att äta
+      är givetvis raka motsatsen till hållbarhet.
+    t: <a>Rejeter</a> en <a>mer</a> du poisson mort qui a déjà été attrapé et qui
+      peut être consommé c’est le contraire de la durabilité.
+it:
+- c: 3
+  r: 1
+  v: rigettare
+  x:
+  - s: Att <v>kasta</v> <p>tillbaka</p> redan upptagen död fisk som duger att äta
+      är givetvis raka motsatsen till hållbarhet.
+    t: Pratiche indiscriminate di pesca con reti a strascico e palangari spazzano
+      dai nostri mari la vita marina, ma <a>rigettare</a> in mare pesci morti già
+      catturati e adatti a finire sulle nostre tavole va di certo nella direzione
+      opposta alla sostenibilità.
+  - s: Det måste göras en översyn av den nuvarande politiken, enligt vilken yrkesfiskarna
+      måste <v>kasta</v> <p>tillbaka</p> överflödiga och till och med alltför små
+      fiskar i havet, trots att de är döda eller döende på grund av att simblåsan
+      skadas när de alltför snabbt förs upp till ytan.
+    t: Bisogna procedere a una revisione dell’attuale politica che impone ai pescatori
+      di <a>rigettare</a> in mare i pesci in eccesso e persino quelli troppo piccoli,
+      anche se sono morti o moriranno a causa di danni alla vescica natatoria riportati
+      per esser stati tirati in superficie troppo velocemente.
+  - s: Fiskarna själva ogillar starkt att de måste <v>kasta</v> <p>tillbaka</p> delar
+      av sin fångst, som skulle kunna säljas om reglerna inte fanns.
+    t: Gli stessi pescatori non sono certo contenti di dover <a>rigettare</a> in mare
+      una parte di pesce catturato che, in assenza di regole, potrebbero rivendere.
+- c: 2
+  r: 2
+  v: smercio
+  x:
+  - s: På jordbruksområdet har vissa smärre justeringar gjorts av åtgärderna och när
+      det gäller fiskeriet har stödet för att <v>kasta</v> <p>tillbaka</p> vissa produkter
+      i havet förlängts, som det nu föreslås igen för ytterligare ett år.
+    t: Nel settore agricolo, sono state fatte piccole ponderazioni nell’ambito delle
+      misure, mentre nel settore della pesca è stato prorogato l’appoggio allo <a>smercio</a>
+      di alcuni prodotti, come ora si propone nuovamente per più di un anno.
+  - s: Gemenskapens stöd för att <v>kasta</v> <p>tillbaka</p> vissa fiskeprodukter
+      i havet i vissa yttre randområden, bland vilka den autonoma regionen Madeira
+      finns, som fastställdes 1992 efter införandet av Posei-programmet, har varit
+      föremål för successiva förlängningar och revisioner.
+    t: Il sistema comunitario di sostegno allo <a>smercio</a> di taluni prodotti della
+      pesca di determinate regioni ultraperiferiche, fra cui la regione autonoma di
+      Madeira, istituito nel 1992 nel contesto dei programmi POSEI, è stato successivamente
+      prorogato e riveduto.
+- c: 1
+  r: 3
+  v: ributtare mare
+  x:
+  - s: Vi tar endast upp 25 000 ton djaboï som tilläggsfångst, för att slippa <v>kasta</v>
+      <p>tillbaka</p> den.
+    t: La pesca del djaboi, pari a 25.000 tonnellate, costituisce solo una cattura
+      accessoria, per non <a>ributtarlo</a> in <a>mare</a>.

@@ -1,0 +1,70 @@
+---
+en:
+- c: 1
+  r: 1
+  v: hit out
+  x:
+  - s: Kuhne har i pressen och även här i dag <v>farit</v> <p>ut</p> mot den hållning
+      som min grupp av gröna och regionalister antagit.
+    t: Mr Kuhne has <a>hit</a> <a>out</a> in the press and also here today at the
+      stance taken by my Group of the Greens/European Free Alliance.
+- c: 1
+  r: 1
+  v: lash out
+  x:
+  - s: Det är främst EU-skeptiker och talare från yttersta högern som anslagit en
+      förolämpande ton och <v>farit</v> <p>ut</p> i misstänksamma ordalag mot dem
+      som kritiserat den ungerska regeringen.
+    t: It was mostly the Eurosceptics and far-right speakers who adopted insulting
+      tones as they <a>lashed</a> <a>out</a> in conspicuous concert against those
+      criticising the Hungarian Government.
+es:
+- c: 1
+  r: 1
+  v: haber embargar
+  x:
+  - s: Det är främst EU-skeptiker och talare från yttersta högern som anslagit en
+      förolämpande ton och <v>farit</v> <p>ut</p> i misstänksamma ordalag mot dem
+      som kritiserat den ungerska regeringen.
+    t: Quienes han adoptado tonos insultantes han sido principalmente los euroescépticos
+      y los oradores de la extrema derecha, que se <a>han</a> <a>embargado</a> en
+      un duro ataque contra quienes atacaban al Gobierno húngaro.
+- c: 1
+  r: 1
+  v: arremeter
+  x:
+  - s: Kuhne har i pressen och även här i dag <v>farit</v> <p>ut</p> mot den hållning
+      som min grupp av gröna och regionalister antagit.
+    t: El Sr. Kuhne ha <a>arremetido</a> contra la actitud adoptada por mi Grupo,
+      el de los Verdes y los Regionalistas, en los medios de comunicación y hoy ha
+      vuelto a hacerlo aquí.
+fr:
+- c: 1
+  r: 1
+  v: épingler
+  x:
+  - s: Kuhne har i pressen och även här i dag <v>farit</v> <p>ut</p> mot den hållning
+      som min grupp av gröna och regionalister antagit.
+    t: M. Kuhne a <a>épinglé</a> dans la presse ainsi que dans cette enceinte aujourd’hui
+      l’attitude de mon groupe des verts et des régionalistes.
+- c: 1
+  r: 1
+  v: déchaîner
+  x:
+  - s: Det är främst EU-skeptiker och talare från yttersta högern som anslagit en
+      förolämpande ton och <v>farit</v> <p>ut</p> i misstänksamma ordalag mot dem
+      som kritiserat den ungerska regeringen.
+    t: Ce sont principalement les eurosceptiques et les intervenants d’extrême droite
+      qui ont adopté un ton insultant lorsqu’ils se sont <a>déchaînés</a> de manière
+      manifestement concertée contre ceux qui critiquaient le gouvernement hongrois.
+it:
+- c: 1
+  r: 1
+  v: scagliare
+  x:
+  - s: Det är främst EU-skeptiker och talare från yttersta högern som anslagit en
+      förolämpande ton och <v>farit</v> <p>ut</p> i misstänksamma ordalag mot dem
+      som kritiserat den ungerska regeringen.
+    t: Sono stati per lo più gli oratori euroscettici e di estrema destra a ricorrere
+      a toni offensivi, <a>scagliandosi</a>, in una significativa alleanza, contro
+      coloro che hanno criticato il governo ungherese.

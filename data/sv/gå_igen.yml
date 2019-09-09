@@ -1,0 +1,125 @@
+---
+de:
+- c: 1
+  r: 1
+  v: auch
+  x:
+  - s: Jag tar i dag till orda för utskottet för kultur, ungdomsfrågor, utbildning,
+      medier och idrott, som enhälligt har antagit ett betänkande som i vissa delar
+      <v>går</v> <p>igen</p> i betänkandet från utskottet för industrifrågor, utrikeshandel,
+      forskning och energi.
+    t: Heute spreche ich im Namen des Ausschusses für Kultur, Jugend, Bildung, Medien
+      und Sport, der einstimmig für einen Bericht gestimmt hat, der teilweise <a>auch</a>
+      im Bericht des Ausschusses für Industrie, Außenhandel, Forschung und Energie
+      enthalten ist;
+en:
+- c: 1
+  r: 1
+  v: do
+  x:
+  - s: Detta leder till att vi, enligt ett mönster som <v>går</v> <p>igen</p> i alla
+      imperier, förmås sätta ordet ”terrorism” på det som lika väl skulle kunna benämnas
+      motstånd.
+    t: This expression and the very word ’terrorism’ were in fact pretty poor choices
+      to describe an obvious fact, namely that the policy conducted by what we agree
+      to call ’the international community’, that is, of course, the United States
+      and its accomplices, the imperial powers, is increasingly fiercely contested
+      throughout the world, so that we end up, as <a>do</a> all empires in fact, giving
+      the label ’terrorism’ to something that could just as well be called resistance;
+es:
+- c: 1
+  r: 1
+  v: vez haber hacer
+  x:
+  - s: Nyligen har den tyska regeringen gjort kovändningar och <v>gått</v> <p>igen</p>
+      alla möjliga slags kursändringar vad gäller hela kärnkraftsfrågan.
+    t: Recientemente el Gobierno alemán ha cambiado varias <a>veces</a> de dirección
+      y <a>ha</a> <a>hecho</a> todo tipo de acrobacias en relación con la cuestión
+      nuclear.
+- c: 1
+  r: 1
+  v: ocurrir
+  x:
+  - s: Detta leder till att vi, enligt ett mönster som <v>går</v> <p>igen</p> i alla
+      imperier, förmås sätta ordet ”terrorism” på det som lika väl skulle kunna benämnas
+      motstånd.
+    t: En realidad, fue bastante desacertada la elección de esta expresión y de la
+      propia palabra terrorismo para describir un hecho evidente, esto es, que la
+      política desarrollada por lo que hemos convenido en llamar la comunidad internacional
+      (es decir, los Estados Unidos y sus cómplices, las potencias imperialistas)
+      está siendo objeto de un rechazo cada vez más violento en todo el mundo, con
+      lo cual, como les <a>ocurre</a> de hecho a todos los imperios, acabamos etiquetando
+      como terrorismo lo que se podría describir muy bien como resistencia;
+fr:
+- c: 1
+  r: 1
+  v: passer
+  x:
+  - s: Nyligen har den tyska regeringen gjort kovändningar och <v>gått</v> <p>igen</p>
+      alla möjliga slags kursändringar vad gäller hela kärnkraftsfrågan.
+    t: Récemment, le gouvernement allemand a fait diverses volte-face en <a>passant</a>
+      par toutes sortes de changements en rapport avec la question du nucléaire.
+- c: 1
+  r: 1
+  v: faire
+  x:
+  - s: Detta leder till att vi, enligt ett mönster som <v>går</v> <p>igen</p> i alla
+      imperier, förmås sätta ordet ”terrorism” på det som lika väl skulle kunna benämnas
+      motstånd.
+    t: Cette formule et le mot même de terrorisme sont en effet fort mal choisis pour
+      désigner une évidence, à savoir que la politique que mène ce qu’il est convenu
+      d’appeler «la communauté internationale», c’est-à-dire en clair les États-Unis
+      et la Camera impériale que forment ses affidés, est contestée de plus en plus
+      violemment à travers le monde, en sorte que nous sommes conduits, comme le <a>font</a>
+      tous les empires d’ailleurs, à nommer «terrorisme» ce qui pourrait aussi bien
+      s’appeler de la résistance ;
+- c: 1
+  r: 1
+  v: reprendre
+  x:
+  - s: Jag tar i dag till orda för utskottet för kultur, ungdomsfrågor, utbildning,
+      medier och idrott, som enhälligt har antagit ett betänkande som i vissa delar
+      <v>går</v> <p>igen</p> i betänkandet från utskottet för industrifrågor, utrikeshandel,
+      forskning och energi.
+    t: Aujourd’hui, j’interviens au nom de la commission de la culture, de la jeunesse,
+      de l’éducation, des médias et des sports, qui a voté à l’unanimité un rapport
+      en partie <a>repris</a> dans le rapport de la commission de l’industrie, du
+      commerce extérieur, de la recherche et de l’énergie ;
+it:
+- c: 1
+  r: 1
+  v: riprendere
+  x:
+  - s: Jag tar i dag till orda för utskottet för kultur, ungdomsfrågor, utbildning,
+      medier och idrott, som enhälligt har antagit ett betänkande som i vissa delar
+      <v>går</v> <p>igen</p> i betänkandet från utskottet för industrifrågor, utrikeshandel,
+      forskning och energi.
+    t: Intervengo oggi a nome della commissione per la cultura, la gioventù, l’istruzione,
+      i mezzi di informazione e lo sport, la quale ha approvato all’unanimità una
+      relazione parzialmente <a>ripresa</a> in quella della commissione per l’industria,
+      il commercio estero, la ricerca e l’energia.
+pt:
+- c: 1
+  r: 1
+  v: retomar
+  x:
+  - s: Jag tar i dag till orda för utskottet för kultur, ungdomsfrågor, utbildning,
+      medier och idrott, som enhälligt har antagit ett betänkande som i vissa delar
+      <v>går</v> <p>igen</p> i betänkandet från utskottet för industrifrågor, utrikeshandel,
+      forskning och energi.
+    t: Intervenho hoje em nome da Comissão para a Cultura, a Juventude, a Educação,
+      os Meios de Comunicação Social e os Desportos, que aprovou por unanimidade um
+      relatório <a>retomado</a> em parte no relatório da Comissão da Indústria, do
+      Comércio Externo, da Investigação e da Energia.
+- c: 1
+  r: 1
+  v: ser vez mais acontecer
+  x:
+  - s: Detta leder till att vi, enligt ett mönster som <v>går</v> <p>igen</p> i alla
+      imperier, förmås sätta ordet ”terrorism” på det som lika väl skulle kunna benämnas
+      motstånd.
+    t: ', isto é, claramente os Estados Unidos e a câmara imperial formada pelos seus
+      cúmplices, <a>é</a> contestada cada <a>vez</a> <a>mais</a> violentamente em
+      todo o mundo, de tal forma que somos conduzidos, como <a>acontece</a> aliás
+      com todos os impérios, a chamar ’terrorismo’ àquilo a que poderia muito bem
+      chamar-se resistência;'

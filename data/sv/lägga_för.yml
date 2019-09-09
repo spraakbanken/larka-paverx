@@ -1,0 +1,40 @@
+---
+en:
+- c: 1
+  r: 1
+  v: make
+  x:
+  - s: Den konkreta frågan som ställts inte bara av mig, utan också av Pimenta, Eisma
+      och andra, var ju vilket förslag ni kommer att <v>lägga</v> <p>för</p> ministerrådet
+      med ansvar för miljöfrågor?
+    t: what proposal will you be <a>making</a> to the Environment Council?
+fr:
+- c: 1
+  r: 1
+  v: présenter
+  x:
+  - s: om allt går som det skall kommer man att rösta om mitt betänkande i februari,
+      och det kommer att <v>läggas</v> fram <p>för</p> er som en grund för åtgärder
+      vid det ekonomiska toppmötet.
+    t: si tout se déroule sans encombre, mon rapport sera voté en février et vous
+      sera <a>présenté</a> comme base d’action dans le cadre du sommet économique.
+it:
+- c: 1
+  r: 1
+  v: trasmettere
+  x:
+  - s: om allt går som det skall kommer man att rösta om mitt betänkande i februari,
+      och det kommer att <v>läggas</v> fram <p>för</p> er som en grund för åtgärder
+      vid det ekonomiska toppmötet.
+    t: se tutto procede bene, la mia relazione sarà posta in votazione a febbraio
+      e vi sarà <a>trasmessa</a> come base per l’azione al Vertice economico.
+pt:
+- c: 1
+  r: 1
+  v: apresentar
+  x:
+  - s: om allt går som det skall kommer man att rösta om mitt betänkande i februari,
+      och det kommer att <v>läggas</v> fram <p>för</p> er som en grund för åtgärder
+      vid det ekonomiska toppmötet.
+    t: se tudo correr bem, o meu relatório irá ser votado em Fevereiro e <a>ser-vos-á</a>
+      <a>apresentado</a> como base para a acção no âmbito da Cimeira Económica.

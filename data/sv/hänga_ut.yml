@@ -1,0 +1,780 @@
+---
+de:
+- c: 2
+  r: 1
+  v: Pranger
+  x:
+  - s: När de skall visa sina nationella handlingsplaner för varandra och för medborgarna,
+      blir det möjligt att <v>hänga</v> <p>ut</p> det land som inte uppfyller de gemensamma
+      målen - litet i riktning mot en EU-tävling i jämställdhet på arbetsmarknaden.
+    t: Wenn die Mitgliedsländer sich gegenseitig und den Bürgern ihre Aktionspläne
+      präsentieren, werden diejenigen Länder an den <a>Pranger</a> gestellt werden
+      können, welche die gemeinsamen Ziele nicht erfüllt haben - eine Art Wettbewerb
+      um die Gleichstellung auf dem Arbeitsmarkt.
+  - s: Vi bör åtminstone <v>hänga</v> <p>ut</p> de stater som misslyckas med att investera
+      i sjukvård som kan rädda liv om den används på rätt sätt.
+    t: Zumindest sollten wir diejenigen Staaten benennen und an den <a>Pranger</a>
+      stellen, die nicht imstande sind, Mittel für Maßnahmen im Bereich der Gesundheitsvorsorge
+      aufzubringen, mit denen bei ordnungsgemäßer Durchführung Leben gerettet werden
+      kann.
+- c: 1
+  r: 2
+  v: aussondern
+  x:
+  - s: Kina <v>hängs</v> inte <p>ut</p> på något särskilt sätt.
+    t: China ist in keiner Weise <a>ausgesondert</a> worden.
+- c: 1
+  r: 2
+  v: Finger
+  x:
+  - s: Som parlamentsledamot har jag svårt att svälja att en demokrati som Italien
+      ska <v>hängas</v> <p>ut</p> på det sätt som den här debatten syftar till. Pressfriheten
+      är en grundläggande frihet som garanteras av artikel 21 i den italienska grundlagen.
+    t: Es ist sehr schwierig für ein MdEP mitzuerleben, dass auf eine Demokratie wie
+      Italien mit dem <a>Finger</a> gezeigt wird, denn darauf zielt diese Aussprache
+      ab.
+- c: 1
+  r: 2
+  v: hängen
+  x:
+  - s: Man har gjort mig uppmärksam på att Storbritanniens nationsflagga <v>hänger</v>
+      <p>ut</p> ur ett fönster mellan sjätte och sjunde våningen på Louise Weiss-byggnaden.
+    t: Ich habe Kenntnis davon erhalten, dass die britische Nationalflagge aus einem
+      Fenster zwischen dem sechsten und siebenten Stock des Louise-Weiss-Gebäudes
+      <a>hängt</a>.
+- c: 1
+  r: 2
+  v: raushängen
+  x:
+  - s: Låt oss be den som har <v>hängt</v> <p>ut</p> denna Union Jack, vem det nu
+      är, att ta bort den, om vi nu inte alla skall hänga våra flaggor utanför fönstren.
+    t: Egal wer diese Flagge <a>rausgehängt</a> hat, könnten wir darum bitten, diese
+      zu entfernen, es sei denn, wir alle hängen unsere Flaggen aus dem Fenster.
+- c: 1
+  r: 2
+  v: schonungslos werden
+  x:
+  - s: Kommer dessa händelser att med kraft <v>hängas</v> <p>ut</p> i detta forum
+      för att EU ska bli medvetet om vad som verkligen sker i Ryssland?
+    t: Müssen solche Ereignisse in diesem Forum nicht <a>schonungslos</a> angeprangert
+      <a>werden</a>, damit Europa erkennt, was in Russland wirklich geschieht?
+- c: 1
+  r: 2
+  v: anprangern
+  x:
+  - s: Det innebär fyra röster, och ni behöver bara nio till. Jag vet att rådet föredrar
+      att göra saker och ting genom enhällighet men för att uppnå någonting av verklig
+      substans - en verklig förändring - borde inte ordförandeskapet föra fram detta
+      till omröstning vid nästa möte i allmänna rådet och namnge och <v>hänga</v>
+      <p>ut</p> de medlemsstater som inte stöder denna inställning?
+    t: Aber sollte der Ratsvorsitz, um etwas Wesentliches, nämlich eine wirkliche
+      Veränderung, zu erreichen, dies nicht auf der Tagung des nächsten Rates „Allgemeine
+      Angelegenheiten“ zur Abstimmung stellen und die Mitgliedstaaten nennen und <a>anprangern</a>,
+      die diesen Standpunkt nicht unterstützen?
+- c: 1
+  r: 2
+  v: benennen anprangern
+  x:
+  - s: Vi bör <v>hänga</v> <p>ut</p> dessa länder och vidta åtgärder mot dem, för
+      de har en fruktansvärd inverkan på lagliga företag inom Europa.
+    t: Wir müssen diese Länder <a>benennen</a>, <a>anprangern</a> und gegen sie tätig
+      werden, denn sie nehmen schlimmen Einfluss auf legitime Handelsgeschäfte in
+      Europa.
+- c: 1
+  r: 2
+  v: wieder bloßstellen
+  x:
+  - s: Det är nu flera månader i rad som de har namngetts och <v>hängts</v> <p>ut</p>
+      i protokollen och jag vill uppmana ordföranden att vidta de åtgärder som krävs
+      i detta läge.
+    t: Sie werden seit mehreren Monaten immer <a>wieder</a> in den Protokollen benannt
+      und <a>bloßgestellt</a>, und ich möchte den Präsidenten eindringlich bitten,
+      der Situation entsprechend zu handeln.
+- c: 1
+  r: 2
+  v: aufspüren
+  x:
+  - s: Det svarta får som ljuger om hela åkrar och hittar på affärsverksamhet och
+      som orsakar BSE och andra skandaler borde namnges och <v>hängas</v> <p>ut</p>.
+    t: Die schwarzen Schafe, die ganze Felder und Wirtschaften dazuerfinden und BSE
+      und andere Skandale verursachen, die gilt es <a>aufzuspüren</a>.
+- c: 1
+  r: 2
+  v: beschämen
+  x:
+  - s: Det finns inget behov av att <v>hänga</v> <p>ut</p> just detta land, eftersom
+      vår resolution handlar om den nya förordningen och behovet av en ny förordning.
+    t: Es ist nicht nötig, gerade dieses eine Land zu erwähnen und zu <a>beschämen</a>,
+      da es in unserer Entschließung um die neue Verordnung und die Notwendigkeit
+      einer neuen Verordnung geht.
+- c: 1
+  r: 2
+  v: werden
+  x:
+  - s: Det är oacceptabelt att ledamöter av Europaparlamentet <v>hängs</v> <p>ut</p>
+      som ”Europas cancer”, att de med andra ord jämställs med en dödlig sjukdom.
+    t: Die Bitte trage ich vor im Namen aller demokratisch gesinnten Menschen, dass
+      es nicht angeht, dass EU-Parlamentarier als „Krebsgeschwür“ beschimpft <a>werden</a>,
+      als Cancer of Europe, mithin als tödliche Krankheit.
+en:
+- c: 10
+  r: 1
+  v: shame
+  x:
+  - s: Är det inte på tiden att vi namnger och <v>hänger</v> <p>ut</p> de medlemsstater
+      som inte vidtar tillräckliga åtgärder för att förbättra entreprenörskapet och
+      konkurrenskraften?
+    t: Is it not time that we named and <a>shamed</a> those Member States who are
+      not taking the actions necessary to improve entrepreneurship and competitiveness?
+  - s: Vi bör <v>hänga</v> <p>ut</p> dessa länder och vidta åtgärder mot dem, för
+      de har en fruktansvärd inverkan på lagliga företag inom Europa.
+    t: We need to name and <a>shame</a> and take action against those countries because
+      they are having a terrible effect on legitimate businesses within Europe.
+  - s: Vi bör åtminstone <v>hänga</v> <p>ut</p> de stater som misslyckas med att investera
+      i sjukvård som kan rädda liv om den används på rätt sätt.
+    t: At the very least, we should name and <a>shame</a> those States that are failing
+      to invest in health services that can save lives if they are properly applied.
+  - s: Kommissionen bör inte förvandlas till en moralisk myndighet som utövar gruppdisciplin
+      genom att <v>hänga</v> <p>ut</p> någon eller ge någon skulden.
+    t: The European Commission should not be made a moral authority which achieves
+      group discipline by naming, <a>shaming</a> or blaming.
+  - s: De skyldiga ska namnges och <v>hängas</v> <p>ut</p>.
+    t: We must implement a policy of naming and <a>shaming</a>.
+  - s: Jag vill fullfölja min Strasbourgtradition och <v>hänga</v> <p>ut</p> de medlemsstater
+      som inte följer Lissabondirektiven.
+    t: Mr President, I would like to continue my Strasbourg tradition of naming and
+      <a>shaming</a> Member States who fail to comply with the Lisbon directives.
+  - s: Det svarta får som ljuger om hela åkrar och hittar på affärsverksamhet och
+      som orsakar BSE och andra skandaler borde namnges och <v>hängas</v> <p>ut</p>.
+    t: The black sheep who fabricate entire fields and business activities and who
+      cause BSE and other scandals should be named and <a>shamed</a>.
+  - s: Om vi inte slutligen och regelbundet <v>hänger</v> <p>ut</p> de medlemsstater
+      där de flesta bedrägerierna äger rum kommer vi att förlora vår trovärdighet.
+    t: If we do not finally and regularly name and <a>shame</a> the Member States
+      where the majority of fraud is taking place, we will lose our credibility.
+  - s: Det viktigaste här är folkhälsan och det handlar inte alls om att <v>hänga</v>
+      <p>ut</p> enskilda företag.
+    t: What is important here is public health, rather than some kind of naming and
+      <a>shaming</a>.
+  - s: Det är nu flera månader i rad som de har namngetts och <v>hängts</v> <p>ut</p>
+      i protokollen och jag vill uppmana ordföranden att vidta de åtgärder som krävs
+      i detta läge.
+    t: It is now several months in a row that they have been named and <a>shamed</a>
+      in the Minutes and I would urge the President to take action appropriate to
+      the situation.
+- c: 2
+  r: 2
+  v: hang out
+  x:
+  - s: Låt oss be den som har <v>hängt</v> <p>ut</p> denna Union Jack, vem det nu
+      är, att ta bort den, om vi nu inte alla skall hänga våra flaggor utanför fönstren.
+    t: Could we ask whoever has <a>hung</a> <a>out</a> this Union Jack to perhaps
+      remove it, unless we are all to hang our flags outside the windows.
+  - s: Det är viktigt för de konsumenter som har skinnats att kunna kräva ersättning,
+      i annat fall <v>hängs</v> de bara <p>ut</p> för att torka.
+    t: It is important for customers who have been ripped off to be able to file a
+      compensation claim, otherwise we are just <a>hanging</a> them <a>out</a> to
+      dry.
+- c: 1
+  r: 3
+  v: expose
+  x:
+  - s: När de skall visa sina nationella handlingsplaner för varandra och för medborgarna,
+      blir det möjligt att <v>hänga</v> <p>ut</p> det land som inte uppfyller de gemensamma
+      målen - litet i riktning mot en EU-tävling i jämställdhet på arbetsmarknaden.
+    t: When the Member States have to present their action plans to one another and
+      to their citizens, it will be possible to <a>expose</a> those countries which
+      are failing to meet the common objectives - a kind of EU competition in equal
+      treatment on the labour market.
+- c: 1
+  r: 3
+  v: put
+  x:
+  - s: Det är ingen mening med att <v>hänga</v> <p>ut</p> den offentliga moralen.
+    t: It makes no sense to continue covering up frauds for a small amount of money
+      and it is not logical that we should <a>put</a> public morals on the line.
+- c: 1
+  r: 3
+  v: name shame
+  x:
+  - s: Det finns inget behov av att <v>hänga</v> <p>ut</p> just detta land, eftersom
+      vår resolution handlar om den nya förordningen och behovet av en ny förordning.
+    t: There is no need to <a>name</a> and <a>shame</a> this particular country, as
+      our resolution is on the new regulation and the need to have a new regulation.
+- c: 1
+  r: 3
+  v: hide
+  x:
+  - s: Det måste ju vara så att kommissionen varken skall kunna tysta ned tjänstemän
+      eller <v>hänga</v> <p>ut</p> dem, utan att den själv skall ta på sig ansvaret
+      för att situationen är som den är.
+    t: It must in fact be the case that the Commission must neither cover up for its
+      officials nor <a>hide</a> behind them, but simply accept the responsibility
+      for the fact that things are as they are.
+- c: 1
+  r: 3
+  v: have single out
+  x:
+  - s: Kina <v>hängs</v> inte <p>ut</p> på något särskilt sätt.
+    t: China <a>has</a> not been <a>singled</a> <a>out</a> in any way.
+- c: 1
+  r: 3
+  v: hang
+  x:
+  - s: Under förmiddagen bad jag om att de plakat som <v>hänger</v> <p>ut</p> ur olika
+      ledamöters kontor skulle avlägsnas, eftersom detta skadar parlamentets anseende.
+    t: Madam President, this morning, I asked for the posters <a>hanging</a> from
+      the windows of certain Members’ offices to be removed because of the damage
+      they do to Parliament’s dignity.
+- c: 1
+  r: 3
+  v: finger
+  x:
+  - s: Som parlamentsledamot har jag svårt att svälja att en demokrati som Italien
+      ska <v>hängas</v> <p>ut</p> på det sätt som den här debatten syftar till. Pressfriheten
+      är en grundläggande frihet som garanteras av artikel 21 i den italienska grundlagen.
+    t: It is extremely difficult for an MEP to see a democracy such as Italy have
+      the <a>finger</a> pointed at it, as this debate is intended to do.
+- c: 1
+  r: 3
+  v: dub
+  x:
+  - s: Det är oacceptabelt att ledamöter av Europaparlamentet <v>hängs</v> <p>ut</p>
+      som ”Europas cancer”, att de med andra ord jämställs med en dödlig sjukdom.
+    t: It is unacceptable for Members of the European Parliament to be <a>dubbed</a>
+      the ’cancer of Europe’, in other words to be called after a deadly disease.
+- c: 1
+  r: 3
+  v: display
+  x:
+  - s: Vad flygbolagen än lovar och vilka avtal de än gör sinsemellan för att <v>hänga</v>
+      <p>ut</p> vackra listor med passagerares rättigheter, i praktiken har det inte
+      blivit särskilt mycket av det.
+    t: Whatever the airlines promise and whatever agreements they reach among themselves
+      to <a>display</a> splendid lists detailing the rights of passengers, in practice
+      very little comes of it.
+- c: 1
+  r: 3
+  v: be shame
+  x:
+  - s: Som föredragande av yttrandet från utskottet för kultur, ungdomsfrågor, utbildning,
+      medier och idrott om detta betänkande är jag glad över att man i punkt 38 äntligen
+      <v>hänger</v> <p>ut</p> Italien för dess mediekoncentration och premiärministerns
+      inflytande på detta område, utan att man trots detta faktum inte har antagit
+      några som helst regler om intressekonflikter.
+    t: As the draftsman of the opinion of the Committee on Culture, Youth, Education,
+      the Media and Sport for this report, I am happy that in paragraph 38 Italy <a>is</a>
+      finally and explicitly named and <a>shamed</a> concerning its media concentration
+      and the influence in this regard of its Prime Minister, without any rules at
+      all on conflict of interest being adopted.
+- c: 1
+  r: 3
+  v: be pillory
+  x:
+  - s: På liknande sätt har de europeiska medierna <v>hängt</v> <p>ut</p> påven Benedictus
+      XVI och under flera års tid förtalat den karismatiske munk som startade den
+      enda verkligt fria radiostationen i Polen, tillsammans med andra som motsätter
+      sig de idéer om desintegration som präglar den nya vänstern.
+    t: Similarly, the European media have <a>been</a> <a>pillorying</a> Pope Benedict
+      XVI and have for years been slandering the charismatic monk who created the
+      only truly free radio station in Poland, along with others who oppose the ideas
+      of the logic of disintegration that characterises the new left.
+- c: 1
+  r: 3
+  v: be out
+  x:
+  - s: Man har gjort mig uppmärksam på att Storbritanniens nationsflagga <v>hänger</v>
+      <p>ut</p> ur ett fönster mellan sjätte och sjunde våningen på Louise Weiss-byggnaden.
+    t: It has been brought to my attention that a Union Jack <a>is</a> flying <a>out</a>
+      of a window between the sixth and seventh floors of the Louise Weiss building.
+- c: 1
+  r: 3
+  v: be
+  x:
+  - s: På samma gång <v>hängs</v> tappra officerare och soldater <p>ut</p> av ett
+      regeringsinspirerat system som bryr sig föga om deras välbefinnande utan mest
+      om sina egna politiska frågor …
+    t: I believe that the outcome will <a>be</a> a positive one.
+- c: 1
+  r: 3
+  v: up
+  x:
+  - s: Det är ingen mening med att fortsätta med att <v>hänga</v> <p>ut</p> bedrägerierna
+      för sluträkning.
+    t: It makes no sense to continue covering <a>up</a> frauds for a small amount
+      of money and it is not logical that we should put public morals on the line.
+- c: 1
+  r: 3
+  v: robustly expose
+  x:
+  - s: Kommer dessa händelser att med kraft <v>hängas</v> <p>ut</p> i detta forum
+      för att EU ska bli medvetet om vad som verkligen sker i Ryssland?
+    t: Are these events to be <a>robustly</a> <a>exposed</a> in this forum in order
+      to make Europe aware of what is really happening in Russia?
+es:
+- c: 2
+  r: 1
+  v: distribuir
+  x:
+  - s: Man har gjort mig uppmärksam på att Storbritanniens nationsflagga <v>hänger</v>
+      <p>ut</p> ur ett fönster mellan sjätte och sjunde våningen på Louise Weiss-byggnaden.
+    t: Se ha <a>distribuido</a> el proyecto definitivo del orden del día elaborado
+      por la Conferencia de Presidentes en su reunión del jueves, 26 de junio, de
+      conformidad con los artículos 110 y 110 bis del Reglamento.
+  - s: Låt oss be den som har <v>hängt</v> <p>ut</p> denna Union Jack, vem det nu
+      är, att ta bort den, om vi nu inte alla skall hänga våra flaggor utanför fönstren.
+    t: Se ha <a>distribuido</a> el proyecto definitivo del orden del día elaborado
+      por la Conferencia de Presidentes en su reunión del jueves, 26 de junio, de
+      conformidad con los artículos 110 y 110 bis del Reglamento.
+- c: 1
+  r: 2
+  v: publicar nombre escarnio
+  x:
+  - s: Det viktigaste här är folkhälsan och det handlar inte alls om att <v>hänga</v>
+      <p>ut</p> enskilda företag.
+    t: Lo que importa es la salud pública, no <a>publicar</a> los <a>nombres</a> de
+      las empresas para su <a>escarnio</a>.
+- c: 1
+  r: 2
+  v: saldo
+  x:
+  - s: Det är ingen mening med att <v>hänga</v> <p>ut</p> den offentliga moralen.
+    t: No tiene sentido que sigan cobrando los fraudes a precio de saldo, no tiene
+      sentido que pongan en <a>saldo</a> la moral pública.
+- c: 1
+  r: 2
+  v: dedo venerado
+  x:
+  - s: Som parlamentsledamot har jag svårt att svälja att en demokrati som Italien
+      ska <v>hängas</v> <p>ut</p> på det sätt som den här debatten syftar till. Pressfriheten
+      är en grundläggande frihet som garanteras av artikel 21 i den italienska grundlagen.
+    t: Para un diputado europeo es bastante difícil señalar con el <a>dedo</a> a una
+      democracia como la italiana, como es el caso de este debate.
+- c: 1
+  r: 2
+  v: avergonzar
+  x:
+  - s: Det svarta får som ljuger om hela åkrar och hittar på affärsverksamhet och
+      som orsakar BSE och andra skandaler borde namnges och <v>hängas</v> <p>ut</p>.
+    t: Habría que dar a conocer y <a>avergonzar</a> a las ovejas negras que se inventan
+      campos enteros y actividades empresariales y que causan la EEB y otros escándalos.
+- c: 1
+  r: 2
+  v: tilde
+  x:
+  - s: Det är oacceptabelt att ledamöter av Europaparlamentet <v>hängs</v> <p>ut</p>
+      som ”Europas cancer”, att de med andra ord jämställs med en dödlig sjukdom.
+    t: Es inaceptable que se <a>tilde</a> a los diputados al Parlamento Europeo de
+      «cáncer de Europa», en otras palabras, que se nos dé el nombre de una enfermedad
+      mortal.
+- c: 1
+  r: 2
+  v: acusar
+  x:
+  - s: När de skall visa sina nationella handlingsplaner för varandra och för medborgarna,
+      blir det möjligt att <v>hänga</v> <p>ut</p> det land som inte uppfyller de gemensamma
+      målen - litet i riktning mot en EU-tävling i jämställdhet på arbetsmarknaden.
+    t: Cuando los países miembros muestren sus planes nacionales de actuación a los
+      demás países y a los ciudadanos, será posible <a>acusar</a> a los países que
+      no cumplan los objetivos comunes - acercándonos así a una competencia comunitaria
+      en lo que a la igualdad de derechos en el mercado laboral se refiere.
+- c: 1
+  r: 2
+  v: exponerse
+  x:
+  - s: Kommer dessa händelser att med kraft <v>hängas</v> <p>ut</p> i detta forum
+      för att EU ska bli medvetet om vad som verkligen sker i Ryssland?
+    t: ¿Han de <a>exponerse</a> enérgicamente unos hechos tales en esta Cámara, con
+      objeto de dar a conocer a Europa lo que está sucediendo en realidad en Rusia?
+fr:
+- c: 1
+  r: 1
+  v: doigt
+  x:
+  - s: Det innebär fyra röster, och ni behöver bara nio till. Jag vet att rådet föredrar
+      att göra saker och ting genom enhällighet men för att uppnå någonting av verklig
+      substans - en verklig förändring - borde inte ordförandeskapet föra fram detta
+      till omröstning vid nästa möte i allmänna rådet och namnge och <v>hänga</v>
+      <p>ut</p> de medlemsstater som inte stöder denna inställning?
+    t: Je sais que le Conseil préfère agir par consensus, mais pour obtenir un résultat
+      concret - un changement réel -, la présidence ne devrait-elle pas insister pour
+      que cette question soit votée lors du prochain Conseil «Affaires générales»
+      et pointer du <a>doigt</a> les États membres qui ne soutiennent pas cette position
+      ?
+- c: 1
+  r: 1
+  v: sortir
+  x:
+  - s: Låt oss be den som har <v>hängt</v> <p>ut</p> denna Union Jack, vem det nu
+      är, att ta bort den, om vi nu inte alla skall hänga våra flaggor utanför fönstren.
+    t: Pourrions-nous demander à la personne qui a <a>sorti</a> ce drapeau de bien
+      vouloir le retirer, à moins que tout le monde fasse flotter le drapeau de son
+      pays à l’extérieur de sa fenêtre.
+- c: 1
+  r: 1
+  v: étaler
+  x:
+  - s: Kommer dessa händelser att med kraft <v>hängas</v> <p>ut</p> i detta forum
+      för att EU ska bli medvetet om vad som verkligen sker i Ryssland?
+    t: Devons-nous vigoureusement <a>étaler</a> au grand jour au sein de ce forum
+      ces événements, pour que l’Europe se rende compte de ce qui se passe vraiment
+      en Russie ?
+- c: 1
+  r: 1
+  v: consister nommer blâmer
+  x:
+  - s: Jag vill fullfölja min Strasbourgtradition och <v>hänga</v> <p>ut</p> de medlemsstater
+      som inte följer Lissabondirektiven.
+    t: M. le Président, j’aimerais poursuivre mon rituel de Strasbourg, lequel <a>consiste</a>
+      à <a>nommer</a> et <a>blâmer</a> les États membres qui ne respectent pas les
+      directives de Lisbonne.
+- c: 1
+  r: 1
+  v: flotter
+  x:
+  - s: Man har gjort mig uppmärksam på att Storbritanniens nationsflagga <v>hänger</v>
+      <p>ut</p> ur ett fönster mellan sjätte och sjunde våningen på Louise Weiss-byggnaden.
+    t: On m’a signalé qu’un drapeau britannique <a>flottait</a> entre le sixième et
+      le septième étage du bâtiment Louise Weiss.
+- c: 1
+  r: 1
+  v: jeter opprobre manière
+  x:
+  - s: Det viktigaste här är folkhälsan och det handlar inte alls om att <v>hänga</v>
+      <p>ut</p> enskilda företag.
+    t: Ce qui importe dans ce dossier c’est la santé publique et non de <a>jeter</a>
+      l’<a>opprobre</a> d’une <a>manière</a> ou d’une autre.
+- c: 1
+  r: 1
+  v: nommer jeter opprobre
+  x:
+  - s: Vi bör åtminstone <v>hänga</v> <p>ut</p> de stater som misslyckas med att investera
+      i sjukvård som kan rädda liv om den används på rätt sätt.
+    t: Nous devrions au minimum <a>nommer</a> et <a>jeter</a> l’<a>opprobre</a> sur
+      les pays qui n’investissent pas dans des services de santé qui peuvent sauver
+      des vies s’ils sont appliqués correctement.
+- c: 1
+  r: 1
+  v: pendre fenêtre
+  x:
+  - s: Under förmiddagen bad jag om att de plakat som <v>hänger</v> <p>ut</p> ur olika
+      ledamöters kontor skulle avlägsnas, eftersom detta skadar parlamentets anseende.
+    t: Madame la Présidente, ce matin, j’ai demandé que les drapeaux qui <a>pendent</a>
+      aux <a>fenêtres</a> de différents bureaux de députés soient retirés car ils
+      nuisent à la renommée du Parlement.
+- c: 1
+  r: 1
+  v: pilori
+  x:
+  - s: När de skall visa sina nationella handlingsplaner för varandra och för medborgarna,
+      blir det möjligt att <v>hänga</v> <p>ut</p> det land som inte uppfyller de gemensamma
+      målen - litet i riktning mot en EU-tävling i jämställdhet på arbetsmarknaden.
+    t: Il sera possible, lorsque les États membres dévoileront mutuellement leurs
+      plans d’action et les montreront aux citoyens, de mettre au <a>pilori</a> les
+      pays qui n’auront pas respecté les objectifs communs pour en arriver un peu
+      à une concurrence communautaire en matière d’égalité des chances sur le marché
+      de l’emploi.
+- c: 1
+  r: 1
+  v: pointer doigt
+  x:
+  - s: Som parlamentsledamot har jag svårt att svälja att en demokrati som Italien
+      ska <v>hängas</v> <p>ut</p> på det sätt som den här debatten syftar till. Pressfriheten
+      är en grundläggande frihet som garanteras av artikel 21 i den italienska grundlagen.
+    t: Il est extrêmement difficile pour un député européen de voir une démocratie
+      comme l’Italie être <a>pointée</a> du <a>doigt</a> comme ce débat souhaite le
+      faire.
+- c: 1
+  r: 1
+  v: privilégier
+  x:
+  - s: Det måste ju vara så att kommissionen varken skall kunna tysta ned tjänstemän
+      eller <v>hänga</v> <p>ut</p> dem, utan att den själv skall ta på sig ansvaret
+      för att situationen är som den är.
+    t: On ne peut, en réalité, admettre que la Commission protège des fonctionnaires
+      ni qu’elle en <a>privilégie</a> ;
+- c: 1
+  r: 1
+  v: solder
+  x:
+  - s: Det är ingen mening med att <v>hänga</v> <p>ut</p> den offentliga moralen.
+    t: Il est inconcevable de continuer à amender la fraude au rabais, il est inconcevable
+      de <a>solder</a> la morale publique.
+- c: 1
+  r: 1
+  v: sort
+  x:
+  - s: Det är viktigt för de konsumenter som har skinnats att kunna kräva ersättning,
+      i annat fall <v>hängs</v> de bara <p>ut</p> för att torka.
+    t: Il est important que les clients qui ont été victimes d’escroquerie puissent
+      introduire un recours en réparation, sinon nous ne faisons que les abandonner
+      à leur <a>sort</a>.
+- c: 1
+  r: 1
+  v: Chine être
+  x:
+  - s: Kina <v>hängs</v> inte <p>ut</p> på något särskilt sätt.
+    t: La <a>Chine</a> n’<a>est</a> en aucun cas isolée.
+- c: 1
+  r: 1
+  v: couvrir honte
+  x:
+  - s: Det är nu flera månader i rad som de har namngetts och <v>hängts</v> <p>ut</p>
+      i protokollen och jag vill uppmana ordföranden att vidta de åtgärder som krävs
+      i detta läge.
+    t: Ils sont mentionnés et <a>couverts</a> de <a>honte</a> depuis plusieurs mois
+      dans les procès-verbaux.
+- c: 1
+  r: 1
+  v: dénoncer
+  x:
+  - s: Vi bör <v>hänga</v> <p>ut</p> dessa länder och vidta åtgärder mot dem, för
+      de har en fruktansvärd inverkan på lagliga företag inom Europa.
+    t: Nous devons <a>dénoncer</a> ces pays et entamer des procédures contre eux,
+      car ils font un tort considérable aux entreprises légitimes en Europe.
+- c: 1
+  r: 1
+  v: désigner
+  x:
+  - s: De svarta fåren måste <v>hängas</v> <p>ut</p> eftersom dessa brott är oacceptabla
+      och ger hela näringen dåligt rykte.
+    t: Les brebis galeuses devraient être <a>désignées</a> et condamnées, étant donné
+      que les infractions sont inacceptables et jettent le discrédit sur l’industrie
+      entière.
+it:
+- c: 2
+  r: 1
+  v: biasimo
+  x:
+  - s: Vi bör åtminstone <v>hänga</v> <p>ut</p> de stater som misslyckas med att investera
+      i sjukvård som kan rädda liv om den används på rätt sätt.
+    t: Ciò consentirebbe per lo meno di identificare e additare al pubblico <a>biasimo</a>
+      gli Stati membri che trascurano di investire in servizi sanitari che, adeguatamente
+      gestiti, potrebbero salvare molte vite umane.
+  - s: Kommissionen bör inte förvandlas till en moralisk myndighet som utövar gruppdisciplin
+      genom att <v>hänga</v> <p>ut</p> någon eller ge någon skulden.
+    t: La Commissione europea non dovrebbe trasformarsi in un’autorità morale che
+      ottiene la disciplina di gruppo con il <a>biasimo</a> o con il rimprovero.
+- c: 1
+  r: 2
+  v: appeso
+  x:
+  - s: Under förmiddagen bad jag om att de plakat som <v>hänger</v> <p>ut</p> ur olika
+      ledamöters kontor skulle avlägsnas, eftersom detta skadar parlamentets anseende.
+    t: Signora Presidente, questa mattina ho chiesto che i manifesti <a>appesi</a>
+      ai vetri degli uffici di alcuni deputati venissero rimossi, perché rappresentano
+      un’offesa alla dignità del Parlamento.
+- c: 1
+  r: 2
+  v: esporre
+  x:
+  - s: Låt oss be den som har <v>hängt</v> <p>ut</p> denna Union Jack, vem det nu
+      är, att ta bort den, om vi nu inte alla skall hänga våra flaggor utanför fönstren.
+    t: Forse potremmo chiedere a chi ha <a>esposto</a> la bandiera - chiunque sia
+      - di ritirarla;
+- c: 1
+  r: 2
+  v: denunciare
+  x:
+  - s: Jag vill fullfölja min Strasbourgtradition och <v>hänga</v> <p>ut</p> de medlemsstater
+      som inte följer Lissabondirektiven.
+    t: Signor Presidente, desidero proseguire la mia tradizione strasburghese di <a>denunciare</a>
+      pubblicamente gli Stati membri che non si attengono alle direttive di Lisbona.
+- c: 1
+  r: 2
+  v: essere
+  x:
+  - s: Kina <v>hängs</v> inte <p>ut</p> på något särskilt sätt.
+    t: La Cina non <a>è</a> stata in nessun modo isolata.
+- c: 1
+  r: 2
+  v: cognome
+  x:
+  - s: De skyldiga ska namnges och <v>hängas</v> <p>ut</p>.
+    t: Dobbiamo attuare una politica che faccia nomi e <a>cognomi</a>;
+- c: 1
+  r: 2
+  v: denunciare condannare
+  x:
+  - s: Vi bör <v>hänga</v> <p>ut</p> dessa länder och vidta åtgärder mot dem, för
+      de har en fruktansvärd inverkan på lagliga företag inom Europa.
+    t: Dobbiamo <a>denunciare</a>, <a>condannare</a> e prendere provvedimenti contro
+      questi Stati, perché hanno ripercussioni molto gravi sulle aziende legittime
+      in Europa.
+- c: 1
+  r: 2
+  v: distribuire
+  x:
+  - s: Det viktigaste här är folkhälsan och det handlar inte alls om att <v>hänga</v>
+      <p>ut</p> enskilda företag.
+    t: Ciò che è importante qui è la salute pubblica, non mettersi a <a>distribuire</a>
+      nomi e discredito.
+- c: 1
+  r: 2
+  v: essere giro
+  x:
+  - s: Det är viktigt för de konsumenter som har skinnats att kunna kräva ersättning,
+      i annat fall <v>hängs</v> de bara <p>ut</p> för att torka.
+    t: Ed è essenziale che il consumatore truffato possa chiedere un risarcimento,
+      altrimenti <a>è</a> una presa in <a>giro</a>.
+- c: 1
+  r: 2
+  v: gettare fango
+  x:
+  - s: Det finns inget behov av att <v>hänga</v> <p>ut</p> just detta land, eftersom
+      vår resolution handlar om den nya förordningen och behovet av en ny förordning.
+    t: Non è necessario nominare e <a>gettare</a> <a>fango</a> su questo paese in
+      particolare, poiché la nostra risoluzione riguarda solo il nuovo regolamento
+      e la necessità di disporre di tale nuovo regolamento.
+- c: 1
+  r: 2
+  v: individuare mettere
+  x:
+  - s: De svarta fåren måste <v>hängas</v> <p>ut</p> eftersom dessa brott är oacceptabla
+      och ger hela näringen dåligt rykte.
+    t: Chi infrange la legge va <a>individuato</a> e <a>messo</a> al bando perché
+      queste violazioni sono inaccettabili e screditano l’intera industria.
+- c: 1
+  r: 2
+  v: lasciare
+  x:
+  - s: Budgetkontrollutskottets uppgift är inte att <v>hänga</v> <p>ut</p> kommissionen
+      för allmän beskådan under hela parlamentets livstid, utan att se till att de
+      europeiska medborgarna betjänas av ett styre som sköter sina angelägenheter
+      skickligt och effektivt.
+    t: Il compito della commissione per il controllo dei bilanci non è <a>lasciare</a>
+      la Commissione inoperosa per tutta la durata della legislatura, bensì assicurare
+      che i cittadini europei siano serviti da un esecutivo che attua le sue priorità
+      politiche in modo efficiente ed efficace.
+- c: 1
+  r: 2
+  v: svendere
+  x:
+  - s: Det är ingen mening med att <v>hänga</v> <p>ut</p> den offentliga moralen.
+    t: Non ha senso che continuino a ricuperare le frodi a prezzo di saldo, che <a>svendano</a>
+      la morale pubblica.
+pt:
+- c: 3
+  r: 1
+  v: denunciar
+  x:
+  - s: När de skall visa sina nationella handlingsplaner för varandra och för medborgarna,
+      blir det möjligt att <v>hänga</v> <p>ut</p> det land som inte uppfyller de gemensamma
+      målen - litet i riktning mot en EU-tävling i jämställdhet på arbetsmarknaden.
+    t: Quando os Estados-Membros tiverem de apresentar uns aos outros e aos cidadãos
+      os seus planos de acção, será possível <a>denunciar</a> aqueles que não cumprem
+      os objectivos comuns - uma espécie de competição a nível da UE em termos de
+      igualdade no mercado de trabalho.
+  - s: Det svarta får som ljuger om hela åkrar och hittar på affärsverksamhet och
+      som orsakar BSE och andra skandaler borde namnges och <v>hängas</v> <p>ut</p>.
+    t: As ovelhas negras que inventam terrenos agrícolas e empresas e os que são responsáveis
+      pela BSE e por outras calamidades devem ser publicamente <a>denunciados</a>.
+  - s: Om vi inte slutligen och regelbundet <v>hänger</v> <p>ut</p> de medlemsstater
+      där de flesta bedrägerierna äger rum kommer vi att förlora vår trovärdighet.
+    t: Se não acabarmos por <a>denunciar</a> de forma clara, e regularmente, os Estados-Membros
+      em que mais fraudes ocorrem, perderemos a nossa credibilidade.
+- c: 1
+  r: 2
+  v: escudar
+  x:
+  - s: Det måste ju vara så att kommissionen varken skall kunna tysta ned tjänstemän
+      eller <v>hänga</v> <p>ut</p> dem, utan att den själv skall ta på sig ansvaret
+      för att situationen är som den är.
+    t: A Comissão não deve nem encobrir os funcionários nem <a>escudar</a><a>-se</a>
+      com estes, antes deve assumir a responsabilidade pelo facto de as coisas estarem
+      no ponto em que estão.
+- c: 1
+  r: 2
+  v: exprobração publicação
+  x:
+  - s: Det är nu flera månader i rad som de har namngetts och <v>hängts</v> <p>ut</p>
+      i protokollen och jag vill uppmana ordföranden att vidta de åtgärder som krävs
+      i detta läge.
+    t: Há já uma série de meses que os seus nomes têm vindo a ser expostos à <a>exprobração</a>
+      pública por <a>publicação</a> em acta e eu instaria a Senhora Presidente a tomar
+      as medidas adequadas.
+- c: 1
+  r: 2
+  v: finlandês
+  x:
+  - s: Det innebär fyra röster, och ni behöver bara nio till. Jag vet att rådet föredrar
+      att göra saker och ting genom enhällighet men för att uppnå någonting av verklig
+      substans - en verklig förändring - borde inte ordförandeskapet föra fram detta
+      till omröstning vid nästa möte i allmänna rådet och namnge och <v>hänga</v>
+      <p>ut</p> de medlemsstater som inte stöder denna inställning?
+    t: A Presidência está, neste momento, em colaboração com as futuras Presidências
+      austríaca e <a>finlandesa</a>, a estudar uma série de medidas possíveis através
+      das quais pretendemos melhorar a transparência legislativa no Conselho.
+- c: 1
+  r: 2
+  v: identificar expor
+  x:
+  - s: Det viktigaste här är folkhälsan och det handlar inte alls om att <v>hänga</v>
+      <p>ut</p> enskilda företag.
+    t: O que é importante nestes casos é a saúde pública, e não <a>identificar</a>
+      ou <a>expor</a> seja quem for à censura pública.
+- c: 1
+  r: 2
+  v: pendurar
+  x:
+  - s: Under förmiddagen bad jag om att de plakat som <v>hänger</v> <p>ut</p> ur olika
+      ledamöters kontor skulle avlägsnas, eftersom detta skadar parlamentets anseende.
+    t: Senhor Presidente, esta manhã, pedi que os cartazes <a>pendurados</a> nas janelas
+      dos gabinetes de certos deputados fossem retirados, porque atentam à dignidade
+      do Parlamento.
+- c: 1
+  r: 2
+  v: saldo
+  x:
+  - s: Det är ingen mening med att <v>hänga</v> <p>ut</p> den offentliga moralen.
+    t: Não faz sentido que continuem a cobrar as fraudes a preço de saldo, não faz
+      sentido que ponham em <a>saldo</a> a moral pública.
+- c: 1
+  r: 2
+  v: ser apelidar
+  x:
+  - s: Det är oacceptabelt att ledamöter av Europaparlamentet <v>hängs</v> <p>ut</p>
+      som ”Europas cancer”, att de med andra ord jämställs med en dödlig sjukdom.
+    t: É inaceitável para os Membros do Parlamento Europeu <a>serem</a> <a>apelidados</a>
+      de «cancro da Europa», ou, por outras palavras, receberem o nome de uma doença
+      mortal.
+- c: 1
+  r: 2
+  v: verberar apontar
+  x:
+  - s: Det finns inget behov av att <v>hänga</v> <p>ut</p> just detta land, eftersom
+      vår resolution handlar om den nya förordningen och behovet av en ny förordning.
+    t: Não há necessidade de o <a>verberar</a> e de lhe <a>apontar</a> o dedo, pois
+      a nossa resolução diz respeito ao novo regulamento e à necessidade de termos
+      um novo regulamento.
+- c: 1
+  r: 2
+  v: afixar
+  x:
+  - s: Vad flygbolagen än lovar och vilka avtal de än gör sinsemellan för att <v>hänga</v>
+      <p>ut</p> vackra listor med passagerares rättigheter, i praktiken har det inte
+      blivit särskilt mycket av det.
+    t: Quaisquer que sejam as promessas das companhias de aviação e quaisquer que
+      sejam os acordos que estas fazem entre si para <a>afixarem</a> belas listas
+      dos direitos dos passageiros, verifica-se que, na prática, poucas dessas coisas
+      se tornam realidade.
+- c: 1
+  r: 2
+  v: expor estar
+  x:
+  - s: Är det inte på tiden att vi namnger och <v>hänger</v> <p>ut</p> de medlemsstater
+      som inte vidtar tillräckliga åtgärder för att förbättra entreprenörskapet och
+      konkurrenskraften?
+    t: Não será tempo de identificarmos e <a>expormos</a> os Estados-Membros que não
+      <a>estão</a> a tomar as medidas necessárias para fomentar o sentido empresarial
+      e a competitividade?
+- c: 1
+  r: 2
+  v: apontar dedo
+  x:
+  - s: Som parlamentsledamot har jag svårt att svälja att en demokrati som Italien
+      ska <v>hängas</v> <p>ut</p> på det sätt som den här debatten syftar till. Pressfriheten
+      är en grundläggande frihet som garanteras av artikel 21 i den italienska grundlagen.
+    t: É extremamente difícil para um deputado ao Parlamento Europeu ver uma democracia
+      como a Itália ser <a>apontada</a> a <a>dedo</a>, como o presente debate pretende
+      fazer.

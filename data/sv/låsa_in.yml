@@ -1,0 +1,762 @@
+---
+de:
+- c: 4
+  r: 1
+  v: einsperren
+  x:
+  - s: Många syriska invånare har tvingats fly utomlands, därför att de annars riskerat
+      att <v>låsas</v> <p>in</p> eller att försvinna för alltid och ingen organiserad
+      opposition är tillåten.
+    t: Etliche Einwohner Syriens waren zur Flucht ins Ausland gezwungen, weil man
+      sie sonst <a>eingesperrt</a> oder völlig verschwinden lassen hätte.
+  - s: Alltsedan Nationella fronten bildades 1972 har vi ständigt kämpat mot järnridån,
+      som kommunisterna byggde upp för att <v>låsa</v> <p>in</p> de östeuropeiska
+      folken i ett jättelikt koncentrationsläger.
+    t: Seit seiner Gründung im Jahr 1972 hat der Front National einen unablässigen
+      Kampf gegen diesen Eisernen Vorhang geführt, der von den Kommunisten errichtet
+      wurde, um die Völker Osteuropas in ein gewaltiges Konzentrationslager <a>einzusperren</a>.
+  - s: Han kan klara sig bra utan att <v>låsa</v> <p>in</p> oppositionen.
+    t: Er kann zurechtkommen, auch ohne seine Opposition <a>einzusperren</a>.
+  - s: De har olagligen <v>låsts</v> <p>in</p> av Bushregeringen som uppenbarligen
+      har brutit mot internationell rätt.
+    t: Sie wurden von der Bush-Regierung illegal <a>eingesperrt</a>, was eine klare
+      Verletzung internationalen Rechts darstellt.
+- c: 1
+  r: 2
+  v: Korsett
+  x:
+  - s: I bästa fall kommer den här gemensamma valutan att <v>låsa</v> <p>in</p> oss
+      i växelkursstelheter som sett Västeuropas ekonomier karaktäriseras av låg tillväxt
+      och hög sysselsättning.
+    t: Die anstehende einheitliche Währung wird uns bestenfalls ein <a>Korsett</a>
+      aus starren Wechselkursraten verpassen, das den westeuropäischen Ländern ein
+      niedriges Wachstum und hohe Arbeitslosigkeit beschert hat.
+- c: 1
+  r: 2
+  v: Eingang
+  x:
+  - s: Helt nyligen <v>låstes</v> Irina Petrushova <p>in</p> med anledning av möjliga
+      överträdelser som absolut inte har något att göra med hennes arbete, förutom
+      att hon råkar vara den mest framstående journalisten för oppositionens tidning
+      i Kazakstan.
+    t: Mir macht nur Sorgen, dass aufgrund der allgemeinen Bereitschaft zur Aushöhlung
+      der Werte in so viele unserer Dokumente Lücken oder Beschwichtigungsmanöver
+      <a>Eingang</a> gefunden haben.
+- c: 1
+  r: 2
+  v: beschränken
+  x:
+  - s: Enligt min uppfattning kan man tillåta sig en flexiblare hållning och inte
+      <v>låsa</v> <p>in</p> sig i den situation som betänkandet anger.
+    t: Nach meiner Beurteilung sollte man einen flexibleren Standpunkt einnehmen und
+      sich nicht auf eine Position <a>beschränken</a>, wie sie dem Bericht zu entnehmen
+      ist.
+- c: 1
+  r: 2
+  v: engagieren
+  x:
+  - s: Det är klart att vi vill att alla dessa politiska fångar ska släppas, att vi
+      vill ha pressfrihet och att domarkåren ska kunna verka fritt, för om alla de
+      som har uttalat sig för demokrati <v>låses</v> <p>in</p>, vilka blir då kvar
+      ute på gatorna?
+    t: Ganz offensichtlich fordern wir die Freilassung aller politischen Gefangenen,
+      Pressefreiheit und ein ungehindertes Arbeiten der Justiz, denn wenn alle, die
+      sich für demokratische Werte <a>engagieren</a>, hinter Gittern sitzen, bleibt
+      niemand mehr übrig, um auf die Straße zu gehen.
+- c: 1
+  r: 2
+  v: schließen
+  x:
+  - s: De <v>låste</v> <p>in</p> sig i ett litet rum med den högste befälhavaren och
+      kom ut fullastade med cigaretter, flaskor med sprit och eventuellt också annat.
+    t: Sie <a>schlossen</a> sich mit dem Schiffsrechnungsführer in einer Kabine ein
+      und kamen beladen mit Zigaretten, Likörflaschen und wahrscheinlich noch anderen
+      Dingen wieder heraus.
+- c: 1
+  r: 2
+  v: sperren
+  x:
+  - s: Man behöver endast föreställa sig vad som skulle hända om vi <v>låste</v> <p>in</p>
+      EU:s 25 finansministrar i ett rum och släppte ut dem först när vit rök syns
+      och de har enats om en skatteharmonisering.
+    t: Stellen Sie sich einfach vor, wir <a>sperrten</a> die 25 europäischen Finanzminister
+      in einen Raum und ließen sie erst dann wieder heraus, wenn weißer Rauch aufsteigt
+      und sie sich über eine Steuerharmonisierung geeinigt haben!
+- c: 1
+  r: 2
+  v: Verurteilte einsperren werden
+  x:
+  - s: Den som döms som skyldig kan inte <v>låsas</v> <p>in</p> i Sierra Leone tillräckligt
+      länge.
+    t: Kein <a>Verurteilter</a> kann in Sierra Leone für eine angemessene Zeitdauer
+      <a>eingesperrt</a> <a>werden</a>.
+- c: 1
+  r: 2
+  v: verwickeln
+  x:
+  - s: Det kommer det att bli svårt att under toppmötet i Pörtschach reda ut trasslet
+      kring de institutionella problem som unionen har <v>låst</v> <p>in</p> sig i.
+    t: Herr Präsident, auf dem Gipfel von Pörtschach wird es schwierig werden, den
+      ganzen Knäuel von institutionellen Problemen zu entwirren, in den die Union
+      <a>verwickelt</a> ist.
+- c: 1
+  r: 2
+  v: verwickeln hineinziehen
+  x:
+  - s: Jag delar er djupa oro över det ökade våld som har skett i Mellanöstern under
+      de senaste veckorna, p.g.a. att båda sidor verkar ha <v>låst</v> <p>in</p> sig
+      i en nedåtgående spiral som lämnar litet utrymme för dialog och en utveckling
+      mot en slutlig lösning.
+    t: Herr Präsident, ich teile Ihre tiefe Besorgnis wegen der Eskalation der Gewalt,
+      die sich in den letzten Wochen im Nahen Osten aufgebaut hat, weil sich beide
+      Seiten anscheinend in eine Spirale <a>verwickelt</a> haben, die sie immer tiefer
+      <a>hineinzieht</a> und wenig Spielraum für einen Dialog bzw. Fortschritte zu
+      einer endgültigen Regelung bietet.
+- c: 1
+  r: 2
+  v: einreisen einsperren
+  x:
+  - s: Jag skäms över att en majoritet här i parlamentet har stött idén om att under
+      en så lång period <v>låsa</v> <p>in</p> personer vars enda brott är att de har
+      kommit hit i sökandet efter bättre levnadsvillkor och som ofta befinner sig
+      i en mycket sårbar situation.
+    t: Ich schäme mich dafür, dass eine Mehrheit unseres Hauses die Idee unterstützt
+      hat, Menschen, deren einziges Verbrechen darin besteht, auf der Suche nach besseren
+      Lebensbedingungen in unsere Territorium <a>eingereist</a> zu sein, und die häufig
+      in einem völlig wehrlosen Zustand sind, für einen so langen Zeitraum <a>einzusperren</a>.
+en:
+- c: 14
+  r: 1
+  v: lock up
+  x:
+  - s: Den som döms som skyldig kan inte <v>låsas</v> <p>in</p> i Sierra Leone tillräckligt
+      länge.
+    t: Anyone found guilty cannot be <a>locked</a> <a>up</a> in Sierra Leone for any
+      decent length of time.
+  - s: Det går inte att <v>låsa</v> <p>in</p> vildmarken i ett bankfack, som om den
+      vore ett halsband eller ett aktiebrev.
+    t: The wilderness cannot be <a>locked</a> <a>up</a> in a bank safety deposit box,
+      like a necklace or a package of share certificates.
+  - s: Helt nyligen <v>låstes</v> Irina Petrushova <p>in</p> med anledning av möjliga
+      överträdelser som absolut inte har något att göra med hennes arbete, förutom
+      att hon råkar vara den mest framstående journalisten för oppositionens tidning
+      i Kazakstan.
+    t: Only recently, Irina Petrushova was <a>locked</a> <a>up</a> on account of possible
+      offences completely unrelated to her work, except that she happens to be the
+      most prominent journalist for the opposition newspaper in Kazakhstan.
+  - s: Den är en av de sista kommunistiska terrorregimerna i världen, tillsammans
+      med Kuba och några andra, och vi bör använda alla fredliga påtryckningsmedel
+      - både politiska och ekonomiska - när vi arbetar för att störta denna kommunistdynasti
+      och dess förtryckande system, för att frihetskämparna och motståndsmännen, som
+      är över 200 000, ska släppas, för att dessa människor - som inte vill någonting
+      mer än att utöva en religion eller fritt uttrycka sina åsikter - ska få njuta
+      samvetsfrihet och de människor från Japan, Sydkorea och många andra länder som
+      med de mest genomskinliga förevändningar har <v>låsts</v> <p>in</p> i Nordkorea
+      ska bli fria.
+    t: Along with Cuba and a few others, it is among the last Communist terror regimes
+      on earth, and we should deploy all peaceful means of exerting pressure - whether
+      political or economic - in working towards the overthrow of this Communist dynasty
+      and its repressive system, towards the release of the campaigners for freedom
+      and resistance fighters in it, of whom there are over 200 000, for these people
+      - who want nothing more than to practice a religion or to express their opinions
+      freely - to be able to enjoy freedom of conscience, and the setting at liberty
+      of those persons from Japan, South Korea and many other countries, who, on the
+      flimsiest of pretexts, have been <a>locked</a> <a>up</a> in North Korea.
+  - s: Det är klart att vi vill att alla dessa politiska fångar ska släppas, att vi
+      vill ha pressfrihet och att domarkåren ska kunna verka fritt, för om alla de
+      som har uttalat sig för demokrati <v>låses</v> <p>in</p>, vilka blir då kvar
+      ute på gatorna?
+    t: It is clear that we want the release of all those political prisoners, that
+      we want freedom of the press and we want the judiciary to be able to operate
+      freely because, if all those with stated commitments to democracy are <a>locked</a>
+      <a>up</a>, who else is left out on the streets?
+  - s: Jag skäms över att en majoritet här i parlamentet har stött idén om att under
+      en så lång period <v>låsa</v> <p>in</p> personer vars enda brott är att de har
+      kommit hit i sökandet efter bättre levnadsvillkor och som ofta befinner sig
+      i en mycket sårbar situation.
+    t: I am ashamed that a majority in this House has supported the idea of <a>locking</a>
+      <a>up</a> for such a long period people whose only crime is to have come here
+      in search of better living conditions and who are often in an extremely vulnerable
+      state.
+  - s: Att ge möjlighet att <v>låsa</v> <p>in</p> vuxna och till och med barn i inte
+      mindre än 18 månader är att gå för långt, särskilt som de också ska frihetsberövas
+      om deras ursprungsland inte samarbetar genom att tillhandahålla de rätta dokumenten.
+    t: The possibility of <a>locking</a> <a>up</a> adults and even children for no
+      less than 18 months is going too far, particularly as they are also to be taken
+      into detention if their country of origin does not cooperate by providing the
+      right papers.
+  - s: Många syriska invånare har tvingats fly utomlands, därför att de annars riskerat
+      att <v>låsas</v> <p>in</p> eller att försvinna för alltid och ingen organiserad
+      opposition är tillåten.
+    t: Many Syrian residents were forced to flee abroad, because they otherwise faced
+      being <a>locked</a> <a>up</a> or disappearing utterly, and no organised opposition
+      is permitted.
+  - s: Han kan klara sig bra utan att <v>låsa</v> <p>in</p> oppositionen.
+    t: He can do well without <a>locking</a> <a>up</a> his opposition.
+  - s: 'Ni kommer att ångra er därför att de som en gång <v>låste</v> <p>in</p> dessa
+      oskyldiga medborgare kommer att säga till dem: ”Som ni ser kan vi göra vad vi
+      vill - västvärlden är ändå bara ute efter den kinesiska marknaden.'
+    t: 'You will regret it because the people who <a>locked</a> <a>up</a> these innocent
+      citizens will be saying to them, ’You see, we can do what we want:'
+  - s: De har olagligen <v>låsts</v> <p>in</p> av Bushregeringen som uppenbarligen
+      har brutit mot internationell rätt.
+    t: They have been <a>locked</a> <a>up</a> illegally by the Bush administration,
+      which clearly violated international law.
+  - s: Jag tror dock inte att ens de värsta fienderna till Fine Gael skulle önska
+      att Mary Elizabeth Banotti <v>låstes</v> <p>in</p> i 15 år för den sakens skull.
+    t: However, I do not think even the worst enemies of Fine Gael would wish Mrs
+      Banotti to be <a>locked</a> <a>up</a> for 15 years for that.
+  - s: Att döma av hennes senaste brev, som jag har här, till bland andra Javier Solana
+      och ordförande Prodi, är hennes bedömning av Öcalan och PKK:s efterföljande
+      organisationer kanske något naiv, tämligen överdriven eller underdriven, beroende
+      på hur man vill uttrycka det, men som redan har sagts är inget av detta en anledning
+      att <v>låsa</v> <p>in</p> någon i många år och bekräfta domen stick i stäv mot
+      gemenskapsrättsliga avgöranden.
+    t: to judge by her latest letter - which I have here - to, among others, Javier
+      Solana and President Prodi, her assessment of Öçalan and of the PKK’s successor
+      organisations is perhaps somewhat naive, rather exaggerated or understated,
+      depending on your chosen way of putting it, but - as has already been said -
+      none of these things are reasons for someone to be <a>locked</a> <a>up</a> for
+      many years and their sentence confirmed in the teeth of rulings by European
+      courts.
+  - s: Detta förklarar varför oppositionsledamöter i parlamentet kan behandlas som
+      statens fiender och <v>låsas</v> <p>in</p>.
+    t: This explains how members of the parliamentary opposition can be treated as
+      public enemies and <a>locked</a> <a>up</a>.
+- c: 3
+  r: 2
+  v: lock
+  x:
+  - s: Vi får inte behandla dem bara som äldre människor och <v>låsa</v> <p>in</p>
+      dem i ett skåp eller bunta ihop dem och säga ”detta är de äldre”.
+    t: We must not treat them just as elderly and <a>lock</a> them away in a cupboard
+      or parcel them off and say ’that is elderly’.
+  - s: Jag välkomnar det färska brittiska domstolsbeslutet mot den brittiska regeringens
+      praxis att <v>låsa</v> <p>in</p> asylsökande i förvarsenheter, hur moderna dessa
+      än är.
+    t: I for one welcome the recent United Kingdom court ruling against the UK government’s
+      practice of <a>locking</a> asylum seekers in detention centres, however modern
+      those centres may be.
+  - s: länder där oppositionspartier attackeras fysiskt, som Ungern, eller attackeras
+      av regeringspartiets milis, som Storbritannien, och länder där man <v>låser</v>
+      <p>in</p> människor som protesterar utan att ta till våld eller förbjuder politiska
+      partier, som Belgien.
+    t: countries in which opposition parties are physically attacked, such as Hungary,
+      or attacked by the militia of the ruling party, such as even the United Kingdom,
+      or countries that <a>lock</a> people up for non-violent dissent or ban political
+      parties, like Belgium.
+- c: 2
+  r: 3
+  v: enclose
+  x:
+  - s: Alltsedan Nationella fronten bildades 1972 har vi ständigt kämpat mot järnridån,
+      som kommunisterna byggde upp för att <v>låsa</v> <p>in</p> de östeuropeiska
+      folken i ett jättelikt koncentrationsläger.
+    t: Since its creation in 1972, the National Front has constantly fought against
+      this Iron Curtain, which was built by the Communists to <a>enclose</a> the people
+      of Eastern Europe in an enormous concentration camp.
+  - s: 65 000 personer <v>låstes</v> <p>in</p> på dessa platser.
+    t: 65 000 people are <a>enclosed</a> in those places.
+- c: 1
+  r: 4
+  v: shut
+  x:
+  - s: De <v>låste</v> <p>in</p> sig i ett litet rum med den högste befälhavaren och
+      kom ut fullastade med cigaretter, flaskor med sprit och eventuellt också annat.
+    t: They would <a>shut</a> themselves in a cabin with the chief purser and come
+      out loaded with cigarettes, bottles of spirits and maybe other things too.
+- c: 1
+  r: 4
+  v: lock away
+  x:
+  - s: Jag menar att mycket av det positiva som sades efter den 11 september glömdes
+      bort och <v>låstes</v> <p>in</p> i regeringarnas byrålådor ganska direkt efter
+      att det hade sagts.
+    t: I do believe that much of the good that was said in the aftermath of 11 September
+      is now forgotten and was <a>locked</a> <a>away</a> in governments’ desk drawers
+      not long after it saw the light of day.
+- c: 1
+  r: 4
+  v: be lock
+  x:
+  - s: Man behöver endast föreställa sig vad som skulle hända om vi <v>låste</v> <p>in</p>
+      EU:s 25 finansministrar i ett rum och släppte ut dem först när vit rök syns
+      och de har enats om en skatteharmonisering.
+    t: You need only imagine what would happen if we <a>were</a> to <a>lock</a> the
+      25 European finance ministers in a room and let them out only when the white
+      smoke had appeared and they had agreed on tax harmonisation;
+- c: 1
+  r: 4
+  v: use lock away
+  x:
+  - s: När jag för tjugo år sedan var nyexaminerad praktiserande läkare, skulle den
+      information som jag i egenskap av läkare hade tillgång till om läkemedel <v>låsas</v>
+      <p>in</p> för att obehöriga inte skulle komma över den.
+    t: When, twenty years ago, I was a newly-qualified general practitioner, the information
+      available to me on medicines <a>used</a> to be <a>locked</a> <a>away</a> to
+      prevent unauthorised access.
+- c: 1
+  r: 4
+  v: trap
+  x:
+  - s: Ni har <v>låst</v> <p>in</p> människor i Völkerkerker [folkfängelset] ur vilket
+      det kommer att krävas mycket mod för att ta sig ut.
+    t: You have <a>trapped</a> people in a Völkerkerker from which it will take great
+      courage to get out.
+es:
+- c: 4
+  r: 1
+  v: encerrar
+  x:
+  - s: Vi får inte behandla dem bara som äldre människor och <v>låsa</v> <p>in</p>
+      dem i ett skåp eller bunta ihop dem och säga ”detta är de äldre”.
+    t: No debemos tratarlas simplemente como personas de edad avanzada y <a>encerrarlas</a>
+      en un armario o etiquetarlas y decir «esto son las personas de edad avanzada».
+  - s: Jag delar er djupa oro över det ökade våld som har skett i Mellanöstern under
+      de senaste veckorna, p.g.a. att båda sidor verkar ha <v>låst</v> <p>in</p> sig
+      i en nedåtgående spiral som lämnar litet utrymme för dialog och en utveckling
+      mot en slutlig lösning.
+    t: Señor Presidente, comparto su profunda preocupación por el resurgimiento de
+      la violencia que se ha desatado en Oriente Medio durante las últimas semanas,
+      porque ambas partes parecen haberse <a>encerrado</a> en una espiral destructiva
+      que deja escaso margen para el diálogo y para avanzar hacia una solución final.
+  - s: I bästa fall kommer den här gemensamma valutan att <v>låsa</v> <p>in</p> oss
+      i växelkursstelheter som sett Västeuropas ekonomier karaktäriseras av låg tillväxt
+      och hög sysselsättning.
+    t: En el mejor de los casos la moneda única nos va a <a>encerrar</a> en una rigidez
+      de los tipos de cambio que ha caracterizado a las economías occidentales por
+      un bajo crecimiento y un elevado desempleo.
+  - s: De <v>låste</v> <p>in</p> sig i ett litet rum med den högste befälhavaren och
+      kom ut fullastade med cigaretter, flaskor med sprit och eventuellt också annat.
+    t: Se <a>encerraban</a> en un pequeño camarote con el comisario jefe y salían
+      cargados de cigarrillos, botellas de licor y quizás algo más.
+- c: 2
+  r: 2
+  v: encarcelar
+  x:
+  - s: Den som döms som skyldig kan inte <v>låsas</v> <p>in</p> i Sierra Leone tillräckligt
+      länge.
+    t: Las personas halladas culpables no pueden ser <a>encarceladas</a> en Sierra
+      Leona durante períodos prolongados.
+  - s: Det är klart att vi vill att alla dessa politiska fångar ska släppas, att vi
+      vill ha pressfrihet och att domarkåren ska kunna verka fritt, för om alla de
+      som har uttalat sig för demokrati <v>låses</v> <p>in</p>, vilka blir då kvar
+      ute på gatorna?
+    t: Está claro que queremos la liberación de todos esos presos políticos, que queremos
+      libertad de prensa y que queremos una justicia que pueda funcionar libremente
+      porque, si todos los que han manifestado su compromiso con la democracia están
+      <a>encarcelados</a>, ¿quién más queda fuera en las calles?
+- c: 1
+  r: 3
+  v: llave
+  x:
+  - s: När jag för tjugo år sedan var nyexaminerad praktiserande läkare, skulle den
+      information som jag i egenskap av läkare hade tillgång till om läkemedel <v>låsas</v>
+      <p>in</p> för att obehöriga inte skulle komma över den.
+    t: Cuando, hace veinte años, trabajé como médico de familia recién titulado, la
+      información de que disponía sobre los medicamentos utilizados solía guardarse
+      bajo <a>llave</a> para impedir al acceso no autorizado.
+- c: 1
+  r: 3
+  v: meter
+  x:
+  - s: Ni har <v>låst</v> <p>in</p> människor i Völkerkerker [folkfängelset] ur vilket
+      det kommer att krävas mycket mod för att ta sig ut.
+    t: La han <a>metido</a> ustedes en una «mazmorra para el pueblo» de la cual solo
+      se podrá salir con mucho coraje.
+- c: 1
+  r: 3
+  v: prisión
+  x:
+  - s: Många syriska invånare har tvingats fly utomlands, därför att de annars riskerat
+      att <v>låsas</v> <p>in</p> eller att försvinna för alltid och ingen organiserad
+      opposition är tillåten.
+    t: Muchos habitantes del país han sido obligados a huir para evitar la <a>prisión</a>
+      o la desaparición, y no se permite ninguna oposición organizada.
+- c: 1
+  r: 3
+  v: infringir
+  x:
+  - s: De har olagligen <v>låsts</v> <p>in</p> av Bushregeringen som uppenbarligen
+      har brutit mot internationell rätt.
+    t: Fueron encarcelados de forma ilegal por la administración Bush, lo que claramente
+      <a>infringió</a> el Derecho internacional.
+- c: 1
+  r: 3
+  v: guardar
+  x:
+  - s: Jag menar att mycket av det positiva som sades efter den 11 september glömdes
+      bort och <v>låstes</v> <p>in</p> i regeringarnas byrålådor ganska direkt efter
+      att det hade sagts.
+    t: Creo que muchos de los buenos propósitos manifestados tras el 11 de septiembre
+      ya se han olvidado y que fueron <a>guardados</a> en algún cajón de los despachos
+      de los gobiernos no mucho después de haber visto la luz del día.
+fr:
+- c: 6
+  r: 1
+  v: enfermer
+  x:
+  - s: Det går inte att <v>låsa</v> <p>in</p> vildmarken i ett bankfack, som om den
+      vore ett halsband eller ett aktiebrev.
+    t: Nous ne pouvons pas <a>enfermer</a> la nature sauvage dans un coffre-fort,
+      comme nous le ferions avec un collier de diamants ou des certificats d’actions.
+  - s: Det kommer det att bli svårt att under toppmötet i Pörtschach reda ut trasslet
+      kring de institutionella problem som unionen har <v>låst</v> <p>in</p> sig i.
+    t: Monsieur le Président, le Sommet de Pörtschach aura du mal à démêler l’écheveau
+      des problèmes institutionnels dans lequel l’Union s’est <a>enfermée</a>.
+  - s: Vi får inte behandla dem bara som äldre människor och <v>låsa</v> <p>in</p>
+      dem i ett skåp eller bunta ihop dem och säga ”detta är de äldre”.
+    t: Il ne faut pas les traiter comme de simples vieillards et les <a>enfermer</a>
+      dans un placard.
+  - s: Alltsedan Nationella fronten bildades 1972 har vi ständigt kämpat mot järnridån,
+      som kommunisterna byggde upp för att <v>låsa</v> <p>in</p> de östeuropeiska
+      folken i ett jättelikt koncentrationsläger.
+    t: Depuis sa création en 1972, le Front national n’a pas cessé de lutter contre
+      ce rideau de fer que les communistes avaient construit pour <a>enfermer</a>,
+      dans un immense camp de concentration, les peuples de l’Europe de l’Est.
+  - s: den trängde in på kontoret som tillhör ADEP, som är ett demokratiskt parti,
+      och arresterade hundratals personer som sedan också <v>låstes</v> <p>in</p>
+      i stadion.
+    t: elle est entrée au siège de l’ADEP, parti démocratique, et a arrêté des centaines
+      et des centaines de personnes, allant jusqu’à les <a>enfermer</a> dans le stade.
+  - s: Jag menar att mycket av det positiva som sades efter den 11 september glömdes
+      bort och <v>låstes</v> <p>in</p> i regeringarnas byrålådor ganska direkt efter
+      att det hade sagts.
+    t: Je pense que nombre de bonnes choses formulées après le 11 septembre sont aujourd’hui
+      tombées aux oubliettes ou <a>enfermées</a> dans les tiroirs des gouvernements.
+- c: 1
+  r: 2
+  v: incarcérer
+  x:
+  - s: Det är klart att vi vill att alla dessa politiska fångar ska släppas, att vi
+      vill ha pressfrihet och att domarkåren ska kunna verka fritt, för om alla de
+      som har uttalat sig för demokrati <v>låses</v> <p>in</p>, vilka blir då kvar
+      ute på gatorna?
+    t: Il est clair que nous souhaitons la libération de tous les prisonniers politiques,
+      que nous voulons la liberté de la presse et que l’appareil judiciaire puisse
+      fonctionner librement, car si toutes les personnes qui se sont engagées pour
+      la démocratie se retrouvent <a>incarcérées</a>, qui restera en liberté ?
+- c: 1
+  r: 2
+  v: emprisonner
+  x:
+  - s: De har olagligen <v>låsts</v> <p>in</p> av Bushregeringen som uppenbarligen
+      har brutit mot internationell rätt.
+    t: Ils ont été <a>emprisonnés</a> par l’administration Bush, qui a de toute évidence
+      violé le droit international.
+- c: 1
+  r: 2
+  v: enfermement
+  x:
+  - s: Många syriska invånare har tvingats fly utomlands, därför att de annars riskerat
+      att <v>låsas</v> <p>in</p> eller att försvinna för alltid och ingen organiserad
+      opposition är tillåten.
+    t: Beaucoup de résidents syriens ont été forcés de fuir à l’étranger, faute de
+      quoi ils se seraient exposés à un <a>enfermement</a> ou à une disparition totale,
+      et aucune opposition organisée n’est permise.
+- c: 1
+  r: 2
+  v: empêtrer
+  x:
+  - s: Jag delar er djupa oro över det ökade våld som har skett i Mellanöstern under
+      de senaste veckorna, p.g.a. att båda sidor verkar ha <v>låst</v> <p>in</p> sig
+      i en nedåtgående spiral som lämnar litet utrymme för dialog och en utveckling
+      mot en slutlig lösning.
+    t: Monsieur le Président, je partage votre profonde inquiétude quant à la flambée
+      de violence qui a touché le Moyen-Orient ces dernières semaines, parce que les
+      deux camps semblent s’être <a>empêtrés</a> dans une spirale infernale qui ne
+      laisse que peu de place pour le dialogue et le progrès vers un arrangement final.
+- c: 1
+  r: 2
+  v: devoir enfermer
+  x:
+  - s: Man behöver endast föreställa sig vad som skulle hända om vi <v>låste</v> <p>in</p>
+      EU:s 25 finansministrar i ett rum och släppte ut dem först när vit rök syns
+      och de har enats om en skatteharmonisering.
+    t: Il vous suffit d’imaginer ce qui arriverait si nous <a>devions</a> <a>enfermer</a>
+      les 25 ministres des finances dans une pièce et ne les laisser ressortir que
+      lorsqu’ils auraient annoncé par une fumée blanche qu’ils se sont mis d’accord
+      sur l’harmonisation fiscale ;
+it:
+- c: 2
+  r: 1
+  v: detenere
+  x:
+  - s: Att ge möjlighet att <v>låsa</v> <p>in</p> vuxna och till och med barn i inte
+      mindre än 18 månader är att gå för långt, särskilt som de också ska frihetsberövas
+      om deras ursprungsland inte samarbetar genom att tillhandahålla de rätta dokumenten.
+    t: La possibilità di <a>detenere</a> adulti e persino bambini fino a 18 mesi va
+      troppo oltre.
+  - s: De har olagligen <v>låsts</v> <p>in</p> av Bushregeringen som uppenbarligen
+      har brutit mot internationell rätt.
+    t: Sono stati <a>detenuti</a> illegalmente dall’amministrazione Bush, che ha palesemente
+      violato il diritto internazionale.
+  - s: Att döma av hennes senaste brev, som jag har här, till bland andra Javier Solana
+      och ordförande Prodi, är hennes bedömning av Öcalan och PKK:s efterföljande
+      organisationer kanske något naiv, tämligen överdriven eller underdriven, beroende
+      på hur man vill uttrycka det, men som redan har sagts är inget av detta en anledning
+      att <v>låsa</v> <p>in</p> någon i många år och bekräfta domen stick i stäv mot
+      gemenskapsrättsliga avgöranden.
+    t: A giudicare dalle sue ultime lettere, che ho qui con me, indirizzate, fra gli
+      altri, a Javier Solana e al Presidente Prodi, la sua opinione su Ocalan e sulle
+      organizzazioni che hanno fatto seguito al PKK è forse un po’ ingenua, piuttosto
+      esagerata o minimizzata, a seconda del punto di vista, ma, com’è già stato detto,
+      niente di tutto ciò è sufficiente a <a>detenere</a> qualcuno per anni e a confermare
+      tale sentenza nonostante le decisioni delle giurisdizioni europee.
+- c: 1
+  r: 2
+  v: avvolgere
+  x:
+  - s: Jag delar er djupa oro över det ökade våld som har skett i Mellanöstern under
+      de senaste veckorna, p.g.a. att båda sidor verkar ha <v>låst</v> <p>in</p> sig
+      i en nedåtgående spiral som lämnar litet utrymme för dialog och en utveckling
+      mot en slutlig lösning.
+    t: Signor Presidente, come lei sono profondamente preoccupato per la nuova ondata
+      di violenza che ha investito il Medio Oriente nelle ultime settimane, giacché
+      entrambe le parti sembrano essersi <a>avvolte</a> in una pericolosa spirale
+      che non lascia spazio al dialogo né ad un possibile e definitivo accordo.
+- c: 1
+  r: 2
+  v: aggrovigliare
+  x:
+  - s: Det kommer det att bli svårt att under toppmötet i Pörtschach reda ut trasslet
+      kring de institutionella problem som unionen har <v>låst</v> <p>in</p> sig i.
+    t: Signor Presidente, il Vertice di Pörtschach avrà non poche difficoltà a dipanare
+      la matassa dei problemi istituzionali nella quale l’Unione si è <a>aggrovigliata</a>.
+- c: 1
+  r: 2
+  v: sbarra
+  x:
+  - s: Det är klart att vi vill att alla dessa politiska fångar ska släppas, att vi
+      vill ha pressfrihet och att domarkåren ska kunna verka fritt, för om alla de
+      som har uttalat sig för demokrati <v>låses</v> <p>in</p>, vilka blir då kvar
+      ute på gatorna?
+    t: È chiaro che noi vogliamo la liberazione di tutti quei prigionieri politici,
+      che vogliamo la libertà di stampa e che il potere giudiziario possa funzionare
+      liberamente in quanto, se tutti coloro i quali si sono impegnati per la democrazia
+      sono dietro le <a>sbarre</a>, di rimarrà?
+- c: 1
+  r: 2
+  v: rinchiudere
+  x:
+  - s: den trängde in på kontoret som tillhör ADEP, som är ett demokratiskt parti,
+      och arresterade hundratals personer som sedan också <v>låstes</v> <p>in</p>
+      i stadion.
+    t: è entrata nella sede dell’ADEP, che è un partito democratico, e ha arrestato
+      centinaia e centinaia di persone <a>rinchiudendole</a> anche nello stadio.
+- c: 1
+  r: 2
+  v: petrushova
+  x:
+  - s: Helt nyligen <v>låstes</v> Irina Petrushova <p>in</p> med anledning av möjliga
+      överträdelser som absolut inte har något att göra med hennes arbete, förutom
+      att hon råkar vara den mest framstående journalisten för oppositionens tidning
+      i Kazakstan.
+    t: Di recente, Irina <a>Petrushova</a> è stata arrestata per presunti reati del
+      tutto slegati dal suo lavoro, a parte il fatto che incidentalmente si tratta
+      della giornalista più autorevole del quotidiano dell’opposizione in Kazakistan.
+- c: 1
+  r: 2
+  v: imprigionare
+  x:
+  - s: Detta förklarar varför oppositionsledamöter i parlamentet kan behandlas som
+      statens fiender och <v>låsas</v> <p>in</p>.
+    t: Questa realtà spiega perché può accadere che gli esponenti dell’opposizione
+      parlamentare siano trattati come nemici pubblici e <a>imprigionati</a>.
+- c: 1
+  r: 2
+  v: detenere
+  x:
+  - s: Att ge möjlighet att <v>låsa</v> <p>in</p> vuxna och till och med barn i inte
+      mindre än 18 månader är att gå för långt, särskilt som de också ska frihetsberövas
+      om deras ursprungsland inte samarbetar genom att tillhandahålla de rätta dokumenten.
+    t: La possibilità di <a>detenere</a> adulti e persino bambini fino a 18 mesi va
+      troppo oltre.
+  - s: De har olagligen <v>låsts</v> <p>in</p> av Bushregeringen som uppenbarligen
+      har brutit mot internationell rätt.
+    t: Sono stati <a>detenuti</a> illegalmente dall’amministrazione Bush, che ha palesemente
+      violato il diritto internazionale.
+  - s: Att döma av hennes senaste brev, som jag har här, till bland andra Javier Solana
+      och ordförande Prodi, är hennes bedömning av Öcalan och PKK:s efterföljande
+      organisationer kanske något naiv, tämligen överdriven eller underdriven, beroende
+      på hur man vill uttrycka det, men som redan har sagts är inget av detta en anledning
+      att <v>låsa</v> <p>in</p> någon i många år och bekräfta domen stick i stäv mot
+      gemenskapsrättsliga avgöranden.
+    t: A giudicare dalle sue ultime lettere, che ho qui con me, indirizzate, fra gli
+      altri, a Javier Solana e al Presidente Prodi, la sua opinione su Ocalan e sulle
+      organizzazioni che hanno fatto seguito al PKK è forse un po’ ingenua, piuttosto
+      esagerata o minimizzata, a seconda del punto di vista, ma, com’è già stato detto,
+      niente di tutto ciò è sufficiente a <a>detenere</a> qualcuno per anni e a confermare
+      tale sentenza nonostante le decisioni delle giurisdizioni europee.
+- c: 1
+  r: 2
+  v: chiusa
+  x:
+  - s: Jag menar att mycket av det positiva som sades efter den 11 september glömdes
+      bort och <v>låstes</v> <p>in</p> i regeringarnas byrålådor ganska direkt efter
+      att det hade sagts.
+    t: Sono convinto che molte delle cose positive dette subito dopo l’11 settembre
+      siano state dimenticate e <a>chiuse</a> nei cassetti dei governi non molto tempo
+      dopo essere state pronunciate.
+- c: 1
+  r: 2
+  v: arrestare
+  x:
+  - s: Många syriska invånare har tvingats fly utomlands, därför att de annars riskerat
+      att <v>låsas</v> <p>in</p> eller att försvinna för alltid och ingen organiserad
+      opposition är tillåten.
+    t: Molti cittadini siriani sono stati costretti a fuggire all’estero, per scongiurare
+      il rischio di essere <a>arrestati</a> o fatti sparire, e non è ammessa alcuna
+      forma di opposizione organizzata.
+pt:
+- c: 5
+  r: 1
+  v: encarcerar
+  x:
+  - s: Den är en av de sista kommunistiska terrorregimerna i världen, tillsammans
+      med Kuba och några andra, och vi bör använda alla fredliga påtryckningsmedel
+      - både politiska och ekonomiska - när vi arbetar för att störta denna kommunistdynasti
+      och dess förtryckande system, för att frihetskämparna och motståndsmännen, som
+      är över 200 000, ska släppas, för att dessa människor - som inte vill någonting
+      mer än att utöva en religion eller fritt uttrycka sina åsikter - ska få njuta
+      samvetsfrihet och de människor från Japan, Sydkorea och många andra länder som
+      med de mest genomskinliga förevändningar har <v>låsts</v> <p>in</p> i Nordkorea
+      ska bli fria.
+    t: Juntamente com Cuba e alguns outros, o regime coreano é um dos últimos regimes
+      comunistas de terror que ainda restam neste planeta, pelo que devemos recorrer
+      a todos os meios pacíficos de exercer pressão - seja ela política ou económica
+      - para trabalharmos no sentido de derrubarmos esta dinastia comunista e o seu
+      sistema repressivo, de libertarmos os mais de 200 000 militantes que nele lutam
+      a favor da liberdade e da resistência, para que estas pessoas - que mais não
+      querem do que a liberdade de praticarem uma religião ou de exprimirem as suas
+      opiniões - possam gozar de liberdade de consciência, e para que se possam libertar
+      os cidadãos do Japão, da Coreia do Sul e de muitos outros países, que, com os
+      mais inconsistentes pretextos, foram <a>encarcerados</a> na Coreia do Norte.
+  - s: Det är klart att vi vill att alla dessa politiska fångar ska släppas, att vi
+      vill ha pressfrihet och att domarkåren ska kunna verka fritt, för om alla de
+      som har uttalat sig för demokrati <v>låses</v> <p>in</p>, vilka blir då kvar
+      ute på gatorna?
+    t: É evidente que exigimos a libertação de todos esses presos políticos, bem como
+      a liberdade de imprensa, assim como exigimos que o poder judicial possa funcionar
+      livremente visto que, se todos aqueles que estão declaradamente empenhados na
+      democracia se encontram <a>encarcerados</a>, quem são os que permanecem em liberdade?
+  - s: Många syriska invånare har tvingats fly utomlands, därför att de annars riskerat
+      att <v>låsas</v> <p>in</p> eller att försvinna för alltid och ingen organiserad
+      opposition är tillåten.
+    t: Muitos dos habitantes daquele país foram obrigados a evadir-se para o estrangeiro,
+      pois, de contrário, corriam o risco de serem <a>encarcerados</a> ou de desaparecerem
+      por completo, e a organização das forças da oposição não é consentida.
+  - s: länder där oppositionspartier attackeras fysiskt, som Ungern, eller attackeras
+      av regeringspartiets milis, som Storbritannien, och länder där man <v>låser</v>
+      <p>in</p> människor som protesterar utan att ta till våld eller förbjuder politiska
+      partier, som Belgien.
+    t: ou países que <a>encarceram</a> membros de partidos dissidentes não violentos
+      ou de partidos políticos proibidos, como na Bélgica.
+  - s: Detta förklarar varför oppositionsledamöter i parlamentet kan behandlas som
+      statens fiender och <v>låsas</v> <p>in</p>.
+    t: Isto explica a razão pela qual os membros da oposição parlamentar são tratados
+      como inimigos do Estado e <a>encarcerados</a>.
+- c: 3
+  r: 2
+  v: fechar
+  x:
+  - s: Jag delar er djupa oro över det ökade våld som har skett i Mellanöstern under
+      de senaste veckorna, p.g.a. att båda sidor verkar ha <v>låst</v> <p>in</p> sig
+      i en nedåtgående spiral som lämnar litet utrymme för dialog och en utveckling
+      mot en slutlig lösning.
+    t: Senhor Presidente, partilho da sua profunda preocupação com a escalada da violência
+      a que assistimos no Médio Oriente nestas últimas semanas, porque ambos os lados
+      parecem <a>fechados</a> numa espiral descendente que pouco espaço deixa para
+      o diálogo e para se fazerem progressos que conduzam a um acordo final.
+  - s: Man behöver endast föreställa sig vad som skulle hända om vi <v>låste</v> <p>in</p>
+      EU:s 25 finansministrar i ett rum och släppte ut dem först när vit rök syns
+      och de har enats om en skatteharmonisering.
+    t: Basta imaginar o que aconteceria se <a>fechássemos</a> os 25 Ministros das
+      Finanças europeus numa sala e só voltássemos a deixá-los sair quando houvesse
+      fumo branco e tivessem chegado a acordo sobre uma harmonização fiscal.
+  - s: De <v>låste</v> <p>in</p> sig i ett litet rum med den högste befälhavaren och
+      kom ut fullastade med cigaretter, flaskor med sprit och eventuellt också annat.
+    t: <a>Fechavam</a>-se num gabinete com o comissário-chefe e saíam de lá carregados
+      de cigarros, de garrafas de licor e, se calhar, de alguma coisa mais.
+- c: 2
+  r: 3
+  v: prender
+  x:
+  - s: Att ge möjlighet att <v>låsa</v> <p>in</p> vuxna och till och med barn i inte
+      mindre än 18 månader är att gå för långt, särskilt som de också ska frihetsberövas
+      om deras ursprungsland inte samarbetar genom att tillhandahålla de rätta dokumenten.
+    t: A possibilidade de <a>prender</a> adultos e, inclusive, crianças, por nada
+      menos do que 18 meses, está a ir demasiado longe, particularmente porque eles
+      também serão detidos, se o seu país de origem não cooperar, fornecendo-lhes
+      os papéis adequados.
+  - s: 'Ni kommer att ångra er därför att de som en gång <v>låste</v> <p>in</p> dessa
+      oskyldiga medborgare kommer att säga till dem: ”Som ni ser kan vi göra vad vi
+      vill - västvärlden är ändå bara ute efter den kinesiska marknaden.'
+    t: 'Arrepender-se-á porque as pessoas que <a>prenderam</a> estes cidadãos inocentes
+      estarão a dizer-lhes «Vêem, podemos fazer o que queremos:'
+- c: 1
+  r: 4
+  v: limitar
+  x:
+  - s: Enligt min uppfattning kan man tillåta sig en flexiblare hållning och inte
+      <v>låsa</v> <p>in</p> sig i den situation som betänkandet anger.
+    t: Em meu entender pode-se ter uma posição mais flexível sem nos <a>limitarmos</a>
+      a uma posição como a que está patente neste relatório.
+- c: 1
+  r: 4
+  v: preso
+  x:
+  - s: Jag tror dock inte att ens de värsta fienderna till Fine Gael skulle önska
+      att Mary Elizabeth Banotti <v>låstes</v> <p>in</p> i 15 år för den sakens skull.
+    t: Todavia, creio que nem sequer os piores inimigos do Partido Fine Gael quereriam
+      a senhora deputada Banotti <a>presa</a> durante quinze anos por tal facto.
+- c: 1
+  r: 4
+  v: preso ilegalmente
+  x:
+  - s: De har olagligen <v>låsts</v> <p>in</p> av Bushregeringen som uppenbarligen
+      har brutit mot internationell rätt.
+    t: Foram <a>presos</a> <a>ilegalmente</a> pela Administração Bush, numa clara
+      violação do direito internacional.
+- c: 1
+  r: 4
+  v: submeter
+  x:
+  - s: I bästa fall kommer den här gemensamma valutan att <v>låsa</v> <p>in</p> oss
+      i växelkursstelheter som sett Västeuropas ekonomier karaktäriseras av låg tillväxt
+      och hög sysselsättning.
+    t: Na melhor das hipóteses, esta moeda única <a>submeter</a>-nos-á à rigidez cambial
+      que levou as economias europeias ocidentais a serem caracterizadas por uma fraca
+      taxa de crescimento e um elevado nível de desemprego.
+- c: 1
+  r: 4
+  v: território
+  x:
+  - s: Enligt lagen är det möjligt att i slutna centrer och i många fall under mycket
+      långa perioder <v>låsa</v> <p>in</p> män, kvinnor och barn som inte motsvarar
+      de kriterier som fastställs av utlänningsbyrån.
+    t: Não será altura de apresentar aos quinze Estados-Membros um conjunto de medidas
+      que conduzam a uma visão comum, em todo o <a>território</a> europeu, das condições
+      de asilo e do estatuto do refugiado?
+- c: 1
+  r: 4
+  v: isolar
+  x:
+  - s: Alltsedan Nationella fronten bildades 1972 har vi ständigt kämpat mot järnridån,
+      som kommunisterna byggde upp för att <v>låsa</v> <p>in</p> de östeuropeiska
+      folken i ett jättelikt koncentrationsläger.
+    t: Desde a sua criação em 1972, o «Front National» não parou de lutar contra esta
+      cortina de ferro que os comunistas construíram para <a>isolar</a>, num imenso
+      campo de concentração, os países da Europa de Leste.
+- c: 1
+  r: 4
+  v: deter
+  x:
+  - s: Jag skäms över att en majoritet här i parlamentet har stött idén om att under
+      en så lång period <v>låsa</v> <p>in</p> personer vars enda brott är att de har
+      kommit hit i sökandet efter bättre levnadsvillkor och som ofta befinner sig
+      i en mycket sårbar situation.
+    t: Envergonha-me que uma maioria desta Assembleia tenha apoiado a ideia de <a>deter</a>
+      por um período tão longo pessoas cujo único crime é o de terem vindo para aqui
+      em busca de melhores condições de vida e que, em muitos casos, se encontram
+      num estado extremamente vulnerável.

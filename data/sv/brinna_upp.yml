@@ -1,0 +1,290 @@
+---
+de:
+- c: 1
+  r: 1
+  v: Brand setzen
+  x:
+  - s: det finns moskéer som håller på att <v>brinna</v> <p>upp</p>, och även detta
+      passerar förbi i en allmän likgiltighet.
+    t: derzeit werden Moscheen in <a>Brand</a> <a>gesetzt</a>, was ebenfalls nur allgemeine
+      Gleichgültigkeit hervorruft.
+- c: 1
+  r: 1
+  v: brennen
+  x:
+  - s: Urskogarna <v>brinner</v> inte <p>upp</p> av sig själva, de tänds på.
+    t: Die Urwälder <a>brennen</a> nicht zufällig, sondern sie werden angezündet.
+- c: 1
+  r: 1
+  v: werden
+  x:
+  - s: Endera dagen uppstår plötsligt ett rökmoln, det hörs en hög smäll och en av
+      ledamöterna <v>brinner</v> <p>upp</p> som en julgran.
+    t: Eines Tages wird es eine Rauchwolke und einen lauten Knall geben, und eines
+      Ihrer Mitglieder <a>wird</a> wie ein Weihnachtsbaum erstrahlen.
+- c: 1
+  r: 1
+  v: abbrennen
+  x:
+  - s: Om jag, Marin Schulz, kan köpa Joseph Dauls brandförsäkring och om jag får
+      utbetalningen på försäkringen i stället för honom när hans hus <v>brinner</v>
+      <p>upp</p> behöver jag helt enkelt någon, t.ex. Daniel Cohn-Bendit, som är beredd
+      att sätta eld på huset för att jag ska bli en förmögen man.
+    t: Wenn ich die Feuerversicherung von Joseph Daul kaufen kann - ich, Martin Schulz
+      - und im Fall, dass sein Haus <a>abbrennt</a>, die Versicherungssumme ausgezahlt
+      bekomme - ich, nicht er -, dann brauche ich nur noch jemanden, zum Beispiel
+      Dany, der das Ding in Brand steckt, dann bin ich ein gemachter Mann.
+- c: 1
+  r: 1
+  v: Brand
+  x:
+  - s: Det är viktigt att den långsiktiga hjälpen ingår i ett ramverk för hållbar
+      utveckling så att vi inte pumpar in pengar och de <v>brinner</v> <p>upp</p>
+      igen.
+    t: Daher muss die Langzeithilfe unbedingt im Rahmen der nachhaltigen Entwicklung
+      gewährt werden, damit wir nicht Mittel investieren, die dann doch nur wieder
+      durch <a>Brände</a> vernichtet werden.
+en:
+- c: 3
+  r: 1
+  v: burn
+  x:
+  - s: Urskogarna <v>brinner</v> inte <p>upp</p> av sig själva, de tänds på.
+    t: The jungle does not <a>burn</a> by chance, someone sets it on fire.
+  - s: Vi hörde i början av juli i Grekland att skogen som omger Thessaloniki <v>brann</v>
+      <p>upp</p>, stora odlade områden brann på Peloponnesos och på andra ställen.
+    t: In Greece, as we heard at the beginning of July, the forest around Thessaloniki
+      was <a>burned</a>, and very many cultivated areas in the Peloponnese and elsewhere
+      were also burned.
+  - s: I Andalusien har vi däremot fått se 42 131 hektar <v>brinna</v> <p>upp</p>
+      bara för att de tillgängliga resurserna inte har använts.
+    t: Nevertheless, in Andalusia we have seen 42 131 hectares <a>burn</a> because
+      the resources available have not been used.
+- c: 1
+  r: 2
+  v: light up
+  x:
+  - s: Endera dagen uppstår plötsligt ett rökmoln, det hörs en hög smäll och en av
+      ledamöterna <v>brinner</v> <p>upp</p> som en julgran.
+    t: One of these days there will be a puff of smoke, a loud bang and one of your
+      Members will <a>light</a> <a>up</a> like a Christmas tree.
+- c: 1
+  r: 2
+  v: burn down
+  x:
+  - s: Om jag, Marin Schulz, kan köpa Joseph Dauls brandförsäkring och om jag får
+      utbetalningen på försäkringen i stället för honom när hans hus <v>brinner</v>
+      <p>upp</p> behöver jag helt enkelt någon, t.ex. Daniel Cohn-Bendit, som är beredd
+      att sätta eld på huset för att jag ska bli en förmögen man.
+    t: If I, Martin Schulz, can buy Mr Daul’s fire insurance policy and if I receive
+      the insurance payment instead of him when his house <a>burns</a> <a>down</a>,
+      then I simply need someone, for example Mr Cohn-Bendit, who is prepared to set
+      light to the house and I am a made man.
+  - s: det finns moskéer som håller på att <v>brinna</v> <p>upp</p>, och även detta
+      passerar förbi i en allmän likgiltighet.
+    t: At the same time, a climate of Islamophobia is developing, with mosques being
+      <a>burned</a> <a>down</a>, and this too is met with widespread indifference.
+- c: 1
+  r: 2
+  v: burn down
+  x:
+  - s: Om jag, Marin Schulz, kan köpa Joseph Dauls brandförsäkring och om jag får
+      utbetalningen på försäkringen i stället för honom när hans hus <v>brinner</v>
+      <p>upp</p> behöver jag helt enkelt någon, t.ex. Daniel Cohn-Bendit, som är beredd
+      att sätta eld på huset för att jag ska bli en förmögen man.
+    t: If I, Martin Schulz, can buy Mr Daul’s fire insurance policy and if I receive
+      the insurance payment instead of him when his house <a>burns</a> <a>down</a>,
+      then I simply need someone, for example Mr Cohn-Bendit, who is prepared to set
+      light to the house and I am a made man.
+  - s: det finns moskéer som håller på att <v>brinna</v> <p>upp</p>, och även detta
+      passerar förbi i en allmän likgiltighet.
+    t: At the same time, a climate of Islamophobia is developing, with mosques being
+      <a>burned</a> <a>down</a>, and this too is met with widespread indifference.
+- c: 1
+  r: 2
+  v: burn up
+  x:
+  - s: Det är viktigt att den långsiktiga hjälpen ingår i ett ramverk för hållbar
+      utveckling så att vi inte pumpar in pengar och de <v>brinner</v> <p>upp</p>
+      igen.
+    t: It is important that the long-term aid is granted in a context of sustainable
+      development so that we do not invest money only for it to be <a>burnt</a> <a>up</a>
+      again.
+es:
+- c: 2
+  r: 1
+  v: arder
+  x:
+  - s: Urskogarna <v>brinner</v> inte <p>upp</p> av sig själva, de tänds på.
+    t: Estas no <a>arden</a> casualmente sino que son incendiadas a propósito.
+  - s: I vissa kommuner har mer än 80 procent av skogsarealen <v>brunnit</v> <p>upp</p>,
+      och de uppskattade skadorna uppgår till mer än en miljard euro.
+    t: Según los últimos cálculos, ardieron más de 400 000 hectáreas, lo que representa
+      cerca del 5% de nuestro territorio y el 11% de nuestro bosque, habiendo <a>ardido</a>
+      en algunos municipios más del 80% de la superficie forestal, con pérdidas estimadas
+      en más de mil millones de euros.
+- c: 1
+  r: 2
+  v: iluminar
+  x:
+  - s: Endera dagen uppstår plötsligt ett rökmoln, det hörs en hög smäll och en av
+      ledamöterna <v>brinner</v> <p>upp</p> som en julgran.
+    t: Cualquier día de estos saldrá humo, se oirá un estallido estrepitoso y uno
+      de sus diputados se <a>iluminará</a> como un árbol de Navidad.
+- c: 1
+  r: 2
+  v: incendiar
+  x:
+  - s: Vi hörde i början av juli i Grekland att skogen som omger Thessaloniki <v>brann</v>
+      <p>upp</p>, stora odlade områden brann på Peloponnesos och på andra ställen.
+    t: En Grecia, lo hemos oído a principios de este mes, se ha <a>incendiado</a>
+      el bosque que rodea Salónica, así como muchas zonas de cultivo en el Peloponeso
+      y en otras regiones.
+fr:
+- c: 4
+  r: 1
+  v: brûler
+  x:
+  - s: Jag tror att det har <v>brunnit</v> <p>upp</p> dubbelt så många hektar som
+      någonsin tidigare och de människoliv som gått förlorade är många, och detta
+      trots att den grekiska regeringen på ett adekvat sätt förberett sig och trots
+      att Grekland i dagens läge förfogar över en av de starkaste utrustningarna i
+      världen vad gäller maskinpark, flygplan och mänskliga resurser för brandbekämpning.
+    t: Je crois que les incendies ont <a>brûlé</a> une superficie deux fois plus importante
+      que toutes les autres années et les victimes étaient nombreuses, malgré le fait
+      que le gouvernement grec s’était préparé à une telle éventualité et que la Grèce
+      est aujourd’hui un des pays les plus dotés d’équipements, avions et ressources
+      humaines employés aux missions d’extinction.
+  - s: Urskogarna <v>brinner</v> inte <p>upp</p> av sig själva, de tänds på.
+    t: Les forêts tropicales ne <a>brûlent</a> pas par hasard, elles ont été incendiées.
+  - s: Om jag, Marin Schulz, kan köpa Joseph Dauls brandförsäkring och om jag får
+      utbetalningen på försäkringen i stället för honom när hans hus <v>brinner</v>
+      <p>upp</p> behöver jag helt enkelt någon, t.ex. Daniel Cohn-Bendit, som är beredd
+      att sätta eld på huset för att jag ska bli en förmögen man.
+    t: Si moi, Martin Schulz, je peux acheter l’assurance incendie de M. Daul et recevoir
+      le paiement de l’assurance à sa place lorsque sa maison <a>brûlera</a>, j’ai
+      simplement besoin que quelqu’un, par exemple M. Cohn-Bendit, soit prêt à mettre
+      le feu à la maison, et le tour est joué.
+  - s: det finns moskéer som håller på att <v>brinna</v> <p>upp</p>, och även detta
+      passerar förbi i en allmän likgiltighet.
+    t: En ce qui concerne le Nigéria, cela passe par une lutte contre l’application
+      de la charia islamique - on a notamment laissé une femme se faire lapider devant
+      des caméras de télévision, aucun pays n’a réagi, c’était il y a quelques semaines
+      - et de la même façon, il y a aussi un climat d’islamophobie qui se développe,
+      il y a des mosquées qui sont en train de se faire <a>brûler</a>, et là aussi
+      cela se passe dans l’indifférence générale.
+- c: 2
+  r: 2
+  v: fumée
+  x:
+  - s: Det är viktigt att den långsiktiga hjälpen ingår i ett ramverk för hållbar
+      utveckling så att vi inte pumpar in pengar och de <v>brinner</v> <p>upp</p>
+      igen.
+    t: Il est important qu’une aide à long terme soit accordée dans le cadre du développement
+      durable pour que notre investissement ne parte pas une nouvelle fois en <a>fumée</a>.
+  - s: I vissa kommuner har mer än 80 procent av skogsarealen <v>brunnit</v> <p>upp</p>,
+      och de uppskattade skadorna uppgår till mer än en miljard euro.
+    t: Dans certaines municipalités, plus de 80% de la surface forestière est partie
+      en <a>fumée</a>, et les dégâts sont estimés à plus d’un milliard d’euros.
+- c: 1
+  r: 3
+  v: illuminer
+  x:
+  - s: Endera dagen uppstår plötsligt ett rökmoln, det hörs en hög smäll och en av
+      ledamöterna <v>brinner</v> <p>upp</p> som en julgran.
+    t: Un de ces jours, il y aura un nuage de fumée, une forte détonation et l’un
+      des députés sera <a>illuminé</a> comme un sapin de Noël.
+it:
+- c: 1
+  r: 1
+  v: bruciare
+  x:
+  - s: Urskogarna <v>brinner</v> inte <p>upp</p> av sig själva, de tänds på.
+    t: Le foreste tropicali non <a>bruciano</a> per autocombustione, ma vengono incendiate.
+  - s: Om jag, Marin Schulz, kan köpa Joseph Dauls brandförsäkring och om jag får
+      utbetalningen på försäkringen i stället för honom när hans hus <v>brinner</v>
+      <p>upp</p> behöver jag helt enkelt någon, t.ex. Daniel Cohn-Bendit, som är beredd
+      att sätta eld på huset för att jag ska bli en förmögen man.
+    t: se io, Martin Schulz, posso comprare la polizza contro gli incendi dell’onorevole
+      Daul e incassare l’indennità di assicurazione al suo posto se la casa <a>brucia</a>,
+      allora mi basta trovare una persona (per esempio l’onorevole Cohn-Bendit) disposta
+      ad appiccare il fuoco all’edificio, e sarò un uomo ricco.
+- c: 1
+  r: 1
+  v: distruggere
+  x:
+  - s: I vissa kommuner har mer än 80 procent av skogsarealen <v>brunnit</v> <p>upp</p>,
+      och de uppskattade skadorna uppgår till mer än en miljard euro.
+    t: in alcuni comuni oltre l’80 per cento dei boschi è andato <a>distrutto</a>,
+      mentre i danni complessivi ammonterebbero ad oltre un miliardo di euro.
+- c: 1
+  r: 1
+  v: bruciare
+  x:
+  - s: Urskogarna <v>brinner</v> inte <p>upp</p> av sig själva, de tänds på.
+    t: Le foreste tropicali non <a>bruciano</a> per autocombustione, ma vengono incendiate.
+  - s: Om jag, Marin Schulz, kan köpa Joseph Dauls brandförsäkring och om jag får
+      utbetalningen på försäkringen i stället för honom när hans hus <v>brinner</v>
+      <p>upp</p> behöver jag helt enkelt någon, t.ex. Daniel Cohn-Bendit, som är beredd
+      att sätta eld på huset för att jag ska bli en förmögen man.
+    t: se io, Martin Schulz, posso comprare la polizza contro gli incendi dell’onorevole
+      Daul e incassare l’indennità di assicurazione al suo posto se la casa <a>brucia</a>,
+      allora mi basta trovare una persona (per esempio l’onorevole Cohn-Bendit) disposta
+      ad appiccare il fuoco all’edificio, e sarò un uomo ricco.
+- c: 1
+  r: 1
+  v: fuoco
+  x:
+  - s: det finns moskéer som håller på att <v>brinna</v> <p>upp</p>, och även detta
+      passerar förbi i en allmän likgiltighet.
+    t: Inoltre si sta sviluppando un clima ostile al mondo islamico, per cui si dà
+      <a>fuoco</a> ad alcune moschee;
+pt:
+- c: 5
+  r: 1
+  v: arder
+  x:
+  - s: Jag tror att det har <v>brunnit</v> <p>upp</p> dubbelt så många hektar som
+      någonsin tidigare och de människoliv som gått förlorade är många, och detta
+      trots att den grekiska regeringen på ett adekvat sätt förberett sig och trots
+      att Grekland i dagens läge förfogar över en av de starkaste utrustningarna i
+      världen vad gäller maskinpark, flygplan och mänskliga resurser för brandbekämpning.
+    t: Penso que a área <a>ardida</a> duplicou e as vítimas humanas foram muitas,
+      apesar de o Governo grego se ter preparado bastante e apesar de a Grécia possuir
+      actualmente um dos equipamentos mais poderosos do mundo, em maquinaria, aviões
+      e recursos humanos, para combate aos incêndios.
+  - s: Det är viktigt att den långsiktiga hjälpen ingår i ett ramverk för hållbar
+      utveckling så att vi inte pumpar in pengar och de <v>brinner</v> <p>upp</p>
+      igen.
+    t: Importa que a concessão de auxílio a longo prazo se enquadre numa perspectiva
+      de desenvolvimento sustentável, se não queremos estar a investir dinheiro apenas
+      para tudo <a>arder</a> mais uma vez.
+  - s: Urskogarna <v>brinner</v> inte <p>upp</p> av sig själva, de tänds på.
+    t: As florestas virgens não <a>ardem</a> por acaso, são incendiadas.
+  - s: I Andalusien har vi däremot fått se 42 131 hektar <v>brinna</v> <p>upp</p>
+      bara för att de tillgängliga resurserna inte har använts.
+    t: Na Andaluzia, contudo, vimos <a>arder</a> 42 131 hectares por não terem sido
+      utilizados os recursos disponíveis.
+  - s: I vissa kommuner har mer än 80 procent av skogsarealen <v>brunnit</v> <p>upp</p>,
+      och de uppskattade skadorna uppgår till mer än en miljard euro.
+    t: De acordo com estimativas recentes, arderam mais de 400 mil hectares, o que
+      representa cerca de 5% do nosso território e 11% da área florestal, tendo <a>ardido</a>
+      em alguns municípios mais de 80% da superfície florestal, com prejuízos estimados
+      em mais, de mil milhões de euros.
+- c: 1
+  r: 2
+  v: iluminar
+  x:
+  - s: Endera dagen uppstår plötsligt ett rökmoln, det hörs en hög smäll och en av
+      ledamöterna <v>brinner</v> <p>upp</p> som en julgran.
+    t: Um dia, assistiremos a uma baforada de fumo, a uma pancada estrondosa e um
+      dos deputados <a>iluminar</a><a>-se</a>-á como uma árvore de Natal.
+- c: 1
+  r: 2
+  v: incendiar
+  x:
+  - s: det finns moskéer som håller på att <v>brinna</v> <p>upp</p>, och även detta
+      passerar förbi i en allmän likgiltighet.
+    t: De igual modo, há também um clima de <a>islamofobia</a> que se desenvolve,
+      há mesquitas que são <a>incendiadas</a>, e, também neste caso, tudo se passa
+      perante a indiferença geral.

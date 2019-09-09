@@ -1,0 +1,80 @@
+---
+de:
+- c: 1
+  r: 1
+  v: Angst haben
+  x:
+  - s: I think there is no need to <v>stress</v> <p>out</p> about the review.
+    t: Ich denke, wir sollten vor dem review keine <a>Angst</a> <a>haben</a>.
+- c: 1
+  r: 1
+  v: gestreßt
+  x:
+  - s: As I see it, <v>stressed</v> <p>out</p> police and stewards clearly went beyond
+      their remits.
+    t: Da haben <a>gestreßte</a> Polizisten oder Stewards meiner Ansicht nach ihre
+      Kompetenzen eindeutig überschritten.
+es:
+- c: 1
+  r: 1
+  v: crispado
+  x:
+  - s: As I see it, <v>stressed</v> <p>out</p> police and stewards clearly went beyond
+      their remits.
+    t: Los <a>crispados</a> policías o asistentes fueron claramente demasiado lejos,
+      en mi opinión.
+fr:
+- c: 1
+  r: 1
+  v: craindre
+  x:
+  - s: I think there is no need to <v>stress</v> <p>out</p> about the review.
+    t: Je pense que nous ne devrions pas <a>craindre</a> la révision.
+- c: 1
+  r: 1
+  v: surmener
+  x:
+  - s: The fact that people became sleepless and <v>stressed</v> <p>out</p> and that
+      their hearing became damaged, seemed to take second place to economic growth.
+    t: Que des gens deviennent insomniaques et <a>surmenés</a> et que leur acuité
+      auditive soit altérée semblait moins important que la croissance économique.
+it:
+- c: 1
+  r: 1
+  v: esaurimento
+  x:
+  - s: The fact that people became sleepless and <v>stressed</v> <p>out</p> and that
+      their hearing became damaged, seemed to take second place to economic growth.
+    t: Il fatto che le persone non potessero riposare la notte, soffrissero di <a>esaurimento</a>
+      nervoso, subissero danni all’udito sembrava meno importante rispetto alla crescita
+      economica.
+- c: 1
+  r: 1
+  v: paura
+  x:
+  - s: I think there is no need to <v>stress</v> <p>out</p> about the review.
+    t: Penso che non dovremmo avere <a>paura</a> della review.
+pt:
+- c: 1
+  r: 1
+  v: aspecto
+  x:
+  - s: As I see it, <v>stressed</v> <p>out</p> police and stewards clearly went beyond
+      their remits.
+    t: Nesse <a>aspecto</a>, houve agentes policiais ou funcionário da organização
+      que, quanto a mim, excederam claramente o âmbito das suas responsabilidades.
+sv:
+- c: 1
+  r: 1
+  v: överansträngning
+  x:
+  - s: The fact that people became sleepless and <v>stressed</v> <p>out</p> and that
+      their hearing became damaged, seemed to take second place to economic growth.
+    t: Att människor led av sömnstörningar och <a>överansträngning</a> och att de
+      drabbades av hörselskador, tycktes mindre viktigt än den ekonomiska tillväxten.
+- c: 1
+  r: 1
+  v: rädd
+  x:
+  - s: I think there is no need to <v>stress</v> <p>out</p> about the review.
+    t: Jag tror att vi inte behöver vara <a>rädda</a> för en review.

@@ -1,0 +1,132 @@
+---
+en:
+- c: 1
+  r: 1
+  v: bring
+  x:
+  - s: Vi vet att medlemsstaterna i dag, sedan en del av dem har <v>fällt</v> <p>upp</p>
+      ett skyddande paraply över sin banksektor, som bäst håller på att utveckla olika
+      ekonomiska stimulansplaner som ska dämpa finanskrisens skadliga inverkan på
+      realekonomin.
+    t: We now know that at the moment, after the banking sectors in the individual
+      Member States have been <a>brought</a> under a protective umbrella, the Member
+      States are in the process of developing various economic stimulus plans to absorb
+      the negative impact of the financial crisis on the real economy.
+- c: 1
+  r: 1
+  v: put up
+  x:
+  - s: Då är det dags, nu då våra döda tyvärr har begravts, journalisterna har lämnat
+      de förstörda områdena och floden, i detta fall Po - jag bor vid Po - håller
+      på att återta sin normala fåra, att <v>fälla</v> <p>upp</p> paraplyt som vi
+      säger i Italien, inte för att framstå som den sorgliga Cassandra utan för att
+      än en gång utvärdera behoven och åtgärderna.
+    t: And so, now that, sadly, our dead have been buried, the journalists have left
+      the devastated areas and the river, in this case the Po - I live by the Po -
+      is again taking its normal course, it is time, as we say in Italy, to <a>put</a>
+      <a>up</a> our umbrellas, not to appear prophets of doom but to evaluate once
+      again the requirements and the remedies.
+es:
+- c: 1
+  r: 1
+  v: haber
+  x:
+  - s: Vi vet att medlemsstaterna i dag, sedan en del av dem har <v>fällt</v> <p>upp</p>
+      ett skyddande paraply över sin banksektor, som bäst håller på att utveckla olika
+      ekonomiska stimulansplaner som ska dämpa finanskrisens skadliga inverkan på
+      realekonomin.
+    t: Ahora sabemos que en este momento los Estados miembros, una vez que se <a>han</a>
+      puesto sus sectores bancarios bajo un paraguas protector, están desarrollando
+      diversos planes de estímulo económico para absorber el impacto negativo de la
+      crisis financiera sobre la economía global.
+- c: 1
+  r: 1
+  v: abrir
+  x:
+  - s: Då är det dags, nu då våra döda tyvärr har begravts, journalisterna har lämnat
+      de förstörda områdena och floden, i detta fall Po - jag bor vid Po - håller
+      på att återta sin normala fåra, att <v>fälla</v> <p>upp</p> paraplyt som vi
+      säger i Italien, inte för att framstå som den sorgliga Cassandra utan för att
+      än en gång utvärdera behoven och åtgärderna.
+    t: Por esto, ha llegado el momento, ahora que, lamentablemente, nuestros muertos
+      han sido enterrados, que los periodistas se han marchado de las zonas devastadas
+      y que el río, en este caso el Po - yo vivo cerca del Po - está volviendo a su
+      cauce normal, de <a>abrir</a>, como decimos en Italia, el paraguas, no para
+      parecernos a la funesta Casandra, sino para evaluar una vez más las necesidades
+      y los remedios.
+- c: 1
+  r: 1
+  v: abrirse
+  x:
+  - s: Kvinnor är inga fällstolar som man i förhållande till bristen eller överskottet
+      på arbetsmarknaden <v>fäller</v> <p>upp</p> eller fäller ihop igen.
+    t: Las mujeres no son sillas plegables que en función de la escasez o sobrante
+      en el mercado de trabajo puedan <a>abrirse</a> o cerrarse.
+fr:
+- c: 2
+  r: 1
+  v: ouvrir
+  x:
+  - s: Kvinnor är inga fällstolar som man i förhållande till bristen eller överskottet
+      på arbetsmarknaden <v>fäller</v> <p>upp</p> eller fäller ihop igen.
+    t: Les femmes ne sont pas des chaises pliantes que l’on peut <a>ouvrir</a> ou
+      refermer sur le marché de l’emploi en fonction de la pénurie ou de l’abondance.
+  - s: Då är det dags, nu då våra döda tyvärr har begravts, journalisterna har lämnat
+      de förstörda områdena och floden, i detta fall Po - jag bor vid Po - håller
+      på att återta sin normala fåra, att <v>fälla</v> <p>upp</p> paraplyt som vi
+      säger i Italien, inte för att framstå som den sorgliga Cassandra utan för att
+      än en gång utvärdera behoven och åtgärderna.
+    t: Il est donc temps, maintenant que nos morts ont été enterrés, que les journalistes
+      ont quittés les zones dévastées et que les fleuves, dans ce cas le Pô - j’habite
+      sur les rives du Pô - sont rentrés dans leur lit, d’<a>ouvrir</a>, comme on
+      dit en Italie, nos parapluies, non pour jouer les Cassandre, mais pour évaluer
+      encore une fois les besoins et les remèdes.
+- c: 1
+  r: 2
+  v: placer
+  x:
+  - s: Vi vet att medlemsstaterna i dag, sedan en del av dem har <v>fällt</v> <p>upp</p>
+      ett skyddande paraply över sin banksektor, som bäst håller på att utveckla olika
+      ekonomiska stimulansplaner som ska dämpa finanskrisens skadliga inverkan på
+      realekonomin.
+    t: Nous savons que, maintenant que les secteurs bancaires des différents États
+      membres ont été <a>placés</a> sous protection, les États membres sont en train
+      de développer divers plans de relance économique afin d’absorber l’impact négatif
+      de la crise financière sur l’économie réelle.
+it:
+- c: 1
+  r: 1
+  v: aprire
+  x:
+  - s: Kvinnor är inga fällstolar som man i förhållande till bristen eller överskottet
+      på arbetsmarknaden <v>fäller</v> <p>upp</p> eller fäller ihop igen.
+    t: Le donne non sono seggiolini pieghevoli che, a seconda delle necessità, si
+      possono <a>aprire</a> e usare oppure chiudere e riporre in ripostiglio.
+pt:
+- c: 1
+  r: 1
+  v: ser colocar
+  x:
+  - s: Vi vet att medlemsstaterna i dag, sedan en del av dem har <v>fällt</v> <p>upp</p>
+      ett skyddande paraply över sin banksektor, som bäst håller på att utveckla olika
+      ekonomiska stimulansplaner som ska dämpa finanskrisens skadliga inverkan på
+      realekonomin.
+    t: Sabemos agora que, neste momento, depois de os sectores bancários dos Estados-Membros
+      terem <a>sido</a> <a>colocados</a> sob protecção, os Estados-Membros estão a
+      desenvolver planos de incentivo à economia destinados a absorver o impacto da
+      crise financeira na economia real.
+- c: 1
+  r: 1
+  v: abrir deitar
+  x:
+  - s: Då är det dags, nu då våra döda tyvärr har begravts, journalisterna har lämnat
+      de förstörda områdena och floden, i detta fall Po - jag bor vid Po - håller
+      på att återta sin normala fåra, att <v>fälla</v> <p>upp</p> paraplyt som vi
+      säger i Italien, inte för att framstå som den sorgliga Cassandra utan för att
+      än en gång utvärdera behoven och åtgärderna.
+    t: Agora que, infelizmente, já sepultámos os nossos mortos, que os jornalistas
+      se retiraram das regiões devastadas e que o rio, neste caso o Pó - resido nas
+      margens do Pó - está a retomar o seu curso normal, é, então, altura de, como
+      dizemos em Itália, «<a>abrir</a> o chapéu de chuva», ou seja, <a>deitar</a>
+      mãos à obra, não para aparecer como a funesta Cassandra, mas para, uma vez mais,
+      avaliar as necessidades e as soluções.

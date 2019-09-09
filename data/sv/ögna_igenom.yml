@@ -1,0 +1,222 @@
+---
+de:
+- c: 1
+  r: 1
+  v: oberflächlich durchlesen
+  x:
+  - s: Den som till och med bara <v>ögnar</v> <p>igenom</p> detta parlaments budget,
+      hittar omedelbart tiotals miljoner ecu att spara.
+    t: Wer den Haushaltsplan dieses Parlaments auch nur <a>oberflächlich</a> <a>durchliest</a>,
+      stellt sofort Einsparungsmöglichkeiten in Millionenhöhe fest.
+- c: 1
+  r: 1
+  v: anschauen
+  x:
+  - s: Vem som helst som <v>ögnar</v> <p>igenom</p> förslaget till rådets slutsatser
+      kan se att formuleringarna om den inre marknaden för energi är ytterst vaga.
+    t: Wer sich den Entwurf der Schlussfolgerungen des Rates <a>anschaut</a>, sieht,
+      dass die Sprache zum Energiebinnenmarkt ausgesprochen schwach ist.
+- c: 1
+  r: 1
+  v: einmal überfliegen
+  x:
+  - s: Man behöver faktiskt bara <v>ögna</v> <p>igenom</p> konventionen om internationell
+      handel med utrotningshotade arter av vilda djur och växter (Cites) för att inse
+      att den främst är utformad för elefanter och isbjörnar men självklart inte för
+      kommersiella fiskarter.
+    t: Man braucht in der Tat wirklich nur <a>einmal</a> den Text des Übereinkommens
+      über den internationalen Handel mit gefährdeten Arten frei lebender Tiere und
+      Pflanzen (CITES) zu <a>überfliegen</a>, um zu erkennen, dass es dabei gegebenenfalls
+      um Elefanten oder Eisbären, nicht jedoch um kommerziell gefangene Fischarten
+      geht.
+en:
+- c: 1
+  r: 1
+  v: take look
+  x:
+  - s: Vem som helst som <v>ögnar</v> <p>igenom</p> förslaget till rådets slutsatser
+      kan se att formuleringarna om den inre marknaden för energi är ytterst vaga.
+    t: Mr President, anyone who <a>takes</a> a <a>look</a> at the draft Council conclusions
+      can see that the language on the internal energy market is extremely weak.
+es:
+- c: 1
+  r: 1
+  v: echar vistazo
+  x:
+  - s: Vem som helst som <v>ögnar</v> <p>igenom</p> förslaget till rådets slutsatser
+      kan se att formuleringarna om den inre marknaden för energi är ytterst vaga.
+    t: Señor Presidente, cualquiera que <a>eche</a> un <a>vistazo</a> al proyecto
+      de conclusiones del Consejo verá que el tono sobre el mercado energético interior
+      es extremadamente débil.
+- c: 1
+  r: 1
+  v: examinar
+  x:
+  - s: Jag <v>ögnade</v> <p>igenom</p> handlingarna i ärendet och hittade då just
+      den förordning vi nu vill ändra på.
+    t: He <a>examinado</a> la documentación y me he encontrado precisamente con el
+      reglamento que deseamos modificar hoy.
+- c: 1
+  r: 1
+  v: repasar superficial
+  x:
+  - s: Den som till och med bara <v>ögnar</v> <p>igenom</p> detta parlaments budget,
+      hittar omedelbart tiotals miljoner ecu att spara.
+    t: Si se <a>repasa</a>, aunque sea <a>superficialmente</a>, el presupuesto de
+      este Parlamento, se verá en seguida que es posible ahorrar decenas de millones
+      de ecus.
+- c: 1
+  r: 1
+  v: limitar pasar
+  x:
+  - s: Vi har en kommissionsledamot och en minister som bara <v>ögnar</v> <p>igenom</p>
+      förslagen.
+    t: Tenemos a un Comisario y a una Ministra que se <a>limitan</a> a <a>pasar</a>
+      de una propuesta a otra.
+- c: 1
+  r: 1
+  v: lectura
+  x:
+  - s: Man behöver faktiskt bara <v>ögna</v> <p>igenom</p> konventionen om internationell
+      handel med utrotningshotade arter av vilda djur och växter (Cites) för att inse
+      att den främst är utformad för elefanter och isbjörnar men självklart inte för
+      kommersiella fiskarter.
+    t: De hecho, con una simple <a>lectura</a> de la Convención CITES uno se da cuenta
+      de que quizás esté prevista para los elefantes y los osos polares, pero, desde
+      luego, no está pensada para las especies pesqueras comerciales.
+- c: 1
+  r: 1
+  v: hojear ansioso
+  x:
+  - s: Jag är fullständigt övertygad om att det tal som herr Marin just nu nervöst
+      <v>ögnar</v> <p>igenom</p> förkastar vad jag nu skall säga.
+    t: Estoy completamente seguro de que la intervención que el Sr. Marín está <a>hojeando</a>
+      <a>ansiosamente</a> en este momento rechaza lo que voy a decir.
+fr:
+- c: 2
+  r: 1
+  v: parcourir
+  x:
+  - s: Jag <v>ögnade</v> <p>igenom</p> handlingarna i ärendet och hittade då just
+      den förordning vi nu vill ändra på.
+    t: J’ai <a>parcouru</a> la documentation et je suis tombé sur le règlement que
+      nous voulons modifier aujourd’hui.
+  - s: Man behöver faktiskt bara <v>ögna</v> <p>igenom</p> konventionen om internationell
+      handel med utrotningshotade arter av vilda djur och växter (Cites) för att inse
+      att den främst är utformad för elefanter och isbjörnar men självklart inte för
+      kommersiella fiskarter.
+    t: En fait, il suffit de <a>parcourir</a> la convention sur le commerce international
+      des espèces de faune et de flore sauvages menacées d’extinction (CITES) pour
+      se rendre compte qu’elle est peut-être conçue pour les éléphants et les ours
+      polaires, mais qu’elle n’est bien sûr pas conçue pour les espèces de la pêche
+      commerciale.
+- c: 1
+  r: 2
+  v: examiner superficiellement
+  x:
+  - s: Den som till och med bara <v>ögnar</v> <p>igenom</p> detta parlaments budget,
+      hittar omedelbart tiotals miljoner ecu att spara.
+    t: Quiconque <a>examine</a>, même <a>superficiellement</a>, le budget du Parlement,
+      découvre immédiatement des dizaines de millions d’ECU à économiser.
+- c: 1
+  r: 2
+  v: contenter parcourir
+  x:
+  - s: Vi har en kommissionsledamot och en minister som bara <v>ögnar</v> <p>igenom</p>
+      förslagen.
+    t: Nous avons un commissaire et une ministre qui se <a>contentent</a> de <a>parcourir</a>
+      les propositions.
+- c: 1
+  r: 2
+  v: relire anxiété
+  x:
+  - s: Jag är fullständigt övertygad om att det tal som herr Marin just nu nervöst
+      <v>ögnar</v> <p>igenom</p> förkastar vad jag nu skall säga.
+    t: Je suis tout à fait convaincue que l’intervention que M. Marín <a>relit</a>
+      à présent avec <a>anxiété</a> rejette tout ce que je vais dire.
+- c: 1
+  r: 2
+  v: jeter
+  x:
+  - s: Vem som helst som <v>ögnar</v> <p>igenom</p> förslaget till rådets slutsatser
+      kan se att formuleringarna om den inre marknaden för energi är ytterst vaga.
+    t: Monsieur le Président, quiconque <a>jette</a> un regard sur le projet de conclusions
+      du Conseil peut constater l’extrême faiblesse du langage tenu au sujet du marché
+      intérieur de l’énergie.
+it:
+- c: 3
+  r: 1
+  v: occhiata
+  x:
+  - s: Vem som helst som <v>ögnar</v> <p>igenom</p> förslaget till rådets slutsatser
+      kan se att formuleringarna om den inre marknaden för energi är ytterst vaga.
+    t: Signor Presidente, chiunque dia un’<a>occhiata</a> alle conclusioni provvisorie
+      del Consiglio può notare che i discorsi sul mercato interno dell’energia sono
+      estremamente deboli.
+  - s: Vi har en kommissionsledamot och en minister som bara <v>ögnar</v> <p>igenom</p>
+      förslagen.
+    t: Abbiamo un commissario e un ministro che si limitano a dare un’<a>occhiata</a>
+      alle proposte.
+  - s: Man behöver faktiskt bara <v>ögna</v> <p>igenom</p> konventionen om internationell
+      handel med utrotningshotade arter av vilda djur och växter (Cites) för att inse
+      att den främst är utformad för elefanter och isbjörnar men självklart inte för
+      kommersiella fiskarter.
+    t: Infatti, basta una semplice <a>occhiata</a> alla convenzione sul commercio
+      internazionale di specie minacciate di fauna e flora selvatiche (CITES) per
+      rendersi conto che forse è pensata per elefanti e orsi polari, ma ovviamente
+      non lo è per le specie ittiche commerciali.
+- c: 1
+  r: 2
+  v: avere
+  x:
+  - s: Jag <v>ögnade</v> <p>igenom</p> handlingarna i ärendet och hittade då just
+      den förordning vi nu vill ändra på.
+    t: 'Io <a>ho</a> scorso la documentazionee ho trovato proprio ilregolamento che
+      oggi vogliamo modificare:'
+- c: 1
+  r: 2
+  v: rivedere
+  x:
+  - s: Jag är fullständigt övertygad om att det tal som herr Marin just nu nervöst
+      <v>ögnar</v> <p>igenom</p> förkastar vad jag nu skall säga.
+    t: Ma sono sicura che il discorso che il Commissario Marín ora sta ansiosamente
+      <a>rivedendo</a> sarà contrario a quanto sto per dire.
+- c: 1
+  r: 2
+  v: esaminare superficialmente
+  x:
+  - s: Den som till och med bara <v>ögnar</v> <p>igenom</p> detta parlaments budget,
+      hittar omedelbart tiotals miljoner ecu att spara.
+    t: Basta <a>esaminare</a> anche solo <a>superficialmente</a> il bilancio di questo
+      Parlamento per rendersi immediatamente conto che si potrebbero risparmiare decine
+      di milioni di ECU.
+pt:
+- c: 1
+  r: 1
+  v: relance
+  x:
+  - s: Den som till och med bara <v>ögnar</v> <p>igenom</p> detta parlaments budget,
+      hittar omedelbart tiotals miljoner ecu att spara.
+    t: Se olharmos, ainda que de <a>relance</a>, para o orçamento do Parlamento Europeu,
+      encontraremos de imediato possíveis poupanças no valor de dezenas de milhões
+      de ecus.
+- c: 1
+  r: 1
+  v: limitar analisar
+  x:
+  - s: Vi har en kommissionsledamot och en minister som bara <v>ögnar</v> <p>igenom</p>
+      förslagen.
+    t: Temos um Comissário e um Ministro que se <a>limitam</a> a <a>analisar</a> as
+      propostas.
+- c: 1
+  r: 1
+  v: examinar
+  x:
+  - s: Man behöver faktiskt bara <v>ögna</v> <p>igenom</p> konventionen om internationell
+      handel med utrotningshotade arter av vilda djur och växter (Cites) för att inse
+      att den främst är utformad för elefanter och isbjörnar men självklart inte för
+      kommersiella fiskarter.
+    t: Com efeito, basta <a>examinar</a> a Convenção sobre o Comércio Internacional
+      das Espécies de Fauna e Flora Selvagens Ameaçadas de Extinção (CITES) para perceber
+      que esta talvez tenha sido concebida para elefantes e ursos polares, mas manifestamente
+      não foi concebida para espécies da pesca comercial.

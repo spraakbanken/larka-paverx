@@ -1,0 +1,31 @@
+---
+fr:
+- c: 1
+  r: 1
+  v: être obtenir
+  x:
+  - s: The evidence against him is suspect, depending on dubious identification and
+      statements allegedly <v>beaten</v> <p>out</p> of his friends by the Greek police.
+    t: Les preuves à son encontre sont douteuses, reposant sur une identification
+      discutable et des déclarations qui auraient <a>été</a> <a>obtenues</a> auprès
+      de ses amis par la police grecque.
+it:
+- c: 1
+  r: 1
+  v: estorcere
+  x:
+  - s: The evidence against him is suspect, depending on dubious identification and
+      statements allegedly <v>beaten</v> <p>out</p> of his friends by the Greek police.
+    t: La prova contro di lui è sospetta, dato che dipende da un’identificazione dubbia
+      e da dichiarazioni presumibilmente <a>estorte</a> ai suoi amici dalla polizia
+      greca.
+pt:
+- c: 1
+  r: 1
+  v: arrancar
+  x:
+  - s: The evidence against him is suspect, depending on dubious identification and
+      statements allegedly <v>beaten</v> <p>out</p> of his friends by the Greek police.
+    t: As provas contra ele são suspeitas pois dependem de uma identificação duvidosa
+      e de declarações alegadamente <a>arrancadas</a> aos seus amigos com recurso
+      à violência por parte da polícia grega.

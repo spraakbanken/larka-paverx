@@ -1,0 +1,638 @@
+---
+de:
+- c: 2
+  r: 1
+  v: aufflammen
+  x:
+  - s: Vi måste först förvissa oss om att vi har släckt elden och att den inte <v>flammar</v>
+      <p>upp</p> igen.
+    t: Wir müssen erst sicher sein, dass wir dieses Feuer gelöscht haben und dass
+      es nicht wieder <a>aufflammt</a>.
+  - s: Och när vi ser att våldsvågen <v>flammar</v> <p>upp</p> igen i Mellanöstern
+      är det också grundläggande.
+    t: Wenn wir sehen, wie der Kreislauf der Gewalt erneut im Mittleren Osten <a>aufflammt</a>,
+      dann ist das auch eine Grundsatzfrage.
+- c: 1
+  r: 2
+  v: kommen
+  x:
+  - s: Våldet har <v>flammat</v> <p>upp</p> på nytt i Libanon, och somliga ser Syriens
+      hand bakom detta, som till varje pris vill undvika en internationell Hariritribunal.
+    t: Im Libanon <a>kam</a> es zu einem neuerlichen Gewaltausbruch, bei dem nach
+      Ansicht mancher Syrien die Hand im Spiel hat, das ein Internationales Hariri-Tribunal
+      unbedingt verhindern möchte.
+- c: 1
+  r: 2
+  v: lodern
+  x:
+  - s: Den här veckan <v>flammade</v> striden <p>upp</p> igen ordentligt.
+    t: In dieser Woche <a>loderte</a> der Streit wieder in aller Heftigkeit auf.
+- c: 1
+  r: 2
+  v: prägen
+  x:
+  - s: Vi bör komma ihåg att rasism, främlingshat och diskriminering kan <v>flamma</v>
+      <p>upp</p> under demokratiska val i demokratier som Österrike, Holland och Frankrike
+      av orsaker som för oss ter sig obetydliga.
+    t: Erinnern wir uns, wie aus scheinbar geringen Gründen Rassismus, Fremdenhass
+      und Diskriminierung demokratische Wahlen in demokratischen Ländern <a>prägen</a>
+      können, wie in Österreich, Holland und Frankreich.
+- c: 1
+  r: 2
+  v: wieder aufflammen
+  x:
+  - s: I själva verket har våldet de senaste dagarna mellan de olika palestinska lägren
+      också <v>flammat</v> <p>upp</p>, med en misslyckad bombattack mot president
+      Mahmud Abbas.
+    t: In den letzten Tagen ist auch zwischen den verschiedenen palästinensischen
+      Lagern die Gewalt <a>wieder</a> <a>aufgeflammt</a> und gab es sogar einen Bombenanschlag
+      auf Präsident Mahmoud Abbas, der vereitelt wurde.
+- c: 1
+  r: 2
+  v: jederzeit wieder aufflammen
+  x:
+  - s: Svartahavsområdets olösta konflikter är i dag en öm punkt, och utgör en regional
+      säkerhetsrisk genom att de kan <v>flamma</v> <p>upp</p> när som helst.
+    t: Sie können <a>jederzeit</a> <a>wieder</a> <a>aufflammen</a> und stellen ein
+      Risiko für die Sicherheit der Region dar.
+- c: 1
+  r: 2
+  v: Kampf wiederaufflammen
+  x:
+  - s: Den gräns som finns utgörs av frontlinjen i stället för den internationellt
+      erkända gränsen, och det räcker med en gnista för att konflikten skall <v>flamma</v>
+      <p>upp</p> igen.
+    t: Die Grenze, die es gibt, ist die Frontlinie und nicht die international anerkannte
+      Grenze, und es genügt ein Funke, damit die <a>Kämpfe</a> <a>wiederaufflammen</a>.
+- c: 1
+  r: 2
+  v: jederzeit wieder
+  x:
+  - s: De sudanesiska regeringsstyrkornas ockupation av den omtvistade Abyei-regionen
+      den 21 maj och de våldsamheter som fortsatte i går, även i Kadugli, visar oss
+      att inbördeskriget mellan norr och söder åter kan <v>flamma</v> <p>upp</p> när
+      som helst.
+    t: Die Besetzung der umstrittenen Region Abyei durch sudanesische Regierungstruppen
+      am 21. Mai und die Gewalt, die sich gestern auch in Kadugli fortgesetzt hat,
+      zeigt uns, dass der Bürgerkrieg zwischen dem Norden und dem Süden <a>jederzeit</a>
+      <a>wieder</a> ausbrechen kann.
+- c: 1
+  r: 2
+  v: anfachen
+  x:
+  - s: Det är visserligen inte spekulanternas oansvariga beteende som är orsaken till
+      eurokrisen, men det har fått lågorna att <v>flamma</v> <p>upp</p>.
+    t: Verantwortungsloses Verhalten von Spekulanten ist zwar nicht die Ursache, hat
+      jedoch die Eurokrise <a>angefacht</a>.
+- c: 1
+  r: 2
+  v: aufflammend
+  x:
+  - s: Min partigrupp är djupt skakad av det våld som på nytt <v>flammar</v> <p>upp</p>
+      i Mellanöstern.
+    t: Meine Fraktion ist über die neu <a>aufflammende</a> Gewalt im Nahen Osten zutiefst
+      erschüttert.
+- c: 1
+  r: 2
+  v: aufflammen sein
+  x:
+  - s: Det måste konstateras att striderna mot regimen åter <v>flammat</v> <p>upp</p>.
+    t: Es ist festzustellen, daß die Kämpfe gegen das Regime wieder <a>aufgeflammt</a>
+      <a>sind</a>.
+- c: 1
+  r: 2
+  v: aufheizen
+  x:
+  - s: Ingen kan ha intresse av att situationen <v>flammar</v> <p>upp</p> ytterligare
+      eller att folk blir mer aggressiva vilket gör att en hållbar lösning blir allt
+      mindre trolig.
+    t: Niemand kann ein Interesse daran haben, dass sich die Situation weiter <a>aufheizt</a>
+      oder dass Menschen radikalisiert werden und eine dauerhafte Lösung immer weniger
+      wahrscheinlich wird.
+- c: 1
+  r: 2
+  v: bringen
+  x:
+  - s: För det första måste vi utöva bestämda påtryckningar på Bagdads grannar, så
+      att terrorismens lågor inte <v>flammar</v> <p>upp</p> på andra sidan gränsen.
+    t: Das Verfassungsreferendum im Irak gibt uns allen Grund zu der Hoffnung, dass
+      im Nahen Osten und in Zentralasien der Islam und das Konzept der liberalen Demokratie
+      miteinander in Einklang <a>gebracht</a> werden können, und zwar in Form der
+      so genannten muslimischen Demokratie.
+- c: 1
+  r: 2
+  v: erneut aufflammen
+  x:
+  - s: Vi måste dock välja en väg som innebär att vi inte bara når kortsiktiga lösningar,
+      kortsiktiga framgångar, och släcker en eld som sedan <v>flammar</v> <p>upp</p>
+      och bränner ner väldigt mycket runt omkring sig.
+    t: Es gilt jedoch, einen Weg zu wählen, der nicht allein auf das Erreichen kurzfristiger
+      Lösungen und Erfolge setzt und ein Feuer löscht, das dann <a>erneut</a> <a>aufflammt</a>
+      und in einem großen Umkreis alles niederbrennt.
+- c: 1
+  r: 2
+  v: Funke
+  x:
+  - s: De sociala protester som <v>flammat</v> <p>upp</p> i Grekland kan snabbt spridas
+      till andra länder i regionen.
+    t: Der <a>Funke</a> des sozialen Protests kann schnell von Griechenland auf die
+      anderen Länder der Region überspringen.
+en:
+- c: 8
+  r: 1
+  v: flare up
+  x:
+  - s: Det måste konstateras att striderna mot regimen åter <v>flammat</v> <p>upp</p>.
+    t: We note that opposition to the regime has <a>flared</a> <a>up</a> again.
+  - s: Min partigrupp är djupt skakad av det våld som på nytt <v>flammar</v> <p>upp</p>
+      i Mellanöstern.
+    t: Madam President, my group is deeply shocked by the violence that has once again
+      <a>flared</a> <a>up</a> in the Middle East.
+  - s: Den gräns som finns utgörs av frontlinjen i stället för den internationellt
+      erkända gränsen, och det räcker med en gnista för att konflikten skall <v>flamma</v>
+      <p>upp</p> igen.
+    t: The border is the front line, not the internationally recognized frontier,
+      and it would take a single spark to cause the fighting to <a>flare</a> <a>up</a>
+      again.
+  - s: Våldet har <v>flammat</v> <p>upp</p> på nytt i Libanon, och somliga ser Syriens
+      hand bakom detta, som till varje pris vill undvika en internationell Hariritribunal.
+    t: Fresh violence has <a>flared</a> <a>up</a> in Lebanon, in which some see the
+      hand of Syria, which wants to avoid an international Hariri tribunal at all
+      costs.
+  - s: Våld mellan folkgrupper har nyligen <v>flammat</v> <p>upp</p> runt staden Poso.
+    t: Intercommunal violence has <a>flared</a> <a>up</a> recently around the town
+      of Poso.
+  - s: Vi bör komma ihåg att rasism, främlingshat och diskriminering kan <v>flamma</v>
+      <p>upp</p> under demokratiska val i demokratier som Österrike, Holland och Frankrike
+      av orsaker som för oss ter sig obetydliga.
+    t: Let us not forget how, for what appear to be insignificant reasons, racism,
+      xenophobia, and discrimination can <a>flare</a> <a>up</a> in democratic elections
+      in democratic countries, such as Austria, Holland and France.
+  - s: Och när vi ser att våldsvågen <v>flammar</v> <p>upp</p> igen i Mellanöstern
+      är det också grundläggande.
+    t: When we see the cycle of violence <a>flaring</a> <a>up</a> again in the Middle
+      East, this too is fundamental.
+  - s: I själva verket har våldet de senaste dagarna mellan de olika palestinska lägren
+      också <v>flammat</v> <p>upp</p>, med en misslyckad bombattack mot president
+      Mahmud Abbas.
+    t: In fact, in the last few days, the violence between the different Palestinian
+      camps has also <a>flared</a> <a>up</a>, with even a foiled bomb attack on President
+      Mahmoud Abbas.
+- c: 2
+  r: 2
+  v: fan
+  x:
+  - s: Det är visserligen inte spekulanternas oansvariga beteende som är orsaken till
+      eurokrisen, men det har fått lågorna att <v>flamma</v> <p>upp</p>.
+    t: Although irresponsible behaviour by speculators is not the cause, it has <a>fanned</a>
+      the flames of the euro crisis.
+  - s: För det första måste vi utöva bestämda påtryckningar på Bagdads grannar, så
+      att terrorismens lågor inte <v>flammar</v> <p>upp</p> på andra sidan gränsen.
+    t: Firstly, we must exert firm pressure on Baghdad’s neighbours so as not to <a>fan</a>
+      the flames of terrorism across the border.
+- c: 1
+  r: 3
+  v: flare up again
+  x:
+  - s: Vi måste dock välja en väg som innebär att vi inte bara når kortsiktiga lösningar,
+      kortsiktiga framgångar, och släcker en eld som sedan <v>flammar</v> <p>upp</p>
+      och bränner ner väldigt mycket runt omkring sig.
+    t: However, we need to choose a way that does not merely involve the attainment
+      of short-term solutions and short-term successes and putting out a fire which
+      then <a>flares</a> <a>up</a> <a>again</a> and burns down a considerable amount
+      around it.
+- c: 1
+  r: 3
+  v: flame
+  x:
+  - s: De sociala protester som <v>flammat</v> <p>upp</p> i Grekland kan snabbt spridas
+      till andra länder i regionen.
+    t: The <a>flame</a> of social protest may quickly spread from Greece to the other
+      countries in the region.
+- c: 1
+  r: 3
+  v: violent out
+  x:
+  - s: Den här veckan <v>flammade</v> striden <p>upp</p> igen ordentligt.
+    t: This week <a>violent</a> conflict broke <a>out</a> again, with both parties
+      perhaps rightly accusing each other of breaking agreements.
+- c: 1
+  r: 3
+  v: stay out
+  x:
+  - s: Vi måste först förvissa oss om att vi har släckt elden och att den inte <v>flammar</v>
+      <p>upp</p> igen.
+    t: We need first to make sure that we have put out that fire and that it <a>stays</a>
+      <a>out</a>.
+- c: 1
+  r: 3
+  v: antagonism
+  x:
+  - s: I Bulgarien exempelvis kan jag säga er att frågan om att stänga Kosloduj nu
+      sedan några månader är den nationella frågan nr 1, den fråga där alla inrikespolitiska
+      motsättningar <v>flammar</v> <p>upp</p>.
+    t: In Bulgaria, for example, I can tell you that the issue of the closure of Kosloduj
+      has been the number one topic for some months, the topic which sparks all domestic
+      political <a>antagonisms</a>.
+- c: 1
+  r: 3
+  v: heat up
+  x:
+  - s: Ingen kan ha intresse av att situationen <v>flammar</v> <p>upp</p> ytterligare
+      eller att folk blir mer aggressiva vilket gör att en hållbar lösning blir allt
+      mindre trolig.
+    t: No one can have an interest in the situation <a>heating</a> <a>up</a> further
+      or people being radicalised and a lasting solution becoming less and less likely.
+- c: 1
+  r: 3
+  v: intergenerational
+  x:
+  - s: Reformeringen av arbetsmarknaderna och trygghetssystemen är till för att undvika
+      att denna generationskonflikt <v>flammar</v> <p>upp</p>.
+    t: The labour market and pension reforms were intended to avoid the explosion
+      of this <a>intergenerational</a> dispute.
+- c: 1
+  r: 3
+  v: reignite
+  x:
+  - s: Svartahavsområdets olösta konflikter är i dag en öm punkt, och utgör en regional
+      säkerhetsrisk genom att de kan <v>flamma</v> <p>upp</p> när som helst.
+    t: They can <a>reignite</a> at any time, posing a threat to regional security.
+es:
+- c: 1
+  r: 1
+  v: estallido
+  x:
+  - s: Min partigrupp är djupt skakad av det våld som på nytt <v>flammar</v> <p>upp</p>
+      i Mellanöstern.
+    t: Señora Presidenta, mi Grupo está profundamente conmovido ante el <a>estallido</a>
+      de violencia en Oriente Medio.
+- c: 1
+  r: 1
+  v: reactivar
+  x:
+  - s: Svartahavsområdets olösta konflikter är i dag en öm punkt, och utgör en regional
+      säkerhetsrisk genom att de kan <v>flamma</v> <p>upp</p> när som helst.
+    t: Estos conflictos pueden <a>reactivarse</a> en cualquier momento, lo que representa
+      una amenaza para la seguridad regional.
+- c: 1
+  r: 1
+  v: extinguir
+  x:
+  - s: Vi måste först förvissa oss om att vi har släckt elden och att den inte <v>flammar</v>
+      <p>upp</p> igen.
+    t: Primero tenemos que asegurarnos de que apagamos ese fuego y de que queda <a>extinguido</a>.
+- c: 1
+  r: 1
+  v: reavivar
+  x:
+  - s: De sudanesiska regeringsstyrkornas ockupation av den omtvistade Abyei-regionen
+      den 21 maj och de våldsamheter som fortsatte i går, även i Kadugli, visar oss
+      att inbördeskriget mellan norr och söder åter kan <v>flamma</v> <p>upp</p> när
+      som helst.
+    t: La ocupación de la disputada región de Abyei por fuerzas del gobierno sudanés
+      el 21 de mayo y la violencia que continuó ayer, también en Kadugli, nos demuestran
+      que la guerra civil entre Norte y Sur se puede <a>reavivar</a> en cualquier
+      momento.
+- c: 1
+  r: 1
+  v: ánimo haber calentarse
+  x:
+  - s: Den här veckan <v>flammade</v> striden <p>upp</p> igen ordentligt.
+    t: Esta semana, los <a>ánimos</a> <a>han</a> vuelto a <a>calentarse</a>.
+- c: 1
+  r: 1
+  v: estallar
+  x:
+  - s: I själva verket har våldet de senaste dagarna mellan de olika palestinska lägren
+      också <v>flammat</v> <p>upp</p>, med en misslyckad bombattack mot president
+      Mahmud Abbas.
+    t: De hecho, en los últimos días ha <a>estallado</a> también la violencia entre
+      los diferentes campos palestinos, incluso con un bombardeo frustrado contra
+      el Presidente Mahmoud Abbás.
+fr:
+- c: 2
+  r: 1
+  v: reprendre
+  x:
+  - s: Vi måste dock välja en väg som innebär att vi inte bara når kortsiktiga lösningar,
+      kortsiktiga framgångar, och släcker en eld som sedan <v>flammar</v> <p>upp</p>
+      och bränner ner väldigt mycket runt omkring sig.
+    t: Nous devons cependant choisir une voie qui n’implique pas seulement des solutions
+      et des réussites à court terme, c’est-à-dire éteindre un incendie qui <a>reprend</a>
+      ensuite pour faire des ravages tout autour.
+  - s: De sudanesiska regeringsstyrkornas ockupation av den omtvistade Abyei-regionen
+      den 21 maj och de våldsamheter som fortsatte i går, även i Kadugli, visar oss
+      att inbördeskriget mellan norr och söder åter kan <v>flamma</v> <p>upp</p> när
+      som helst.
+    t: L’occupation de la région contestée d’Abyei par les forces gouvernementales
+      soudanaises le 21 mai et la violence qui se poursuivait encore hier, de même
+      qu’à Kadugli, sont la preuve que la guerre civile entre le Nord et le Sud peut
+      <a>reprendre</a> à tout moment.
+- c: 1
+  r: 2
+  v: éclater
+  x:
+  - s: Våld mellan folkgrupper har nyligen <v>flammat</v> <p>upp</p> runt staden Poso.
+    t: Des violences intercommunautaires ont récemment <a>éclaté</a> dans les alentours
+      de la ville de Poso.
+- c: 1
+  r: 2
+  v: reprendre beau
+  x:
+  - s: Det måste konstateras att striderna mot regimen åter <v>flammat</v> <p>upp</p>.
+    t: Il faut constater que les combats contre le régime ont <a>repris</a> de plus
+      <a>belle</a>.
+- c: 1
+  r: 2
+  v: flamber
+  x:
+  - s: Och när vi ser att våldsvågen <v>flammar</v> <p>upp</p> igen i Mellanöstern
+      är det också grundläggande.
+    t: C’est encore de l’essentiel qu’il s’agit quand nous voyons le cycle de violences
+      repartir et <a>flamber</a> au Proche-Orient.
+- c: 1
+  r: 2
+  v: allumer
+  x:
+  - s: Vi hoppas under alla omständigheter att Albanien skall kunna komma ur den tunnel
+      i vilket landet befinner sig och att de albanska erfarenheterna skall ge Europa
+      en knuff i riktning mot en gemensam utrikes- och säkerhetspolitik, för att vi
+      skall kunna undvika att återigen stå oförberedda och tragiskt försenade inför
+      de olika oroshärdar som med jämna mellanrum <v>flammar</v> <p>upp</p> utanför
+      Europas portar.
+    t: Nous espérons cependant que l’Albanie pourra sortir du tunnel où elle se trouve
+      actuellement et que l’expérience albanaise incitera l’Europe à se doter au plus
+      tôt d’une politique étrangère et de sécurité commune, pour éviter qu’elle ne
+      soit encore une fois tragiquement en retard face aux différents foyers de crise
+      qui s’<a>allument</a> de temps à autre à ses portes.
+- c: 1
+  r: 2
+  v: attiser
+  x:
+  - s: Det är visserligen inte spekulanternas oansvariga beteende som är orsaken till
+      eurokrisen, men det har fått lågorna att <v>flamma</v> <p>upp</p>.
+    t: Même si le comportement irresponsable des spéculateurs n’a pas provoqué la
+      crise de l’euro, il l’a <a>attisée</a>.
+- c: 1
+  r: 2
+  v: déjouer
+  x:
+  - s: I själva verket har våldet de senaste dagarna mellan de olika palestinska lägren
+      också <v>flammat</v> <p>upp</p>, med en misslyckad bombattack mot president
+      Mahmud Abbas.
+    t: En fait, au cours des derniers jours, la violence s’est déchaînée entre les
+      différentes factions palestiniennes, le président Mahmoud Abbas ayant même été
+      la cible d’un attentat à la bombe qui a été <a>déjoué</a>.
+- c: 1
+  r: 2
+  v: encore avoir sévir
+  x:
+  - s: Den här veckan <v>flammade</v> striden <p>upp</p> igen ordentligt.
+    t: Cette semaine <a>encore</a>, la lutte <a>a</a> <a>sévi</a> dans toute son ampleur.
+- c: 1
+  r: 2
+  v: enflammer
+  x:
+  - s: I Bulgarien exempelvis kan jag säga er att frågan om att stänga Kosloduj nu
+      sedan några månader är den nationella frågan nr 1, den fråga där alla inrikespolitiska
+      motsättningar <v>flammar</v> <p>upp</p>.
+    t: En Bulgarie par exemple, je peux vous dire que la question de la fermeture
+      de Kozloduy est depuis des mois «le» thème nº1, le thème qui <a>enflamme</a>
+      tous les antagonismes nationaux.
+- c: 1
+  r: 2
+  v: envenimer
+  x:
+  - s: Ingen kan ha intresse av att situationen <v>flammar</v> <p>upp</p> ytterligare
+      eller att folk blir mer aggressiva vilket gör att en hållbar lösning blir allt
+      mindre trolig.
+    t: Personne ne peut avoir intérêt à ce que la situation s’<a>envenime</a> davantage
+      ou à ce que les personnes se radicalisent et que la possibilité d’une solution
+      durable s’éloigne.
+- c: 1
+  r: 2
+  v: flamme
+  x:
+  - s: De sociala protester som <v>flammat</v> <p>upp</p> i Grekland kan snabbt spridas
+      till andra länder i regionen.
+    t: La <a>flamme</a> de la protestation sociale pourrait bien se propager rapidement
+      depuis la Grèce vers les autres pays de la région.
+- c: 1
+  r: 2
+  v: rallumer
+  x:
+  - s: Den gräns som finns utgörs av frontlinjen i stället för den internationellt
+      erkända gränsen, och det räcker med en gnista för att konflikten skall <v>flamma</v>
+      <p>upp</p> igen.
+    t: La frontière existante est cette ligne de front et non la frontière internationalement
+      reconnue, et une étincelle suffirait à <a>rallumer</a> les hostilités.
+- c: 1
+  r: 2
+  v: réconcilier
+  x:
+  - s: För det första måste vi utöva bestämda påtryckningar på Bagdads grannar, så
+      att terrorismens lågor inte <v>flammar</v> <p>upp</p> på andra sidan gränsen.
+    t: Le référendum constitutionnel qui s’est tenu en Irak nous donne des raisons
+      supplémentaires d’espérer que l’Islam et le concept de démocratie libérale peuvent
+      être <a>réconciliés</a> au Moyen-Orient et en Asie centrale sous la forme de
+      ce que l’on pourrait nommer démocratie musulmane.
+it:
+- c: 2
+  r: 1
+  v: divampare
+  x:
+  - s: Vi måste dock välja en väg som innebär att vi inte bara når kortsiktiga lösningar,
+      kortsiktiga framgångar, och släcker en eld som sedan <v>flammar</v> <p>upp</p>
+      och bränner ner väldigt mycket runt omkring sig.
+    t: Dobbiamo nondimeno scegliere un modo che non comporti semplicemente il raggiungimento
+      di soluzioni e successi a breve termine sedando un incendio che poi <a>divampa</a>
+      per bruciare nuovamente molto di quanto lo circonda.
+  - s: Den här veckan <v>flammade</v> striden <p>upp</p> igen ordentligt.
+    t: Quest’ultima settimana il conflitto è <a>divampato</a> nuovamente in tutta
+      la sua violenza.
+- c: 1
+  r: 2
+  v: amministrare
+  x:
+  - s: För det första måste vi utöva bestämda påtryckningar på Bagdads grannar, så
+      att terrorismens lågor inte <v>flammar</v> <p>upp</p> på andra sidan gränsen.
+    t: Lo straordinario successo di partecipazione nella recente tornata elettorale
+      è un evento storico, ma è nostro preciso dovere continuare a stare a fianco
+      degli iracheni e delle autorità libere che stanno <a>amministrando</a> il paese.
+- c: 1
+  r: 2
+  v: scoppiare nuovamente
+  x:
+  - s: De sudanesiska regeringsstyrkornas ockupation av den omtvistade Abyei-regionen
+      den 21 maj och de våldsamheter som fortsatte i går, även i Kadugli, visar oss
+      att inbördeskriget mellan norr och söder åter kan <v>flamma</v> <p>upp</p> när
+      som helst.
+    t: L’occupazione della controversa regione di Abyei da parte del governo sudanese
+      il 21 maggio e le violenze (ieri ci sono stati episodi anche a Kadugli), dimostrano
+      che la guerra civile tra Nord e Sud potrebbe <a>scoppiare</a> <a>nuovamente</a>
+      in qualsiasi momento.
+- c: 1
+  r: 2
+  v: scoppiare
+  x:
+  - s: Våldet har <v>flammat</v> <p>upp</p> på nytt i Libanon, och somliga ser Syriens
+      hand bakom detta, som till varje pris vill undvika en internationell Hariritribunal.
+    t: Nuove violenze sono <a>scoppiate</a> in Libano, dove alcuni vedono la mano
+      della Siria, che vuole evitare a tutti i costi un tribunale internazionale per
+      il caso Hariri.
+- c: 1
+  r: 2
+  v: riprendere
+  x:
+  - s: Vi måste först förvissa oss om att vi har släckt elden och att den inte <v>flammar</v>
+      <p>upp</p> igen.
+    t: dobbiamo innanzi tutto spegnere l’incendio e fare in modo che non <a>riprenda</a>
+      vigore, e per farlo occorre una strategia coerente.
+- c: 1
+  r: 2
+  v: riaccendere
+  x:
+  - s: Svartahavsområdets olösta konflikter är i dag en öm punkt, och utgör en regional
+      säkerhetsrisk genom att de kan <v>flamma</v> <p>upp</p> när som helst.
+    t: Possono <a>riaccendersi</a> in qualsiasi momento, minacciando la sicurezza
+      regionale.
+- c: 1
+  r: 2
+  v: macchia
+  x:
+  - s: De sociala protester som <v>flammat</v> <p>upp</p> i Grekland kan snabbt spridas
+      till andra länder i regionen.
+    t: Proprio come cento anni fa, la penisola balcanica è situata su una polveriera,
+      e lo scontento sociale potrebbe rapidamente allargarsi a <a>macchia</a> d’olio
+      dalla Grecia agli altri paesi della regione.
+- c: 1
+  r: 2
+  v: innescare
+  x:
+  - s: Samtidigt som spridningen av kärnvapen framkallar undergångsscenarion, tillfogar
+      konflikter som <v>flammar</v> <p>upp</p> genom handeln med konventionella vapen
+      obestämbara skador på utvecklingen i många samhällen och leder till att människor
+      dör och att brott begås mot miljontals civila personers mänskliga rättigheter
+      i hela världen.
+    t: Mentre il proliferare delle armi nucleari richiama alla mente scenari apocalittici,
+      i conflitti <a>innescati</a> dal commercio di armi convenzionali causano un
+      danno incalcolabile allo sviluppo di molte comunità e provocano la morte e la
+      violazione dei diritti umani di milioni di civili in tutto il mondo.
+- c: 1
+  r: 2
+  v: generazionale
+  x:
+  - s: Reformeringen av arbetsmarknaderna och trygghetssystemen är till för att undvika
+      att denna generationskonflikt <v>flammar</v> <p>upp</p>.
+    t: La riforma dei mercati del lavoro e le riforme previdenziali sono riforme per
+      scongiurare l’esplosione di questo conflitto <a>generazionale</a>.
+pt:
+- c: 2
+  r: 1
+  v: reacender
+  x:
+  - s: Det måste konstateras att striderna mot regimen åter <v>flammat</v> <p>upp</p>.
+    t: Constata-se que as lutas contra o regime se <a>reacenderam</a>.
+  - s: Den gräns som finns utgörs av frontlinjen i stället för den internationellt
+      erkända gränsen, och det räcker med en gnista för att konflikten skall <v>flamma</v>
+      <p>upp</p> igen.
+    t: A fronteira actualmente existente é a linha da frente e não a fronteira internacionalmente
+      reconhecida, bastando uma faísca para que os combates se <a>reacendam</a>.
+  - s: Den här veckan <v>flammade</v> striden <p>upp</p> igen ordentligt.
+    t: Esta semana a luta <a>reacendeu</a><a>-se</a> uma vez mais com toda a intensidade.
+  - s: Våldet har <v>flammat</v> <p>upp</p> på nytt i Libanon, och somliga ser Syriens
+      hand bakom detta, som till varje pris vill undvika en internationell Hariritribunal.
+    t: A violência <a>reacendeu</a><a>-se</a> no Líbano.
+- c: 2
+  r: 1
+  v: reacender
+  x:
+  - s: Det måste konstateras att striderna mot regimen åter <v>flammat</v> <p>upp</p>.
+    t: Constata-se que as lutas contra o regime se <a>reacenderam</a>.
+  - s: Den gräns som finns utgörs av frontlinjen i stället för den internationellt
+      erkända gränsen, och det räcker med en gnista för att konflikten skall <v>flamma</v>
+      <p>upp</p> igen.
+    t: A fronteira actualmente existente é a linha da frente e não a fronteira internacionalmente
+      reconhecida, bastando uma faísca para que os combates se <a>reacendam</a>.
+  - s: Den här veckan <v>flammade</v> striden <p>upp</p> igen ordentligt.
+    t: Esta semana a luta <a>reacendeu</a><a>-se</a> uma vez mais com toda a intensidade.
+  - s: Våldet har <v>flammat</v> <p>upp</p> på nytt i Libanon, och somliga ser Syriens
+      hand bakom detta, som till varje pris vill undvika en internationell Hariritribunal.
+    t: A violência <a>reacendeu</a><a>-se</a> no Líbano.
+- c: 1
+  r: 2
+  v: irromper
+  x:
+  - s: I själva verket har våldet de senaste dagarna mellan de olika palestinska lägren
+      också <v>flammat</v> <p>upp</p>, med en misslyckad bombattack mot president
+      Mahmud Abbas.
+    t: Com efeito, nos últimos dias, <a>irrompeu</a> um surto de violência entre as
+      diferentes facções palestinianas, incluindo um malogrado atentado bombista contra
+      o Presidente Mahmoud Abbas.
+- c: 1
+  r: 2
+  v: chama novamente
+  x:
+  - s: Vi måste dock välja en väg som innebär att vi inte bara når kortsiktiga lösningar,
+      kortsiktiga framgångar, och släcker en eld som sedan <v>flammar</v> <p>upp</p>
+      och bränner ner väldigt mycket runt omkring sig.
+    t: Caso contrário, é como apagar um incêndio para, em seguida, virem as <a>chamas</a>
+      <a>novamente</a> e queimarem tudo à volta.
+- c: 1
+  r: 2
+  v: aquecer
+  x:
+  - s: Ingen kan ha intresse av att situationen <v>flammar</v> <p>upp</p> ytterligare
+      eller att folk blir mer aggressiva vilket gör att en hållbar lösning blir allt
+      mindre trolig.
+    t: Ninguém está interessado em que a situação <a>aqueça</a> mais ou em que as
+      posições se radicalizem, afastando cada vez mais a possibilidade de encontrar
+      uma solução duradoura.
+- c: 1
+  r: 2
+  v: rubro
+  x:
+  - s: I Bulgarien exempelvis kan jag säga er att frågan om att stänga Kosloduj nu
+      sedan några månader är den nationella frågan nr 1, den fråga där alla inrikespolitiska
+      motsättningar <v>flammar</v> <p>upp</p>.
+    t: Na Bulgária, por exemplo, posso assegurar-lhes que a questão do encerramento
+      de Kosloduj é neste momento, já desde há meses, o tema de discussão nacional
+      nº 1, que põe a <a>rubro</a> todas as contradições da política interna.
+- c: 1
+  r: 2
+  v: recomeçar
+  x:
+  - s: De sudanesiska regeringsstyrkornas ockupation av den omtvistade Abyei-regionen
+      den 21 maj och de våldsamheter som fortsatte i går, även i Kadugli, visar oss
+      att inbördeskriget mellan norr och söder åter kan <v>flamma</v> <p>upp</p> när
+      som helst.
+    t: A ocupação da região disputada de Abyei pelas forças governamentais sudaneses
+      em 21 de Maio e a violência que prosseguia ontem, tal como em Kadugli, mostram-nos
+      que a guerra civil entre o Norte e o Sul pode <a>recomeçar</a> em qualquer altura.
+- c: 1
+  r: 2
+  v: levantar
+  x:
+  - s: Vi bör komma ihåg att rasism, främlingshat och diskriminering kan <v>flamma</v>
+      <p>upp</p> under demokratiska val i demokratier som Österrike, Holland och Frankrike
+      av orsaker som för oss ter sig obetydliga.
+    t: Lembremos só quão insignificantes eram as razões que <a>levantaram</a> uma
+      onda de racismo, xenofobia e discriminação nas eleições democráticas realizadas
+      em Estados democráticos como a Áustria, a Holanda e a França.
+- c: 1
+  r: 2
+  v: evoluir
+  x:
+  - s: De sociala protester som <v>flammat</v> <p>upp</p> i Grekland kan snabbt spridas
+      till andra länder i regionen.
+    t: A chama do protesto social pode <a>evoluir</a> rapidamente da Grécia para outros
+      países na região.
+- c: 1
+  r: 2
+  v: atiçar
+  x:
+  - s: Det är visserligen inte spekulanternas oansvariga beteende som är orsaken till
+      eurokrisen, men det har fått lågorna att <v>flamma</v> <p>upp</p>.
+    t: Embora a conduta irresponsável dos especuladores não seja a causa, ela <a>atiçou</a>
+      as chamas da crise do euro.

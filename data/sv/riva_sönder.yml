@@ -1,0 +1,51 @@
+---
+en:
+- c: 1
+  r: 1
+  v: tear up
+  x:
+  - s: Det finns tillfälle att glädjas över att parlamentet har <v>rivit</v> <p>sönder</p>
+      ”inköpslistan” över undantag från den andra behandlingen och att de klena ursäkterna
+      från jordbrukets lobbyverksamhet för övre gränser för nitrat lyckligtvis har
+      slängts ut.
+    t: It is cause for rejoicing that Parliament has <a>torn</a> <a>up</a> the ’shopping
+      list’ of derogations from second reading, and fortunate that the agricultural
+      lobby’s feeble excuses for upper limits on nitrate have been thrown out;
+es:
+- c: 1
+  r: 1
+  v: romper
+  x:
+  - s: Det finns tillfälle att glädjas över att parlamentet har <v>rivit</v> <p>sönder</p>
+      ”inköpslistan” över undantag från den andra behandlingen och att de klena ursäkterna
+      från jordbrukets lobbyverksamhet för övre gränser för nitrat lyckligtvis har
+      slängts ut.
+    t: Es motivo de alegría que el Parlamento haya <a>roto</a> la «lista de la compra»
+      de derogaciones procedentes de la segunda lectura y una suerte que hayan sido
+      desechadas las endebles excusas del grupo de presión agrícola en favor de fijar
+      límites superiores para los nitratos;
+fr:
+- c: 1
+  r: 1
+  v: déchirer
+  x:
+  - s: Det finns tillfälle att glädjas över att parlamentet har <v>rivit</v> <p>sönder</p>
+      ”inköpslistan” över undantag från den andra behandlingen och att de klena ursäkterna
+      från jordbrukets lobbyverksamhet för övre gränser för nitrat lyckligtvis har
+      slängts ut.
+    t: Nous pouvons nous réjouir que le Parlement ait <a>déchiré</a> la «liste des
+      courses» des dérogations de la seconde lecture et nous estimer heureux que les
+      piètres excuses du lobby agricole pour les limites supérieures relatives au
+      nitrate aient été rejetées.
+pt:
+- c: 1
+  r: 1
+  v: rasgar
+  x:
+  - s: Det finns tillfälle att glädjas över att parlamentet har <v>rivit</v> <p>sönder</p>
+      ”inköpslistan” över undantag från den andra behandlingen och att de klena ursäkterna
+      från jordbrukets lobbyverksamhet för övre gränser för nitrat lyckligtvis har
+      slängts ut.
+    t: É motivo de regozijo que o Parlamento tenha <a>rasgado</a> a «lista de compras»
+      de derrogações da segunda leitura, e felizmente que as débeis desculpas do lobby
+      agrícola para os limites superiores para os nitratos foram resolvidas;

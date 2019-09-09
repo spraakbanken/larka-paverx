@@ -1,0 +1,69 @@
+---
+es:
+- c: 2
+  r: 1
+  v: crema
+  x:
+  - s: Det var illa!” och sedan fortsatte hon att <v>smörja</v> <p>in</p> sig.
+    t: ¡Qué horror!», y siguió poniéndose la <a>crema</a>.
+  - s: 'Men hon hade <v>smort</v> <p>in</p> sig med en stinkande nattkräm och då sade
+      jag till henne: ”Men vet du inte att de här krämerna utprovas på djur?” ”Du
+      har rätt, Carlo”, svarade hon, ”du har rätt”, men hon gick inte och tvättade
+      sig utan lät krämen sitta kvar i ansiktet.'
+    t: 'Ella, sin embargo, se había puesto una <a>crema</a> de noche que olía mal
+      y entonces le dije: «¿Sabes que estas cremas las experimentan sobre los animales?»
+      «Tienes razón, Carlo,» me respondió, «tienes razón», pero no fue a lavarse y
+      continuó con la crema en la cara.'
+- c: 1
+  r: 2
+  v: aplicar
+  x:
+  - s: Det ska bli intressant att se hur all kräm mot rynkor som vi <v>smörjer</v>
+      <p>in</p> i ansiktet, och som uppenbarligen inte fungerar, kommer att säljas
+      i framtiden.
+    t: Será interesante ver cómo serán vendidas en el futuro todas esas cremas antiarrugas
+      que nos <a>aplicamos</a> en la cara y que claramente no funcionan.
+fr:
+- c: 1
+  r: 1
+  v: crème
+  x:
+  - s: Det var illa!” och sedan fortsatte hon att <v>smörja</v> <p>in</p> sig.
+    t: Quel dommage !», et elle a continué à se mettre de la <a>crème</a>.
+it:
+- c: 1
+  r: 1
+  v: mettere crema
+  x:
+  - s: Det var illa!” och sedan fortsatte hon att <v>smörja</v> <p>in</p> sig.
+    t: Ah, che brutta cosa!», e ha continuato a <a>mettersi</a> la <a>crema</a>.
+- c: 1
+  r: 1
+  v: spalmare
+  x:
+  - s: Det ska bli intressant att se hur all kräm mot rynkor som vi <v>smörjer</v>
+      <p>in</p> i ansiktet, och som uppenbarligen inte fungerar, kommer att säljas
+      i framtiden.
+    t: Sarà interessante vedere come saranno vendute in futuro tutte quelle creme
+      antirughe che ci <a>spalmiamo</a> sul viso senza risultati.
+pt:
+- c: 1
+  r: 1
+  v: usar
+  x:
+  - s: Det ska bli intressant att se hur all kräm mot rynkor som vi <v>smörjer</v>
+      <p>in</p> i ansiktet, och som uppenbarligen inte fungerar, kommer att säljas
+      i framtiden.
+    t: Será curioso ver como é que os cremes anti-rugas que <a>usamos</a> e que, obviamente,
+      não resultam, serão vendidos de futuro.
+- c: 1
+  r: 1
+  v: creme
+  x:
+  - s: 'Men hon hade <v>smort</v> <p>in</p> sig med en stinkande nattkräm och då sade
+      jag till henne: ”Men vet du inte att de här krämerna utprovas på djur?” ”Du
+      har rätt, Carlo”, svarade hon, ”du har rätt”, men hon gick inte och tvättade
+      sig utan lät krämen sitta kvar i ansiktet.'
+    t: 'Todavia, ela tinha posto um <a>creme</a> de noite malcheiroso, e eu disse-lhe:
+      «Mas sabes que estes cremes são experimentados em animais?» «Tens razão, Carlo,»
+      respondeu-me, «tens razão», mas não se foi lavar e conservou o creme no rosto.'

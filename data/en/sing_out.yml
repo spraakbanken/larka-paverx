@@ -1,0 +1,54 @@
+---
+es:
+- c: 1
+  r: 1
+  v: sonar fuera
+  x:
+  - s: Mr President, ladies and gentlemen, I do not wish to <v>sing</v> <p>out</p>
+      of tune, but I strongly believe that the correlation, including from a semantic
+      point of view, which I have heard from various groups, in other words, the relationship
+      between savings and the right to asylum, is, in my view, a negative correlation.
+    t: Señor Presidente, Señorías, no quiero que <a>suene</a> <a>fuera</a> de lugar
+      pero creo firmemente que la correlación, también desde el punto de vista semántico,
+      que he escuchado de varios grupos, dicho de otro modo, la relación entre los
+      ahorros y el derecho de asilo es, en mi opinión, una correlación negativa.
+fr:
+- c: 1
+  r: 1
+  v: dissonance
+  x:
+  - s: Mr President, ladies and gentlemen, I do not wish to <v>sing</v> <p>out</p>
+      of tune, but I strongly believe that the correlation, including from a semantic
+      point of view, which I have heard from various groups, in other words, the relationship
+      between savings and the right to asylum, is, in my view, a negative correlation.
+    t: Monsieur le Président, mesdames et messieurs, je ne voudrais pas entrer en
+      <a>dissonance</a>, mais je crois fermement que la corrélation, y compris d’un
+      point de vue sémantique, que j’ai entendue dans divers groupes, en d’autres
+      termes, le lien entre les économies réalisables et le droit d’asile, est, selon
+      moi, une corrélation négative.
+it:
+- c: 1
+  r: 1
+  v: inserire
+  x:
+  - s: Mr President, ladies and gentlemen, I do not wish to <v>sing</v> <p>out</p>
+      of tune, but I strongly believe that the correlation, including from a semantic
+      point of view, which I have heard from various groups, in other words, the relationship
+      between savings and the right to asylum, is, in my view, a negative correlation.
+    t: Signor Presidente, onorevoli colleghi, non vorrei <a>inserire</a> una nota
+      stonata, nel senso che sono fortemente convinto che la correlazione, anche da
+      un punto di vista semantico, che ho sentito da vari gruppi, ossia il rapporto
+      risparmio con il rapporto sul diritto d’asilo credo sia una correlazione negativa.
+sv:
+- c: 1
+  r: 1
+  v: tvären
+  x:
+  - s: Mr President, ladies and gentlemen, I do not wish to <v>sing</v> <p>out</p>
+      of tune, but I strongly believe that the correlation, including from a semantic
+      point of view, which I have heard from various groups, in other words, the relationship
+      between savings and the right to asylum, is, in my view, a negative correlation.
+    t: Jag vill inte sätta mig på <a>tvären</a>, men jag anser verkligen att det samband
+      - även semantiskt sett - som jag har hört olika grupper nämna, med andra ord
+      förhållandet mellan sparande och rätten till asyl, är enligt min mening ett
+      negativt samband.

@@ -1,0 +1,216 @@
+---
+de:
+- c: 1
+  r: 1
+  v: extern Berater
+  x:
+  - s: Till exempel skulle förbrytare kunna <v>logga</v> <p>in</p> sig på chattrum
+      med hjälp av falska uppgifter.
+    t: Für die Benennung dieses <a>externen</a> <a>Beraters</a> hat übrigens eine
+      Ausschreibung stattgefunden.
+- c: 1
+  r: 1
+  v: Einblick anmelden
+  x:
+  - s: Däremot motsatte jag mig skrivningar om att de som använder eller tittar på
+      uppgifterna antingen ska <v>logga</v> <p>in</p> sig eller registrera sig eftersom
+      det strider mot den svenska principen om rätt till anonymitet vid tillgodogörande
+      av dylika offentliga uppgifter.
+    t: Allerdings lehne ich Formulierungen ab, denen zufolge diejenigen, die die Daten
+      verwenden oder darin <a>Einblick</a> nehmen, sich <a>anmelden</a> oder registrieren
+      lassen müssen, da dies gegen das schwedische Prinzip des Rechts auf Anonymität
+      bei Einsicht in solche öffentlichen Informationen verstößt.
+- c: 1
+  r: 1
+  v: einloggen
+  x:
+  - s: Även där måste det framgå hos vilket företag kunden har <v>loggat</v> <p>in</p>.
+    t: Auch dort muß sichtbar bleiben, bei welchem Anbieter sich der Kunde <a>eingeloggt</a>
+      hat.
+- c: 1
+  r: 1
+  v: surfen
+  x:
+  - s: Vi ser arresteringar av unga kineser som <v>loggar</v> <p>in</p> på Internet.
+    t: Es werden junge Chinesen verhaftet, die im Internet <a>surfen</a>.
+- c: 1
+  r: 1
+  v: Internet
+  x:
+  - s: Varje morgon <v>loggar</v> man <p>in</p> på Europeiska gemenskapens officiella
+      tidning.
+    t: Jeden Morgen wird über das <a>Internet</a> das Amtsblatt <a>heruntergeladen</a>.
+en:
+- c: 2
+  r: 1
+  v: log
+  x:
+  - s: Det är däremot inte rätt att utnyttja situationen till att peka finger mot
+      bara en viss uppsättning omständigheter, för alla i Italien som <v>loggar</v>
+      <p>in</p> på Internet, går till en tidningskiosk eller tittar på tv kan se att
+      det inte finns några som helst hot mot pressfriheten.
+    t: It is not right, however, to exploit the situation by pointing the finger at
+      just one set of circumstances, because anyone in Italy who <a>logs</a> on to
+      the Internet, goes to a news-stand or watches the TV, can see that freedom of
+      the press is under no threat whatsoever.
+  - s: Varje morgon <v>loggar</v> man <p>in</p> på Europeiska gemenskapens officiella
+      tidning.
+    t: Every morning it <a>logs</a> on to the Official Journal.
+- c: 1
+  r: 2
+  v: sign
+  x:
+  - s: Däremot motsatte jag mig skrivningar om att de som använder eller tittar på
+      uppgifterna antingen ska <v>logga</v> <p>in</p> sig eller registrera sig eftersom
+      det strider mot den svenska principen om rätt till anonymitet vid tillgodogörande
+      av dylika offentliga uppgifter.
+    t: However, I opposed the provisions under which those using or looking at information
+      are required to <a>sign</a> on or register because this runs counter to the
+      Swedish principle of the right to anonymity in connection with the use of such
+      public information.
+es:
+- c: 1
+  r: 1
+  v: acceder
+  x:
+  - s: Det är däremot inte rätt att utnyttja situationen till att peka finger mot
+      bara en viss uppsättning omständigheter, för alla i Italien som <v>loggar</v>
+      <p>in</p> på Internet, går till en tidningskiosk eller tittar på tv kan se att
+      det inte finns några som helst hot mot pressfriheten.
+    t: Sin embargo, lo que no es correcto es explotar la situación y apuntar con el
+      dedo a tan sólo una serie de circunstancias, porque todas las personas que <a>acceden</a>
+      en Italia a Internet, acuden a un kiosco de prensa o miran la televisión pueden
+      ver que la libertad de prensa no se encuentra bajo amenaza alguna.
+- c: 1
+  r: 1
+  v: inscribirse
+  x:
+  - s: Det finns enligt vår mening fortfarande några förslag utan praktisk nytta som
+      faktiskt begränsar friheterna och garantierna för medborgarna, som t.ex. kravet
+      på att ”de som använder eller tittar på uppgifter [på Internet] ska <v>logga</v>
+      <p>in</p> eller registrera sig”.
+    t: Desde nuestro punto de vista, sigue habiendo algunas propuestas sin uso práctico
+      que, de hecho, limitan las libertades y garantías de los ciudadanos, como el
+      requisito de que «las personas que utilicen o consulten los datos [en Internet]
+      deban <a>inscribirse</a> o registrarse».
+- c: 1
+  r: 1
+  v: suscribirse
+  x:
+  - s: Däremot motsatte jag mig skrivningar om att de som använder eller tittar på
+      uppgifterna antingen ska <v>logga</v> <p>in</p> sig eller registrera sig eftersom
+      det strider mot den svenska principen om rätt till anonymitet vid tillgodogörande
+      av dylika offentliga uppgifter.
+    t: Sin embargo, me he opuesto a las disposiciones que obligan a los que usen o
+      busquen información a <a>suscribirse</a> o registrarse, porque esto es contrario
+      al principio sueco del derecho al anonimato en relación con el uso de este tipo
+      de información pública.
+fr:
+- c: 3
+  r: 1
+  v: connecter
+  x:
+  - s: Även där måste det framgå hos vilket företag kunden har <v>loggat</v> <p>in</p>.
+    t: Là aussi, le client doit toujours voir chez qui il s’est <a>connecté</a>.
+  - s: När jag i går kväll <v>loggade</v> <p>in</p> på webbplatsen fanns det 7 197
+      lediga platser.
+    t: Hier soir, je me suis <a>connecté</a> au site web et celui-ci reprenait 7 197
+      postes vacants.
+  - s: Varje morgon <v>loggar</v> man <p>in</p> på Europeiska gemenskapens officiella
+      tidning.
+    t: Elle emploie 80 personnes et se <a>connecte</a> chaque matin au Journal officiel.
+- c: 1
+  r: 2
+  v: inscription consulter
+  x:
+  - s: Det finns enligt vår mening fortfarande några förslag utan praktisk nytta som
+      faktiskt begränsar friheterna och garantierna för medborgarna, som t.ex. kravet
+      på att ”de som använder eller tittar på uppgifter [på Internet] ska <v>logga</v>
+      <p>in</p> eller registrera sig”.
+    t: Nous sommes d’avis que certaines propositions n’ont aucune utilité pratique
+      et qu’elles limitent en fait les libertés et les droits des citoyens, comme
+      le fait d’exiger «l’<a>inscription</a> ou l’enregistrement des utilisateurs
+      et/ou des personnes qui <a>consultent</a> les données [sur l’internet]».
+- c: 1
+  r: 2
+  v: consulter
+  x:
+  - s: Däremot motsatte jag mig skrivningar om att de som använder eller tittar på
+      uppgifterna antingen ska <v>logga</v> <p>in</p> sig eller registrera sig eftersom
+      det strider mot den svenska principen om rätt till anonymitet vid tillgodogörande
+      av dylika offentliga uppgifter.
+    t: Je me suis toutefois opposé aux dispositions qui obligent ceux qui utilisent
+      ou <a>consultent</a> les informations de s’inscrire ou de s’enregistrer car
+      elles sont contraires au principe suédois du droit à l’anonymat lors de l’utilisation
+      de ce genre d’informations publiques.
+it:
+- c: 1
+  r: 1
+  v: navigare
+  x:
+  - s: Vi ser arresteringar av unga kineser som <v>loggar</v> <p>in</p> på Internet.
+    t: Assistiamo all’arresto di giovani cinesi che <a>navigano</a> su Internet .
+- c: 1
+  r: 1
+  v: collegare
+  x:
+  - s: Det är däremot inte rätt att utnyttja situationen till att peka finger mot
+      bara en viss uppsättning omständigheter, för alla i Italien som <v>loggar</v>
+      <p>in</p> på Internet, går till en tidningskiosk eller tittar på tv kan se att
+      det inte finns några som helst hot mot pressfriheten.
+    t: Non è giusto invece puntare il dito solo su una situazione in maniera strumentale
+      perché in Italia chiunque, <a>collegandosi</a> a Internet, andando in un’edicola
+      o guardando la televisione, può vedere che la libertà di stampa non è assolutamente
+      in pericolo.
+pt:
+- c: 1
+  r: 1
+  v: inscrição consultar
+  x:
+  - s: Det finns enligt vår mening fortfarande några förslag utan praktisk nytta som
+      faktiskt begränsar friheterna och garantierna för medborgarna, som t.ex. kravet
+      på att ”de som använder eller tittar på uppgifter [på Internet] ska <v>logga</v>
+      <p>in</p> eller registrera sig”.
+    t: Em nossa opinião, existem, mesmo, algumas propostas sem utilidade prática e
+      até limitadoras das liberdades e garantias dos cidadãos como a que se refere
+      à «<a>inscrição</a> ou registo dos que utilizam ou <a>consultam</a> os dados»
+      na Internet.
+- c: 1
+  r: 1
+  v: concurso consultor
+  x:
+  - s: Till exempel skulle förbrytare kunna <v>logga</v> <p>in</p> sig på chattrum
+      med hjälp av falska uppgifter.
+    t: Foi aliás aberto <a>concurso</a> público para o recrutamento desse <a>consultor</a>
+      externo.
+- c: 1
+  r: 1
+  v: consulta
+  x:
+  - s: Även där måste det framgå hos vilket företag kunden har <v>loggat</v> <p>in</p>.
+    t: Também aí tem de permanecer visível o nome do operador que o cliente <a>consulta</a>.
+- c: 1
+  r: 1
+  v: manhã estabelecer
+  x:
+  - s: Varje morgon <v>loggar</v> man <p>in</p> på Europeiska gemenskapens officiella
+      tidning.
+    t: Todas as <a>manhãs</a> <a>estabelece</a> a ligação ao Jornal Oficial.
+- c: 1
+  r: 1
+  v: navegar
+  x:
+  - s: Vi ser arresteringar av unga kineser som <v>loggar</v> <p>in</p> på Internet.
+    t: Assiste-se à detenção de jovens chineses que <a>navegam</a> na Internet.
+- c: 1
+  r: 1
+  v: preconizar
+  x:
+  - s: Däremot motsatte jag mig skrivningar om att de som använder eller tittar på
+      uppgifterna antingen ska <v>logga</v> <p>in</p> sig eller registrera sig eftersom
+      det strider mot den svenska principen om rätt till anonymitet vid tillgodogörande
+      av dylika offentliga uppgifter.
+    t: No entanto, opus-me às disposições que <a>preconizavam</a> o registo obrigatório
+      dos que utilizassem ou examinassem essa informação, uma vez que tal exigência
+      contraria o princípio sueco do direito ao anonimato no acesso a informação do
+      domínio público.

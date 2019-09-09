@@ -1,0 +1,245 @@
+---
+de:
+- c: 1
+  r: 1
+  v: Anstecken
+  x:
+  - s: In fact that is more accurate, since no one dies immediately as a result of
+      <v>lighting</v> <p>up</p> a cigarette.
+    t: Faktisch trifft das auch besser den Kern der Sache, weil niemand unmittelbar
+      durch das <a>Anstecken</a> einer Zigarette stirbt.
+- c: 1
+  r: 1
+  v: werden
+  x:
+  - s: From where I sit it is like the radar screen is <v>lighting</v> <p>up</p> all
+      over the House.
+    t: Von meinem Platz aus hat man den Eindruck, als <a>würden</a> überall auf dem
+      Radarschirm Punkte aufblinken.
+es:
+- c: 2
+  r: 1
+  v: iluminar
+  x:
+  - s: We cannot allow them to be used as drunkards sometimes use lampposts - as support
+      when they are unsteady, instead of to <v>light</v> <p>up</p> the way forwards.
+    t: para apoyarse y no caerse cuando tambalean, y no para <a>iluminar</a> el camino
+      que se quiere recorrer.
+  - s: One of these days there will be a puff of smoke, a loud bang and one of your
+      Members will <v>light</v> <p>up</p> like a Christmas tree.
+    t: Cualquier día de estos saldrá humo, se oirá un estallido estrepitoso y uno
+      de sus diputados se <a>iluminará</a> como un árbol de Navidad.
+- c: 1
+  r: 2
+  v: encender
+  x:
+  - s: These products are dangerous and can, upon <v>lighting</v> <p>up</p> and inhalation,
+      cause serious diseases which can even prove fatal.
+    t: Estos productos son peligrosos y pueden, al <a>encenderlos</a> e inhalarlos,
+      causar graves enfermedades que incluso pueden ser mortales.
+  - s: In fact that is more accurate, since no one dies immediately as a result of
+      <v>lighting</v> <p>up</p> a cigarette.
+    t: De hecho, estos textos resultan más correctos ya que nadie se muere directamente
+      por <a>encender</a> un cigarrillo.
+- c: 1
+  r: 2
+  v: encender
+  x:
+  - s: These products are dangerous and can, upon <v>lighting</v> <p>up</p> and inhalation,
+      cause serious diseases which can even prove fatal.
+    t: Estos productos son peligrosos y pueden, al <a>encenderlos</a> e inhalarlos,
+      causar graves enfermedades que incluso pueden ser mortales.
+  - s: In fact that is more accurate, since no one dies immediately as a result of
+      <v>lighting</v> <p>up</p> a cigarette.
+    t: De hecho, estos textos resultan más correctos ya que nadie se muere directamente
+      por <a>encender</a> un cigarrillo.
+fr:
+- c: 2
+  r: 1
+  v: éclairer
+  x:
+  - s: We cannot allow them to be used as drunkards sometimes use lampposts - as support
+      when they are unsteady, instead of to <v>light</v> <p>up</p> the way forwards.
+    t: pour s’appuyer et ne pas tomber quand on titube au lieu d’<a>éclairer</a> la
+      route que l’on veut parcourir.
+  - s: for example, the vestibules to our offices are <v>lit</v> <p>up</p> day and
+      night and the lights cannot be switched off, and so forth.
+    t: par exemple, les vestibules de nos bureaux sont <a>éclairées</a> jour et nuit,
+      il est impossible d’y éteindre la lumière, etc.
+- c: 2
+  r: 1
+  v: allumer
+  x:
+  - s: In fact that is more accurate, since no one dies immediately as a result of
+      <v>lighting</v> <p>up</p> a cigarette.
+    t: En fait, cela est également plus correct car personne ne meurt directement
+      en <a>allumant</a> une cigarette.
+  - s: From where I sit it is like the radar screen is <v>lighting</v> <p>up</p> all
+      over the House.
+    t: D’où je me trouve, on dirait que l’écran radar s’<a>allume</a> partout dans
+      l’Assemblée.
+- c: 1
+  r: 2
+  v: illuminer
+  x:
+  - s: One of these days there will be a puff of smoke, a loud bang and one of your
+      Members will <v>light</v> <p>up</p> like a Christmas tree.
+    t: Un de ces jours, il y aura un nuage de fumée, une forte détonation et l’un
+      des députés sera <a>illuminé</a> comme un sapin de Noël.
+- c: 1
+  r: 2
+  v: lever
+  x:
+  - s: I would remind the honourable Members that with the new electronic system the
+      red circle does not <v>light</v> <p>up</p>, so you do not need to make any effort
+      or hit the microphone when beginning to speak.
+    t: En fait, elle <a>lève</a> bien des obstacles à l’acquisition de nos entreprises
+      par des intérêts extraeuropéens, dans la mesure où, dans son article 6, par
+      exemple, elle désigne une autorité de contrôle unique et interdit à celles des
+      autres États d’imposer leur approbation ou d’exiger l’insertion d’informations
+      complémentaires.
+- c: 1
+  r: 2
+  v: fumer
+  x:
+  - s: These products are dangerous and can, upon <v>lighting</v> <p>up</p> and inhalation,
+      cause serious diseases which can even prove fatal.
+    t: Il s’agit de substances dangereuses qui, <a>fumées</a> ou inhalées, peuvent
+      causer des affections graves pouvant même entraîner la mort.
+it:
+- c: 3
+  r: 1
+  v: accendere
+  x:
+  - s: In fact that is more accurate, since no one dies immediately as a result of
+      <v>lighting</v> <p>up</p> a cigarette.
+    t: In realtà sono testi anche più corretti, in quanto nessuno muore direttamente
+      <a>accendendo</a> una sigaretta.
+  - s: From where I sit it is like the radar screen is <v>lighting</v> <p>up</p> all
+      over the House.
+    t: Dal mio posto mi sembra che tutta l’Aula si stia <a>accendendo</a> come uno
+      schermo radar.
+  - s: One of these days there will be a puff of smoke, a loud bang and one of your
+      Members will <v>light</v> <p>up</p> like a Christmas tree.
+    t: Uno di questi giorni ci sarà uno sbuffo di fumo, un gran fragore e uno dei
+      vostri deputati si <a>accenderà</a> come un albero di Natale.
+- c: 2
+  r: 2
+  v: luce
+  x:
+  - s: I would remind the honourable Members that with the new electronic system the
+      red circle does not <v>light</v> <p>up</p>, so you do not need to make any effort
+      or hit the microphone when beginning to speak.
+    t: Desidero ricordare agli onorevoli colleghi che col nuovo sistema elettronico
+      la <a>luce</a> rossa non si accende;
+  - s: We cannot allow them to be used as drunkards sometimes use lampposts - as support
+      when they are unsteady, instead of to <v>light</v> <p>up</p> the way forwards.
+    t: per appoggiarsi e non cadere quando si barcolla, anziché per fare <a>luce</a>
+      sulla strada che si vuole percorrere.
+- c: 1
+  r: 3
+  v: illuminare
+  x:
+  - s: for example, the vestibules to our offices are <v>lit</v> <p>up</p> day and
+      night and the lights cannot be switched off, and so forth.
+    t: Ad esempio le anticamere dei nostri uffici sono <a>illuminate</a> giorno e
+      notte, e non è nemmeno possibile spegnere la luce.
+- c: 1
+  r: 3
+  v: sigaretta
+  x:
+  - s: These products are dangerous and can, upon <v>lighting</v> <p>up</p> and inhalation,
+      cause serious diseases which can even prove fatal.
+    t: infatti, quando si accende e si aspira una <a>sigaretta</a>, si corre il rischio
+      di contrarre malattie gravi che si possono persino rivelare mortali.
+pt:
+- c: 2
+  r: 1
+  v: iluminar
+  x:
+  - s: We cannot allow them to be used as drunkards sometimes use lampposts - as support
+      when they are unsteady, instead of to <v>light</v> <p>up</p> the way forwards.
+    t: para se encostarem e não caírem quando cambaleiam, em vez de servirem para
+      <a>iluminar</a> o caminho que é preciso percorrer.
+  - s: for example, the vestibules to our offices are <v>lit</v> <p>up</p> day and
+      night and the lights cannot be switched off, and so forth.
+    t: por exemplo, as antecâmaras dos nossos gabinetes estão <a>iluminadas</a> dia
+      e noite, não sendo possível apagar as luzes.
+  - s: One of these days there will be a puff of smoke, a loud bang and one of your
+      Members will <v>light</v> <p>up</p> like a Christmas tree.
+    t: Um dia, assistiremos a uma baforada de fumo, a uma pancada estrondosa e um
+      dos deputados <a>iluminar</a><a>-se</a>-á como uma árvore de Natal.
+- c: 1
+  r: 2
+  v: iluminar
+  x:
+  - s: We cannot allow them to be used as drunkards sometimes use lampposts - as support
+      when they are unsteady, instead of to <v>light</v> <p>up</p> the way forwards.
+    t: para se encostarem e não caírem quando cambaleiam, em vez de servirem para
+      <a>iluminar</a> o caminho que é preciso percorrer.
+  - s: for example, the vestibules to our offices are <v>lit</v> <p>up</p> day and
+      night and the lights cannot be switched off, and so forth.
+    t: por exemplo, as antecâmaras dos nossos gabinetes estão <a>iluminadas</a> dia
+      e noite, não sendo possível apagar as luzes.
+  - s: One of these days there will be a puff of smoke, a loud bang and one of your
+      Members will <v>light</v> <p>up</p> like a Christmas tree.
+    t: Um dia, assistiremos a uma baforada de fumo, a uma pancada estrondosa e um
+      dos deputados <a>iluminar</a><a>-se</a>-á como uma árvore de Natal.
+- c: 1
+  r: 2
+  v: acender
+  x:
+  - s: I would remind the honourable Members that with the new electronic system the
+      red circle does not <v>light</v> <p>up</p>, so you do not need to make any effort
+      or hit the microphone when beginning to speak.
+    t: Recordo aos senhores deputados que, com o novo sistema electrónico, o círculo
+      vermelho não <a>acende</a>, pelo que não precisam de fazer qualquer esforço
+      nem de bater no microfone quando começam a usar da palavra.
+- c: 1
+  r: 2
+  v: ter acender
+  x:
+  - s: In fact that is more accurate, since no one dies immediately as a result of
+      <v>lighting</v> <p>up</p> a cigarette.
+    t: O facto é, precisamente, que ninguém tem morte imediata por <a>ter</a> <a>acendido</a>
+      um cigarro.
+- c: 1
+  r: 2
+  v: queimar
+  x:
+  - s: These products are dangerous and can, upon <v>lighting</v> <p>up</p> and inhalation,
+      cause serious diseases which can even prove fatal.
+    t: Trata-se de produtos perigosos, que ao serem <a>queimados</a> e inalados, causam
+      doenças graves que, inclusive, podem ser fatais.
+sv:
+- c: 2
+  r: 1
+  v: tända
+  x:
+  - s: I would remind the honourable Members that with the new electronic system the
+      red circle does not <v>light</v> <p>up</p>, so you do not need to make any effort
+      or hit the microphone when beginning to speak.
+    t: Jag skulle vilja påminna de ärade ledamöterna om att den röda cirkeln inte
+      <a>tänds</a> med det nya elektriska systemet, så ni behöver inte anstränga er
+      eller slå på mikrofonen när ni börjar tala.
+  - s: In fact that is more accurate, since no one dies immediately as a result of
+      <v>lighting</v> <p>up</p> a cigarette.
+    t: I själva verket är detta mer sanningsenligt, eftersom ingen dör direkt av att
+      <a>tända</a> en cigarett.
+- c: 1
+  r: 2
+  v: förbränning
+  x:
+  - s: These products are dangerous and can, upon <v>lighting</v> <p>up</p> and inhalation,
+      cause serious diseases which can even prove fatal.
+    t: Det handlar om farliga ämnen som vid <a>förbränning</a> och inandning kan orsaka
+      allvarliga sjukdomar och till och med kan leda till döden.
+- c: 1
+  r: 2
+  v: upplysa
+  x:
+  - s: for example, the vestibules to our offices are <v>lit</v> <p>up</p> day and
+      night and the lights cannot be switched off, and so forth.
+    t: vi vidtar inte heller några energibesparande åtgärder, ett exempel på det är
+      det faktum att våra kontorshallar hålls <a>upplysta</a> dag och natt och inte
+      går att släcka, etc.

@@ -1,0 +1,21 @@
+---
+de:
+- c: 1
+  r: 1
+  v: umziehen
+  x:
+  - s: Jag hoppas starkt att rådet kommer att tänka i banor som är större än rutorna
+      på den skjorta jag bär i dag, och jag ber om ursäkt för att jag inte har haft
+      möjlighet att <v>klä</v> <p>om</p>.
+    t: Ich hoffe ganz eindringlich, dass der Rat nicht so kleinkariert ist wie das
+      Hemd, das ich heute trage - Entschuldigung, ich konnte mich noch nicht <a>umziehen</a>.
+it:
+- c: 1
+  r: 1
+  v: cambiare
+  x:
+  - s: Jag hoppas starkt att rådet kommer att tänka i banor som är större än rutorna
+      på den skjorta jag bär i dag, och jag ber om ursäkt för att jag inte har haft
+      möjlighet att <v>klä</v> <p>om</p>.
+    t: Auspico vivamente che la visione del Consiglio non sia ristretta quanto i riquadri
+      della camicia che indosso oggi, di cui mi scuso, in quanto non ho potuto <a>cambiarmi</a>.

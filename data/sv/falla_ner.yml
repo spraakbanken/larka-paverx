@@ -1,0 +1,168 @@
+---
+de:
+- c: 1
+  r: 1
+  v: niedergehen
+  x:
+  - s: Vi måste ju tänka ekonomiskt totalt sett och även ta med de kostnader som uppstår
+      på grund av försurning och de skadliga ämnen som <v>faller</v> <p>ner</p> på
+      befolkningen.
+    t: Wir müssen schon insgesamt wirtschaftlich denken und auch die Kosten einbeziehen,
+      die durch Versauerung und durch die Schadstoffe entstehen, die auf die Bevölkerung
+      <a>niedergehen</a>.
+- c: 1
+  r: 1
+  v: fallen
+  x:
+  - s: Jag är oroad för att vi efter utvidgningen håller på att <v>falla</v> <p>ner</p>
+      i ett svart hål för att alla är nöjda med att utvidgningen gick så bra.
+    t: Ich habe die Sorge, dass wir nach der Erweiterung in ein großes Loch <a>fallen</a>,
+      weil alle zufrieden sind, dass die Erweiterung geklappt hat.
+en:
+- c: 1
+  r: 1
+  v: fall
+  x:
+  - s: Så jag föreslår att en liten apparat installeras vid varje ledamotsplats, så
+      att ett mynt <v>faller</v> <p>ner</p> varje gång vi röstar.
+    t: So I propose that at each desk we should install a little device and when we
+      vote, coins would <a>fall</a>.
+es:
+- c: 3
+  r: 1
+  v: caer
+  x:
+  - s: Jag är oroad för att vi efter utvidgningen håller på att <v>falla</v> <p>ner</p>
+      i ett svart hål för att alla är nöjda med att utvidgningen gick så bra.
+    t: Me preocupa que después de la ampliación <a>caigamos</a> en un agujero negro
+      debido a la satisfacción generalizada por el éxito de la ampliación.
+  - s: Precis som Václav Havel har skrivit och sagt många gånger är demokratin ingenting
+      som oåterkalleligt och för alltid givet har <v>fallit</v> <p>ner</p> i våra
+      knän, utan demokrati är någonting som vi måste upprätthålla och ständigt kämpa
+      för, åter och åter.
+    t: Como bien ha dicho y escrito el señor Havel en muchas ocasiones, la democracia
+      no es algo que se pueda tener, de una vez por todas, y que <a>caiga</a> del
+      cielo de forma irrevocable, sino que es algo que tenemos que mantener y por
+      lo que tenemos que luchar constantemente.
+  - s: Så jag föreslår att en liten apparat installeras vid varje ledamotsplats, så
+      att ett mynt <v>faller</v> <p>ner</p> varje gång vi röstar.
+    t: Así, propongo que podamos instalar en cada pupitre un pequeño aparato, de forma
+      que cuando votemos <a>caigan</a> las piezas.
+- c: 1
+  r: 2
+  v: acabar
+  x:
+  - s: En ung befolkning som den algeriska, som inte har känt till någon annan verklighet
+      än femårsplanernas fattigdom, för att sedan <v>falla</v> <p>ner</p> i de fasor
+      som ett hänsynslöst inbördeskrig som utkämpas i religionsfrihetens namn innebär,
+      är en tidsinställd bomb som inte bara hotar Magreb och hela den väldiga arabvärlden
+      utan också utgör ett allvarligt hot mot Europa som inte får underskattas.
+    t: Una población joven como la argelina, que no ha conocido otra cosa que la miseria
+      de los planes quinquenales para luego <a>acabar</a> en el horror de una guerra
+      civil, disfrazada de lucha para la libertad de religión, es una bomba de relojería
+      que no tan sólo amenaza al Magreb y a todo el amplio mundo árabe, sino que constituye
+      una amenaza muy seria para Europa, que no debe ser subestimada.
+- c: 1
+  r: 2
+  v: recaer
+  x:
+  - s: Vi måste ju tänka ekonomiskt totalt sett och även ta med de kostnader som uppstår
+      på grund av försurning och de skadliga ämnen som <v>faller</v> <p>ner</p> på
+      befolkningen.
+    t: Tenemos que empezar a reflexionar ya en términos económicos globales y considerar
+      también los costes derivados de la contaminación y de la emisión de sustancias
+      nocivas que <a>recaen</a> sobre la población.
+fr:
+- c: 3
+  r: 1
+  v: tomber
+  x:
+  - s: En ung befolkning som den algeriska, som inte har känt till någon annan verklighet
+      än femårsplanernas fattigdom, för att sedan <v>falla</v> <p>ner</p> i de fasor
+      som ett hänsynslöst inbördeskrig som utkämpas i religionsfrihetens namn innebär,
+      är en tidsinställd bomb som inte bara hotar Magreb och hela den väldiga arabvärlden
+      utan också utgör ett allvarligt hot mot Europa som inte får underskattas.
+    t: Une population jeune, telle que la population algérienne - qui n’a connu rien
+      d’autre que la misère des plans quinquennaux, pour <a>tomber</a> ensuite dans
+      l’horreur d’une guerre civile que l’on a voulu faire passer pour une lutte pour
+      la liberté de religion - est une bombe à retardement qui ne menace pas seulement
+      le Maghreb et tout le vaste monde arabe, mais constitue également une menace
+      très sérieuse pour l’Europe, une menace qui ne doit pas être sous-évaluée.
+  - s: Jag är oroad för att vi efter utvidgningen håller på att <v>falla</v> <p>ner</p>
+      i ett svart hål för att alla är nöjda med att utvidgningen gick så bra.
+    t: Je crains que nous ne <a>tombions</a> dans un trou noir après l’élargissement,
+      car chacun sera satisfait de son bon déroulement.
+  - s: Precis som Václav Havel har skrivit och sagt många gånger är demokratin ingenting
+      som oåterkalleligt och för alltid givet har <v>fallit</v> <p>ner</p> i våra
+      knän, utan demokrati är någonting som vi måste upprätthålla och ständigt kämpa
+      för, åter och åter.
+    t: Comme Václav Havel l’a écrit et dit à maintes reprises, la démocratie n’est
+      pas quelque chose qui est, une fois pour toutes et de manière irrévocable, <a>tombé</a>
+      du ciel ;
+- c: 1
+  r: 2
+  v: toucher
+  x:
+  - s: Vi måste ju tänka ekonomiskt totalt sett och även ta med de kostnader som uppstår
+      på grund av försurning och de skadliga ämnen som <v>faller</v> <p>ner</p> på
+      befolkningen.
+    t: Nous devons avoir une vision économique d’ensemble et incorporer aussi les
+      coûts engendrés par l’acidification et les matières polluantes qui <a>touchent</a>
+      les populations.
+it:
+- c: 1
+  r: 1
+  v: scivolare
+  x:
+  - s: En ung befolkning som den algeriska, som inte har känt till någon annan verklighet
+      än femårsplanernas fattigdom, för att sedan <v>falla</v> <p>ner</p> i de fasor
+      som ett hänsynslöst inbördeskrig som utkämpas i religionsfrihetens namn innebär,
+      är en tidsinställd bomb som inte bara hotar Magreb och hela den väldiga arabvärlden
+      utan också utgör ett allvarligt hot mot Europa som inte får underskattas.
+    t: Una popolazione giovane, come quella algerina, che non ha conosciuto altro
+      che la miseria dei piani quinquennali per poi <a>scivolare</a> nell’orrore di
+      una guerra civile spacciata per lotta per la libertà di religione, è una bomba
+      ad orologeria che non solo minaccia il Magreb e tutto il vasto mondo arabo ma
+      costituisce una serissima minaccia per l’Europa che non deve essere sottovalutata.
+- c: 1
+  r: 1
+  v: precipitare
+  x:
+  - s: Jag är oroad för att vi efter utvidgningen håller på att <v>falla</v> <p>ner</p>
+      i ett svart hål för att alla är nöjda med att utvidgningen gick så bra.
+    t: Mi preoccupa il fatto che dopo l’allargamento stiamo <a>precipitando</a> in
+      un buco nero, perché tutti sono soddisfatti che l’ampliamento ha avuto un esito
+      positivo.
+pt:
+- c: 1
+  r: 1
+  v: resvalar
+  x:
+  - s: En ung befolkning som den algeriska, som inte har känt till någon annan verklighet
+      än femårsplanernas fattigdom, för att sedan <v>falla</v> <p>ner</p> i de fasor
+      som ett hänsynslöst inbördeskrig som utkämpas i religionsfrihetens namn innebär,
+      är en tidsinställd bomb som inte bara hotar Magreb och hela den väldiga arabvärlden
+      utan också utgör ett allvarligt hot mot Europa som inte får underskattas.
+    t: Uma população jovem, como é o caso da população argelina, que não conheceu
+      senão a miséria dos planos quinquenais, <a>resvalando</a> depois para o horror
+      de uma guerra civil disfarçada de luta pela liberdade religiosa, é uma autêntica
+      bomba-relógio que não só ameaça o Magrebe e todo o vasto mundo árabe como constitui
+      uma ameaça muito séria para a Europa, ameaça que não pode ser subvalorizada.
+- c: 1
+  r: 1
+  v: cair
+  x:
+  - s: Precis som Václav Havel har skrivit och sagt många gånger är demokratin ingenting
+      som oåterkalleligt och för alltid givet har <v>fallit</v> <p>ner</p> i våra
+      knän, utan demokrati är någonting som vi måste upprätthålla och ständigt kämpa
+      för, åter och åter.
+    t: Tal como Václav Havel o escreveu e afirmou, muitas e muitas vezes, a democracia
+      não <a>caiu</a> do céu, de uma vez por todas e irrevogavelmente;
+- c: 1
+  r: 1
+  v: caiar
+  x:
+  - s: Jag är oroad för att vi efter utvidgningen håller på att <v>falla</v> <p>ner</p>
+      i ett svart hål för att alla är nöjda med att utvidgningen gick så bra.
+    t: Receio que, após o alargamento, <a>caiamos</a> num buraco negro, visto que
+      todos se sentirão satisfeitos com o sucesso do alargamento.

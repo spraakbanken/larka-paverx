@@ -1,0 +1,34 @@
+---
+es:
+- c: 1
+  r: 1
+  v: florecer
+  x:
+  - s: Really, they should be <v>shooting</v> <p>out</p> of the ground like mushrooms
+      in order to pursue your objectives in the European Year of Workers’ Mobility
+      and increase geographical mobility in Europe.
+    t: Realmente, deberían estar <a>floreciendo</a> como hongos para alcanzar los
+      objetivos de usted en el Año Europeo de la Movilidad de los Trabajadores y aumentar
+      la movilidad geográfica en Europa.
+fr:
+- c: 1
+  r: 1
+  v: pousser
+  x:
+  - s: Really, they should be <v>shooting</v> <p>out</p> of the ground like mushrooms
+      in order to pursue your objectives in the European Year of Workers’ Mobility
+      and increase geographical mobility in Europe.
+    t: C’est vrai, ils devraient <a>pousser</a> comme des champignons pour poursuivre
+      vos objectifs dans l’Année européenne de la mobilité des travailleurs et accroître
+      la mobilité géographique en Europe.
+it:
+- c: 1
+  r: 1
+  v: moltiplicare
+  x:
+  - s: Really, they should be <v>shooting</v> <p>out</p> of the ground like mushrooms
+      in order to pursue your objectives in the European Year of Workers’ Mobility
+      and increase geographical mobility in Europe.
+    t: Tutto ciò dovrebbe <a>moltiplicarsi</a> come funghi, per continuare a perseguire,
+      nell’anno europeo della mobilità dei lavoratori, i suoi obiettivi e aumentare
+      la mobilità geografica in Europa.

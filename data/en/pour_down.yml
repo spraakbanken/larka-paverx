@@ -1,0 +1,66 @@
+---
+de:
+- c: 1
+  r: 1
+  v: umfüllen
+  x:
+  - s: This means that shampoos, lotions and other cosmetics in liquid form have to
+      be <v>poured</v> <p>down</p> the sink and the remainder poured into 100 ml containers
+      because 200 ml containers are not allowed on board the aircraft.
+    t: Shampoos, Lotions und andere Kosmetika in flüssiger Form müssen weggegossen
+      und der Rest in 100-ml-Behälter <a>umgefüllt</a> werden, weil es nicht gestattet
+      ist, 200-ml-Behälter an Bord des Flugzeuges zu nehmen.
+- c: 1
+  r: 1
+  v: gießen
+  x:
+  - s: At the same time, milk in Europe is being <v>poured</v> <p>down</p> the drains
+      right now, and rapeseed and sugar cane, now blooming in the fields, will be
+      poured into vehicles’ fuel tanks.
+    t: Gleichzeitig wird in Europa Milch in die Kanalisation <a>gegossen</a>, und
+      Raps und Zuckerrohr, die jetzt auf den Feldern blühen, werden in den Tanks von
+      Fahrzeugen landen.
+es:
+- c: 1
+  r: 1
+  v: tirar
+  x:
+  - s: At the same time, milk in Europe is being <v>poured</v> <p>down</p> the drains
+      right now, and rapeseed and sugar cane, now blooming in the fields, will be
+      poured into vehicles’ fuel tanks.
+    t: Al mismo tiempo, la leche se está <a>tirando</a> ahora mismo en Europa, y la
+      semilla de colza y la caña de azúcar servirán para alimentar los depósitos de
+      los vehículos.
+it:
+- c: 1
+  r: 1
+  v: versare
+  x:
+  - s: At the same time, milk in Europe is being <v>poured</v> <p>down</p> the drains
+      right now, and rapeseed and sugar cane, now blooming in the fields, will be
+      poured into vehicles’ fuel tanks.
+    t: Allo stesso tempo, il latte in Europa viene <a>versato</a> nelle fognature
+      proprio adesso, e la colza e la canna da zucchero, in fioritura ora nei campi,
+      finiranno nei serbatoi dei veicoli.
+- c: 1
+  r: 1
+  v: gettare
+  x:
+  - s: This means that shampoos, lotions and other cosmetics in liquid form have to
+      be <v>poured</v> <p>down</p> the sink and the remainder poured into 100 ml containers
+      because 200 ml containers are not allowed on board the aircraft.
+    t: Di conseguenza, gli shampoo, le lozioni e gli altri cosmetici in forma liquida
+      devono essere <a>gettati</a> nel lavandino, salvo i quantitativi concessi che
+      i passeggeri devono reimbottigliare in contenitori da 100 ml, poiché i flaconi
+      da 200 ml non sono ammessi a bordo dei velivoli.
+pt:
+- c: 1
+  r: 1
+  v: abaixo
+  x:
+  - s: At the same time, milk in Europe is being <v>poured</v> <p>down</p> the drains
+      right now, and rapeseed and sugar cane, now blooming in the fields, will be
+      poured into vehicles’ fuel tanks.
+    t: Simultaneamente, o leite está a ir pelo esgoto <a>abaixo</a> neste momento
+      na Europa, e a colza e a cana-de-açúcar que florescem nos campos atestarão os
+      depósitos de combustível dos automóveis.

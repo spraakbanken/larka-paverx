@@ -1,0 +1,29 @@
+---
+en:
+- c: 1
+  r: 1
+  v: emerge
+  x:
+  - s: Jag vill påpeka att kommissionen förstås inte betraktar fonden som något oföränderligt
+      som likt Pallas Athena har <v>sprungit</v> <p>fram</p> ur Zeus huvud.
+    t: I have to say that the Commission does not of course regard the fund as something
+      immutable which has <a>emerged</a> like Pallas Athena from the head of Zeus.
+es:
+- c: 1
+  r: 1
+  v: tendencial dibujar
+  x:
+  - s: Vi hoppas att vi till det franska ordförandeskapet kan överlämna något påtagligt
+      och i viss mån representativt för de tendenser som har <v>sprungit</v> <p>fram</p>
+      hos medlemsländerna under arbetets gång.
+    t: Y esperamos poder transmitir a la Presidencia francesa algo tangible y en la
+      medida de lo posible representativo de las líneas <a>tendenciales</a> que se
+      vayan <a>dibujando</a> entre los Estados miembros durante nuestros trabajos.
+- c: 1
+  r: 1
+  v: surgir
+  x:
+  - s: Jag vill påpeka att kommissionen förstås inte betraktar fonden som något oföränderligt
+      som likt Pallas Athena har <v>sprungit</v> <p>fram</p> ur Zeus huvud.
+    t: Debo decir que la Comisión por supuesto no considera el Fondo como algo inmutable
+      que, cual Pallas Atenea, haya <a>surgido</a> de la cabeza de Zeus.

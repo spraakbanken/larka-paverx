@@ -1,0 +1,102 @@
+---
+en:
+- c: 1
+  r: 1
+  v: increase
+  x:
+  - s: Den framkallar, i verkligheten, ett intryck av envisheten i en politik som
+      dagligen <v>störtar</v> <p>ner</p> de europeiska folken i arbetslöshet, fattigdom
+      och social uteslutning.
+    t: The persistence with a policy that is <a>increasing</a> unemployment, poverty
+      and social exclusion in Europe by the day is truly remarkable.
+- c: 1
+  r: 1
+  v: bring calamity
+  x:
+  - s: Den civilisation som styrs av vinstintresse och ängsliga närsynta skulle mycket
+      väl en dag kunna <v>störta</v> <p>ner</p> oss alla i avgrunden.
+    t: Our society obsessed with profit, our society of the cautious and short-sighted,
+      might one day easily <a>bring</a> <a>calamity</a> to us all.
+fr:
+- c: 1
+  r: 1
+  v: précipiter
+  x:
+  - s: Den civilisation som styrs av vinstintresse och ängsliga närsynta skulle mycket
+      väl en dag kunna <v>störta</v> <p>ner</p> oss alla i avgrunden.
+    t: La civilisation du profit et des frileux myopes pourrait bien un jour nous
+      <a>précipiter</a> tous dans le précipice.
+- c: 1
+  r: 1
+  v: enfoncer
+  x:
+  - s: Den framkallar, i verkligheten, ett intryck av envisheten i en politik som
+      dagligen <v>störtar</v> <p>ner</p> de europeiska folken i arbetslöshet, fattigdom
+      och social uteslutning.
+    t: L’on est, en effet, très étonné par l’insistance avec laquelle elle se fixe
+      sur une politique qui <a>enfonce</a>, chaque jour, les peuples européens dans
+      le chômage, la pauvreté et l’exclusion sociale.
+it:
+- c: 1
+  r: 1
+  v: scivolare
+  x:
+  - s: Vidare måste de politiska myndigheter och moraliska och religiösa auktoriteter
+      i detta land som fortfarande har styrka och makt nog att uttrycka sig mana till
+      att våldet skall upphöra, om inte Algeriet skall fortsätta att <v>störta</v>
+      <p>ner</p> i avgrunden.
+    t: Le autorità politiche, morali e religiose del paese, quelle che hanno ancora
+      la forza e il potere di esprimersi, devono chiedere la fine di ogni violenza,
+      perché altrimenti l’Algeria continuerà a <a>scivolare</a> verso l’abisso.
+- c: 1
+  r: 1
+  v: precipitare
+  x:
+  - s: Den framkallar, i verkligheten, ett intryck av envisheten i en politik som
+      dagligen <v>störtar</v> <p>ner</p> de europeiska folken i arbetslöshet, fattigdom
+      och social uteslutning.
+    t: In effetti, fa impressione il loro voler insistere su una politica che, giorno
+      dopo giorno, fa <a>precipitare</a> i popoli europei verso la disoccupazione,
+      la povertà e l’emarginazione sociale.
+- c: 1
+  r: 1
+  v: fare piombare
+  x:
+  - s: Europeiska unionens uppgift måste vara att stödja de krafter som försöker undvika
+      att landet <v>störtas</v> <p>ner</p> i inbördeskrig.
+    t: Credo che compito dell’Unione europea sia quello di assecondare ogni sforzo
+      che cerchi di non <a>far</a> <a>piombare</a> il paese nella guerra civile.
+- c: 1
+  r: 1
+  v: cadere
+  x:
+  - s: Den civilisation som styrs av vinstintresse och ängsliga närsynta skulle mycket
+      väl en dag kunna <v>störta</v> <p>ner</p> oss alla i avgrunden.
+    t: La civiltà del profitto e dei miopi insensibili un giorno potrebbe farci <a>cadere</a>
+      nel precipizio.
+pt:
+- c: 1
+  r: 1
+  v: cair
+  x:
+  - s: Europeiska unionens uppgift måste vara att stödja de krafter som försöker undvika
+      att landet <v>störtas</v> <p>ner</p> i inbördeskrig.
+    t: Considero ser dever da União Europeia secundar todos os esforços no sentido
+      de não deixar o país <a>cair</a> na guerra civil.
+- c: 1
+  r: 1
+  v: mergulhar
+  x:
+  - s: Den framkallar, i verkligheten, ett intryck av envisheten i en politik som
+      dagligen <v>störtar</v> <p>ner</p> de europeiska folken i arbetslöshet, fattigdom
+      och social uteslutning.
+    t: De facto, causa impressão a persistência numa política que todos os dias <a>mergulha</a>
+      os povos europeu no desemprego, na pobreza e na exclusão social.
+- c: 1
+  r: 1
+  v: precipitar
+  x:
+  - s: Den civilisation som styrs av vinstintresse och ängsliga närsynta skulle mycket
+      väl en dag kunna <v>störta</v> <p>ner</p> oss alla i avgrunden.
+    t: A civilização do lucro e dos cobardes míopes poderá muito bem, um dia, <a>precipitar</a>-nos
+      a todos no abismo.

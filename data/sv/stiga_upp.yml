@@ -1,0 +1,534 @@
+---
+de:
+- c: 3
+  r: 1
+  v: aufstehen
+  x:
+  - s: I dag står det i pressen att ni klagar över att ni var tvungen att <v>stiga</v>
+      <p>upp</p> kl. 4 för att hinna till Strasbourg och sammanträdet här.
+    t: Herr Präsident, heute Morgen erfuhren wir aus der Presse, dass Sie sich darüber
+      beschwert haben, um 4.00 Uhr <a>aufstehen</a> zu müssen, um nach Straßburg kommen
+      und hier Ihren Geschäften nachgehen zu können.
+  - s: I mitt område kan jordbrukare som inte vill <v>stiga</v> <p>upp</p> ur sina
+      sängar på morgnarna för att mjölka kor, hyra ut sina kvoter och göra en större
+      vinst än den jordbrukare som vill och som måste betala pengar för att hyra kvoten
+      via en annan jordbrukare.
+    t: In meiner Heimat können Landwirte, die morgens nicht aus dem Bett kommen, um
+      ihre Kühe zu melken, ihre Milchquoten vermieten und verdienen auf diese Weise
+      mehr Geld als diejenigen, die früh <a>aufstehen</a> und noch Geld für die Nutzung
+      der Milchquoten an einen anderen Landwirt bezahlen müssen.
+  - s: Vi fick er att <v>stiga</v> <p>upp</p> tidigt den första arbetsdagen i er nya
+      befattning, och jag tror inte att det kommer att vara den enda gången vi gör
+      det.
+    t: Sie mussten heute an Ihrem ersten Arbeitstag früh <a>aufstehen</a>, ich denke
+      das wird nicht das einzige Mal bleiben.
+- c: 1
+  r: 2
+  v: wieder
+  x:
+  - s: Vissa fattiga människor <v>stiger</v> formligen <p>upp</p> från de döda när
+      deras organ implanteras i levande människor.
+    t: Manche arme Menschen stehen von den Toten <a>wieder</a> auf, sobald ihre Organe
+      in lebende Menschen eingepflanzt sind.
+- c: 1
+  r: 2
+  v: wieder steigen
+  x:
+  - s: De förklarar prisstoppet inom jordbruket 1998, med minskade kompensationsbetalningar
+      för sänkta spannmåls- och oljeväxtpriser, liksom reduktionen av trädesbidragen,
+      då andelen mark som skall ligga i träda 1998 har <v>stigit</v> <p>upp</p> emot
+      10 %, med hot om en grundandel på 17, 65 %.
+    t: Das erklärt die Einfrierung der Agrarpreise 1998, verbunden mit einer Reduzierung
+      der Ausgleichsbeihilfen für Preissenkungen bei Getreide und Ölsaaten, sowie
+      die Senkung der Stillegungsprämien, wobei der Flächenstillegungssatz für 1998
+      übrigens <a>wieder</a> Richtung 10 % <a>gestiegen</a> ist und die Gefahr eines
+      Basissatzes von 17,65 % besteht.
+- c: 1
+  r: 2
+  v: aufgehen
+  x:
+  - s: Det är en enorm skillnad, för om jag säger att jag inte är turk utan heter
+      turk, leder det somliga till slutsatsen att alla nationaliteter måste ”homogeniseras”,
+      på grundval av en formmassa ur vilken den nya människan skall <v>stiga</v> <p>upp</p>.
+    t: “ Das ist ein großer Unterschied, denn wenn ich es nicht für wichtig halte,
+      wer Türke ist, sondern nur, wer sich als Türke bezeichnet, läuft das für bestimmte
+      Leute darauf hinaus, daß alle Nationalitäten in einer homogenen Masse <a>aufgehen</a>
+      sollen, aus der dann der neue Mensch entsteht.
+- c: 1
+  r: 2
+  v: erwachen
+  x:
+  - s: Det är en dålig nyhet att Kina har <v>stigit</v> <p>upp</p>, medan vi har slumrat
+      in.
+    t: China ist <a>erwacht</a>, doch wir haben sanft geschlummert.
+- c: 1
+  r: 2
+  v: haben
+  x:
+  - s: Giftiga ångor <v>stiger</v> <p>upp</p> från lavan.
+    t: Die Bevölkerung <a>hat</a> kein Brennholz.
+en:
+- c: 3
+  r: 1
+  v: get up
+  x:
+  - s: I dag står det i pressen att ni klagar över att ni var tvungen att <v>stiga</v>
+      <p>upp</p> kl. 4 för att hinna till Strasbourg och sammanträdet här.
+    t: Mr President, this morning the press tells us that you complained that you
+      had to <a>get</a> <a>up</a> at 4 a.m. in order to get to Strasbourg to do business
+      here.
+  - s: 'Denna läkare rådde oss alla att när vi <v>stiger</v> <p>upp</p> på morgonen
+      säga:'
+    t: 'This doctor suggested that every one of us should say the following to ourselves,
+      when we <a>get</a> <a>up</a> in the morning:'
+  - s: Låt oss alltid <v>stiga</v> <p>upp</p> tidigt för att arbeta med EU!
+    t: Let us always <a>get</a> <a>up</a> early to go to work on Europe!
+- c: 2
+  r: 2
+  v: rise
+  x:
+  - s: I likhet med min kollega Evans, tycker jag att det är synnerligen trevligt
+      att <v>stiga</v> <p>upp</p> i talarstolen och hålla mitt första tal i denna
+      kammare om denna mycket viktiga fråga, särskilt på grund av att jag företräder
+      en del av Förenade kungariket, West Midlands, som hittills dragit nytta av i
+      synnerhet finansiering från mål 2.
+    t: Mr President, like my colleague Mr Evans, it is a particular pleasure to <a>rise</a>
+      and make my first speech to this House on this very important issue, especially
+      since I represent a part of the United Kingdom, the West Midlands, which has
+      hitherto benefited from Objective 2 funding in particular.
+  - s: Vissa fattiga människor <v>stiger</v> formligen <p>upp</p> från de döda när
+      deras organ implanteras i levande människor.
+    t: Some poor people positively <a>rise</a> from their graves, in a manner of speaking,
+      when their organs are transplanted into living people.
+- c: 2
+  r: 2
+  v: up
+  x:
+  - s: I likhet med många av mina kolleger <v>steg</v> jag <p>upp</p> kl. 4 imorse
+      för att komma hit, men jag är mycket glad över att jag stannade till slutet
+      av diskussionen denna kväll eftersom de två sista frågorna vi diskuterat har
+      fyllt mig med stora förhoppningar.
+    t: Mr President, I, like many of my colleagues, got <a>up</a> this morning at
+      four o’clock to come here, but I am very pleased that I have waited until the
+      end of the discussion here tonight, because these last two topics which we have
+      discussed have filled me with great hope.
+  - s: Vi fick er att <v>stiga</v> <p>upp</p> tidigt den första arbetsdagen i er nya
+      befattning, och jag tror inte att det kommer att vara den enda gången vi gör
+      det.
+    t: We got you <a>up</a> early this morning on your first day in the job, and I
+      think it will not be the only time that we do so.
+- c: 1
+  r: 3
+  v: rise out
+  x:
+  - s: Jag drömde att jag var i Grekland, på Kreta, i staden Agios Nikolaos som ligger
+      vid den sjö där Venus enligt legenden <v>steg</v> <p>upp</p> ur vattnet.
+    t: I dreamed of Venus herself <a>rising</a> <a>out</a> of the beautiful water
+      of Crete.
+- c: 1
+  r: 3
+  v: evolve
+  x:
+  - s: Det är en enorm skillnad, för om jag säger att jag inte är turk utan heter
+      turk, leder det somliga till slutsatsen att alla nationaliteter måste ”homogeniseras”,
+      på grundval av en formmassa ur vilken den nya människan skall <v>stiga</v> <p>upp</p>.
+    t: There is a huge difference in meaning, because to say I am not a Turk, but
+      I call myself a Turk leads some to reason that all nationalities should be ground
+      together into one pulp from which a new human race can <a>evolve</a>.
+- c: 1
+  r: 3
+  v: be stand
+  x:
+  - s: Ni känner säkert till att de allra flesta olyckshändelserna i de europeiska
+      hushållen sker för att hemmafruarna ständigt <v>stiger</v> <p>upp</p> på stolar
+      med hjul;
+    t: You probably know that most accidents in all the households in Europe happen
+      because housewives <a>are</a> trying to <a>stand</a> on some sort of swivel
+      chair, which should be avoided if possible.
+- c: 1
+  r: 3
+  v: climb up
+  x:
+  - s: Jag vill inte veta hur mycket pengar som framöver kommer att krävas för att
+      försäkra alla de medelstora personer som skall <v>stiga</v> <p>upp</p> på stolar
+      i huset.
+    t: I would not like to know how much money the insurers of this building will
+      have to pay out in future for all the medium-sized persons <a>climbing</a> <a>up</a>
+      on these chairs.
+- c: 1
+  r: 3
+  v: emerge
+  x:
+  - s: Giftiga ångor <v>stiger</v> <p>upp</p> från lavan.
+    t: There is toxic dust, and toxic vapours are <a>emerging</a> from the lava.
+- c: 1
+  r: 3
+  v: get out
+  x:
+  - s: I mitt område kan jordbrukare som inte vill <v>stiga</v> <p>upp</p> ur sina
+      sängar på morgnarna för att mjölka kor, hyra ut sina kvoter och göra en större
+      vinst än den jordbrukare som vill och som måste betala pengar för att hyra kvoten
+      via en annan jordbrukare.
+    t: In my area farmers who do not <a>get</a> <a>out</a> of their beds in the morning
+      to milk cows can lease their quota and make more profit than the farmer who
+      does and who has to pay money to lease the quota through another farmer.
+- c: 1
+  r: 3
+  v: have arise
+  x:
+  - s: Det är en dålig nyhet att Kina har <v>stigit</v> <p>upp</p>, medan vi har slumrat
+      in.
+    t: China <a>has</a> <a>arisen</a>, yet we have slumbered away.
+- c: 1
+  r: 3
+  v: high up
+  x:
+  - s: I Europaparlamentets utskott för kultur, ungdomsfrågor, utbildning, medier
+      och idrott gläds vi åt att utbildningen <v>stigit</v> <p>upp</p> på unionens
+      agenda.
+    t: We on the European Parliament’s Committee on Culture, Youth, Education, the
+      Media and Sport are pleased that education is now <a>higher</a> <a>up</a> on
+      the Union agenda.
+- c: 1
+  r: 3
+  v: price
+  x:
+  - s: De förklarar prisstoppet inom jordbruket 1998, med minskade kompensationsbetalningar
+      för sänkta spannmåls- och oljeväxtpriser, liksom reduktionen av trädesbidragen,
+      då andelen mark som skall ligga i träda 1998 har <v>stigit</v> <p>upp</p> emot
+      10 %, med hot om en grundandel på 17, 65 %.
+    t: That explains why 1998 farm <a>prices</a> have been frozen, with a reduction
+      in compensatory aids and a lowering of cereal and oil-seed prices, together
+      with a reduction in set-aside premiums - the 1998 setaside rate was already
+      around 10 %, with a threat of a basic rate of 17.65 %.
+es:
+- c: 2
+  r: 1
+  v: subir
+  x:
+  - s: Jag ber er, mina damer och herrar, att lyssna till de röster som <v>stiger</v>
+      <p>upp</p> från de dödade barnens underjordiska kungarike.
+    t: Les pido, señores, señoras, que presten su oído a las voces que <a>suben</a>
+      del reino subterráneo de los niños muertos.
+  - s: Ni känner säkert till att de allra flesta olyckshändelserna i de europeiska
+      hushållen sker för att hemmafruarna ständigt <v>stiger</v> <p>upp</p> på stolar
+      med hjul;
+    t: Usted sabe muy bien que en todos los hogares de Europa la mayoría de los accidentes
+      ocurren porque las amas de casa se <a>suben</a> alguna silla con ruedas, cosa
+      que no debería hacerse, en absoluto.
+- c: 1
+  r: 2
+  v: haber
+  x:
+  - s: Det är en dålig nyhet att Kina har <v>stigit</v> <p>upp</p>, medan vi har slumrat
+      in.
+    t: China se <a>ha</a> despertado, pero nosotros nos hemos quedado dormidos.
+- c: 1
+  r: 2
+  v: despertar
+  x:
+  - s: Vi fick er att <v>stiga</v> <p>upp</p> tidigt den första arbetsdagen i er nya
+      befattning, och jag tror inte att det kommer att vara den enda gången vi gör
+      det.
+    t: Le hemos <a>despertado</a> temprano esta mañana en su primer día de trabajo
+      y creo que no será la última vez que lo hagamos.
+- c: 1
+  r: 2
+  v: levantarse
+  x:
+  - s: I dag står det i pressen att ni klagar över att ni var tvungen att <v>stiga</v>
+      <p>upp</p> kl. 4 för att hinna till Strasbourg och sammanträdet här.
+    t: Señor Presidente, esta mañana la prensa nos cuenta que se ha quejado usted
+      de que tiene que <a>levantarse</a> a las 4 de la madrugada para venir a Estrasburgo
+      a trabajar.
+- c: 1
+  r: 2
+  v: levantar
+  x:
+  - s: I likhet med många av mina kolleger <v>steg</v> jag <p>upp</p> kl. 4 imorse
+      för att komma hit, men jag är mycket glad över att jag stannade till slutet
+      av diskussionen denna kväll eftersom de två sista frågorna vi diskuterat har
+      fyllt mig med stora förhoppningar.
+    t: Señor Presidente, como muchos de mis colegas, me he <a>levantado</a> esta mañana
+      a las cuatro para venir aquí, pero me alegra haber esperado hasta el final del
+      debate de esta noche, porque los dos últimos temas que estamos debatiendo me
+      hacen concebir grandes esperanzas.
+- c: 1
+  r: 2
+  v: albión
+  x:
+  - s: Låt oss alltid <v>stiga</v> <p>upp</p> tidigt för att arbeta med EU!
+    t: Promete a nuestros colegas continentales una <a>Albión</a> menos pérfida.
+- c: 1
+  r: 2
+  v: surgido
+  x:
+  - s: Jag drömde att jag var i Grekland, på Kreta, i staden Agios Nikolaos som ligger
+      vid den sjö där Venus enligt legenden <v>steg</v> <p>upp</p> ur vattnet.
+    t: He soñado que estaba en Grecia, en Creta, en la ciudad de Agios Nikolaos, de
+      las aguas de cuyo lago - cuenta la leyenda - habría <a>surgido</a> Venus.
+- c: 1
+  r: 2
+  v: plantear
+  x:
+  - s: I likhet med min kollega Evans, tycker jag att det är synnerligen trevligt
+      att <v>stiga</v> <p>upp</p> i talarstolen och hålla mitt första tal i denna
+      kammare om denna mycket viktiga fråga, särskilt på grund av att jag företräder
+      en del av Förenade kungariket, West Midlands, som hittills dragit nytta av i
+      synnerhet finansiering från mål 2.
+    t: Señor Presidente, como mi colega el Sr. Evans, es para mí un placer especial
+      <a>plantear</a> esta cuestión en mi primera intervención en esta Cámara, sobre
+      todo porque represento una parte del Reino Unido, las West Midlands, que se
+      ha beneficiado en particular de los fondos del Objetivo 2.
+fr:
+- c: 2
+  r: 1
+  v: monter
+  x:
+  - s: Jag ber er, mina damer och herrar, att lyssna till de röster som <v>stiger</v>
+      <p>upp</p> från de dödade barnens underjordiska kungarike.
+    t: Je vous prie, Messieurs, Mesdames, de prêter l’oreille aux voix qui <a>montent</a>
+      du royaume souterrain des enfants tués.
+  - s: Ni känner säkert till att de allra flesta olyckshändelserna i de europeiska
+      hushållen sker för att hemmafruarna ständigt <v>stiger</v> <p>upp</p> på stolar
+      med hjul;
+    t: Vous savez très bien que dans tous les ménages d’Europe, la plupart des accidents
+      arrivent parce que les ménagères <a>montent</a> toujours sur n’importe quelles
+      chaises à roulettes, ce qu’il faudrait éviter au maximum.
+- c: 2
+  r: 1
+  v: lever
+  x:
+  - s: I likhet med många av mina kolleger <v>steg</v> jag <p>upp</p> kl. 4 imorse
+      för att komma hit, men jag är mycket glad över att jag stannade till slutet
+      av diskussionen denna kväll eftersom de två sista frågorna vi diskuterat har
+      fyllt mig med stora förhoppningar.
+    t: Monsieur le Président, comme beaucoup de mes collègues, je me suis <a>levé</a>
+      à quatre heures ce matin pour venir ici.
+  - s: Vi fick er att <v>stiga</v> <p>upp</p> tidigt den första arbetsdagen i er nya
+      befattning, och jag tror inte att det kommer att vara den enda gången vi gör
+      det.
+    t: Vous vous êtes <a>levé</a> tôt ce matin pour votre première journée à ce poste,
+      et je pense que ce ne sera pas la dernière fois.
+- c: 1
+  r: 2
+  v: venir
+  x:
+  - s: I likhet med min kollega Evans, tycker jag att det är synnerligen trevligt
+      att <v>stiga</v> <p>upp</p> i talarstolen och hålla mitt första tal i denna
+      kammare om denna mycket viktiga fråga, särskilt på grund av att jag företräder
+      en del av Förenade kungariket, West Midlands, som hittills dragit nytta av i
+      synnerhet finansiering från mål 2.
+    t: Monsieur le Président, à l’instar de mon collègue, M. Evans, je me réjouis
+      que le premier discours que je <a>viens</a> prononcer devant cette Assemblée
+      porte sur un sujet aussi important, en particulier parce que je représente une
+      partie du Royaume-Uni, les West Midlands, qui a jusqu’ici bénéficié des fonds
+      de l’objectif 2.
+- c: 1
+  r: 2
+  v: cité
+  x:
+  - s: Låt oss alltid <v>stiga</v> <p>upp</p> tidigt för att arbeta med EU!
+    t: 'Méditez les paroles de saint François d’Assise, <a>cité</a> en pareille occasion
+      par l’un de vos prédécesseurs : «à la blessure, répondez par le pardon ;'
+it:
+- c: 4
+  r: 1
+  v: alzare
+  x:
+  - s: I dag står det i pressen att ni klagar över att ni var tvungen att <v>stiga</v>
+      <p>upp</p> kl. 4 för att hinna till Strasbourg och sammanträdet här.
+    t: Signor Presidente, i giornali di stamani ci informano che lei si è lamentato
+      di doversi <a>alzare</a> alle quattro del mattino per venire a svolgere il suo
+      lavoro a Strasburgo.
+  - s: ja, om jag gör min plikt är det alltid värt att <v>stiga</v> <p>upp</p> i tid.
+      När det gäller frågan om korrespondens, skrev jag - omedelbart efter det att
+      jag fick kännedom om risken att den tjänst ni hänvisar till kanske skulle ställas
+      in - till de franska myndigheterna i vederbörlig ordning, och jag väntar på
+      svaret.
+    t: Per quanto riguarda il mio orario di partenza, la risposta è senz’altro affermativa,
+      se è per fare il mio dovere vale sempre la pena di <a>alzarsi</a> per tempo.
+  - s: I mitt område kan jordbrukare som inte vill <v>stiga</v> <p>upp</p> ur sina
+      sängar på morgnarna för att mjölka kor, hyra ut sina kvoter och göra en större
+      vinst än den jordbrukare som vill och som måste betala pengar för att hyra kvoten
+      via en annan jordbrukare.
+    t: Nella mia regione gli allevatori che al mattino non si <a>alzano</a> a mungere
+      le vacche possono cedere la loro quota e ottenere profitti maggiori rispetto
+      agli allevatori che lo fanno e che devono pagare per ottenere la quota tramite
+      un altro allevatore.
+  - s: Låt oss alltid <v>stiga</v> <p>upp</p> tidigt för att arbeta med EU!
+    t: <a>Alziamoci</a> sempre presto per costruire l’Europa!
+- c: 2
+  r: 2
+  v: salire
+  x:
+  - s: Jag ber er, mina damer och herrar, att lyssna till de röster som <v>stiger</v>
+      <p>upp</p> från de dödade barnens underjordiska kungarike.
+    t: Vi prego, onorevoli parlamentari, di porgere orecchio alle voci che <a>salgono</a>
+      dal regno sotterraneo dei bambini vittime di una morte violenta.
+  - s: Jag vill inte veta hur mycket pengar som framöver kommer att krävas för att
+      försäkra alla de medelstora personer som skall <v>stiga</v> <p>upp</p> på stolar
+      i huset.
+    t: Non voglio sapere quanti soldi dovrà pagare in futuro l’assicurazione di questo
+      Parlamento per tutto il personale di media altezza che sarà costretto a <a>salire</a>
+      sulle sedie.
+- c: 1
+  r: 3
+  v: fuoriuscire
+  x:
+  - s: Giftiga ångor <v>stiger</v> <p>upp</p> från lavan.
+    t: Dalla lava <a>fuoriescono</a> vapori tossici.
+- c: 1
+  r: 3
+  v: svegliare
+  x:
+  - s: Det är en dålig nyhet att Kina har <v>stigit</v> <p>upp</p>, medan vi har slumrat
+      in.
+    t: la Cina si è <a>svegliata</a>, eppure noi siamo rimasti assopiti.
+- c: 1
+  r: 3
+  v: attenzione
+  x:
+  - s: I Europaparlamentets utskott för kultur, ungdomsfrågor, utbildning, medier
+      och idrott gläds vi åt att utbildningen <v>stigit</v> <p>upp</p> på unionens
+      agenda.
+    t: Noi membri della commissione parlamentare per la cultura, la gioventù, l’istruzione,
+      i mezzi di informazione e lo sport siamo lieti che l’istruzione sia ora considerata
+      con maggiore <a>attenzione</a> tra i programmi comunitari.
+- c: 1
+  r: 3
+  v: venire
+  x:
+  - s: Invandringsförespråkarna borde komma ner från sitt elfenbenstorn och börja
+      lyssna på den röst som <v>stiger</v> <p>upp</p> ur djupet, nationernas röst.
+    t: 'La favorevole all’immigrazione dovrebbe uscire dalla sua torre d’avorio e
+      cominciare ad ascoltare la voce che <a>viene</a> dal basso:'
+- c: 1
+  r: 3
+  v: alzare piede
+  x:
+  - s: I likhet med min kollega Evans, tycker jag att det är synnerligen trevligt
+      att <v>stiga</v> <p>upp</p> i talarstolen och hålla mitt första tal i denna
+      kammare om denna mycket viktiga fråga, särskilt på grund av att jag företräder
+      en del av Förenade kungariket, West Midlands, som hittills dragit nytta av i
+      synnerhet finansiering från mål 2.
+    t: Signor Presidente, alla stessa stregua dell’onorevole Evans, è per me un piacere
+      particolare potermi <a>alzare</a> in <a>piedi</a> per il mio primo intervento
+      in questo Parlamento durante la discussione di un tema di tale importanza, specialmente
+      dato che rappresento le West Midlands, una regione del Regno Unito che finora
+      ha beneficiato dei finanziamenti riservati all’obiettivo 2.
+pt:
+- c: 5
+  r: 1
+  v: levantar
+  x:
+  - s: I dag står det i pressen att ni klagar över att ni var tvungen att <v>stiga</v>
+      <p>upp</p> kl. 4 för att hinna till Strasbourg och sammanträdet här.
+    t: Senhor Presidente, esta manhã a imprensa informa-nos que V. Exa protestou por
+      ter de <a>levantar</a><a>-se</a> às quatro da madrugada a fim de comparecer
+      hoje em Estrasburgo para trabalhar.
+  - s: I mitt område kan jordbrukare som inte vill <v>stiga</v> <p>upp</p> ur sina
+      sängar på morgnarna för att mjölka kor, hyra ut sina kvoter och göra en större
+      vinst än den jordbrukare som vill och som måste betala pengar för att hyra kvoten
+      via en annan jordbrukare.
+    t: Na minha região, os agricultores que se não querem <a>levantar</a> de manhã
+      cedo para mungir as vacas podem alugar a sua quota e ter mais lucros do que
+      os agricultores que se dão a esse trabalho e que têm de pagar para alugar a
+      quota de outro agricultor.
+  - s: 'Denna läkare rådde oss alla att när vi <v>stiger</v> <p>upp</p> på morgonen
+      säga:'
+    t: 'Este médico aconselhava que cada um de nós ao <a>levantar</a>-se de manhã,
+      dissesse o seguinte:'
+  - s: I likhet med många av mina kolleger <v>steg</v> jag <p>upp</p> kl. 4 imorse
+      för att komma hit, men jag är mycket glad över att jag stannade till slutet
+      av diskussionen denna kväll eftersom de två sista frågorna vi diskuterat har
+      fyllt mig med stora förhoppningar.
+    t: Senhor Presidente, tal como muitos dos meus colegas, <a>levantei</a>-me hoje
+      às quatro da manhã para vir para cá, mas estou muito satisfeito por ter esperado
+      até à noite, pelo final do debate, pois os dois últimos tópicos que aqui debatemos
+      encheram-me de esperança.
+  - s: Vi fick er att <v>stiga</v> <p>upp</p> tidigt den första arbetsdagen i er nya
+      befattning, och jag tror inte att det kommer att vara den enda gången vi gör
+      det.
+    t: Fizemo-lo <a>levantar</a> cedo esta manhã no seu primeiro dia no exercício
+      das novas funções, e penso que não terá sido a última vez que o faremos.
+  - s: Det är en dålig nyhet att Kina har <v>stigit</v> <p>upp</p>, medan vi har slumrat
+      in.
+    t: a China <a>levantou</a><a>-se</a>, e nós adormecemos.
+  - s: Låt oss alltid <v>stiga</v> <p>upp</p> tidigt för att arbeta med EU!
+    t: <a>Levantemo</a>-nos sempre bem cedo para trabalhar em prol da Europa!
+- c: 2
+  r: 2
+  v: levantar
+  x:
+  - s: I dag står det i pressen att ni klagar över att ni var tvungen att <v>stiga</v>
+      <p>upp</p> kl. 4 för att hinna till Strasbourg och sammanträdet här.
+    t: Senhor Presidente, esta manhã a imprensa informa-nos que V. Exa protestou por
+      ter de <a>levantar</a><a>-se</a> às quatro da madrugada a fim de comparecer
+      hoje em Estrasburgo para trabalhar.
+  - s: I mitt område kan jordbrukare som inte vill <v>stiga</v> <p>upp</p> ur sina
+      sängar på morgnarna för att mjölka kor, hyra ut sina kvoter och göra en större
+      vinst än den jordbrukare som vill och som måste betala pengar för att hyra kvoten
+      via en annan jordbrukare.
+    t: Na minha região, os agricultores que se não querem <a>levantar</a> de manhã
+      cedo para mungir as vacas podem alugar a sua quota e ter mais lucros do que
+      os agricultores que se dão a esse trabalho e que têm de pagar para alugar a
+      quota de outro agricultor.
+  - s: 'Denna läkare rådde oss alla att när vi <v>stiger</v> <p>upp</p> på morgonen
+      säga:'
+    t: 'Este médico aconselhava que cada um de nós ao <a>levantar</a>-se de manhã,
+      dissesse o seguinte:'
+  - s: I likhet med många av mina kolleger <v>steg</v> jag <p>upp</p> kl. 4 imorse
+      för att komma hit, men jag är mycket glad över att jag stannade till slutet
+      av diskussionen denna kväll eftersom de två sista frågorna vi diskuterat har
+      fyllt mig med stora förhoppningar.
+    t: Senhor Presidente, tal como muitos dos meus colegas, <a>levantei</a>-me hoje
+      às quatro da manhã para vir para cá, mas estou muito satisfeito por ter esperado
+      até à noite, pelo final do debate, pois os dois últimos tópicos que aqui debatemos
+      encheram-me de esperança.
+  - s: Vi fick er att <v>stiga</v> <p>upp</p> tidigt den första arbetsdagen i er nya
+      befattning, och jag tror inte att det kommer att vara den enda gången vi gör
+      det.
+    t: Fizemo-lo <a>levantar</a> cedo esta manhã no seu primeiro dia no exercício
+      das novas funções, e penso que não terá sido a última vez que o faremos.
+  - s: Det är en dålig nyhet att Kina har <v>stigit</v> <p>upp</p>, medan vi har slumrat
+      in.
+    t: a China <a>levantou</a><a>-se</a>, e nós adormecemos.
+  - s: Låt oss alltid <v>stiga</v> <p>upp</p> tidigt för att arbeta med EU!
+    t: <a>Levantemo</a>-nos sempre bem cedo para trabalhar em prol da Europa!
+- c: 1
+  r: 3
+  v: subir cima
+  x:
+  - s: Ni känner säkert till att de allra flesta olyckshändelserna i de europeiska
+      hushållen sker för att hemmafruarna ständigt <v>stiger</v> <p>upp</p> på stolar
+      med hjul;
+    t: Como muito bem sabe, a maioria dos acidentes ocorridos nos lares europeus verifica-se
+      sempre que as donas de casa <a>sobem</a> para <a>cima</a> de uma cadeira com
+      rodas, coisa que seria melhor deixar de se fazer.
+- c: 1
+  r: 3
+  v: deputado
+  x:
+  - s: När de gör detta kan det hända att de <v>stiger</v> <p>upp</p> mycket snabbt
+      från djupa vatten och således drabbas av en sorts dödlig dykarsjuka och/eller
+      driver upp på närliggande stränder där de går sin död till mötes.
+    t: Exorto veementemente os senhores <a>deputados</a> a votarem contra a alteração
+      apresentada pelo Grupo PPE-DE, que pretende enfraquecer a resolução exortando
+      os Estados-Membros a adoptarem restrições geográficas em habitats marinhos sensíveis.
+- c: 1
+  r: 3
+  v: emergir
+  x:
+  - s: Giftiga ångor <v>stiger</v> <p>upp</p> från lavan.
+    t: Vapores venenosos <a>emergem</a> da lava.
+- c: 1
+  r: 3
+  v: merecer agora
+  x:
+  - s: I Europaparlamentets utskott för kultur, ungdomsfrågor, utbildning, medier
+      och idrott gläds vi åt att utbildningen <v>stigit</v> <p>upp</p> på unionens
+      agenda.
+    t: Nós, na Comissão para a Cultura, a Juventude, a Educação, os Meios de Comunicação
+      Social e os Desportos do Parlamento Europeu, congratulamo-nos com o facto de
+      a educação <a>merecer</a> <a>agora</a> maior prioridade na agenda da União.

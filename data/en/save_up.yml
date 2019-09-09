@@ -1,0 +1,221 @@
+---
+de:
+- c: 1
+  r: 1
+  v: einsparen
+  x:
+  - s: It is important that we understand that the Union could <v>save</v> <p>up</p>
+      to 20% of its current energy consumption.
+    t: Wir müssen begreifen, dass die Union 20 % ihres derzeitigen Energieverbrauchs
+      <a>einsparen</a> könnte.
+- c: 1
+  r: 1
+  v: sparen
+  x:
+  - s: Correspondingly, investment in research would need to be calculated in accordance
+      with the principle of <v>saving</v> <p>up</p> to make public provision for the
+      future.
+    t: Das hieße, nach dem Prinzip öffentlicher Zukunftsvorsorge zu <a>sparen</a>.
+es:
+- c: 2
+  r: 1
+  v: ahorrar
+  x:
+  - s: Correspondingly, investment in research would need to be calculated in accordance
+      with the principle of <v>saving</v> <p>up</p> to make public provision for the
+      future.
+    t: Las inversiones para investigación deberían estar en consonancia, es decir,
+      se debería <a>ahorrar</a> según el principio de la previsión pública para el
+      futuro.
+  - s: We are all, of course, getting older, and it is not too much to ask that each
+      of us take joint responsibility for <v>saving</v> <p>up</p> for old age and
+      help ensure that future generations do not have unreasonable burdens placed
+      upon them, for it is also a question of distribution between the generations.
+    t: Todos nosotros, no cabe duda, nos hacemos viejos, y no es demasiado pedir que
+      cada uno de nosotros asuma la responsabilidad común de <a>ahorrar</a> para la
+      vejez y contribuya a que las futuras generaciones no tengan que soportar cargas
+      inaceptables, pues se trata igualmente de una cuestión de distribución intergeneracional.
+- c: 1
+  r: 2
+  v: integrar
+  x:
+  - s: The new system should be installed in all new cars from 2009, <v>saving</v>
+      <p>up</p> to 2 500 lives a year across Europe.
+    t: Existen, por tanto, buenas razones para que los Estados miembros consideren
+      la introducción del servicio de llamada de emergencia <a>integrado</a> en el
+      vehículo, eCall.
+fr:
+- c: 1
+  r: 1
+  v: être mettre
+  x:
+  - s: The solution put forward by the Commission is to use a system of averaging
+      and banking, whereby dirty engines can be set off against clean engines and
+      clean technology can be <v>saved</v> <p>up</p> for the next year and used to
+      produce some dirty engines the following year.
+    t: La solution avancée par la Commission consiste à utiliser un système de compensation
+      et de mise en réserve, grâce auquel, d’une part, les moteurs polluants peuvent
+      être compensés par des moteurs propres et, d’autre part, les technologies propres
+      peuvent <a>être</a> <a>mises</a> en réserve pour l’année suivante et utilisées
+      pour produire des moteurs polluants l’année d’après.
+it:
+- c: 3
+  r: 1
+  v: risparmiare
+  x:
+  - s: Electronic stability systems and eCall alone could <v>save</v> <p>up</p> to
+      6 500 lives a year in Europe if they are fully deployed.
+    t: Se saranno messi in funzione, già i soli sistemi elettronici di stabilità e
+      il sistema eCall potrebbero farci <a>risparmiare</a> 6 500 vite all’anno in
+      tutta Europa.
+  - s: We are all, of course, getting older, and it is not too much to ask that each
+      of us take joint responsibility for <v>saving</v> <p>up</p> for old age and
+      help ensure that future generations do not have unreasonable burdens placed
+      upon them, for it is also a question of distribution between the generations.
+    t: Naturalmente tutti diventeremo anziani e non è eccessivo chiedere che ciascuno
+      di noi si assuma la responsabilità comune di <a>risparmiare</a> per la vecchiaia
+      e di contribuire ad evitare che le generazioni future abbiamo oneri irragionevoli
+      da sopportare dal momento che c’è anche un problema di ripartizione intergenerazionale.
+  - s: The solution put forward by the Commission is to use a system of averaging
+      and banking, whereby dirty engines can be set off against clean engines and
+      clean technology can be <v>saved</v> <p>up</p> for the next year and used to
+      produce some dirty engines the following year.
+    t: La soluzione presentata dalla Commissione prevede il ricorso a un sistema di
+      compensazione e di deposito, in cui i motori inquinanti possono essere compensati
+      con i motori puliti e la tecnologia pulita può essere <a>risparmiata</a> per
+      il prossimo anno ed utilizzata per produrre motori inquinanti l’anno successivo.
+- c: 2
+  r: 2
+  v: risparmiare fino
+  x:
+  - s: It is important that we understand that the Union could <v>save</v> <p>up</p>
+      to 20% of its current energy consumption.
+    t: È importante capire che l’Unione potrebbe <a>risparmiare</a> <a>fino</a> al
+      20 per cento del suo attuale consumo energetico.
+  - s: It will also enable the airlines and in the end the consumers to <v>save</v>
+      <p>up</p> to EUR 3 billion and to cut CO2 emissions by up to 12%.
+    t: Consentirà inoltre alle compagnie aeree, e in ultima analisi ai consumatori,
+      di <a>risparmiare</a> <a>fino</a> a 3 miliardi di euro e di tagliare le emissioni
+      di CO2 fino al 12 per cento.
+- c: 1
+  r: 3
+  v: risparmio
+  x:
+  - s: Correspondingly, investment in research would need to be calculated in accordance
+      with the principle of <v>saving</v> <p>up</p> to make public provision for the
+      future.
+    t: Gli investimenti nella ricerca dovrebbero orientarsi secondo queste considerazioni,
+      ovvero bisognerebbe realizzare i <a>risparmi</a> secondo il principio della
+      previdenza pubblica.
+- c: 1
+  r: 3
+  v: permettere fino risparmio
+  x:
+  - s: For passenger cars, more energy efficient tyres can <v>save</v> <p>up</p> to
+      10% on fuel costs.
+    t: Per i veicoli adibiti al trasporto di passeggeri, pneumatici più efficienti
+      dal punto di vista energetico possono <a>permettere</a> di ottenere <a>fino</a>
+      al 10 per cento di <a>risparmio</a> dei costi del carburante.
+- c: 1
+  r: 3
+  v: salvare fino
+  x:
+  - s: It is estimated that this initiative alone could <v>save</v> <p>up</p> to 2
+      500 lives every year after it is fully rolled out in Europe.
+    t: Si stima che tale iniziativa da sola possa <a>salvare</a> <a>fino</a> a 2 500
+      vite ogni anno dopo che sarà prodotto e immesso sul mercato europeo appieno.
+- c: 1
+  r: 3
+  v: salvare
+  x:
+  - s: The new system should be installed in all new cars from 2009, <v>saving</v>
+      <p>up</p> to 2 500 lives a year across Europe.
+    t: Il nuovo sistema dovrebbe essere installato su tutte le nuove automobili a
+      partire dal 2009, <a>salvando</a> ben 2 500 vite all’anno in tutta Europa.
+pt:
+- c: 1
+  r: 1
+  v: poupança
+  x:
+  - s: We are all, of course, getting older, and it is not too much to ask that each
+      of us take joint responsibility for <v>saving</v> <p>up</p> for old age and
+      help ensure that future generations do not have unreasonable burdens placed
+      upon them, for it is also a question of distribution between the generations.
+    t: Obviamente, todos vamos ficando mais velhos e não considero excessivo pedir
+      a cada um de nós que assuma a co-responsabilidade em relação às <a>poupanças</a>
+      para a velhice e que contribua para que não se imponha uma sobrecarga injusta
+      às gerações vindouras, pois a questão envolve igualmente uma redistribuição
+      entre gerações.
+- c: 1
+  r: 1
+  v: guardar
+  x:
+  - s: The solution put forward by the Commission is to use a system of averaging
+      and banking, whereby dirty engines can be set off against clean engines and
+      clean technology can be <v>saved</v> <p>up</p> for the next year and used to
+      produce some dirty engines the following year.
+    t: A solução apresentada pela Comissão é a utilização de um sistema de compensação
+      e reserva de emissões, em que os motores poluentes podem ser compensados por
+      motores limpos e a tecnologia limpa pode ser <a>guardada</a> para o ano seguinte
+      e utilizada para produzir alguns motores poluentes no ano seguinte.
+- c: 1
+  r: 1
+  v: poupar
+  x:
+  - s: Correspondingly, investment in research would need to be calculated in accordance
+      with the principle of <v>saving</v> <p>up</p> to make public provision for the
+      future.
+    t: Neste sentido, dever-se-iam medir os investimentos na investigação, ou seja,
+      <a>poupar</a> segundo o princípio da prevenção pública futura.
+sv:
+- c: 3
+  r: 1
+  v: spara upp
+  x:
+  - s: It is important that we understand that the Union could <v>save</v> <p>up</p>
+      to 20% of its current energy consumption.
+    t: Det är viktigt att vi förstår att EU skulle kunna <a>spara</a> <a>upp</a> till
+      20 procent av sin aktuella energiförbrukning.
+  - s: It will also enable the airlines and in the end the consumers to <v>save</v>
+      <p>up</p> to EUR 3 billion and to cut CO2 emissions by up to 12%.
+    t: Flygbolagen och i slutändan konsumenterna kommer också att kunna <a>spara</a>
+      <a>upp</a> till 3 miljarder euro och minska koldioxidutsläppen med upp till
+      12 procent.
+  - s: For passenger cars, more energy efficient tyres can <v>save</v> <p>up</p> to
+      10% on fuel costs.
+    t: För personbilar kan mer energieffektiva däck <a>spara</a> <a>upp</a> till 10
+      procent i bränslekostnader.
+- c: 2
+  r: 2
+  v: rädda
+  x:
+  - s: Electronic stability systems and eCall alone could <v>save</v> <p>up</p> to
+      6 500 lives a year in Europe if they are fully deployed.
+    t: Enbart elektroniska stabilitetssystem och eCall (system för larmsamtal) skulle
+      kunna <a>rädda</a> minst 6 500 liv om året i Europa, om de byggs ut fullständigt.
+  - s: The new system should be installed in all new cars from 2009, <v>saving</v>
+      <p>up</p> to 2 500 lives a year across Europe.
+    t: Det nya systemet, som innebär att närmare 2 500 liv i Europa kan <a>räddas</a>
+      varje år, bör installeras i alla nya bilar från 2009.
+- c: 1
+  r: 3
+  v: spara
+  x:
+  - s: We are all, of course, getting older, and it is not too much to ask that each
+      of us take joint responsibility for <v>saving</v> <p>up</p> for old age and
+      help ensure that future generations do not have unreasonable burdens placed
+      upon them, for it is also a question of distribution between the generations.
+    t: Vi blir ju alla äldre, och det är inte för mycket begärt att vi alla tar ett
+      gemensamt ansvar för att <a>spara</a> för ålderdomen och medverka till att kommande
+      generationer inte får bära en oskälig börda, eftersom det också är en fråga
+      om fördelning mellan generationerna.
+- c: 1
+  r: 3
+  v: beslutsvägarna öppen höja
+  x:
+  - s: Correspondingly, investment in research would need to be calculated in accordance
+      with the principle of <v>saving</v> <p>up</p> to make public provision for the
+      future.
+    t: Om kvaliteten är tillräckligt bra - inte bara tillräcklig, utan utmärkt -,
+      och om <a>beslutsvägarna</a> är <a>öppna</a>, kommer vi också att <a>höja</a>
+      acceptansen för stödet till den europeiska forskningen.

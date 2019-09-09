@@ -1,0 +1,95 @@
+---
+de:
+- c: 1
+  r: 1
+  v: erschießen Tod prügeln
+  x:
+  - s: Den 29 juli 2009 stormade irakiska trupper med våld det iranska flyktinglägret
+      i Ashraf och sköt eller <v>slog</v> <p>ihjäl</p> 11 personer som bodde där.
+    t: Herr Präsident, am 29. Juli 2009 wurde das iranische Flüchtlingslager in Ashraf
+      von irakischen Sicherheitskräften gewaltsam gestürmt und elf der dort lebenden
+      Menschen wurden <a>erschossen</a> oder zu <a>Tode</a> <a>geprügelt</a>.
+en:
+- c: 1
+  r: 1
+  v: be kill
+  x:
+  - s: Denna debatt ger mig som krigsbarn kanske en viss insikt om hur det gick till
+      när Europas folk <v>slog</v> <p>ihjäl</p> varandra för större symbolvärden än
+      choklad.
+    t: The present debate has perhaps given me, as a war child, a certain insight
+      into how things were when the peoples of Europe <a>were</a> <a>killing</a> each
+      other for values symbolised by rather more important things than chocolate.
+- c: 1
+  r: 1
+  v: beat death
+  x:
+  - s: Den 29 juli 2009 stormade irakiska trupper med våld det iranska flyktinglägret
+      i Ashraf och sköt eller <v>slog</v> <p>ihjäl</p> 11 personer som bodde där.
+    t: Mr President, on 29 July 2009, Iraqi troops violently stormed the Iranian refugee
+      camp in Ashraf and shot or <a>beat</a> to <a>death</a> 11 people living there.
+- c: 1
+  r: 1
+  v: kill
+  x:
+  - s: När angriparna skriker åt dem att ge upp och lägga sig ned med ansiktet mot
+      marken för att sedan skoningslöst <v>slå</v> <p>ihjäl</p> dem med machetes och
+      yxor?
+    t: When the attackers shout at them to surrender and lie face down on the ground,
+      only to <a>kill</a> them mercilessly with machetes and axes?
+es:
+- c: 1
+  r: 1
+  v: disparo golpe
+  x:
+  - s: Den 29 juli 2009 stormade irakiska trupper med våld det iranska flyktinglägret
+      i Ashraf och sköt eller <v>slog</v> <p>ihjäl</p> 11 personer som bodde där.
+    t: Señor Presidente, el 29 de julio de 2009, tropas iraquíes irrumpieron violentamente
+      en el campo de refugiados iraníes de Ashraf y mataron a <a>disparos</a> y a
+      <a>golpes</a> a once residentes.
+fr:
+- c: 1
+  r: 1
+  v: balle battre
+  x:
+  - s: Den 29 juli 2009 stormade irakiska trupper med våld det iranska flyktinglägret
+      i Ashraf och sköt eller <v>slog</v> <p>ihjäl</p> 11 personer som bodde där.
+    t: Monsieur le Président, le 29 juillet 2009, les troupes iraquiennes ont violemment
+      pris d’assaut le camp de réfugiés iraniens d’Achraf, et ont tué par <a>balles</a>,
+      ou <a>battu</a> à mort, 11 personnes qui y vivaient.
+it:
+- c: 1
+  r: 1
+  v: uccidere picchiare morta
+  x:
+  - s: Den 29 juli 2009 stormade irakiska trupper med våld det iranska flyktinglägret
+      i Ashraf och sköt eller <v>slog</v> <p>ihjäl</p> 11 personer som bodde där.
+    t: Signor Presidente, il 29 luglio 2009 le truppe irachene hanno fatto una violenta
+      irruzione nel campo dei rifugiati iraniani di Ashraf <a>uccidendo</a> a <a>picchiando</a>
+      a <a>morte</a> 11 residenti.
+- c: 1
+  r: 1
+  v: essere scannare
+  x:
+  - s: Denna debatt ger mig som krigsbarn kanske en viss insikt om hur det gick till
+      när Europas folk <v>slog</v> <p>ihjäl</p> varandra för större symbolvärden än
+      choklad.
+    t: Forse perché sono stata sfollata da bambina durante la guerra, questa discussione
+      mi fa pensare al modo in cui i popoli europei si <a>sono</a> <a>scannati</a>
+      vicendevolmente, e per valori simbolici un po’ più elevati del cioccolato.
+pt:
+- c: 2
+  r: 1
+  v: matar
+  x:
+  - s: Denna debatt ger mig som krigsbarn kanske en viss insikt om hur det gick till
+      när Europas folk <v>slog</v> <p>ihjäl</p> varandra för större symbolvärden än
+      choklad.
+    t: Para mim, que sou filho dos tempos de guerra, este debate talvez me dê uma
+      certa ideia do que foi quando os europeus se <a>mataram</a> uns aos outros em
+      nome de valores simbólicos maiores do que o chocolate.
+  - s: När angriparna skriker åt dem att ge upp och lägga sig ned med ansiktet mot
+      marken för att sedan skoningslöst <v>slå</v> <p>ihjäl</p> dem med machetes och
+      yxor?
+    t: Quando os atacantes lhes gritam que se rendam e os mandam deitar com a cara
+      no chão, só para os <a>matar</a> sem piedade, com catanas e machados?

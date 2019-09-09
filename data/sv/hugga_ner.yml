@@ -1,0 +1,345 @@
+---
+de:
+- c: 2
+  r: 1
+  v: abholzen
+  x:
+  - s: Vi måste ge skogsägarna ett incitament att inte <v>hugga</v> <p>ner</p> skogen
+      utan att bevara skogen.
+    t: Wir müssen den Waldbesitzern Anreize dafür geben, den Wald nicht <a>abzuholzen</a>,
+      sondern zu erhalten.
+  - s: Jag tror att vi bör titta på hur vi kan uppmuntra de världsdelar som har stora
+      skogar att inte <v>hugga</v> <p>ner</p> dem, precis som vi försöker uppmuntra
+      våra bönder att inte odla upp permanent betesmark då den utgör en viktig kolsänka.
+    t: Ich denke, wir sollten die Kontinente mit großen Waldflächen ermutigen, diese
+      nicht <a>abzuholzen</a>, ebenso wie wir versuchen, unsere Landwirte dazu zu
+      animieren, ihr Dauergrünland aufgrund der so wichtigen Kohlenstoffsenken nicht
+      zu pflügen.
+- c: 1
+  r: 2
+  v: krank Baum
+  x:
+  - s: Innan vi <v>hugger</v> <p>ner</p> dem måste vi vara säkra på att ha identifierat
+      dem alla.
+    t: Dazu müssen wir die <a>kranken</a> <a>Bäume</a> vorher aber auch alle sicher
+      identifiziert haben.
+- c: 1
+  r: 2
+  v: werden
+  x:
+  - s: Vi hittar investeringar av miljöinriktad karaktär, såsom biologisk rening etc.,
+      som stöds av sammanhållningsfonden, men som sker på bekostnad av naturen, dvs.
+      etableringar som sker i skogarna där träd <v>huggs</v> <p>ner</p>, vid särskilt
+      vackra stränder eller i känsliga biotoper.
+    t: Es gibt z.B. umweltrelevante Investitionen, z.B. biologische Kläranlagen etc.,
+      die vom Kohäsionsfonds gefördert werden, die jedoch zu Lasten der Natur erfolgen,
+      d.h. Einrichtungen, die nach Abholzen von Bäumen in Wäldern eingerichtet <a>werden</a>,
+      oder an Küsten erlesener Schönheit bzw. auch in empfindlichen Biotopen.
+- c: 1
+  r: 2
+  v: Baum roden
+  x:
+  - s: När jag gick i skola fick jag lära mig att människorna i Afrika svalt på grund
+      av att de hade <v>huggit</v> <p>ner</p> träden där de bodde, så att ingenting
+      längre kunde växa där.
+    t: Als ich zur Schule ging, habe ich gelernt, dass die Menschen in Afrika deshalb
+      hungern, weil sie die <a>Bäume</a> in ihrer Umgebung <a>gerodet</a> hatten,
+      so dass dort nichts mehr wachsen konnte.
+en:
+- c: 3
+  r: 1
+  v: fel
+  x:
+  - s: Vi hittar investeringar av miljöinriktad karaktär, såsom biologisk rening etc.,
+      som stöds av sammanhållningsfonden, men som sker på bekostnad av naturen, dvs.
+      etableringar som sker i skogarna där träd <v>huggs</v> <p>ner</p>, vid särskilt
+      vackra stränder eller i känsliga biotoper.
+    t: environmental investments supported from the Cohesion Fund, such as biological
+      purification plants, which actually damage the environment because they are
+      constructed in woodland, and therefore necessitate the <a>felling</a> of trees,
+      or on beautiful pieces of coastline or even in vulnerable biotopes.
+  - s: Förra veckan publicerade statssekreteraren för den spanska kooperationen, Fernando
+      Villalonga, en utmärkt tidningsartikel med rubriken ”<v>Hugg</v> <p>ner</p>
+      det ruttna trädet och bevara skogen”.
+    t: Mr President, the Spanish Secretary of State for Development Cooperation, Mr
+      Fernando Villalonga, published an excellent article in the press last week entitled
+      ’<a>Felling</a> the rotten tree to save the forest’.
+  - s: Innan vi <v>hugger</v> <p>ner</p> dem måste vi vara säkra på att ha identifierat
+      dem alla.
+    t: And, before <a>felling</a> them, we also have to be sure that we have identified
+      them all first.
+- c: 2
+  r: 2
+  v: cut down
+  x:
+  - s: Bara två månader tidigare mördades guvernören i Punjab, Salman Taseer, av sina
+      egna livvakter, men Bhatti hade inte ens tilldelats några livvakter och utgjorde
+      därför ett mycket lätt mål för de tungt beväpnade terrorister som <v>högg</v>
+      <p>ner</p> honom när han var på väg till ett möte i regeringen.
+    t: Only two months earlier, the Governor of Punjab, Salman Taseer, had been assassinated
+      by his own bodyguards, but Bhatti was not even provided with bodyguards and,
+      therefore, presented the easiest of targets to the heavily armed terrorists
+      who <a>cut</a> him <a>down</a> on his way to a cabinet meeting.
+  - s: När jag gick i skola fick jag lära mig att människorna i Afrika svalt på grund
+      av att de hade <v>huggit</v> <p>ner</p> träden där de bodde, så att ingenting
+      längre kunde växa där.
+    t: When I was at school, I learned that people in Africa were starving because
+      they had <a>cut</a> <a>down</a> the trees in the places where they lived so
+      that nothing could grow there any longer.
+- c: 1
+  r: 3
+  v: rip out
+  x:
+  - s: Jag tror att vi bör titta på hur vi kan uppmuntra de världsdelar som har stora
+      skogar att inte <v>hugga</v> <p>ner</p> dem, precis som vi försöker uppmuntra
+      våra bönder att inte odla upp permanent betesmark då den utgör en viktig kolsänka.
+    t: I think we need to look at encouraging those continents with vast forests not
+      to <a>rip</a> them <a>out</a>, just as we are trying to encourage our farmers
+      not to plough permanent pasture because of such important carbon sinks.
+- c: 1
+  r: 3
+  v: chop down
+  x:
+  - s: Vi måste ge skogsägarna ett incitament att inte <v>hugga</v> <p>ner</p> skogen
+      utan att bevara skogen.
+    t: We must give the forest owners an incentive not to <a>chop</a> <a>down</a>
+      forests but to preserve them.
+es:
+- c: 4
+  r: 1
+  v: talar
+  x:
+  - s: Vi hittar investeringar av miljöinriktad karaktär, såsom biologisk rening etc.,
+      som stöds av sammanhållningsfonden, men som sker på bekostnad av naturen, dvs.
+      etableringar som sker i skogarna där träd <v>huggs</v> <p>ner</p>, vid särskilt
+      vackra stränder eller i känsliga biotoper.
+    t: Encontramos a veces infracciones paradójicas, es decir, casos de inversiones
+      de carácter medioambiental, como las depuradoras biológicas, subvencionadas
+      por el Fondo de Cohesión, cuya realización, sin embargo, perjudica la naturaleza,
+      es decir, instalaciones que se sitúan en bosques <a>talando</a> árboles, en
+      playas de belleza extraordinaria e incluso en biótopos delicados.
+  - s: När jag gick i skola fick jag lära mig att människorna i Afrika svalt på grund
+      av att de hade <v>huggit</v> <p>ner</p> träden där de bodde, så att ingenting
+      längre kunde växa där.
+    t: Cuando iba a la escuela aprendí que en África había personas que morían de
+      hambre porque habían <a>talado</a> los árboles en los lugares donde vivían,
+      de modo que allí nada podía crecer nunca más.
+  - s: Vi måste ge skogsägarna ett incitament att inte <v>hugga</v> <p>ner</p> skogen
+      utan att bevara skogen.
+    t: Debemos proporcionarles a los propietarios de los bosques un incentivo no para
+      <a>talar</a> los bosques, sino para conservarlos.
+  - s: Jag tror att vi bör titta på hur vi kan uppmuntra de världsdelar som har stora
+      skogar att inte <v>hugga</v> <p>ner</p> dem, precis som vi försöker uppmuntra
+      våra bönder att inte odla upp permanent betesmark då den utgör en viktig kolsänka.
+    t: Creo que tenemos que tratar de convencer a los continentes que tienen grandes
+      bosques para que no los <a>talen</a>, de la misma forma que estamos tratando
+      de convencer a nuestros agricultores para que no roturen los pastos permanentes,
+      porque son importantes sumideros de carbono.
+  - s: Förra veckan publicerade statssekreteraren för den spanska kooperationen, Fernando
+      Villalonga, en utmärkt tidningsartikel med rubriken ”<v>Hugg</v> <p>ner</p>
+      det ruttna trädet och bevara skogen”.
+    t: Señor Presidente, la pasada semana el Secretario de Estado para la Cooperación
+      español, D. Fernando Villalonga, publicó un magnífico artículo de prensa bajo
+      el título «<a>Talar</a> el árbol podrido y preservar el bosque».
+- c: 1
+  r: 2
+  v: talar
+  x:
+  - s: Vi hittar investeringar av miljöinriktad karaktär, såsom biologisk rening etc.,
+      som stöds av sammanhållningsfonden, men som sker på bekostnad av naturen, dvs.
+      etableringar som sker i skogarna där träd <v>huggs</v> <p>ner</p>, vid särskilt
+      vackra stränder eller i känsliga biotoper.
+    t: Encontramos a veces infracciones paradójicas, es decir, casos de inversiones
+      de carácter medioambiental, como las depuradoras biológicas, subvencionadas
+      por el Fondo de Cohesión, cuya realización, sin embargo, perjudica la naturaleza,
+      es decir, instalaciones que se sitúan en bosques <a>talando</a> árboles, en
+      playas de belleza extraordinaria e incluso en biótopos delicados.
+  - s: När jag gick i skola fick jag lära mig att människorna i Afrika svalt på grund
+      av att de hade <v>huggit</v> <p>ner</p> träden där de bodde, så att ingenting
+      längre kunde växa där.
+    t: Cuando iba a la escuela aprendí que en África había personas que morían de
+      hambre porque habían <a>talado</a> los árboles en los lugares donde vivían,
+      de modo que allí nada podía crecer nunca más.
+  - s: Vi måste ge skogsägarna ett incitament att inte <v>hugga</v> <p>ner</p> skogen
+      utan att bevara skogen.
+    t: Debemos proporcionarles a los propietarios de los bosques un incentivo no para
+      <a>talar</a> los bosques, sino para conservarlos.
+  - s: Jag tror att vi bör titta på hur vi kan uppmuntra de världsdelar som har stora
+      skogar att inte <v>hugga</v> <p>ner</p> dem, precis som vi försöker uppmuntra
+      våra bönder att inte odla upp permanent betesmark då den utgör en viktig kolsänka.
+    t: Creo que tenemos que tratar de convencer a los continentes que tienen grandes
+      bosques para que no los <a>talen</a>, de la misma forma que estamos tratando
+      de convencer a nuestros agricultores para que no roturen los pastos permanentes,
+      porque son importantes sumideros de carbono.
+  - s: Förra veckan publicerade statssekreteraren för den spanska kooperationen, Fernando
+      Villalonga, en utmärkt tidningsartikel med rubriken ”<v>Hugg</v> <p>ner</p>
+      det ruttna trädet och bevara skogen”.
+    t: Señor Presidente, la pasada semana el Secretario de Estado para la Cooperación
+      español, D. Fernando Villalonga, publicó un magnífico artículo de prensa bajo
+      el título «<a>Talar</a> el árbol podrido y preservar el bosque».
+- c: 1
+  r: 2
+  v: cortarlo
+  x:
+  - s: Innan vi <v>hugger</v> <p>ner</p> dem måste vi vara säkra på att ha identifierat
+      dem alla.
+    t: Y, antes de <a>cortarlos</a>, hay que estar seguros de haberlos identificado
+      a todos.
+- c: 1
+  r: 2
+  v: desforestar
+  x:
+  - s: Vi riskerar att först <v>hugga</v> <p>ner</p> allt upp till 152 meter och därefter
+      konstatera att en fyllning till 139 meter vore tillräckligt för jordbruksbehoven.
+    t: Nos arriesgamos a <a>desforestar</a> hasta la cota 152m y después, en vista
+      del precio del agua, comprobar que la capacidad hasta la cota 139m sería suficiente
+      para las necesidades agrícolas.
+fr:
+- c: 4
+  r: 1
+  v: abattre
+  x:
+  - s: Bara två månader tidigare mördades guvernören i Punjab, Salman Taseer, av sina
+      egna livvakter, men Bhatti hade inte ens tilldelats några livvakter och utgjorde
+      därför ett mycket lätt mål för de tungt beväpnade terrorister som <v>högg</v>
+      <p>ner</p> honom när han var på väg till ett möte i regeringen.
+    t: Toutefois, aucun garde du corps n’avait été fourni à M. Bhatti, qui représentait
+      donc une cible extrêmement facile pour les terroristes lourdement armés qui
+      l’ont <a>abattu</a> alors qu’il se rendait à une réunion du gouvernement.
+  - s: När jag gick i skola fick jag lära mig att människorna i Afrika svalt på grund
+      av att de hade <v>huggit</v> <p>ner</p> träden där de bodde, så att ingenting
+      längre kunde växa där.
+    t: Lorsque j’étais à l’école, j’ai appris que les Africains mourraient parce qu’ils
+      avaient <a>abattu</a> les arbres où ils vivaient et rien ne pouvait donc plus
+      y pousser.
+  - s: Vi måste ge skogsägarna ett incitament att inte <v>hugga</v> <p>ner</p> skogen
+      utan att bevara skogen.
+    t: Nous devons inciter les propriétaires de forêts à ne pas les <a>abattre</a>,
+      mais à les préserver.
+  - s: Förra veckan publicerade statssekreteraren för den spanska kooperationen, Fernando
+      Villalonga, en utmärkt tidningsartikel med rubriken ”<v>Hugg</v> <p>ner</p>
+      det ruttna trädet och bevara skogen”.
+    t: Monsieur le Président, la semaine dernière le secrétaire d’État pour la coopération
+      espagnol, M. Fernando Villalonga, a publié un magnifique article de presse intitulé
+      «<a>Abattre</a> l’arbre mort et préserver la forêt».
+- c: 2
+  r: 2
+  v: arracher
+  x:
+  - s: Därför är det nödvändigt att ersätta dem, som måste <v>hugga</v> <p>ner</p>
+      skog för skapa brandgator, ”avenyer” på 50 eller 60 meter.
+    t: Pour ce faire, il faut payer des subsides à ceux qui doivent <a>arracher</a>
+      des arbres pour que l’on trace ces sentiers, des «avenues» de 50 ou 60 mètres.
+  - s: Jag tror att vi bör titta på hur vi kan uppmuntra de världsdelar som har stora
+      skogar att inte <v>hugga</v> <p>ner</p> dem, precis som vi försöker uppmuntra
+      våra bönder att inte odla upp permanent betesmark då den utgör en viktig kolsänka.
+    t: Je pense que nous devons penser à encourager ces continents aux vastes forêts
+      de ne pas les <a>arracher</a>, comme nous tentons d’encourager nos agriculteurs
+      à ne pas labourer les pâturages permanents à cause de tels puits de carbone.
+- c: 1
+  r: 3
+  v: argent
+  x:
+  - s: Vi riskerar att först <v>hugga</v> <p>ner</p> allt upp till 152 meter och därefter
+      konstatera att en fyllning till 139 meter vore tillräckligt för jordbruksbehoven.
+    t: Cela prouve que l’<a>argent</a> et le prestige continuent de prendre le pas
+      sur la gestion durable de l’environnement.
+it:
+- c: 1
+  r: 1
+  v: fino falciare
+  x:
+  - s: Bara två månader tidigare mördades guvernören i Punjab, Salman Taseer, av sina
+      egna livvakter, men Bhatti hade inte ens tilldelats några livvakter och utgjorde
+      därför ett mycket lätt mål för de tungt beväpnade terrorister som <v>högg</v>
+      <p>ner</p> honom när han var på väg till ett möte i regeringen.
+    t: Il governatore del Punjab, Salman Taseer, era stato assassinato soltanto due
+      mesi prima dalle proprie guardie del corpo, ma Bhatti non aveva nemmeno a propria
+      disposizione delle guardie del corpo e, quindi, costituiva il bersaglio più
+      semplice per i terroristi armati <a>fino</a> ai denti che hanno <a>falciato</a>
+      la sua vita mentre si recava a una riunione di gabinetto.
+- c: 1
+  r: 1
+  v: depredare
+  x:
+  - s: Jag tror att vi bör titta på hur vi kan uppmuntra de världsdelar som har stora
+      skogar att inte <v>hugga</v> <p>ner</p> dem, precis som vi försöker uppmuntra
+      våra bönder att inte odla upp permanent betesmark då den utgör en viktig kolsänka.
+    t: Penso che dobbiamo pensare di incoraggiare quei continenti con grandi foreste
+      a non <a>depredarle</a>, proprio come stiamo cercando di incoraggiare i nostri
+      agricoltori a non coltivare pascoli permanenti a causa di tali importanti bacini
+      di carbonio.
+- c: 1
+  r: 1
+  v: abbattere
+  x:
+  - s: När jag gick i skola fick jag lära mig att människorna i Afrika svalt på grund
+      av att de hade <v>huggit</v> <p>ner</p> träden där de bodde, så att ingenting
+      längre kunde växa där.
+    t: A scuola mi avevano insegnato che la gente in Africa moriva di fame perché
+      aveva <a>abbattuto</a> gli alberi nei luoghi in cui viveva e pertanto non vi
+      poteva più crescere alcuna pianta.
+pt:
+- c: 2
+  r: 1
+  v: cortar
+  x:
+  - s: När jag gick i skola fick jag lära mig att människorna i Afrika svalt på grund
+      av att de hade <v>huggit</v> <p>ner</p> träden där de bodde, så att ingenting
+      längre kunde växa där.
+    t: Quando estava na escola, aprendi que, em África, as pessoas morriam de fome
+      porque tinham <a>cortado</a> as árvores nos sítios onde viviam, e já nada crescia
+      nesses sítios.
+  - s: Förra veckan publicerade statssekreteraren för den spanska kooperationen, Fernando
+      Villalonga, en utmärkt tidningsartikel med rubriken ”<v>Hugg</v> <p>ner</p>
+      det ruttna trädet och bevara skogen”.
+    t: Senhor Presidente, na semana passada, o Secretário de Estado para a Cooperação
+      espanhol, Fernando Villalonga, publicou um magnífico artigo de imprensa sob
+      o título «<a>Cortar</a> a árvore podre e preservar o bosque».
+- c: 1
+  r: 2
+  v: ceifar
+  x:
+  - s: Bara två månader tidigare mördades guvernören i Punjab, Salman Taseer, av sina
+      egna livvakter, men Bhatti hade inte ens tilldelats några livvakter och utgjorde
+      därför ett mycket lätt mål för de tungt beväpnade terrorister som <v>högg</v>
+      <p>ner</p> honom när han var på väg till ett möte i regeringen.
+    t: No entanto, a Shahbaz Bhatti nem sequer foram atribuídos guarda-costas, tornando-o
+      um alvo muito fácil para os terroristas fortemente armados que lhe <a>ceifaram</a>
+      a vida a caminho de uma reunião do Conselho de Ministros.
+- c: 1
+  r: 2
+  v: desmatar
+  x:
+  - s: Vi riskerar att först <v>hugga</v> <p>ner</p> allt upp till 152 meter och därefter
+      konstatera att en fyllning till 139 meter vore tillräckligt för jordbruksbehoven.
+    t: Arriscamo-nos a <a>desmatar</a> até à cota 152m e depois, devido ao preço da
+      água, constatarmos que o enchimento até à cota 139m seria suficiente para as
+      necessidades agrícolas.
+- c: 1
+  r: 2
+  v: cortar haver
+  x:
+  - s: Innan vi <v>hugger</v> <p>ner</p> dem måste vi vara säkra på att ha identifierat
+      dem alla.
+    t: E, antes de as <a>cortar</a>, há que estar seguros de as <a>havermos</a> identificado
+      a todas.
+- c: 1
+  r: 2
+  v: destruir
+  x:
+  - s: Jag tror att vi bör titta på hur vi kan uppmuntra de världsdelar som har stora
+      skogar att inte <v>hugga</v> <p>ner</p> dem, precis som vi försöker uppmuntra
+      våra bönder att inte odla upp permanent betesmark då den utgör en viktig kolsänka.
+    t: Penso que precisamos de tentar encorajar os continentes que possuem vastas
+      florestas a não as <a>destruírem</a>, tal como estamos a tentar encorajar os
+      nossos agricultores a não manterem pastagens permanentes devido à importância
+      desses poços de carbono.
+- c: 1
+  r: 2
+  v: abater
+  x:
+  - s: Vi måste ge skogsägarna ett incitament att inte <v>hugga</v> <p>ner</p> skogen
+      utan att bevara skogen.
+    t: Devemos dar um incentivo aos donos das florestas para que não <a>abatam</a>
+      as árvores, mas antes preservem as mesmas.

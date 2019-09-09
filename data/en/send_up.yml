@@ -1,0 +1,96 @@
+---
+de:
+- c: 1
+  r: 1
+  v: geschickt
+  x:
+  - s: She will not know this but I was an election agent in her constituency in 1970,
+      having been <v>sent</v> <p>up</p> there by the Glasgow Labour Party to help
+      out.
+    t: die Labour Party in Glasgow hatte mich als Aushilfe dorthin <a>geschickt</a>.
+- c: 1
+  r: 1
+  v: werden
+  x:
+  - s: Like every major incinerator proposal it <v>sends</v> <p>up</p> in smoke not
+      just the waste but the prospect of small recycling centres and the jobs with
+      which they are associated.
+    t: Wie bei jeder großen Verbrennungsanlage wird natürlich auch mit der vorgeschlagenen
+      Anlage nicht nur Abfall vernichtet, sondern es <a>wird</a> auch die Aussicht
+      auf kleine Recyclingzentren und die damit zusammenhängenden Arbeitsplätze zunichte
+      gemacht.
+es:
+- c: 1
+  r: 1
+  v: enviar
+  x:
+  - s: She will not know this but I was an election agent in her constituency in 1970,
+      having been <v>sent</v> <p>up</p> there by the Glasgow Labour Party to help
+      out.
+    t: La Sra. Ewing no lo sabrá, pero yo fui uno de los funcionarios electorales
+      de su jurisdicción en 1970, a la que fui <a>enviado</a> por el Partido Laborista
+      de Glasgow para colaborar allí.
+- c: 1
+  r: 1
+  v: convertir
+  x:
+  - s: Like every major incinerator proposal it <v>sends</v> <p>up</p> in smoke not
+      just the waste but the prospect of small recycling centres and the jobs with
+      which they are associated.
+    t: Al igual que todas las propuestas importantes para plantas incineradoras, <a>convierte</a>
+      en humo no sólo los residuos, sino la perspectiva de pequeños centros de reciclado
+      y los puestos de trabajo que éstos generan.
+fr:
+- c: 1
+  r: 1
+  v: envoyer
+  x:
+  - s: She will not know this but I was an election agent in her constituency in 1970,
+      having been <v>sent</v> <p>up</p> there by the Glasgow Labour Party to help
+      out.
+    t: j’y avais été <a>envoyé</a> par le parti travailliste de Glasgow, pour donner
+      un coup de main.
+it:
+- c: 1
+  r: 1
+  v: mandare
+  x:
+  - s: Like every major incinerator proposal it <v>sends</v> <p>up</p> in smoke not
+      just the waste but the prospect of small recycling centres and the jobs with
+      which they are associated.
+    t: Come ogni altra proposta di incenerimento anche questa <a>manda</a> in fumo
+      non solo i rifiuti, ma anche le prospettive dei piccoli centri di riciclaggio
+      e i posti di lavoro a questi associati.
+- c: 1
+  r: 1
+  v: inviare
+  x:
+  - s: She will not know this but I was an election agent in her constituency in 1970,
+      having been <v>sent</v> <p>up</p> there by the Glasgow Labour Party to help
+      out.
+    t: La onorevole parlamentare non lo saprà, ma io sono stato rappresentante di
+      lista nel suo collegio elettorale nel 1970, essendovi stato <a>inviato</a> dal
+      Partito laburista di Glasgow.
+pt:
+- c: 1
+  r: 1
+  v: converter
+  x:
+  - s: Like every major incinerator proposal it <v>sends</v> <p>up</p> in smoke not
+      just the waste but the prospect of small recycling centres and the jobs with
+      which they are associated.
+    t: Tal como acontece com qualquer proposta sobre a instalação de incineradoras
+      importantes, esta <a>converte</a> em fumo não só os resíduos, mas também as
+      perspectivas da existência de pequenos centros de reciclagem e os empregos a
+      que eles estão associados.
+sv:
+- c: 1
+  r: 1
+  v: skicka
+  x:
+  - s: She will not know this but I was an election agent in her constituency in 1970,
+      having been <v>sent</v> <p>up</p> there by the Glasgow Labour Party to help
+      out.
+    t: Hon vet inte om det, men jag var valombud i hennes valkrets 1970 efter att
+      blivit <a>skickad</a> dit av Glasgows labourparti för att hjälpa till. Så jag
+      känner till åsikterna hos folket i Elgin i dessa viktiga frågor.

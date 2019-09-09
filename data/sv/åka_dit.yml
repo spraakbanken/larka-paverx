@@ -1,0 +1,46 @@
+---
+de:
+- c: 1
+  r: 1
+  v: dorthin zurückkehren
+  x:
+  - s: Jag hade redan varit i Mexiko och jag kommer med största sannolikhet att <v>åka</v>
+      <p>dit</p> nästa år.
+    t: In Mexiko war ich vorher schon, und im nächsten Jahr werde ich wahrscheinlich
+      noch einmal <a>dorthin</a> <a>zurückkehren</a>.
+en:
+- c: 1
+  r: 1
+  v: go there
+  x:
+  - s: Jag hade redan varit i Mexiko och jag kommer med största sannolikhet att <v>åka</v>
+      <p>dit</p> nästa år.
+    t: I had already been in Mexico and I will <a>go</a> <a>there</a> most probably
+      next year.
+es:
+- c: 1
+  r: 1
+  v: volver
+  x:
+  - s: Jag hade redan varit i Mexiko och jag kommer med största sannolikhet att <v>åka</v>
+      <p>dit</p> nästa år.
+    t: Ya había estado antes en México, y probablemente <a>volveré</a> el próximo
+      año.
+it:
+- c: 1
+  r: 1
+  v: ritornare
+  x:
+  - s: Jag hade redan varit i Mexiko och jag kommer med största sannolikhet att <v>åka</v>
+      <p>dit</p> nästa år.
+    t: Ero già stata in Messico in precedenza e conto di <a>ritornarci</a>, probabilmente,
+      l’anno prossimo.
+pt:
+- c: 1
+  r: 1
+  v: lá
+  x:
+  - s: Jag hade redan varit i Mexiko och jag kommer med största sannolikhet att <v>åka</v>
+      <p>dit</p> nästa år.
+    t: Não fui ao México, mas já aí tinha estado antes e, muito provavelmente, voltarei
+      <a>lá</a> no próximo ano.

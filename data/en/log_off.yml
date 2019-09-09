@@ -1,0 +1,28 @@
+---
+fr:
+- c: 1
+  r: 1
+  v: déconnexion
+  x:
+  - s: Who is to sound the alarm if in the future we are confronted with American
+      agents who introduce a system of <v>logging</v> <p>off</p>?
+    t: Qui devra bientôt tirer la sonnette d’alarme quand nous aurons ici des agents
+      américains qui appliquent le principe de la <a>déconnexion</a> ?
+it:
+- c: 1
+  r: 1
+  v: disconnessione
+  x:
+  - s: Who is to sound the alarm if in the future we are confronted with American
+      agents who introduce a system of <v>logging</v> <p>off</p>?
+    t: Chi darà l’allarme se in futuro ci troveremo davanti agenti americani che introducono
+      un sistema di <a>disconnessione</a>?
+sv:
+- c: 1
+  r: 1
+  v: utloggning
+  x:
+  - s: Who is to sound the alarm if in the future we are confronted with American
+      agents who introduce a system of <v>logging</v> <p>off</p>?
+    t: Vem kommer att slå larm när det inom kort kommer amerikanska agenter som tillämpar
+      ?<a>utloggning</a>?

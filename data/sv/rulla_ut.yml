@@ -1,0 +1,232 @@
+---
+de:
+- c: 2
+  r: 1
+  v: ausrollen
+  x:
+  - s: Vi fortsätter att <v>rulla</v> <p>ut</p> röda mattan för den kinesiska regeringen
+      kommer vi bara att stärka en sammansättning som till slut kommer att vara explosionsartad.
+    t: Wenn wir nicht unverzüglich die Länder unterstützen, die auf die Demokratie
+      und deren Verstärkung setzen, wie Indien, wenn wir weiterhin den roten Teppich
+      für die Abgesandten Pekings <a>ausrollen</a>, verstärken wir nur eine Situation,
+      die hochexplosiv werden wird.
+  - s: Jag är inte säker på att tiden har kommit för att <v>rulla</v> <p>ut</p> den
+      röda mattan i Bryssel för alla Vitrysslands ledare.
+    t: Ich bin mir nicht sicher, ob die Zeit dafür gekommen ist, in Brüssel für alle
+      politischen Führer von Belarus den roten Teppich <a>auszurollen</a>.
+- c: 1
+  r: 2
+  v: werden ausrollen
+  x:
+  - s: Vad mer är har röda mattan <v>rullats</v> <p>ut</p> för några av dessa diktatorer
+      i vissa europeiska huvudstäder.
+    t: Mehr noch, in bestimmten europäischen Hauptstädten <a>wird</a> für einige dieser
+      Diktatoren sogar der rote Teppich <a>ausgerollt</a>.
+- c: 1
+  r: 2
+  v: Ball wieder
+  x:
+  - s: Får jag säga till den tjänstgörande ordföranden att det är mycket snällt av
+      henne att <v>rulla</v> <p>ut</p> bollen på planen, men ändå föreslå att hon
+      tar tillbaka den och lägger ner den i lådan?
+    t: Darf ich der Ratspräsidentin sagen, dass es sehr nett ist, wenn sie den <a>Ball</a>
+      <a>wieder</a> auf das Spielfeld wirft, ich ihr aber empfehle, den Ball wieder
+      zurückzuholen und wegzuschließen?
+- c: 1
+  r: 2
+  v: stoßen
+  x:
+  - s: <v>Rulla</v> inte <p>ut</p> bollen, utan ta tillbaka den igen.
+    t: Bitte <a>stoßen</a> Sie den Ball nicht wieder an;
+en:
+- c: 3
+  r: 1
+  v: roll out
+  x:
+  - s: Vi fortsätter att <v>rulla</v> <p>ut</p> röda mattan för den kinesiska regeringen
+      kommer vi bara att stärka en sammansättning som till slut kommer att vara explosionsartad.
+    t: and if we do not, as of now, support the countries that are moving towards
+      democracy, towards strengthening democracy, such as India, but instead continue
+      to <a>roll</a> <a>out</a> the red carpet for the Beijing authorities, we will
+      simply be encouraging a grouping that will eventually become explosive.
+  - s: Despoterna sitter ofta kvar och vi <v>rullar</v> <p>ut</p> röda mattan för
+      dem alldeles för ofta.
+    t: The despots often remain in power and we <a>roll</a> <a>out</a> the red carpet
+      for them far too often.
+  - s: Jag är inte säker på att tiden har kommit för att <v>rulla</v> <p>ut</p> den
+      röda mattan i Bryssel för alla Vitrysslands ledare.
+    t: I am not sure whether the time has come to <a>roll</a> <a>out</a> the red carpet
+      in Brussels for all the leaders of Belarus.
+- c: 1
+  r: 2
+  v: carpet lay out
+  x:
+  - s: Vad mer är har röda mattan <v>rullats</v> <p>ut</p> för några av dessa diktatorer
+      i vissa europeiska huvudstäder.
+    t: What is more, the red <a>carpet</a> is <a>laid</a> <a>out</a> for some of those
+      dictators in certain European capitals.
+- c: 1
+  r: 2
+  v: be give
+  x:
+  - s: Jag konstaterar även att man i Europa och i detta parlament med en klockas
+      regelbundenhet <v>rullar</v> <p>ut</p> den röda mattan för de kinesiska kommunisterna.
+    t: And in Europe as well as here in the House, the Chinese Communists <a>are</a>
+      <a>given</a> the red-carpet treatment every time.
+- c: 1
+  r: 2
+  v: give
+  x:
+  - s: Ingenstans i världen får man längre <v>rulla</v> <p>ut</p> den röda mattan
+      för Fidel Castro.
+    t: Never again must Fidel Castro be <a>given</a> the red carpet treatment anywhere
+      in the world.
+- c: 1
+  r: 2
+  v: please set rolling
+  x:
+  - s: <v>Rulla</v> inte <p>ut</p> bollen, utan ta tillbaka den igen.
+    t: <a>please</a> do not <a>set</a> the ball <a>rolling</a>;
+es:
+- c: 1
+  r: 1
+  v: extenderse
+  x:
+  - s: Ingenstans i världen får man längre <v>rulla</v> <p>ut</p> den röda mattan
+      för Fidel Castro.
+    t: En ninguna parte del mundo debe <a>extenderse</a> la alfombra roja para Fidel
+      Castro.
+- c: 1
+  r: 1
+  v: extender
+  x:
+  - s: Vi fortsätter att <v>rulla</v> <p>ut</p> röda mattan för den kinesiska regeringen
+      kommer vi bara att stärka en sammansättning som till slut kommer att vara explosionsartad.
+    t: Si no apoyamos desde ahora a los países que apuestan por la democracia, por
+      el fortalecimiento de la democracia, como la India, y seguimos <a>extendiendo</a>
+      alfombras rojas ante las autoridades de Pekín, no haremos otra cosa que fortalecer
+      un tinglado que acabará siendo explosivo.
+- c: 1
+  r: 1
+  v: harto
+  x:
+  - s: <v>Rulla</v> inte <p>ut</p> bollen, utan ta tillbaka den igen.
+    t: Las personas están totalmente <a>hartas</a> de que la burocracia siga en aumento.
+- c: 1
+  r: 1
+  v: desplegar
+  x:
+  - s: Jag är inte säker på att tiden har kommit för att <v>rulla</v> <p>ut</p> den
+      röda mattan i Bryssel för alla Vitrysslands ledare.
+    t: No estoy seguro de que haya llegado el momento de <a>desplegar</a> la alfombra
+      roja en Bruselas a todos los líderes de Belarús.
+fr:
+- c: 4
+  r: 1
+  v: dérouler
+  x:
+  - s: Despoterna sitter ofta kvar och vi <v>rullar</v> <p>ut</p> röda mattan för
+      dem alldeles för ofta.
+    t: Les despotes restent souvent au pouvoir, et nous leur <a>déroulons</a> bien
+      trop souvent le tapis rouge.
+  - s: Ingenstans i världen får man längre <v>rulla</v> <p>ut</p> den röda mattan
+      för Fidel Castro.
+    t: Aucun pays ne doit plus <a>dérouler</a> le tapis rouge à Fidel Castro.
+  - s: Jag är inte säker på att tiden har kommit för att <v>rulla</v> <p>ut</p> den
+      röda mattan i Bryssel för alla Vitrysslands ledare.
+    t: Je ne suis pas certain que le temps soit venu pour Bruxelles de <a>dérouler</a>
+      le tapis rouge aux dirigeants du Belarus.
+  - s: Vad mer är har röda mattan <v>rullats</v> <p>ut</p> för några av dessa diktatorer
+      i vissa europeiska huvudstäder.
+    t: En outre, le tapis rouge est <a>déroulé</a> pour quelques-uns de ces dictateurs
+      dans certaines capitales européennes.
+- c: 1
+  r: 2
+  v: lancer
+  x:
+  - s: <v>Rulla</v> inte <p>ut</p> bollen, utan ta tillbaka den igen.
+    t: ne <a>lancez</a> pas cette balle ;
+- c: 1
+  r: 2
+  v: mettre
+  x:
+  - s: Får jag säga till den tjänstgörande ordföranden att det är mycket snällt av
+      henne att <v>rulla</v> <p>ut</p> bollen på planen, men ändå föreslå att hon
+      tar tillbaka den och lägger ner den i lådan?
+    t: Monsieur le Président, puis-je dire à Madame la Présidente en exercice que
+      c’est bien gentil de sa part d’avoir <a>mis</a> la balle en jeu, mais puis-je
+      lui suggérer de la reprendre et de la remettre dans sa boîte ?
+it:
+- c: 2
+  r: 1
+  v: stendere
+  x:
+  - s: Vi fortsätter att <v>rulla</v> <p>ut</p> röda mattan för den kinesiska regeringen
+      kommer vi bara att stärka en sammansättning som till slut kommer att vara explosionsartad.
+    t: Se fin d’ora non sosteniamo gli stati che puntano alla democrazia e al rafforzamento
+      dei principi democratici, come l’India, e se invece continueremo a <a>stendere</a>
+      tappeti rossi alle autorità di Pechino, finiremo solo col rafforzare un blocco
+      che inevitabilmente diventerà esplosivo.
+  - s: Jag är inte säker på att tiden har kommit för att <v>rulla</v> <p>ut</p> den
+      röda mattan i Bryssel för alla Vitrysslands ledare.
+    t: Non credo sia ancora il momento di <a>stendere</a> il tappeto rosso a Bruxelles
+      per i leader bielorussi.
+- c: 1
+  r: 2
+  v: ricevere
+  x:
+  - s: Vad mer är har röda mattan <v>rullats</v> <p>ut</p> för några av dessa diktatorer
+      i vissa europeiska huvudstäder.
+    t: Per di più, alcuni di tali dittatori sono <a>ricevuti</a> con il tappeto rosso
+      in certe capitali europee.
+- c: 1
+  r: 2
+  v: stendere tappeto
+  x:
+  - s: Despoterna sitter ofta kvar och vi <v>rullar</v> <p>ut</p> röda mattan för
+      dem alldeles för ofta.
+    t: I despoti spesso rimangono al potere e noi <a>stendiamo</a> troppo spesso il
+      <a>tappeto</a> rosso davanti a loro.
+pt:
+- c: 1
+  r: 1
+  v: estender
+  x:
+  - s: Jag är inte säker på att tiden har kommit för att <v>rulla</v> <p>ut</p> den
+      röda mattan i Bryssel för alla Vitrysslands ledare.
+    t: Não estou certo de que tenha chegado o momento de <a>estender</a> o tapete
+      vermelho em Bruxelas a todos os líderes da Bielorrússia.
+- c: 1
+  r: 1
+  v: passadeira
+  x:
+  - s: Jag konstaterar även att man i Europa och i detta parlament med en klockas
+      regelbundenhet <v>rullar</v> <p>ut</p> den röda mattan för de kinesiska kommunisterna.
+    t: Vejo também que tanto na Europa como neste Parlamento se estende com regularidade
+      a <a>passadeira</a> vermelha para receber os comunistas chineses.
+- c: 1
+  r: 1
+  v: estender passadeira
+  x:
+  - s: Despoterna sitter ofta kvar och vi <v>rullar</v> <p>ut</p> röda mattan för
+      dem alldeles för ofta.
+    t: Os déspotas mantêm-se frequentemente no poder, e nós <a>estendemos</a>-lhes
+      a <a>passadeira</a> vermelha mais vezes do que deveríamos.
+- c: 1
+  r: 1
+  v: receber
+  x:
+  - s: Vad mer är har röda mattan <v>rullats</v> <p>ut</p> för några av dessa diktatorer
+      i vissa europeiska huvudstäder.
+    t: a Europa tem relações de parceria ao mais alto nível com a Ásia, onde há ditadores,
+      e com a América Latina, onde também alguns países não são democracias, aliás
+      alguns desses ditadores são <a>recebidos</a> com tapete vermelho em algumas
+      capitais europeias.
+- c: 1
+  r: 1
+  v: asiático
+  x:
+  - s: Ingenstans i världen får man längre <v>rulla</v> <p>ut</p> den röda mattan
+      för Fidel Castro.
+    t: Isso constitui uma grande ameaça para a estabilidade da região <a>asiática</a>,
+      na sua globalidade.

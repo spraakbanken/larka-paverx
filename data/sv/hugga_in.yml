@@ -1,0 +1,34 @@
+---
+es:
+- c: 1
+  r: 1
+  v: introducir cuchara
+  x:
+  - s: Jag hoppas att nästa Sokrates-program skapar fler projekt som det i Whitfield
+      Primary School och nästa gång du <v>hugger</v> <p>in</p> på en tallrik soppa
+      så minns du kanske hur värdefullt Sokrates är för utbildningen runt om i unionen.
+    t: Espero que el próximo programa SOCRATES produzca más proyectos como el del
+      Colegio de Primaria Whitfield y quizá la próxima vez que <a>introduzcan</a>
+      la <a>cuchara</a> en un plato de sopa recuerden el valor educacional que ha
+      tenido el programa SOCRATES en toda la Unión.
+fr:
+- c: 1
+  r: 1
+  v: prendre
+  x:
+  - s: Jag hoppas att nästa Sokrates-program skapar fler projekt som det i Whitfield
+      Primary School och nästa gång du <v>hugger</v> <p>in</p> på en tallrik soppa
+      så minns du kanske hur värdefullt Sokrates är för utbildningen runt om i unionen.
+    t: Peut-être que la prochaine fois que vous <a>prendrez</a> un bol de soupe vous
+      vous souviendrez de la valeur éducative du programme Socrates partout au sein
+      de l’Union.
+it:
+- c: 1
+  r: 1
+  v: gustare
+  x:
+  - s: Jag hoppas att nästa Sokrates-program skapar fler projekt som det i Whitfield
+      Primary School och nästa gång du <v>hugger</v> <p>in</p> på en tallrik soppa
+      så minns du kanske hur värdefullt Sokrates är för utbildningen runt om i unionen.
+    t: E forse, la prossima volta che <a>gusterete</a> un piatto di minestra, vi ricorderete
+      del valore educativo che SOCRATE riveste in tutta l’Unione.

@@ -1,0 +1,252 @@
+---
+de:
+- c: 1
+  r: 1
+  v: Telefonat
+  x:
+  - s: If I <v>phone</v> <p>up</p> on several occasions regarding this matter, then
+      surely it should be possible to have this rectified.
+    t: Nachdem ich wegen dieser Angelegenheit mehrere <a>Telefonate</a> geführt habe,
+      sollte es doch wohl auch möglich sein, den Fehler zu berichtigen.
+- c: 1
+  r: 1
+  v: anrufen
+  x:
+  - s: Mr President, I have had a dream in which Mr Fatuzzo’s daughter <v>phoned</v>
+      <p>up</p> my son, who is also studying law, and asked him whether he approved
+      of the way I voted on Mr Duff’s report.
+    t: Ich habe geträumt, dass die Tochter des Kollegen Fatuzzo meinen Sohn <a>angerufen</a>
+      hat, der ebenfalls Jus studiert, und sie hat ihn gefragt, ob er mit meinem Abstimmungsverhalten
+      zum Bericht Duff einverstanden ist.
+- c: 1
+  r: 1
+  v: telefonieren
+  x:
+  - s: Madam President, I completely agree with what Mr Atkins is saying, but I have
+      noticed to my amazement that, although I, along with 31 other members, tabled
+      Amendment No 62, and although I <v>phoned</v> <p>up</p> the services three times
+      to say that that was my amendment, it is still listed under Mr Robert Atkins.
+    t: Zu meinem Erstaunen stelle ich jedoch fest, dass Änderungsantrag 62, den ich
+      zusammen mit 31 anderen Mitgliedern eingereicht habe, in der Liste noch immer
+      unter dem Namen von Sir Robert Atkins aufgeführt ist, obwohl ich dreimal mit
+      den Dienststellen <a>telefoniert</a> habe, um sie darauf hinzuweisen, dass es
+      sich um meinen Änderungsantrag handelt.
+- c: 1
+  r: 1
+  v: ausmachen
+  x:
+  - s: That was our experience at the time of the steel dispute, when all at once
+      our telephones in this House started jumping off the hook, with businesses and
+      trade unions <v>phoning</v> <p>up</p> to tell us that hundreds and thousands
+      of people were having to be laid off because 100% mark-ups for customs duties
+      were making exports impossible.
+    t: Wir sollten aber nicht außer Acht lassen, dass man die größten Sozialgewinne
+      für alle Entwicklungsländer über die Liberalisierung erzielen wird, und zwar
+      nicht in der Landwirtschaft, sondern bei Industriegütern, die in Entwicklungsländern
+      75 % des Handels und den größten Teil der Zölle <a>ausmachen</a>, die sie zahlen
+      müssen.
+es:
+- c: 1
+  r: 1
+  v: llamada telefónico
+  x:
+  - s: If I <v>phone</v> <p>up</p> on several occasions regarding this matter, then
+      surely it should be possible to have this rectified.
+    t: No entiendo cómo no se ha rectificado después de mis <a>llamadas</a> <a>telefónicas</a>.
+- c: 1
+  r: 1
+  v: desmoronarse
+  x:
+  - s: As recently as last Thursday lunchtime, I was <v>phoned</v> <p>up</p> by the
+      British social security minister, who asked me what I, for God’s sake, thought
+      I was doing by signing up to a few pertinent amendments.
+    t: Eso puede suceder en cualquier momento y ese es el punto en el que todo empieza
+      a <a>desmoronarse</a>.
+fr:
+- c: 3
+  r: 1
+  v: téléphoner
+  x:
+  - s: one day you told a German newspaper, ‘I am the one that the Americans <v>phone</v>
+      <p>up</p>" .
+    t: 'De toute façon, avez-vous dit un jour à un journal allemand : «c’est à moi
+      que les Américains <a>téléphonent</a>».'
+  - s: Madam President, I completely agree with what Mr Atkins is saying, but I have
+      noticed to my amazement that, although I, along with 31 other members, tabled
+      Amendment No 62, and although I <v>phoned</v> <p>up</p> the services three times
+      to say that that was my amendment, it is still listed under Mr Robert Atkins.
+    t: Madame la Présidente, je suis entièrement d’accord avec les déclarations de
+      M. Atkins mais, à mon grand étonnement, je vois dans la liste que l’amendement
+      62, que j’ai introduit avec 31 autres membres et pour lequel j’ai <a>téléphoné</a>
+      trois fois aux services pour leur signaler qu’il s’agissait de mon amendement,
+      se trouve toujours sous le nom de Sir Robert Atkins.
+  - s: If I <v>phone</v> <p>up</p> on several occasions regarding this matter, then
+      surely it should be possible to have this rectified.
+    t: Je pense que cela aurait pu être rectifié étant donné que j’ai <a>téléphoné</a>
+      plusieurs fois à ce sujet.
+- c: 1
+  r: 2
+  v: représenter
+  x:
+  - s: That was our experience at the time of the steel dispute, when all at once
+      our telephones in this House started jumping off the hook, with businesses and
+      trade unions <v>phoning</v> <p>up</p> to tell us that hundreds and thousands
+      of people were having to be laid off because 100% mark-ups for customs duties
+      were making exports impossible.
+    t: Toutefois, n’oublions pas que les plus grands bienfaits sociaux pour tous les
+      pays en développement découleront de la libéralisation, non de l’agriculture,
+      mais du secteur des biens industriels, qui <a>représentent</a> 75 % des échanges
+      commerciaux de ces pays et la majorité des droits de douane qu’ils paient.
+- c: 1
+  r: 2
+  v: détricoter
+  x:
+  - s: As recently as last Thursday lunchtime, I was <v>phoned</v> <p>up</p> by the
+      British social security minister, who asked me what I, for God’s sake, thought
+      I was doing by signing up to a few pertinent amendments.
+    t: Cela peut se produire à tout moment et c’est alors que tout commence à se <a>détricoter</a>.
+it:
+- c: 2
+  r: 1
+  v: telefonare
+  x:
+  - s: Madam President, I completely agree with what Mr Atkins is saying, but I have
+      noticed to my amazement that, although I, along with 31 other members, tabled
+      Amendment No 62, and although I <v>phoned</v> <p>up</p> the services three times
+      to say that that was my amendment, it is still listed under Mr Robert Atkins.
+    t: Signora Presidente, sono assolutamente d’accordo con l’onorevole Atkins, ma,
+      con mia sorpresa, noto che l’emendamento n. 62 - che ho presentato insieme a
+      31 onorevoli colleghi e per il quale ho <a>telefonato</a> tre volte ai servizi
+      sottolineando che si trattava di un mio emendamento - figura nell’elenco ancora
+      a nome di Sir Robert Atkins.
+  - s: If I <v>phone</v> <p>up</p> on several occasions regarding this matter, then
+      surely it should be possible to have this rectified.
+    t: Dopo aver <a>telefonato</a> diverse volte, penso che l’errore avrebbe dovuto
+      essere corretto.
+- c: 1
+  r: 2
+  v: chiamare
+  x:
+  - s: That was our experience at the time of the steel dispute, when all at once
+      our telephones in this House started jumping off the hook, with businesses and
+      trade unions <v>phoning</v> <p>up</p> to tell us that hundreds and thousands
+      of people were having to be laid off because 100% mark-ups for customs duties
+      were making exports impossible.
+    t: Questa è stata la nostra esperienza all’epoca della controversia sull’acciaio,
+      quando all’improvviso i nostri telefoni qui in Parlamento squillavano in continuazione,
+      con imprese e sindacati che ci <a>chiamavano</a> per dirci che centinaia e migliaia
+      di persone sarebbero state licenziate perché gli aumenti del 100 per cento dei
+      dazi doganali rendevano impossibili le esportazioni.
+pt:
+- c: 2
+  r: 1
+  v: telefonar
+  x:
+  - s: one day you told a German newspaper, ‘I am the one that the Americans <v>phone</v>
+      <p>up</p>" .
+    t: 'E foi divertido vêlo invocar, na irrisória competição que o opõe ao senhor
+      Comissário Patten, o argumento a bem dizer delicioso e mesmo delicado, como
+      o senhor disse um dia a um jornal alemão: «É a mim que os Americanos <a>telefonam</a>».'
+  - s: That was our experience at the time of the steel dispute, when all at once
+      our telephones in this House started jumping off the hook, with businesses and
+      trade unions <v>phoning</v> <p>up</p> to tell us that hundreds and thousands
+      of people were having to be laid off because 100% mark-ups for customs duties
+      were making exports impossible.
+    t: Conhecemos esta situação na altura do conflito do aço, quando os telefones
+      desta Assembleia começaram subitamente a tocar ao mesmo tempo, com as empresas
+      e os sindicatos a <a>telefonarem</a><a>-nos</a> para nos dizer que centenas
+      e milhares de pessoas teriam de ser despedidas, porque o aumento de 100% dos
+      direitos aduaneiros tornava impossíveis as exportações.
+  - s: Madam President, I completely agree with what Mr Atkins is saying, but I have
+      noticed to my amazement that, although I, along with 31 other members, tabled
+      Amendment No 62, and although I <v>phoned</v> <p>up</p> the services three times
+      to say that that was my amendment, it is still listed under Mr Robert Atkins.
+    t: Senhor Presidente, concordo inteiramente com o que diz o senhor deputado Atkins,
+      mas verifico com espanto que a alteração 62, que apresentei juntamente com mais
+      trinta e um deputados, e sobre a qual <a>telefonei</a> três vezes aos serviços
+      para informar que era minha, consta ainda como sendo do senhor deputado Robert
+      Atkins.
+- c: 1
+  r: 2
+  v: telefonar
+  x:
+  - s: one day you told a German newspaper, ‘I am the one that the Americans <v>phone</v>
+      <p>up</p>" .
+    t: 'E foi divertido vêlo invocar, na irrisória competição que o opõe ao senhor
+      Comissário Patten, o argumento a bem dizer delicioso e mesmo delicado, como
+      o senhor disse um dia a um jornal alemão: «É a mim que os Americanos <a>telefonam</a>».'
+  - s: That was our experience at the time of the steel dispute, when all at once
+      our telephones in this House started jumping off the hook, with businesses and
+      trade unions <v>phoning</v> <p>up</p> to tell us that hundreds and thousands
+      of people were having to be laid off because 100% mark-ups for customs duties
+      were making exports impossible.
+    t: Conhecemos esta situação na altura do conflito do aço, quando os telefones
+      desta Assembleia começaram subitamente a tocar ao mesmo tempo, com as empresas
+      e os sindicatos a <a>telefonarem</a><a>-nos</a> para nos dizer que centenas
+      e milhares de pessoas teriam de ser despedidas, porque o aumento de 100% dos
+      direitos aduaneiros tornava impossíveis as exportações.
+  - s: Madam President, I completely agree with what Mr Atkins is saying, but I have
+      noticed to my amazement that, although I, along with 31 other members, tabled
+      Amendment No 62, and although I <v>phoned</v> <p>up</p> the services three times
+      to say that that was my amendment, it is still listed under Mr Robert Atkins.
+    t: Senhor Presidente, concordo inteiramente com o que diz o senhor deputado Atkins,
+      mas verifico com espanto que a alteração 62, que apresentei juntamente com mais
+      trinta e um deputados, e sobre a qual <a>telefonei</a> três vezes aos serviços
+      para informar que era minha, consta ainda como sendo do senhor deputado Robert
+      Atkins.
+- c: 1
+  r: 2
+  v: telefonema passar
+  x:
+  - s: As recently as last Thursday lunchtime, I was <v>phoned</v> <p>up</p> by the
+      British social security minister, who asked me what I, for God’s sake, thought
+      I was doing by signing up to a few pertinent amendments.
+    t: Ainda na passada quinta-feira, à hora do almoço, recebi um <a>telefonema</a>
+      do Ministro britânico da Segurança Social, que me perguntou como é que me <a>passava</a>
+      pela cabeça subscrever um conjunto de alterações pertinentes.
+- c: 1
+  r: 2
+  v: telefonema
+  x:
+  - s: If I <v>phone</v> <p>up</p> on several occasions regarding this matter, then
+      surely it should be possible to have this rectified.
+    t: Penso que é uma situação que com alguns <a>telefonemas</a> deveria poder ser
+      corrigida.
+sv:
+- c: 3
+  r: 1
+  v: ringa
+  x:
+  - s: one day you told a German newspaper, ‘I am the one that the Americans <v>phone</v>
+      <p>up</p>" .
+    t: 'I vilket fall som helst har ni till en tysk tidning sagt: ”det är till mig
+      amerikanarna <a>ringer</a>”.'
+  - s: That was our experience at the time of the steel dispute, when all at once
+      our telephones in this House started jumping off the hook, with businesses and
+      trade unions <v>phoning</v> <p>up</p> to tell us that hundreds and thousands
+      of people were having to be laid off because 100% mark-ups for customs duties
+      were making exports impossible.
+    t: Det var vår erfarenhet vid ståldiskussionen, när våra telefoner här i parlamentet
+      plötsligt började ringa så de hoppade, när företag och fackföreningar <a>ringde</a>
+      för att berätta att hundratals och tusentals människor skulle bli tvungna att
+      sägas upp eftersom 100 procents pålägg på tullavgifterna skulle göra exporten
+      omöjlig.
+  - s: Madam President, I completely agree with what Mr Atkins is saying, but I have
+      noticed to my amazement that, although I, along with 31 other members, tabled
+      Amendment No 62, and although I <v>phoned</v> <p>up</p> the services three times
+      to say that that was my amendment, it is still listed under Mr Robert Atkins.
+    t: Jag håller helt och hållet med Atkins, men till min förvåning ser jag i listan
+      att ändringsförslag 62 fortfarande står under Sir Robert Atkins namn, trots
+      att det är jag som har lämnat in det tillsammans med 31 andra ledamöter, och
+      trots att jag har <a>ringt</a> tre gånger till sessionstjänsten för att meddela
+      att det är mitt ändringsförslag.
+- c: 1
+  r: 2
+  v: uppringd
+  x:
+  - s: As recently as last Thursday lunchtime, I was <v>phoned</v> <p>up</p> by the
+      British social security minister, who asked me what I, for God’s sake, thought
+      I was doing by signing up to a few pertinent amendments.
+    t: Så sent som förra torsdagen blev jag vid lunchtid <a>uppringd</a> av den brittiska
+      socialförsäkringsministern som undrade vad sjutton jag höll på med när jag ställde
+      mig positiv till några väsentliga ändringsförslag.

@@ -1,0 +1,55 @@
+---
+de:
+- c: 1
+  r: 1
+  v: mögen
+  x:
+  - s: Låt mig <v>flika</v> <p>in</p> en kort personlig synpunkt.
+    t: 'Ich <a>möchte</a> eine kurze persönliche Anmerkung machen:'
+es:
+- c: 1
+  r: 1
+  v: gustar aportar
+  x:
+  - s: Jag vill <v>flika</v> <p>in</p> ett par frågor med anledning av Edward Sciclunas
+      uttalande för utskottets räkning.
+    t: Señor Presidente, Comisario, me <a>gustaría</a> <a>aportar</a> unas preguntas
+      sobre lo que el señor Scicluna ha afirmado en nombre de su comisión.
+- c: 1
+  r: 1
+  v: gustar hacer
+  x:
+  - s: Låt mig <v>flika</v> <p>in</p> en kort personlig synpunkt.
+    t: 'Me <a>gustaría</a> <a>hacer</a> un breve comentario personal:'
+fr:
+- c: 1
+  r: 1
+  v: ajouter
+  x:
+  - s: I det sammanhanget vill jag förresten <v>flika</v> <p>in</p> ett svar på inlägget
+      från Sandbaek om de fattigdomsrelaterade sjukdomarna och vaccin mot aids, tuberkulos
+      och malaria.
+    t: Je voudrais d’ailleurs <a>ajouter</a> à cela une réponse à l’intervention de
+      Mme Sandbaek sur les maladies de la pauvreté et les vaccins contre le sida,
+      la tuberculose et la malaria, c’est évidemment déjà prévu, comme Mme McNally
+      l’avait d’ailleurs souligné, dans le cadre de la politique internationale, et
+      la plate-forme technologique sur le sida, la malaria et la tuberculose va donc
+      exactement dans le sens de la question de Mme Sandbaek.
+it:
+- c: 1
+  r: 1
+  v: permettere
+  x:
+  - s: Låt mig <v>flika</v> <p>in</p> en kort personlig synpunkt.
+    t: 'Mi <a>permetto</a> una piccola nota personale:'
+pt:
+- c: 1
+  r: 1
+  v: acrescentar
+  x:
+  - s: I det sammanhanget vill jag förresten <v>flika</v> <p>in</p> ett svar på inlägget
+      från Sandbaek om de fattigdomsrelaterade sjukdomarna och vaccin mot aids, tuberkulos
+      och malaria.
+    t: Gostaria aliás de <a>acrescentar</a> a isso, uma resposta à intervenção da
+      senhora deputada Sandbaek sobre as doenças derivadas da pobreza e as vacinas
+      contra a SIDA, a tuberculose e a malária;

@@ -1,0 +1,862 @@
+---
+de:
+- c: 3
+  r: 1
+  v: heizen
+  x:
+  - s: Jag <v>värmer</v> <p>upp</p> mitt hus med solenergi!
+    t: Ich <a>heize</a> mein Haus mit Sonnenergie!
+  - s: Femtio tusen av våra pensionärer dog av köld denna vinter på grund av att de
+      inte hade råd att <v>värma</v> <p>upp</p> sina egna hem.
+    t: Fünfzigtausend Rentner sind diesen Winter an der Kälte gestorben, da sie es
+      sich nicht leisten konnten, ihre Häuser zu <a>heizen</a>.
+  - s: Men de har också andra slags bekymmer och problem, såsom hur länge de kommer
+      att kunna <v>värma</v> <p>upp</p> sina hus, eller om det finns skadliga kemikalier
+      eller andra farliga ämnen i deras mat, och så vidare, och så vidare.
+    t: Wie lange noch werden sie in der Lage sein ihre Wohnungen zu <a>heizen</a>,
+      oder befinden sich schädliche Chemikalien oder andere krankheitserregende Substanzen
+      in ihren Lebensmitteln, und die Liste geht weiter.
+- c: 2
+  r: 2
+  v: erwärmen
+  x:
+  - s: Det står nu klart även för de mest svårövertygade, dit man förmodligen kan
+      räkna Giles Chichester som inte är närvarande längre, att vår jord <v>värms</v>
+      <p>upp</p> på ett farligt sätt och att klimatförändringen är ett verkligt hot
+      mot livet på jorden såsom vi känner till det.
+    t: Selbst für diejenigen, die am schwersten zu überzeugen sind und zu denen wahrscheinlich
+      Herr Chichester gehört, der inzwischen gegangen ist, steht es mittlerweile außer
+      Frage, dass sich unser Planet auf gefährliche Art und Weise <a>erwärmt</a> und
+      der Klimawandel eine echte Gefahr für das Leben auf der Erde in seiner jetzigen
+      Form darstellt.
+  - s: Också inom Europa måste vi göra våra egna åtaganden om att minska utsläpp och
+      vidta åtgärder som är förenliga med målet att förhindra att världen <v>värms</v>
+      <p>upp</p> med mer än två grader.
+    t: Auch innerhalb Europas müssen wir Verpflichtungen zur Senkung der Emissionen
+      eingehen und Maßnahmen ergreifen, die verhindern, dass sich die Welt um mehr
+      als zwei Grad <a>erwärmt</a>.
+- c: 1
+  r: 3
+  v: Forschungsergebnis Erde
+  x:
+  - s: Jag vill fästa er uppmärksamhet på att enligt den vetenskapliga forskningen
+      ökar koldioxiden i atmosfären inte innan jorden värmts upp utan efter att jorden
+      <v>värmts</v> <p>upp</p>.
+    t: Ich möchte Ihre Aufmerksamkeit auf die Tatsache lenken, dass Kohlendioxid,
+      <a>Forschungsergebnissen</a> zufolge, nicht vor der Erwärmung der <a>Erde</a>
+      zunimmt, sondern danach.
+- c: 1
+  r: 3
+  v: heizen werden
+  x:
+  - s: Som exempel finns det runt 190 miljoner byggnader i EU som behöver <v>värmas</v>
+      <p>upp</p>.
+    t: Beispielsweise gibt es in der EU etwa 190 Millionen Gebäude, die <a>geheizt</a>
+      <a>werden</a> müssen.
+- c: 1
+  r: 3
+  v: hinweisen
+  x:
+  - s: Precis som man på ett mjölkpaket informerar om att mjölken har <v>värmts</v>
+      <p>upp</p> till en viss temperatur för att de skadliga bakterierna skall dödas.
+    t: Um Verwirrung zu vermeiden, genügt es anzugeben, dass das betreffende Erzeugnis
+      aus hygienischen Gründen bestrahlt wurde, so wie auf einem Milchkarton darauf
+      <a>hingewiesen</a> wird, dass sie pasteurisiert wurde.
+- c: 1
+  r: 3
+  v: noch erwärmen
+  x:
+  - s: I morgon kommer FN att meddela att jorden <v>värms</v> <p>upp</p> snabbare
+      än vad vi tidigare trodde.
+    t: Morgen werden die Vereinten Nationen verlautbaren lassen, dass sich die Erde
+      <a>noch</a> schneller <a>erwärmt</a>, als wir uns früher vorgestellt hatten.
+- c: 1
+  r: 3
+  v: thermisch
+  x:
+  - s: Fyrtio procent av all energi går till att <v>värma</v> <p>upp</p> eller kyla
+      ned byggnader.
+    t: 40 % der Energie fließen in die <a>thermische</a> Ausstattung der Gebäude.
+- c: 1
+  r: 3
+  v: beheizen
+  x:
+  - s: Kina och Kanada är kända för att använda den som bilbränsle och Japan använder
+      vätgas för att <v>värma</v> <p>upp</p> byggnader.
+    t: Dabei ist bekannt, dass in China und Kanada Autos mit Wasserstoff angetrieben
+      werden und Japan damit Gebäude <a>beheizt</a>.
+- c: 1
+  r: 3
+  v: werden heizen
+  x:
+  - s: De flesta privata hus i småsamhällen <v>värms</v> <p>upp</p> enskilt, vilket
+      innebär att uppvärmningen inte betalas på ett centraliserat sätt.
+    t: Die meisten privaten Häuser in Dörfern <a>werden</a> eigenständig <a>geheizt</a>,
+      was bedeutet, dass die Heizkosten nicht zentralisiert gezahlt werden.
+- c: 1
+  r: 3
+  v: Wärmeversorgung
+  x:
+  - s: ' ”Vad kallt det är!”, får jag lust att säga, herr talman, eftersom det här
+      är det andra dokumentet i vilket vi intresserar oss för att <v>värma</v> <p>upp</p>
+      någon i gemenskapen.'
+    t: ' „Was für eine Kälte! “, muss ich sagen, wenn ich feststelle, dass dies schon
+      der zweite Bericht ist, in dem wir uns mit der <a>Wärmeversorgung</a> in unserer
+      Gemeinschaft befassen.'
+- c: 1
+  r: 3
+  v: Wärme
+  x:
+  - s: Med detta system skulle man alltså också kunna <v>värma</v> <p>upp</p> bostäderna
+      för de pensionärer som ofta har det kallt eftersom de har en sådan blygsam pension.
+    t: Mit solchen Systemen könnten somit auch mehr Wohnungen von Rentnern mit <a>Wärme</a>
+      versorgt werden, die oftmals aufgrund ihrer niedrigen Renten in der Kälte leben.
+- c: 1
+  r: 3
+  v: Beheizung
+  x:
+  - s: Med tanke på att 40 procent av energianvändningen går åt till att <v>värma</v>
+      <p>upp</p> och kyla våra hem bör medlemsstaterna snabbt införa stimulansåtgärder
+      för gröna energilösningar.
+    t: In Anbetracht der Tatsache, dass 40 % der Energie für die <a>Beheizung</a>
+      bzw. Kühlung unserer Häuser verwendet werden, sollten die Mitgliedstaaten schnellstmöglich
+      Anreize für umweltfreundliche Lösungen schaffen.
+- c: 1
+  r: 3
+  v: entschieden
+  x:
+  - s: Det verkar som om världen håller på att <v>värmas</v> <p>upp</p> - vi är medvetna
+      om att betydande åtgärder måste vidtas för att bekämpa aktiviteter som bidrar
+      till detta problem.
+    t: wir sind uns bewusst, dass <a>entschiedene</a> Maßnahmen ergriffen werden müssen,
+      um gegen Tätigkeiten anzugehen, die zu diesem Problem beitragen.
+- c: 1
+  r: 3
+  v: Erdklima
+  x:
+  - s: Det faktum att toppmötet i Köpenhamn generellt beskrivs som ett ”beklagligt
+      misslyckande” i försöket att få fram ett globalt avtal om att begränsa utsläppen
+      av de växthusgaser som <v>värmer</v> <p>upp</p> jordens klimat, visar bara på
+      den totala bristen på samordning mellan EU-medlemsstaterna i förhållande till
+      USA och tillväxtekonomierna.
+    t: Die Tatsache, dass der Gipfel in Kopenhagen gemeinhin als „bedauernswerter
+      Misserfolg“ eines Versuchs, eine globale Übereinkunft für die Begrenzung der
+      Treibhausgase, die zur Erwärmung des <a>Erdklimas</a> führen, beschrieben wird,
+      ist nur ein weiterer Faktor, der den völligen Mangel an Koordination unter den
+      EU-Mitgliedstaaten gegenüber den USA und den Schwellenländern unterstreicht.
+- c: 1
+  r: 3
+  v: Erwärmung
+  x:
+  - s: Jag vill fästa er uppmärksamhet på att enligt den vetenskapliga forskningen
+      ökar koldioxiden i atmosfären inte innan jorden <v>värmts</v> <p>upp</p> utan
+      efter att jorden värmts upp.
+    t: Ich möchte Ihre Aufmerksamkeit auf die Tatsache lenken, dass Kohlendioxid,
+      Forschungsergebnissen zufolge, nicht vor der <a>Erwärmung</a> der Erde zunimmt,
+      sondern danach.
+en:
+- c: 10
+  r: 1
+  v: heat
+  x:
+  - s: De kostnader det medför stiger så mycket att låginkomsttagare i framtiden kommer
+      att tvingas gå runt i ulltröjor hemma för att de inte har råd att <v>värma</v>
+      <p>upp</p> sina hus.
+    t: The additional costs involved in renting are increasing to such an extent that,
+      in future, those on low incomes will have to wear thick jumpers because they
+      cannot <a>heat</a> their homes.
+  - s: Som exempel finns det runt 190 miljoner byggnader i EU som behöver <v>värmas</v>
+      <p>upp</p>.
+    t: For example, there are around 190 million buildings in the EU that need to
+      be <a>heated</a>.
+  - s: Vi ville inte tro detta, men det visade sig senare att det handlade om en mycket
+      enkel liten platta som kunde <v>värma</v> <p>upp</p> en kanna vatten på en halvtimme.
+    t: We were reluctant to believe it, but it later transpired that they were referring
+      to a very simple little plate capable of <a>heating</a> a jug of water in half
+      an hour.
+  - s: Femtio tusen av våra pensionärer dog av köld denna vinter på grund av att de
+      inte hade råd att <v>värma</v> <p>upp</p> sina egna hem.
+    t: Fifty thousand of our pensioners died of cold this winter because they could
+      not afford to <a>heat</a> their own homes.
+  - s: Jag bor inte i Frankrike men jag vet att det i Frankrike finns människor som
+      bor i stora slott och som behöver en massa energi för att <v>värma</v> <p>upp</p>
+      byggnaderna.
+    t: I do not live in France but I know that in France there are people who live
+      in large castles and who need a lot of energy to <a>heat</a> these buildings.
+  - s: Här finns det helt klart en skillnad mellan exempelvis Grekland och Nederländerna,
+      eftersom man i Grekland ofta fortfarande <v>värmer</v> <p>upp</p> husen på ett
+      ineffektivt sätt med kol, medan man i Holland har en mycket hög effektivitet
+      därför att man använder gas.
+    t: This is where there is a clear difference between, for example, Greece and
+      the Netherlands, because many Greeks still <a>heat</a> their homes inefficiently
+      with coal, whilst the Dutch have highly efficient gas heating.
+  - s: Kina och Kanada är kända för att använda den som bilbränsle och Japan använder
+      vätgas för att <v>värma</v> <p>upp</p> byggnader.
+    t: China and Canada are known for using it to power cars and Japan uses hydrogen
+      to <a>heat</a> buildings.
+  - s: Men de har också andra slags bekymmer och problem, såsom hur länge de kommer
+      att kunna <v>värma</v> <p>upp</p> sina hus, eller om det finns skadliga kemikalier
+      eller andra farliga ämnen i deras mat, och så vidare, och så vidare.
+    t: how long will they be able to <a>heat</a> their homes, or whether there are
+      any harmful chemicals or other causative agents in their food, and the list
+      goes on.
+  - s: De flesta privata hus i småsamhällen <v>värms</v> <p>upp</p> enskilt, vilket
+      innebär att uppvärmningen inte betalas på ett centraliserat sätt.
+    t: Most private houses in villages are <a>heated</a> autonomously, meaning that
+      heating is not paid for in a centralised way and therefore it is proposed that
+      an absolute monthly amount should be set, which in time, could cover the cofinancing
+      of these homes.
+  - s: Fyrtio procent av all energi går till att <v>värma</v> <p>upp</p> eller kyla
+      ned byggnader.
+    t: Forty per cent of energy is used for <a>heating</a> and cooling buildings.
+- c: 8
+  r: 2
+  v: warm up
+  x:
+  - s: Det står nu klart även för de mest svårövertygade, dit man förmodligen kan
+      räkna Giles Chichester som inte är närvarande längre, att vår jord <v>värms</v>
+      <p>upp</p> på ett farligt sätt och att klimatförändringen är ett verkligt hot
+      mot livet på jorden såsom vi känner till det.
+    t: Even to the most difficult-to-convince-people, and that probably includes Mr
+      Chichester, who has now left, it is now clear that our planet is <a>warming</a>
+      <a>up</a> dangerously and that climate change is a real threat to life on earth
+      as we know it.
+  - s: De måste <v>värmas</v> <p>upp</p> av en brand för att kunna gro.
+    t: They have to be <a>warmed</a> <a>up</a> by a fire in order to grow.
+  - s: Om havsvattnet <v>värms</v> <p>upp</p> sjunker dock kapaciteten för upptagning
+      av koldioxid igen.
+    t: As the water <a>warms</a> <a>up</a>, its capacity for absorbing CO2 will fall
+      again.
+  - s: Vi måste laga en ny måltid, för om vi bara <v>värmer</v> <p>upp</p> en rätt
+      som ingen kan smälta, kommer matsmältningsbesvären att leda till att den avvisas
+      ännu kraftigare än första gången den serverades.
+    t: We need to cook afresh, because if we just <a>warm</a> <a>up</a> a dish that
+      no one can digest, indigestion will result in it being rejected even more than
+      the first time it was served.
+  - s: Vi vet att 2020 kommer vår miljö att ha <v>värmts</v> <p>upp</p> ytterligare
+      0,8 °C. Global uppvärmning kommer att leda till extrema väderförhållanden som
+      stormar, mycket regn och översvämningar.
+    t: We know that by 2020 our environment will have <a>warmed</a> <a>up</a> by another
+      0.8oC.
+  - s: Som geolog kan jag försäkra er om att jorden många gånger tidigare har <v>värmts</v>
+      <p>upp</p> mycket mer än dessa demoniserade 2 °C, och inga tragiska händelser
+      inträffade.
+    t: As a geologist I can assure you that, many times in the past, the earth has
+      <a>warmed</a> <a>up</a> much more than by those demonised 2°C, and no tragic
+      events took place.
+  - s: I morgon kommer FN att meddela att jorden <v>värms</v> <p>upp</p> snabbare
+      än vad vi tidigare trodde.
+    t: Tomorrow, the United Nations will be announcing that the Earth is <a>warming</a>
+      <a>up</a> at a rate quicker than we had previously imagined.
+  - s: Jag märker att postsektorn hjälper oss att <v>värma</v> <p>upp</p> stämningen
+      litet i kammaren och det gläder mig.
+    t: I notice that the postal services are helping us to <a>warm</a> <a>up</a> the
+      House a little, and I am glad about that.
+- c: 6
+  r: 3
+  v: heat up
+  x:
+  - s: Jag vill fästa er uppmärksamhet på att enligt den vetenskapliga forskningen
+      ökar koldioxiden i atmosfären inte innan jorden <v>värmts</v> <p>upp</p> utan
+      efter att jorden värmts upp.
+    t: I want to draw your attention to the fact that, according to scientific research,
+      carbon dioxide in the atmosphere increases not before the earth <a>heats</a>
+      <a>up</a> but only after it heats up.
+  - s: Jag vill fästa er uppmärksamhet på att enligt den vetenskapliga forskningen
+      ökar koldioxiden i atmosfären inte innan jorden värmts upp utan efter att jorden
+      <v>värmts</v> <p>upp</p>.
+    t: I want to draw your attention to the fact that, according to scientific research,
+      carbon dioxide in the atmosphere increases not before the earth heats up but
+      only after it <a>heats</a> <a>up</a>.
+  - s: Också inom Europa måste vi göra våra egna åtaganden om att minska utsläpp och
+      vidta åtgärder som är förenliga med målet att förhindra att världen <v>värms</v>
+      <p>upp</p> med mer än två grader.
+    t: Within Europe too, we have to make our own emission reduction commitments and
+      take action in line with the aim to prevent the world from <a>heating</a> <a>up</a>
+      by more than two degrees.
+  - s: Det faktum att toppmötet i Köpenhamn generellt beskrivs som ett ”beklagligt
+      misslyckande” i försöket att få fram ett globalt avtal om att begränsa utsläppen
+      av de växthusgaser som <v>värmer</v> <p>upp</p> jordens klimat, visar bara på
+      den totala bristen på samordning mellan EU-medlemsstaterna i förhållande till
+      USA och tillväxtekonomierna.
+    t: The fact that the summit in Copenhagen is generally described as a ’deplorable
+      failure’ of an attempt to reach a global agreement on limiting the greenhouse
+      emissions which are <a>heating</a> <a>up</a> the Earth’s climate only serves
+      to highlight the total lack of coordination among EU Member States with regard
+      to the US and the emerging countries.
+  - s: Jorden har troligen aldrig under sin historia <v>värmts</v> <p>upp</p> så snabbt
+      som under de senaste 30 åren.
+    t: The earth has probably never in its history <a>heated</a> <a>up</a> as quickly
+      as it has over the last 30 years.
+  - s: När jorden <v>värms</v> <p>upp</p> värms som vi alla vet också havet upp, och
+      när havets temperatur överstiger 26 ºC är det sannolikt att det utvecklas en
+      tropisk cyklon.
+    t: As we all know, when the planet <a>heats</a> <a>up</a>, the sea also heats
+      up and when the temperature of the sea exceeds 26°C, then a tropical cyclone
+      is likely to develop.
+- c: 1
+  r: 4
+  v: warm
+  x:
+  - s: Med tanke på att 40 procent av energianvändningen går åt till att <v>värma</v>
+      <p>upp</p> och kyla våra hem bör medlemsstaterna snabbt införa stimulansåtgärder
+      för gröna energilösningar.
+    t: Bearing in mind that 40% of energy usage is for the purpose of <a>warming</a>
+      or cooling our homes Member States should urgently introduce incentives for
+      green energy solutions.
+- c: 1
+  r: 4
+  v: rise earth
+  x:
+  - s: Om utvecklingen tillåts fortsätta utan styrning, utan en målmedveten klimatpolitik,
+      kommer klimatet att <v>värmas</v> <p>upp</p> mycket mera än med två grader på
+      hundra år, och motsvarande kommer också alla därmed förknippade följdverkningar
+      att bli mera dramatiska.
+    t: If the current trend is allowed to continue uncontrolled, with no determined
+      climatic policy, the <a>rise</a> in temperature of the <a>earth</a> will be
+      a lot greater than two degrees in one hundred years, and all the corresponding
+      effects it will have will be all the more dramatic.
+- c: 1
+  r: 4
+  v: warm-up
+  x:
+  - s: Vad vi gör här är i allt väsentligt att <v>värma</v> <p>upp</p> inför ”Solvens
+      II”.
+    t: What we are doing here is essentially a <a>warm-up</a> for Solvency II.
+- c: 1
+  r: 4
+  v: warm up heating
+  x:
+  - s: ' ”Vad kallt det är!”, får jag lust att säga, herr talman, eftersom det här
+      är det andra dokumentet i vilket vi intresserar oss för att <v>värma</v> <p>upp</p>
+      någon i gemenskapen.'
+    t: Mr President, I am prompted to say ’How cold it is!’ This is the second report
+      in which we take an interest in <a>warming</a> <a>up</a> people in our Community.
+- c: 1
+  r: 4
+  v: heating
+  x:
+  - s: den anger koncentration av förorenande ekonomisk aktivitet, sammansättningen
+      av den energimix som används för produktiv verksamhet och för att <v>värma</v>
+      <p>upp</p> hus och kontor, användning av motorfordon och hanteringen av väginfrastrukturen
+      och trafiken, isolering av byggnader och kvaliteten på de material som används
+      samt förekomsten eller avsaknaden av grönområden, för att nämna ett fåtal exempel.
+    t: it indicates the concentration of polluting economic activities, the composition
+      of the energy mix used for productive activities and for <a>heating</a> homes
+      and offices, the use of motor vehicles and the management of road infrastructure
+      and traffic, the insulation of buildings and the quality of the materials used,
+      and the existence or otherwise of green spaces, to cite just a few examples.
+- c: 1
+  r: 4
+  v: promulgation
+  x:
+  - s: ”Dum” energi skulle använda el och gas för att <v>värma</v> <p>upp</p> luften
+      utanför byggnader, i stället för att isolera dem. Det skulle uppmuntra oss att
+      köra fler och större bilar i höga hastigheter, så att vi använder mer fossila
+      bränslen, helst bara med en person i varje bil. Trots dess höga ekonomiska kostnader,
+      dess misslyckande att hantera radioaktivt avfall och behovet av mycket höga
+      säkerhetsstandarder, behöver ”dum” energi kärnkraft, t.o.m. i länder där det
+      finns en mycket stor risk för spridning av kärnvapen.
+    t: Despite its high economic costs, its failure to deal with radioactive waste
+      and the need for very high safety and security standards, ’stupid’ energy would
+      insist on the <a>promulgation</a> of nuclear power, even in countries at very
+      high risk of nuclear weapons proliferation.
+es:
+- c: 13
+  r: 1
+  v: calentar
+  x:
+  - s: Det står nu klart även för de mest svårövertygade, dit man förmodligen kan
+      räkna Giles Chichester som inte är närvarande längre, att vår jord <v>värms</v>
+      <p>upp</p> på ett farligt sätt och att klimatförändringen är ett verkligt hot
+      mot livet på jorden såsom vi känner till det.
+    t: Incluso las personas más reacias a dejarse convencer, entre las que probablemente
+      se cuenta el señor Chichester, que ya se ha marchado, han comprendido que nuestro
+      planeta se está <a>calentando</a> de manera peligrosa y que el cambio climático
+      es una amenaza real a la vida en nuestro planeta tal y como la conocemos.
+  - s: Vi ville inte tro detta, men det visade sig senare att det handlade om en mycket
+      enkel liten platta som kunde <v>värma</v> <p>upp</p> en kanna vatten på en halvtimme.
+    t: Nos resistíamos a creerlo, pero finalmente resultó que se referían a unas placas
+      muy sencillas capaces de <a>calentar</a> una jarra de agua en media hora.
+  - s: De måste <v>värmas</v> <p>upp</p> av en brand för att kunna gro.
+    t: Los incendios las <a>calientan</a> y las hacen germinar.
+  - s: Här finns det helt klart en skillnad mellan exempelvis Grekland och Nederländerna,
+      eftersom man i Grekland ofta fortfarande <v>värmer</v> <p>upp</p> husen på ett
+      ineffektivt sätt med kol, medan man i Holland har en mycket hög effektivitet
+      därför att man använder gas.
+    t: En este caso existe una diferencia clara entre, por ejemplo, Grecia y los Países
+      Bajos, ya que muchos griegos siguen <a>calentando</a> sus hogares de manera
+      poco eficiente con carbón, mientras que en los Países Bajos gozamos de una eficiencia
+      muy elevada gracias a la calefacción por gas.
+  - s: Med tanke på att 40 procent av energianvändningen går åt till att <v>värma</v>
+      <p>upp</p> och kyla våra hem bör medlemsstaterna snabbt införa stimulansåtgärder
+      för gröna energilösningar.
+    t: Teniendo en cuenta que el 40 % del consumo energético sirve para <a>calentar</a>
+      o refrigerar nuestras casas, los Estados miembros deberían crear urgentemente
+      incentivos a favor de soluciones de energía verde.
+  - s: Kina och Kanada är kända för att använda den som bilbränsle och Japan använder
+      vätgas för att <v>värma</v> <p>upp</p> byggnader.
+    t: Se sabe que China y Canadá lo utilizan para mover automóviles y Japón, para
+      <a>calentar</a> edificios.
+  - s: Men de har också andra slags bekymmer och problem, såsom hur länge de kommer
+      att kunna <v>värma</v> <p>upp</p> sina hus, eller om det finns skadliga kemikalier
+      eller andra farliga ämnen i deras mat, och så vidare, och så vidare.
+    t: por cuánto tiempo serán capaces de <a>calentar</a> sus casas, o si hay componentes
+      químicos nocivos u otros agentes causantes en la comida;
+  - s: Vi vet att 2020 kommer vår miljö att ha <v>värmts</v> <p>upp</p> ytterligare
+      0,8 °C. Global uppvärmning kommer att leda till extrema väderförhållanden som
+      stormar, mycket regn och översvämningar.
+    t: Sabemos que hasta 2020 nuestro medio ambiente se habrá <a>calentado</a> 0,8
+      ºC más.
+  - s: Som geolog kan jag försäkra er om att jorden många gånger tidigare har <v>värmts</v>
+      <p>upp</p> mycket mer än dessa demoniserade 2 °C, och inga tragiska händelser
+      inträffade.
+    t: Como geólogo, puedo asegurarles que la Tierra se ha <a>calentado</a>, en múltiples
+      ocasiones en el pasado, mucho más de los tan demonizados 2 ºC, lo que no ha
+      acarreado acontecimientos trágicos.
+  - s: De flesta privata hus i småsamhällen <v>värms</v> <p>upp</p> enskilt, vilket
+      innebär att uppvärmningen inte betalas på ett centraliserat sätt.
+    t: La mayoría de viviendas privadas de los pueblos se <a>calientan</a> de manera
+      autónoma, lo cual quiere decir que la calefacción no se paga de manera centralizada,
+      por lo que se propone que se fije una cantidad mensual absoluta, que con el
+      tiempo pueda cubrir la cofinanciación de estas viviendas.
+  - s: Jag märker att postsektorn hjälper oss att <v>värma</v> <p>upp</p> stämningen
+      litet i kammaren och det gläder mig.
+    t: Veo que los servicios postales nos ayudan a <a>calentar</a> un poco el ambiente
+      del hemiciclo, y me alegro de ello.
+  - s: den anger koncentration av förorenande ekonomisk aktivitet, sammansättningen
+      av den energimix som används för produktiv verksamhet och för att <v>värma</v>
+      <p>upp</p> hus och kontor, användning av motorfordon och hanteringen av väginfrastrukturen
+      och trafiken, isolering av byggnader och kvaliteten på de material som används
+      samt förekomsten eller avsaknaden av grönområden, för att nämna ett fåtal exempel.
+    t: indica la concentración de actividades económicas contaminantes, la composición
+      de la mezcla de energía utilizada para las actividades productivas y para <a>calentar</a>
+      hogares y oficinas, el uso de vehículos de motor y la gestión de la infraestructura
+      vial y del tráfico, el aislamiento de los edificios y la calidad de los materiales
+      utilizados, y la existencia o no de los espacios verdes, por citar solo algunos
+      ejemplos.
+  - s: Fyrtio procent av all energi går till att <v>värma</v> <p>upp</p> eller kyla
+      ned byggnader.
+    t: Un 40 % de la energía se utiliza para <a>calentar</a> o enfriar los edificios.
+- c: 1
+  r: 2
+  v: recalentar
+  x:
+  - s: Vi måste laga en ny måltid, för om vi bara <v>värmer</v> <p>upp</p> en rätt
+      som ingen kan smälta, kommer matsmältningsbesvären att leda till att den avvisas
+      ännu kraftigare än första gången den serverades.
+    t: Hay que cocinar de nuevo, porque si nos limitamos a <a>recalentar</a> un plato
+      que ya nadie está dispuesto a digerir, la indigestión provocará un rechazo muy
+      superior al que provocó la primera vez que fue servido.
+- c: 1
+  r: 2
+  v: drástico
+  x:
+  - s: Det verkar som om världen håller på att <v>värmas</v> <p>upp</p> - vi är medvetna
+      om att betydande åtgärder måste vidtas för att bekämpa aktiviteter som bidrar
+      till detta problem.
+    t: somos conscientes de la necesidad de adoptar medidas <a>drásticas</a> para
+      combatir las actividades que están en la raíz de este problema.
+- c: 1
+  r: 2
+  v: caliento
+  x:
+  - s: Jag <v>värmer</v> <p>upp</p> mitt hus med solenergi!
+    t: yo <a>caliento</a> mi casa con energía solar.
+- c: 1
+  r: 2
+  v: calefacción
+  x:
+  - s: Som exempel finns det runt 190 miljoner byggnader i EU som behöver <v>värmas</v>
+      <p>upp</p>.
+    t: Por ejemplo, hay casi 190 millones de edificios en la UE que necesitan <a>calefacción</a>.
+- c: 1
+  r: 2
+  v: adoptar
+  x:
+  - s: Målet för våra strävanden att skapa en gemensam valuta kommer att göras av
+      det första laget bestående av elva spelare med fyra länder på ersättarbänken,
+      som <v>värmer</v> <p>upp</p> för att ge sig in i striden senare, kanske före
+      nästa VM 2002.
+    t: En segundo lugar, ¿qué política de cambio habrá que <a>adoptar</a> en la gestión
+      de la moneda única?
+- c: 1
+  r: 2
+  v: acarrear
+  x:
+  - s: Om utvecklingen tillåts fortsätta utan styrning, utan en målmedveten klimatpolitik,
+      kommer klimatet att <v>värmas</v> <p>upp</p> mycket mera än med två grader på
+      hundra år, och motsvarande kommer också alla därmed förknippade följdverkningar
+      att bli mera dramatiska.
+    t: Si dejamos que el desarrollo avance sin control y sin una política climática
+      firme, el aumento de la temperatura media será muy superior a los dos grados
+      en cien años y, por lo tanto, las consecuencias que esto <a>acarreará</a> serán
+      mucho más dramáticas.
+fr:
+- c: 10
+  r: 1
+  v: chauffer
+  x:
+  - s: De kostnader det medför stiger så mycket att låginkomsttagare i framtiden kommer
+      att tvingas gå runt i ulltröjor hemma för att de inte har råd att <v>värma</v>
+      <p>upp</p> sina hus.
+    t: Les coûts additionnels qui vont de pair avec la location augmentent dans des
+      proportions telles qu’à l’avenir les bas salaires devront porter des gros pulls
+      parce qu’ils ne pourront pas <a>chauffer</a> leur logement.
+  - s: Som exempel finns det runt 190 miljoner byggnader i EU som behöver <v>värmas</v>
+      <p>upp</p>.
+    t: Par exemple, il y a quelque 190 millions de bâtiments dans l’UE qui ont besoin
+      d’être <a>chauffés</a>.
+  - s: Vi ville inte tro detta, men det visade sig senare att det handlade om en mycket
+      enkel liten platta som kunde <v>värma</v> <p>upp</p> en kanna vatten på en halvtimme.
+    t: Nous avions du mal à y croire, mais il est ensuite apparu qu’ils voulaient
+      parler d’une petite plaque très simple capable de <a>chauffer</a> une carafe
+      d’eau en une demi-heure.
+  - s: Jag <v>värmer</v> <p>upp</p> mitt hus med solenergi!
+    t: je <a>chauffe</a> ma maison à l’énergie solaire !
+  - s: Femtio tusen av våra pensionärer dog av köld denna vinter på grund av att de
+      inte hade råd att <v>värma</v> <p>upp</p> sina egna hem.
+    t: Cinquante mille de nos retraités sont morts de froid cet hiver parce qu’ils
+      ne pouvaient pas <a>chauffer</a> leur habitation.
+  - s: Jag bor inte i Frankrike men jag vet att det i Frankrike finns människor som
+      bor i stora slott och som behöver en massa energi för att <v>värma</v> <p>upp</p>
+      byggnaderna.
+    t: Je ne vis pas en France, mais je sais qu’en France, il y a des gens qui vivent
+      dans de grands châteaux et qui ont besoin de beaucoup d’énergie pour <a>chauffer</a>
+      ces bâtiments.
+  - s: De måste <v>värmas</v> <p>upp</p> av en brand för att kunna gro.
+    t: Pour pouvoir prendre racine, elles doivent être <a>chauffées</a> par un incendie.
+  - s: Här finns det helt klart en skillnad mellan exempelvis Grekland och Nederländerna,
+      eftersom man i Grekland ofta fortfarande <v>värmer</v> <p>upp</p> husen på ett
+      ineffektivt sätt med kol, medan man i Holland har en mycket hög effektivitet
+      därför att man använder gas.
+    t: En la matière, il existe une différence très claire entre la Grèce et les Pays-Bas,
+      par exemple, car nombre de foyers grecs sont encore souvent <a>chauffés</a>
+      au charbon - énergie peu efficace - alors que les Pays-Bas disposent d’un chauffage
+      au gaz très efficace.
+  - s: Med tanke på att 40 procent av energianvändningen går åt till att <v>värma</v>
+      <p>upp</p> och kyla våra hem bör medlemsstaterna snabbt införa stimulansåtgärder
+      för gröna energilösningar.
+    t: Étant donné que 40% de l’énergie consommée sert à <a>chauffer</a> et à refroidir
+      nos habitations, les États membres devraient introduire de toute urgence des
+      incitants en faveur de solutions écologiques.
+  - s: Fyrtio procent av all energi går till att <v>värma</v> <p>upp</p> eller kyla
+      ned byggnader.
+    t: Quarante pour cent de l’énergie consommée servent à <a>chauffer</a> et à rafraîchir
+      les bâtiments.
+- c: 4
+  r: 2
+  v: réchauffer
+  x:
+  - s: Vi måste laga en ny måltid, för om vi bara <v>värmer</v> <p>upp</p> en rätt
+      som ingen kan smälta, kommer matsmältningsbesvären att leda till att den avvisas
+      ännu kraftigare än första gången den serverades.
+    t: Il faut ressortir les casseroles, parce que si nous <a>réchauffons</a> un plat
+      que personne ne peut digérer, l’indigestion nous le fera rejeter encore plus
+      que la première fois où il a nous été présenté.
+  - s: Vi vet att 2020 kommer vår miljö att ha <v>värmts</v> <p>upp</p> ytterligare
+      0,8 °C. Global uppvärmning kommer att leda till extrema väderförhållanden som
+      stormar, mycket regn och översvämningar.
+    t: Nous savons aussi que d’ici 2020, notre environnement se sera encore <a>réchauffé</a>
+      de 0,8 oC.
+  - s: Som geolog kan jag försäkra er om att jorden många gånger tidigare har <v>värmts</v>
+      <p>upp</p> mycket mer än dessa demoniserade 2 °C, och inga tragiska händelser
+      inträffade.
+    t: En tant que géologue, je peux vous assurer qu’à de nombreuses reprises par
+      le passé, la Terre s’est <a>réchauffée</a> bien au-delà de ces sacro-saints
+      2°C et qu’aucun événement tragique ne s’est produit.
+  - s: ' ”Vad kallt det är!”, får jag lust att säga, herr talman, eftersom det här
+      är det andra dokumentet i vilket vi intresserar oss för att <v>värma</v> <p>upp</p>
+      någon i gemenskapen.'
+    t: Monsieur le Président, «Quel froid !» ai-je envie de dire, étant donné que
+      c’est le second document dans lequel nous nous intéressons aux façons de <a>réchauffer</a>
+      quelqu’un dans notre Communauté.
+- c: 1
+  r: 3
+  v: réchauffement
+  x:
+  - s: Jag vill fästa er uppmärksamhet på att enligt den vetenskapliga forskningen
+      ökar koldioxiden i atmosfären inte innan jorden <v>värmts</v> <p>upp</p> utan
+      efter att jorden värmts upp.
+    t: Je souhaite attirer votre attention sur le fait que, d’après la recherche scientifique,
+      la proportion de dioxyde de carbone dans l’atmosphère augmente non pas avant
+      le <a>réchauffement</a> de la planète mais seulement après.
+- c: 1
+  r: 3
+  v: surestimation
+  x:
+  - s: Om havsvattnet <v>värms</v> <p>upp</p> sjunker dock kapaciteten för upptagning
+      av koldioxid igen.
+    t: En ce qui concerne les puits de CO2, je voudrais insister sur le danger d’une
+      <a>surestimation</a> dans nos calculs sur les puits de CO2 dans l’océan, par
+      exemple.
+- c: 1
+  r: 3
+  v: contenir
+  x:
+  - s: Men de har också andra slags bekymmer och problem, såsom hur länge de kommer
+      att kunna <v>värma</v> <p>upp</p> sina hus, eller om det finns skadliga kemikalier
+      eller andra farliga ämnen i deras mat, och så vidare, och så vidare.
+    t: Leurs aliments <a>contiennent</a>-ils des substances chimiques dangereuses
+      ou d’autres facteurs de maladie ?
+- c: 1
+  r: 3
+  v: donner pasteuriser
+  x:
+  - s: Precis som man på ett mjölkpaket informerar om att mjölken har <v>värmts</v>
+      <p>upp</p> till en viss temperatur för att de skadliga bakterierna skall dödas.
+    t: Cela ne ferait que lui <a>donner</a> le sentiment erroné que quelque chose
+      n’est pas normal.
+- c: 1
+  r: 3
+  v: préparer
+  x:
+  - s: Vad vi gör här är i allt väsentligt att <v>värma</v> <p>upp</p> inför ”Solvens
+      II”.
+    t: En fait, nous nous <a>préparons</a> ici au rapport «solvabilité II».
+it:
+- c: 4
+  r: 1
+  v: riscaldare
+  x:
+  - s: Som exempel finns det runt 190 miljoner byggnader i EU som behöver <v>värmas</v>
+      <p>upp</p>.
+    t: Ad esempio, vi sono circa 190 milioni di edifici nell’UE che devono essere
+      <a>riscaldati</a>.
+  - s: Om havsvattnet <v>värms</v> <p>upp</p> sjunker dock kapaciteten för upptagning
+      av koldioxid igen.
+    t: Se l’acqua si <a>riscalda</a>, diminuisce infatti la capacità di assorbire
+      il biossido di carbonio.
+  - s: Med tanke på att 40 procent av energianvändningen går åt till att <v>värma</v>
+      <p>upp</p> och kyla våra hem bör medlemsstaterna snabbt införa stimulansåtgärder
+      för gröna energilösningar.
+    t: Se si considera che il 40 per cento del consumo di energia serve a <a>riscaldare</a>
+      o raffreddare le nostre case, è chiaro che gli Stati membri devono introdurre
+      con urgenza incentivi per le soluzioni che sfruttano l’energia verde.
+  - s: Fyrtio procent av all energi går till att <v>värma</v> <p>upp</p> eller kyla
+      ned byggnader.
+    t: Il 40 per cento dell’energia viene utilizzato per <a>riscaldare</a> e raffreddare
+      gli edifici.
+  - s: ' ”Vad kallt det är!”, får jag lust att säga, herr talman, eftersom det här
+      är det andra dokumentet i vilket vi intresserar oss för att <v>värma</v> <p>upp</p>
+      någon i gemenskapen.'
+    t: ' «Che freddo!», mi viene da dire, signor Presidente, visto che questo è il
+      secondo documento in cui ci interessiamo di <a>riscaldare</a> qualcuno nella
+      nostra Comunità.'
+- c: 2
+  r: 2
+  v: riscaldamento
+  x:
+  - s: Jag vill fästa er uppmärksamhet på att enligt den vetenskapliga forskningen
+      ökar koldioxiden i atmosfären inte innan jorden <v>värmts</v> <p>upp</p> utan
+      efter att jorden värmts upp.
+    t: Desidero condurre la vostra attenzione al fatto che, secondo una ricerca scientifica,
+      il biossido di carbonio nell’atmosfera non aumenta prima del <a>riscaldamento</a>
+      della terra, ma solo dopo.
+  - s: De flesta privata hus i småsamhällen <v>värms</v> <p>upp</p> enskilt, vilket
+      innebär att uppvärmningen inte betalas på ett centraliserat sätt.
+    t: La maggior parte delle abitazioni private nei villaggi è dotata di <a>riscaldamento</a>
+      autonomo, il che significa che il pagamento del riscaldamento non è centralizzato,
+      per cui si propone che venga fissato un importo mensile in termini assoluti
+      che nel tempo possa coprire il cofinanziamento di tali abitazioni, il che agevolerebbe
+      gli Stati membri nell’applicazione legale del cofinanziamento per la ristrutturazione
+      di alloggi rurali.
+- c: 1
+  r: 3
+  v: scaldare
+  x:
+  - s: Jag märker att postsektorn hjälper oss att <v>värma</v> <p>upp</p> stämningen
+      litet i kammaren och det gläder mig.
+    t: Vedo con piacere che i servizi postali contribuiscono a <a>scaldare</a> un
+      po’ l’atmosfera dell’Emiciclo.
+- c: 1
+  r: 3
+  v: insistere
+  x:
+  - s: ”Dum” energi skulle använda el och gas för att <v>värma</v> <p>upp</p> luften
+      utanför byggnader, i stället för att isolera dem. Det skulle uppmuntra oss att
+      köra fler och större bilar i höga hastigheter, så att vi använder mer fossila
+      bränslen, helst bara med en person i varje bil. Trots dess höga ekonomiska kostnader,
+      dess misslyckande att hantera radioaktivt avfall och behovet av mycket höga
+      säkerhetsstandarder, behöver ”dum” energi kärnkraft, t.o.m. i länder där det
+      finns en mycket stor risk för spridning av kärnvapen.
+    t: Nonostante gli alti costi economici, l’incapacità di affrontare il problema
+      delle scorie radioattive e la necessità di standard di sicurezza molto alti,
+      ’Energia stupida? <a>insisterebbe</a> sulla diffusione dell’energia nucleare,
+      anche nei paesi ad alto rischio di proliferazione di armi nucleari.
+- c: 1
+  r: 3
+  v: stare riscaldare
+  x:
+  - s: I morgon kommer FN att meddela att jorden <v>värms</v> <p>upp</p> snabbare
+      än vad vi tidigare trodde.
+    t: Domani le Nazioni Unite annunceranno che la Terra si <a>sta</a> <a>riscaldando</a>
+      più rapidamente di quanto si fosse immaginato.
+- c: 1
+  r: 3
+  v: surriscaldamento
+  x:
+  - s: Det faktum att toppmötet i Köpenhamn generellt beskrivs som ett ”beklagligt
+      misslyckande” i försöket att få fram ett globalt avtal om att begränsa utsläppen
+      av de växthusgaser som <v>värmer</v> <p>upp</p> jordens klimat, visar bara på
+      den totala bristen på samordning mellan EU-medlemsstaterna i förhållande till
+      USA och tillväxtekonomierna.
+    t: Il fatto che il Vertice di Copenaghen venga unanimemente giudicato il «desolante
+      fallimento» del tentativo di concludere un accordo globale per la limitazione
+      delle emissioni di gas a effetto serra, responsabili del <a>surriscaldamento</a>
+      terrestre, riconferma la totale assenza di coordinamento tra gli Stati membri
+      dell’Unione europea rispetto agli Stati Uniti e ai paesi emergenti.
+- c: 1
+  r: 3
+  v: venire
+  x:
+  - s: Här finns det helt klart en skillnad mellan exempelvis Grekland och Nederländerna,
+      eftersom man i Grekland ofta fortfarande <v>värmer</v> <p>upp</p> husen på ett
+      ineffektivt sätt med kol, medan man i Holland har en mycket hög effektivitet
+      därför att man använder gas.
+    t: In questo caso invece esiste una grande differenza tra la Grecia e i Paesi
+      Bassi, ad esempio, perché molte abitazioni in Grecia <a>vengono</a> riscaldate
+      in maniera inefficiente con il carbone, mentre gli olandesi sono dotati di impianti
+      di riscaldamento a gas altamente efficienti.
+- c: 1
+  r: 3
+  v: giusto
+  x:
+  - s: Jorden har troligen aldrig under sin historia <v>värmts</v> <p>upp</p> så snabbt
+      som under de senaste 30 åren.
+    t: Con le azioni <a>giuste</a>, possiamo ridurre i rischi futuri per la società.
+- c: 1
+  r: 3
+  v: pietanza
+  x:
+  - s: Vi måste laga en ny måltid, för om vi bara <v>värmer</v> <p>upp</p> en rätt
+      som ingen kan smälta, kommer matsmältningsbesvären att leda till att den avvisas
+      ännu kraftigare än första gången den serverades.
+    t: Occorre rimettersi a cucinare, perché se ci limitiamo a riscaldare una <a>pietanza</a>
+      che nessuno è disposto a digerire, l’indigestione provocherà un rifiuto ancora
+      più netto di quando è stata servita per la prima volta.
+- c: 1
+  r: 3
+  v: riscaldare
+  x:
+  - s: Som exempel finns det runt 190 miljoner byggnader i EU som behöver <v>värmas</v>
+      <p>upp</p>.
+    t: Ad esempio, vi sono circa 190 milioni di edifici nell’UE che devono essere
+      <a>riscaldati</a>.
+  - s: Om havsvattnet <v>värms</v> <p>upp</p> sjunker dock kapaciteten för upptagning
+      av koldioxid igen.
+    t: Se l’acqua si <a>riscalda</a>, diminuisce infatti la capacità di assorbire
+      il biossido di carbonio.
+  - s: Med tanke på att 40 procent av energianvändningen går åt till att <v>värma</v>
+      <p>upp</p> och kyla våra hem bör medlemsstaterna snabbt införa stimulansåtgärder
+      för gröna energilösningar.
+    t: Se si considera che il 40 per cento del consumo di energia serve a <a>riscaldare</a>
+      o raffreddare le nostre case, è chiaro che gli Stati membri devono introdurre
+      con urgenza incentivi per le soluzioni che sfruttano l’energia verde.
+  - s: Fyrtio procent av all energi går till att <v>värma</v> <p>upp</p> eller kyla
+      ned byggnader.
+    t: Il 40 per cento dell’energia viene utilizzato per <a>riscaldare</a> e raffreddare
+      gli edifici.
+  - s: ' ”Vad kallt det är!”, får jag lust att säga, herr talman, eftersom det här
+      är det andra dokumentet i vilket vi intresserar oss för att <v>värma</v> <p>upp</p>
+      någon i gemenskapen.'
+    t: ' «Che freddo!», mi viene da dire, signor Presidente, visto che questo è il
+      secondo documento in cui ci interessiamo di <a>riscaldare</a> qualcuno nella
+      nostra Comunità.'
+- c: 1
+  r: 3
+  v: calore generare
+  x:
+  - s: De måste <v>värmas</v> <p>upp</p> av en brand för att kunna gro.
+    t: Soltanto con il <a>calore</a> <a>generato</a> da un incendio il seme può crescere.
+- c: 1
+  r: 3
+  v: indicare
+  x:
+  - s: Precis som man på ett mjölkpaket informerar om att mjölken har <v>värmts</v>
+      <p>upp</p> till en viss temperatur för att de skadliga bakterierna skall dödas.
+    t: A scanso di equivoci può essere sufficiente indicare che il prodotto è stato
+      irradiato per motivi igienici, proprio come sul contenitore del latte viene
+      <a>indicato</a> che il prodotto è pastorizzato.
+pt:
+- c: 7
+  r: 1
+  v: aquecer
+  x:
+  - s: Vi ville inte tro detta, men det visade sig senare att det handlade om en mycket
+      enkel liten platta som kunde <v>värma</v> <p>upp</p> en kanna vatten på en halvtimme.
+    t: Custou-nos acreditar, mas mais tarde constou-nos que se estavam a referir a
+      uma pequena placa muito simples, capaz de <a>aquecer</a> um jarro de água em
+      meia hora.
+  - s: Med tanke på att 40 procent av energianvändningen går åt till att <v>värma</v>
+      <p>upp</p> och kyla våra hem bör medlemsstaterna snabbt införa stimulansåtgärder
+      för gröna energilösningar.
+    t: Tendo presente que 40% da utilização da energia se destina a <a>aquecer</a>
+      ou arrefecer as nossas casas, os Estados-Membros deveriam apressar-se a introduzir
+      incentivos tendentes a soluções de energia verde.
+  - s: Kina och Kanada är kända för att använda den som bilbränsle och Japan använder
+      vätgas för att <v>värma</v> <p>upp</p> byggnader.
+    t: A China e o Canadá são conhecidos por utilizarem o hidrogénio na propulsão
+      automóvel e o Japão utiliza-o para <a>aquecer</a> edifícios.
+  - s: Som geolog kan jag försäkra er om att jorden många gånger tidigare har <v>värmts</v>
+      <p>upp</p> mycket mer än dessa demoniserade 2 °C, och inga tragiska händelser
+      inträffade.
+    t: Enquanto geólogo, posso garantir-vos que, no passado, a terra <a>aqueceu</a>
+      frequentemente muito mais do que os demonizados 2ºC e não houve acontecimentos
+      trágicos.
+  - s: Jag märker att postsektorn hjälper oss att <v>värma</v> <p>upp</p> stämningen
+      litet i kammaren och det gläder mig.
+    t: Vejo que os serviços postais nos ajudaram a <a>aquecer</a> um pouco o ambiente
+      do hemiciclo, com o que me congratulo.
+  - s: ' ”Vad kallt det är!”, får jag lust att säga, herr talman, eftersom det här
+      är det andra dokumentet i vilket vi intresserar oss för att <v>värma</v> <p>upp</p>
+      någon i gemenskapen.'
+    t: ' «Que frio!», apetece-me dizer, Senhor Presidente, dado que este é o segundo
+      documento em que nos interessamos por <a>aquecer</a> alguém na nossa Comunidade.'
+  - s: När jorden <v>värms</v> <p>upp</p> värms som vi alla vet också havet upp, och
+      när havets temperatur överstiger 26 ºC är det sannolikt att det utvecklas en
+      tropisk cyklon.
+    t: Como todos sabemos, quando o planeta <a>aquece</a>, o mar aquece também e,
+      quando a temperatura do mar excede os 26°C, existe a probabilidade de se desencadear
+      um ciclone tropical.
+- c: 2
+  r: 2
+  v: aquecimento
+  x:
+  - s: De flesta privata hus i småsamhällen <v>värms</v> <p>upp</p> enskilt, vilket
+      innebär att uppvärmningen inte betalas på ett centraliserat sätt.
+    t: A maior parte das casas particulares nas aldeias tem um <a>aquecimento</a>
+      autónomo, o que significa que o aquecimento não é pago de forma centralizada
+      e, por isso, propõe-se o estabelecimento de um montante mensal absoluto que,
+      na devida altura, possa cobrir o co-financiamento destas casas.
+  - s: Fyrtio procent av all energi går till att <v>värma</v> <p>upp</p> eller kyla
+      ned byggnader.
+    t: Quarenta por cento da energia é usada em <a>aquecimento</a> e arrefecimento
+      dos edifícios.
+- c: 1
+  r: 3
+  v: requentar
+  x:
+  - s: Vi måste laga en ny måltid, för om vi bara <v>värmer</v> <p>upp</p> en rätt
+      som ingen kan smälta, kommer matsmältningsbesvären att leda till att den avvisas
+      ännu kraftigare än första gången den serverades.
+    t: É preciso cozinhar de novo, porque, se nos limitarmos a <a>requentar</a> um
+      prato que já ninguém está disposto a digerir, a indigestão provocará uma rejeição
+      muito maior do que provocou na primeira vez que foi servido.
+- c: 1
+  r: 3
+  v: preparatório
+  x:
+  - s: Vad vi gör här är i allt väsentligt att <v>värma</v> <p>upp</p> inför ”Solvens
+      II”.
+    t: O que actualmente estamos a fazer constitui um exercício <a>preparatório</a>
+      para a Solvência II.
+- c: 1
+  r: 3
+  v: pasteurizar
+  x:
+  - s: Precis som man på ett mjölkpaket informerar om att mjölken har <v>värmts</v>
+      <p>upp</p> till en viss temperatur för att de skadliga bakterierna skall dödas.
+    t: Para evitar confusão, pode ser suficiente a menção de que o produto foi submetido
+      a radiação por motivos de higiene, tal como se menciona num pacote de leite
+      o facto de este ter sido <a>pasteurizado</a>.

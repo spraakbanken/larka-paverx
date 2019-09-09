@@ -1,0 +1,159 @@
+---
+de:
+- c: 1
+  r: 1
+  v: Liter
+  x:
+  - s: Lyckligtvis kan de orka <v>dricka</v> <p>ur</p> en halvlitersflaska med mineralvatten,
+      men rakvatten eller schampo som överskrider den tillåtna mängden hamnar i en
+      behållare för ändamålet.
+    t: Glücklicherweise gelingt es ihnen, einen halben <a>Liter</a> Mineralwasser
+      auszutrinken, aber wenn ein Aftershave oder Shampoo die zulässige Höchstmenge
+      übersteigt, landet es im bereitstehenden Container.
+- c: 1
+  r: 1
+  v: Trinken
+  x:
+  - s: Men om jag i stället tar det här glaset och krossar det mot Fatuzzos huvud”
+      - precis så sade han - ”så får Fatuzzo ont i huvudet och glaset har inte använts
+      för att <v>dricka</v> <p>ur</p>.”
+    t: Wenn ich es hingegen nehme und auf dem Kopf von Herrn Fatuzzo zerschlage, “
+      - das hat er wirklich gesagt - „dann schlägt sich Fatuzzo den Kopf ein, und
+      das Glas wurde nicht zum <a>Trinken</a> verwendet.
+en:
+- c: 2
+  r: 1
+  v: drink
+  x:
+  - s: Lyckligtvis kan de orka <v>dricka</v> <p>ur</p> en halvlitersflaska med mineralvatten,
+      men rakvatten eller schampo som överskrider den tillåtna mängden hamnar i en
+      behållare för ändamålet.
+    t: Fortunately they can manage to <a>drink</a> a half-litre bottle of mineral
+      water but aftershave or shampoo exceeding the permitted limit will meet its
+      end in a ready container.
+  - s: Men om jag i stället tar det här glaset och krossar det mot Fatuzzos huvud”
+      - precis så sade han - ”så får Fatuzzo ont i huvudet och glaset har inte använts
+      för att <v>dricka</v> <p>ur</p>.”
+    t: If, however, I pick it up and smash it over Mr Fatuzzo’s head,’ - this is exactly
+      what he said - ‘Mr Fatuzzo’s head will be in pieces and the glass will not have
+      been used for <a>drinking</a>’.
+- c: 1
+  r: 2
+  v: drinking
+  x:
+  - s: Det här glaset är till för att <v>dricka</v> <p>ur</p>.
+    t: It is to be used for <a>drinking</a>.
+es:
+- c: 3
+  r: 1
+  v: beber
+  x:
+  - s: Därför kallar man det krus, som man <v>dricker</v> öl <p>ur</p>, även ett stop(p!).
+    t: Por esta razón, Por esta razón se llama también medida a la jarra con que se
+      <a>bebe</a> la cerveza.
+  - s: Det här glaset är till för att <v>dricka</v> <p>ur</p>.
+    t: Pues, este vaso sirve para <a>beber</a>.
+  - s: Men om jag i stället tar det här glaset och krossar det mot Fatuzzos huvud”
+      - precis så sade han - ”så får Fatuzzo ont i huvudet och glaset har inte använts
+      för att <v>dricka</v> <p>ur</p>.”
+    t: En cambio, si yo lo cojo y se lo parto en la cabeza del Sr. Fatuzzo,» - textualmente
+      dijo esto - «Fatuzzo se rompe la cabeza y el vaso no se ha utilizado para <a>beber</a>.»
+- c: 1
+  r: 2
+  v: beberse
+  x:
+  - s: Lyckligtvis kan de orka <v>dricka</v> <p>ur</p> en halvlitersflaska med mineralvatten,
+      men rakvatten eller schampo som överskrider den tillåtna mängden hamnar i en
+      behållare för ändamålet.
+    t: Afortunadamente, pueden apañárselas para <a>beberse</a> una botella de medio
+      litro de agua mineral pero el aftershave o el champú cuya cantidad exceda el
+      límite permitido acabará en un contenedor.
+fr:
+- c: 5
+  r: 1
+  v: boire
+  x:
+  - s: Därför kallar man det krus, som man <v>dricker</v> öl <p>ur</p>, även ett stop(p!).
+    t: C’est d’ailleurs la raison pour laquelle la chope dans laquelle on <a>boit</a>
+      la bière s’appelle une «mesure».
+  - s: Lyckligtvis kan de orka <v>dricka</v> <p>ur</p> en halvlitersflaska med mineralvatten,
+      men rakvatten eller schampo som överskrider den tillåtna mängden hamnar i en
+      behållare för ändamålet.
+    t: S’ils parviennent heureusement à <a>boire</a> un demi-litre d’eau minérale,
+      les lotions d’après-rasage et les shampoings qui dépassent la limite autorisée
+      finissent eux dans un conteneur prévu à cet effet.
+  - s: Det här glaset är till för att <v>dricka</v> <p>ur</p>.
+    t: Eh bien, ce verre sert à <a>boire</a>.
+  - s: Men om jag i stället tar det här glaset och krossar det mot Fatuzzos huvud”
+      - precis så sade han - ”så får Fatuzzo ont i huvudet och glaset har inte använts
+      för att <v>dricka</v> <p>ur</p>.”
+    t: Mais si moi, je prends ce verre et je le casse sur la tête de M. Fatuzzo,»
+      - il a vraiment dit cela - «M. Fatuzzo se casse la tête et le verre n’aura pas
+      été utilisé pour <a>boire</a>.
+  - s: Sokrates fick <v>dricka</v> <p>ur</p> giftbägaren för att han hade förolämpat
+      gudarna.
+    t: Madame le Président, Socrate a dû <a>boire</a> la ciguë parce qu’il aurait
+      offensé les dieux.
+it:
+- c: 5
+  r: 1
+  v: bere
+  x:
+  - s: Lyckligtvis kan de orka <v>dricka</v> <p>ur</p> en halvlitersflaska med mineralvatten,
+      men rakvatten eller schampo som överskrider den tillåtna mängden hamnar i en
+      behållare för ändamålet.
+    t: Devono gettare i cosmetici, e fortunatamente possono <a>bere</a> mezzo litro
+      di acqua minerale, ma un dopobarba o uno shampoo che superino i limiti consentiti
+      finiranno in un cestino.
+  - s: Det här glaset är till för att <v>dricka</v> <p>ur</p>.
+    t: Ecco, questo bicchiere serve per <a>bere</a>.
+  - s: Men om jag i stället tar det här glaset och krossar det mot Fatuzzos huvud”
+      - precis så sade han - ”så får Fatuzzo ont i huvudet och glaset har inte använts
+      för att <v>dricka</v> <p>ur</p>.”
+    t: Se io, invece, lo prendo e lo rompo sulla testa dell’onorevole Fatuzzo,» -
+      ha detto proprio così - «Fatuzzo si rompe la testa e il bicchiere non è stato
+      usato per <a>bere</a>.»
+  - s: Sokrates fick <v>dricka</v> <p>ur</p> giftbägaren för att han hade förolämpat
+      gudarna.
+    t: Signora Presidente, Socrate fu costretto a <a>bere</a> la cicuta perché, si
+      disse, aveva offeso gli dei.
+  - s: Andra tror att man kan få sjukdomen bara genom att röra vid en smittad person
+      eller genom att <v>dricka</v> <p>ur</p> samma glas eller kyssa en smittad.
+    t: All’altro estremo, si pensa che solo toccandopersone infetteo baciandole o
+      <a>bevendo</a> allo stesso loro bicchieresi possa essere contagiati.
+- c: 1
+  r: 2
+  v: birra venire
+  x:
+  - s: Därför kallar man det krus, som man <v>dricker</v> öl <p>ur</p>, även ett stop(p!).
+    t: Per questo il boccale utilizzato per servire la <a>birra</a> <a>viene</a> chiamato
+      anche Maß, ossia «misura».
+pt:
+- c: 4
+  r: 1
+  v: beber
+  x:
+  - s: Därför kallar man det krus, som man <v>dricker</v> öl <p>ur</p>, även ett stop(p!).
+    t: Por isso é que também se chama «medida» à caneca onde se <a>bebe</a> a cerveja.
+  - s: Lyckligtvis kan de orka <v>dricka</v> <p>ur</p> en halvlitersflaska med mineralvatten,
+      men rakvatten eller schampo som överskrider den tillåtna mängden hamnar i en
+      behållare för ändamålet.
+    t: Felizmente, conseguem <a>beber</a> uma garrafa de meio litro de água mineral,
+      mas os produtos para depois de barbear e os champôs que excedem o limite permitido
+      acabarão num contentor preparado para o efeito.
+  - s: Det här glaset är till för att <v>dricka</v> <p>ur</p>.
+    t: Pois bem, este copo serve para <a>beber</a>.
+  - s: Men om jag i stället tar det här glaset och krossar det mot Fatuzzos huvud”
+      - precis så sade han - ”så får Fatuzzo ont i huvudet och glaset har inte använts
+      för att <v>dricka</v> <p>ur</p>.”
+    t: Mas se, em vez disso, eu pegar nele e o partir na cabeça do senhor deputado
+      Fatuzzo,» - foi assim mesmo que ele disse - «o Fatuzzo fica com a cabeça partida
+      e o copo não foi usado para <a>beber</a>.»
+- c: 1
+  r: 2
+  v: envenenar
+  x:
+  - s: Sokrates fick <v>dricka</v> <p>ur</p> giftbägaren för att han hade förolämpat
+      gudarna.
+    t: Senhora Presidente, Sócrates foi <a>envenenado</a> porque teria ofendido os
+      deuses.

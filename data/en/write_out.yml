@@ -1,0 +1,145 @@
+---
+de:
+- c: 1
+  r: 1
+  v: schreiben
+  x:
+  - s: We have made our diagnosis clear and are now <v>writing</v> <p>out</p> the
+      prescription.
+    t: Wir haben eine klare Diagnose gestellt und <a>schreiben</a> nun das Rezept.
+es:
+- c: 2
+  r: 1
+  v: escribir
+  x:
+  - s: We have made our diagnosis clear and are now <v>writing</v> <p>out</p> the
+      prescription.
+    t: Hicimos un diagnóstico claro, y ahora estamos <a>escribiendo</a> la receta.
+  - s: If some far-sighted person fifteen years ago had <v>written</v> <p>out</p>
+      the agenda for this European Council, as it now is, complete with the reunification
+      of Europe, he would have been thought to be deluded!
+    t: Si alguna persona muy clarividente hubiera <a>escrito</a> hace 15 años la agenda
+      de este Consejo Europeo, tal cual, junto con la reunificación de Europa, le
+      habrían tomado por loco.
+- c: 1
+  r: 2
+  v: borrarme
+  x:
+  - s: Mr President, clearly new Labour are trying to <v>write</v> me <p>out</p> of
+      the pages of history in the cultural debate.
+    t: Señor Presidente, el nuevo laborismo está intentando claramente <a>borrarme</a>
+      de las páginas de la historia en el debate cultural.
+- c: 1
+  r: 2
+  v: extender cheque
+  x:
+  - s: We note - I note in my capacity as Commissioner for the Budget - that this
+      principle, according to which the Council decides on the use to which funds
+      are put and the Commission then <v>writes</v> the cheques <p>out</p>, does not
+      work well, as there has to date been under-utilisation in this area, even though
+      everybody knows what demands are made.
+    t: Constatamos —y lo hago ahora como Comisaria del presupuesto— que este principio
+      por el que el Consejo decida sobre el empleo de los créditos y la Comisión <a>extienda</a>
+      a continuación los <a>cheques</a>, no funciona bien, pues en este campo hasta
+      ahora no se utilizan plenamente los créditos a pesar de que todos saben que
+      existen necesidades.
+- c: 1
+  r: 2
+  v: desaparición
+  x:
+  - s: There is certainly scope for reform of the latter, but it would be unfortunate
+      if it were practically <v>written</v> <p>out</p> of existence.
+    t: Sin duda podría reformarse esta última, pero sería lamentable reducirla hasta
+      casi su <a>desaparición</a>.
+fr:
+- c: 1
+  r: 1
+  v: ébaucher
+  x:
+  - s: If some far-sighted person fifteen years ago had <v>written</v> <p>out</p>
+      the agenda for this European Council, as it now is, complete with the reunification
+      of Europe, he would have been thought to be deluded!
+    t: Il y a 15 ans, si un visionnaire avait <a>ébauché</a> l’agenda de ce Conseil
+      européen tel qu’il nous est présenté aujourd’hui, en ce compris la réunification
+      de l’Europe, on l’aurait pris pour un fantaisiste.
+- c: 1
+  r: 1
+  v: délivrer chèque
+  x:
+  - s: We note - I note in my capacity as Commissioner for the Budget - that this
+      principle, according to which the Council decides on the use to which funds
+      are put and the Commission then <v>writes</v> the cheques <p>out</p>, does not
+      work well, as there has to date been under-utilisation in this area, even though
+      everybody knows what demands are made.
+    t: Nous constatons - et je le constate en tant que commissaire en charge du budget
+      - que le principe selon lequel le Conseil décide de l’utilisation des ressources
+      tandis que la Commission <a>délivre</a> les <a>chèques</a> ne fonctionne pas
+      bien.
+- c: 1
+  r: 1
+  v: effacer
+  x:
+  - s: Mr President, clearly new Labour are trying to <v>write</v> me <p>out</p> of
+      the pages of history in the cultural debate.
+    t: Monsieur le Président, il est clair que le New Labour tente de m’<a>effacer</a>
+      des pages de l’histoire du débat culturel.
+it:
+- c: 1
+  r: 1
+  v: eliminare
+  x:
+  - s: There is certainly scope for reform of the latter, but it would be unfortunate
+      if it were practically <v>written</v> <p>out</p> of existence.
+    t: È vero che è necessario riformarla, ma sarebbe del tutto inopportuno che venisse
+      praticamente <a>eliminata</a>.
+- c: 1
+  r: 1
+  v: stilare
+  x:
+  - s: If some far-sighted person fifteen years ago had <v>written</v> <p>out</p>
+      the agenda for this European Council, as it now is, complete with the reunification
+      of Europe, he would have been thought to be deluded!
+    t: Se quindici anni fa qualcuno, lungimirante, avesse <a>stilato</a> il programma
+      del Consiglio europeo di Copenaghen, così com’è ora, comprensivo della riunificazione
+      dell’Europa, avremmo pensato che sarebbe rimasto deluso.
+pt:
+- c: 1
+  r: 1
+  v: apagar nome
+  x:
+  - s: Mr President, clearly new Labour are trying to <v>write</v> me <p>out</p> of
+      the pages of history in the cultural debate.
+    t: Senhor Presidente, é evidente que o Novo Trabalhismo está a tentar <a>apagar</a>
+      o meu <a>nome</a> das páginas da história no que se refere ao debate cultural.
+- c: 1
+  r: 1
+  v: cheque
+  x:
+  - s: We note - I note in my capacity as Commissioner for the Budget - that this
+      principle, according to which the Council decides on the use to which funds
+      are put and the Commission then <v>writes</v> the cheques <p>out</p>, does not
+      work well, as there has to date been under-utilisation in this area, even though
+      everybody knows what demands are made.
+    t: Verificamos - e, desta vez, verifico-o na qualidade de Comissária responsável
+      pelo orçamento - que esse princípio de ser o Conselho a decidir sobre a aplicação
+      das dotações e ser depois a Comissão a passar os <a>cheques</a> não funciona
+      bem, pois, neste domínio, temos registado até agora uma subutilização, apesar
+      de todos saberem que há aqui necessidades por satisfazer.
+- c: 1
+  r: 1
+  v: elaborar
+  x:
+  - s: If some far-sighted person fifteen years ago had <v>written</v> <p>out</p>
+      the agenda for this European Council, as it now is, complete with the reunification
+      of Europe, he would have been thought to be deluded!
+    t: Se, há 15 anos, um visionário tivesse <a>elaborado</a> a agenda para este Conselho
+      Europeu, tal como se encontra agora fixada, tendo por tema a reunificação da
+      Europa, tê-lo-iam tomado por louco.
+sv:
+- c: 1
+  r: 1
+  v: stryka
+  x:
+  - s: Mr President, clearly new Labour are trying to <v>write</v> me <p>out</p> of
+      the pages of history in the cultural debate.
+    t: Nya Labour försöker tydligen <a>stryka</a> mig från historieskrivningen i kulturdebatten.

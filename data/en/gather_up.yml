@@ -1,0 +1,100 @@
+---
+es:
+- c: 1
+  r: 1
+  v: poner
+  x:
+  - s: In my opinion, it is far too easy to sit down with the military and <v>gather</v>
+      <p>up</p> all the military equipment, which are such nice toys, after all.
+    t: Opino que es demasiado fácil reunirse con los militares y <a>poner</a> en común
+      el material militar ¡Bueno!
+- c: 1
+  r: 1
+  v: recoger
+  x:
+  - s: The countries which were opposed to the war are already getting into position
+      to <v>gather</v> <p>up</p> any crumbs that fall and to be involved in reconstruction.
+    t: Los países que se opusieron a la guerra se disponen ahora a <a>recoger</a>
+      todas las migajas que caigan y a participar en la reconstrucción.
+fr:
+- c: 1
+  r: 1
+  v: rassembler
+  x:
+  - s: In my opinion, it is far too easy to sit down with the military and <v>gather</v>
+      <p>up</p> all the military equipment, which are such nice toys, after all.
+    t: Je pense qu’il est trop facile de se réunir avec des militaires et de <a>rassembler</a>
+      du matériel militaire, qui est un si beau jouet, finalement.
+- c: 1
+  r: 1
+  v: ramasser
+  x:
+  - s: The countries which were opposed to the war are already getting into position
+      to <v>gather</v> <p>up</p> any crumbs that fall and to be involved in reconstruction.
+    t: Les pays qui étaient hostiles à la guerre se positionnent déjà pour <a>ramasser</a>
+      quelques miettes et participer à la reconstruction.
+it:
+- c: 2
+  r: 1
+  v: raccogliere
+  x:
+  - s: he might be a bit more sanguine about the health and safety regulations if
+      he had once had to <v>gather</v> <p>up</p> the remains of an unfortunate worker
+      who had slipped off a roof and ended up dead on the street below because there
+      was no scaffolding available during his work, and had then to go to the family
+      of that unfortunate man and explain why he was dead.
+    t: forse sarebbe un po’ più ottimista riguardo ai regolamenti in materia di salute
+      e sicurezza se avesse dovuto <a>raccogliere</a> i resti di uno sventurato lavoratore
+      scivolato giù da un tetto e morto per l’impatto sul terreno sottostante perché
+      non c’era un’impalcatura mentre svolgeva il suo lavoro, e fosse poi dovuto andare
+      dalla famiglia di quell’uomo sfortunato e spiegare la causa del decesso.
+  - s: The countries which were opposed to the war are already getting into position
+      to <v>gather</v> <p>up</p> any crumbs that fall and to be involved in reconstruction.
+    t: I paesi che erano contrari alla guerra, già si posizionano per <a>raccoglierne</a>
+      qualche briciola, per partecipare alle ricostruzioni.
+- c: 1
+  r: 2
+  v: nuovamente grado
+  x:
+  - s: Otherwise the proposals will just <v>gather</v> dust for two years until the
+      Parliament and the Commission are <p>up</p> and running again.
+    t: Ciò significa che tutte le proposte urgenti dovranno essere esaminate in prima
+      lettura dal Parlamento entro l’autunno, altrimenti rimarranno ferme per due
+      anni prima che il Parlamento e la Commissione siano <a>nuovamente</a> in <a>grado</a>
+      di operare.
+pt:
+- c: 2
+  r: 1
+  v: recolher
+  x:
+  - s: he might be a bit more sanguine about the health and safety regulations if
+      he had once had to <v>gather</v> <p>up</p> the remains of an unfortunate worker
+      who had slipped off a roof and ended up dead on the street below because there
+      was no scaffolding available during his work, and had then to go to the family
+      of that unfortunate man and explain why he was dead.
+    t: poderia ser um pouco mais benévolo a respeito dos regulamentos relativos à
+      saúde e segurança se alguma vez tivesse tido de <a>recolher</a> os restos de
+      um infeliz trabalhador que tivesse escorregado de um telhado e acabado morto
+      na rua por não existir qualquer andaime durante os trabalhos, e tivesse depois
+      de dirigir-se à família desse infeliz e explicar os motivos da sua morte.
+  - s: The countries which were opposed to the war are already getting into position
+      to <v>gather</v> <p>up</p> any crumbs that fall and to be involved in reconstruction.
+    t: Os países que eram contra a guerra começam a posicionar-se para dela <a>recolherem</a>
+      algumas migalhas, para participar na reconstrução.
+- c: 1
+  r: 2
+  v: ficar
+  x:
+  - s: Otherwise the proposals will just <v>gather</v> dust for two years until the
+      Parliament and the Commission are <p>up</p> and running again.
+    t: Caso contrário, estas propostas <a>ficarão</a>, em princípio, paradas durante
+      dois anos, até que o Parlamento e a Comissão recomecem a trabalhar em pleno.
+sv:
+- c: 1
+  r: 1
+  v: ligga bli
+  x:
+  - s: Otherwise the proposals will just <v>gather</v> dust for two years until the
+      Parliament and the Commission are <p>up</p> and running again.
+    t: Annars kommer dessa förslag i själva verket att bli <a>liggande</a> i två år,
+      innan parlamentet och kommissionen återigen <a>blir</a> arbetsföra.

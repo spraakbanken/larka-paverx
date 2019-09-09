@@ -1,0 +1,271 @@
+---
+de:
+- c: 2
+  r: 1
+  v: aufatmen
+  x:
+  - s: Det är ett faktum att 180 miljoner bilister och motorcyklister kan <v>andas</v>
+      <p>ut</p>.
+    t: Faktum ist, daß 180 Millionen Autofahrer und Motorradfahrer <a>aufatmen</a>
+      können.
+  - s: Antingen fortsätter vi på samma sätt och Afrikas kontinent kommer att fortsätta
+      mot undergång, eller så ändrar vi riktning radikalt och kan <v>andas</v> <p>ut</p>,
+      särskilt i Afrika, och jag upprepar att det kommer att ske genom självhushållsjordbruk
+      vilket måste prioriteras framför internationell handel.
+    t: Entweder machen wir so weiter wie bisher und der afrikanische Kontinent wird
+      untergehen, oder wir verändern radikal die Richtung und können insbesondere
+      in Afrika wieder <a>aufatmen</a>, was, wie gesagt, vor allem durch die Selbstversorgung
+      möglich wird, die vor dem internationalen Handel Vorrang haben muss.
+- c: 1
+  r: 2
+  v: durchatmen
+  x:
+  - s: Våra nationella tillsynsmyndigheter kan <v>andas</v> <p>ut</p> eftersom det
+      enda de behöver göra just nu är att hålla ljusen tända och våra hem och kontor
+      uppvärmda när efterfrågan är som störst.
+    t: Unsere nationalen Regulierungsbehörden werden <a>durchatmen</a> können, denn
+      zurzeit müssen sie nur dafür sorgen, dass auch zu den Stoßzeiten unsere Lichter
+      nicht ausgehen und unsere Häuser und Büros geheizt sind.
+- c: 1
+  r: 2
+  v: Raucher ausatmen
+  x:
+  - s: Folk har rätt att röka, men naturligtvis ska ingen behöva andas in rök på sin
+      arbetsplats eller någon annan plats, som någon annan person har <v>andats</v>
+      <p>ut</p>.
+    t: Frau Präsidentin, die Menschen haben ein Recht darauf zu rauchen, aber man
+      kann nicht einfach davon ausgehen, dass andere den Rauch am Arbeitsplatz oder
+      einem beliebigen anderen Ort einatmen müssen, den die <a>Raucher</a> <a>ausatmen</a>.
+- c: 1
+  r: 2
+  v: total
+  x:
+  - s: Vi <v>andades</v> alla <p>ut</p> när konferensen i Ottawa visade att man kommit
+      fram till ett moratorium för att hindra spridning av truppminor.
+    t: ein <a>totales</a> Verbot der Verwendung, des Verkaufs, des Exports, der Lagerung
+      und der Herstellung von Antipersonenminen.
+- c: 1
+  r: 2
+  v: werden
+  x:
+  - s: Efter kriget i Bosnien fruktade många av oss att några skulle använda freden
+      som en möjlighet bara för att <v>andas</v> <p>ut</p> innan de återgick till
+      sitt onda arbete.
+    t: Nachdem der Krieg in Bosnien beendet war, gab es viele unter uns, die befürchtet
+      haben, daß der Friede von einigen nur als Atempause benutzt <a>werden</a> könnte,
+      bevor sie ihr teuflisches Werk wieder aufnehmen.
+en:
+- c: 2
+  r: 1
+  v: breathe
+  x:
+  - s: Det är ett faktum att 180 miljoner bilister och motorcyklister kan <v>andas</v>
+      <p>ut</p>.
+    t: The fact is that 180 million car drivers and motorbike riders can <a>breathe</a>
+      a sigh of relief, since the Conciliation Committee of the European Parliament
+      has been able to prevent expensive times for them for the immediate future.
+  - s: Antingen fortsätter vi på samma sätt och Afrikas kontinent kommer att fortsätta
+      mot undergång, eller så ändrar vi riktning radikalt och kan <v>andas</v> <p>ut</p>,
+      särskilt i Afrika, och jag upprepar att det kommer att ske genom självhushållsjordbruk
+      vilket måste prioriteras framför internationell handel.
+    t: Either we go on in the same way and the continent of Africa will continue to
+      go under, or we radically change direction and can start to <a>breathe</a>,
+      particularly in Africa, and, I say again, this will be through subsistence agriculture,
+      which must take priority over international trade.
+- c: 1
+  r: 2
+  v: prohibition
+  x:
+  - s: Vi <v>andades</v> alla <p>ut</p> när konferensen i Ottawa visade att man kommit
+      fram till ett moratorium för att hindra spridning av truppminor.
+    t: a total <a>prohibition</a> on the use, sale, export, storage and production
+      of anti-personnel mines.
+- c: 1
+  r: 2
+  v: breathe easy
+  x:
+  - s: Våra nationella tillsynsmyndigheter kan <v>andas</v> <p>ut</p> eftersom det
+      enda de behöver göra just nu är att hålla ljusen tända och våra hem och kontor
+      uppvärmda när efterfrågan är som störst.
+    t: Our national regulators will <a>breathe</a> <a>easy</a> as their only job as
+      of now if to keep the lights on and our homes and offices heated at peak demand.
+- c: 1
+  r: 2
+  v: breath
+  x:
+  - s: Efter kriget i Bosnien fruktade många av oss att några skulle använda freden
+      som en möjlighet bara för att <v>andas</v> <p>ut</p> innan de återgick till
+      sitt onda arbete.
+    t: After the Bosnian war many of us feared there would be some who would use the
+      peace as an opportunity simply to take <a>breath</a> before returning to their
+      evil work.
+- c: 1
+  r: 2
+  v: breathe out
+  x:
+  - s: Folk har rätt att röka, men naturligtvis ska ingen behöva andas in rök på sin
+      arbetsplats eller någon annan plats, som någon annan person har <v>andats</v>
+      <p>ut</p>.
+    t: Madam President, people have the right to smoke but I bow to no one in saying
+      that others should not have to breathe in the smoke at the workplace or any
+      establishment that is <a>breathed</a> <a>out</a> by others.
+- c: 1
+  r: 2
+  v: breathe sigh
+  x:
+  - s: Vi <v>andades</v> alla <p>ut</p> när det i början av 90-talet hette att det
+      ekonomiska uppsvinget hade nått Latinamerika, att det förlorade 80-talet hade
+      gått mot sitt slut.
+    t: We all <a>breathed</a> a <a>sigh</a> of relief when we heard in the early 1990s
+      that the economic upswing in Latin America heralded the end of the lost decade
+      of the 1980s.
+es:
+- c: 2
+  r: 1
+  v: respirar
+  x:
+  - s: Det är ett faktum att 180 miljoner bilister och motorcyklister kan <v>andas</v>
+      <p>ut</p>.
+    t: Es un hecho que 180 millones de automovilistas y de motoristas pueden <a>respirar</a>.
+  - s: Antingen fortsätter vi på samma sätt och Afrikas kontinent kommer att fortsätta
+      mot undergång, eller så ändrar vi riktning radikalt och kan <v>andas</v> <p>ut</p>,
+      särskilt i Afrika, och jag upprepar att det kommer att ske genom självhushållsjordbruk
+      vilket måste prioriteras framför internationell handel.
+    t: Podemos seguir por el mismo camino y que África continúe hundiéndose, o cambiar
+      radicalmente de dirección y empezar a <a>respirar</a>, especialmente en el citado
+      continente;
+- c: 1
+  r: 2
+  v: respirar tranquilo
+  x:
+  - s: Våra nationella tillsynsmyndigheter kan <v>andas</v> <p>ut</p> eftersom det
+      enda de behöver göra just nu är att hålla ljusen tända och våra hem och kontor
+      uppvärmda när efterfrågan är som störst.
+    t: Los reguladores nacionales <a>respirarán</a> más <a>tranquilos</a> cuando su
+      único trabajo sea mantener las luces encendidas y las casas y oficinas calientes
+      en los momentos de máxima demanda.
+- c: 1
+  r: 2
+  v: almacenaje
+  x:
+  - s: Vi <v>andades</v> alla <p>ut</p> när konferensen i Ottawa visade att man kommit
+      fram till ett moratorium för att hindra spridning av truppminor.
+    t: una prohibición total del uso, de la venta, de la exportación, del <a>almacenaje</a>
+      y de la producción de las minas antipersonales.
+- c: 1
+  r: 2
+  v: ceder
+  x:
+  - s: Folk har rätt att röka, men naturligtvis ska ingen behöva andas in rök på sin
+      arbetsplats eller någon annan plats, som någon annan person har <v>andats</v>
+      <p>ut</p>.
+    t: Señora Presidenta, los ciudadanos tienen derecho a fumar, pero no <a>cederé</a>
+      ante quien diga que los no fumadores no deberían respirar su humo en el lugar
+      de trabajo o en cualquier establecimiento en el que puedan coincidir.
+fr:
+- c: 2
+  r: 1
+  v: respirer
+  x:
+  - s: Det är ett faktum att 180 miljoner bilister och motorcyklister kan <v>andas</v>
+      <p>ut</p>.
+    t: Aujourd’hui, 180 millions d’automobilistes et de motocyclistes peuvent <a>respirer</a>.
+  - s: Antingen fortsätter vi på samma sätt och Afrikas kontinent kommer att fortsätta
+      mot undergång, eller så ändrar vi riktning radikalt och kan <v>andas</v> <p>ut</p>,
+      särskilt i Afrika, och jag upprepar att det kommer att ske genom självhushållsjordbruk
+      vilket måste prioriteras framför internationell handel.
+    t: Soit on continue dans la même direction et le continent africain continuera
+      de s’enfoncer, soit on change radicalement de cap et on pourra commencer à <a>respirer</a>,
+      notamment sur le continent africain grâce, je le répète, à l’agriculture de
+      subsistance qui doit avoir la priorité par rapport au commerce international.
+- c: 1
+  r: 2
+  v: vendre stocker
+  x:
+  - s: Vi <v>andades</v> alla <p>ut</p> när konferensen i Ottawa visade att man kommit
+      fram till ett moratorium för att hindra spridning av truppminor.
+    t: l’interdiction sans réserves d’utiliser, de <a>vendre</a>, d’exporter, de <a>stocker</a>
+      et de produire ce type de mines.
+- c: 1
+  r: 2
+  v: exhaler
+  x:
+  - s: Folk har rätt att röka, men naturligtvis ska ingen behöva andas in rök på sin
+      arbetsplats eller någon annan plats, som någon annan person har <v>andats</v>
+      <p>ut</p>.
+    t: Madame la Présidente, les gens ont le droit de fumer, mais je ne peux nier
+      que les personnes ne doivent pas inhaler la fumée <a>exhalée</a> par d’autres
+      sur leur lieu de travail ou dans tout autre établissement.
+- c: 1
+  r: 2
+  v: souffler
+  x:
+  - s: Efter kriget i Bosnien fruktade många av oss att några skulle använda freden
+      som en möjlighet bara för att <v>andas</v> <p>ut</p> innan de återgick till
+      sitt onda arbete.
+    t: Après la guerre en Bosnie, nombre d’entre nous ont redouté que certains utilisent
+      la paix dans le seul but de <a>souffler</a> avant de reprendre leur travail
+      diabolique.
+it:
+- c: 1
+  r: 1
+  v: sospiro
+  x:
+  - s: Antingen fortsätter vi på samma sätt och Afrikas kontinent kommer att fortsätta
+      mot undergång, eller så ändrar vi riktning radikalt och kan <v>andas</v> <p>ut</p>,
+      särskilt i Afrika, och jag upprepar att det kommer att ske genom självhushållsjordbruk
+      vilket måste prioriteras framför internationell handel.
+    t: Possiamo continuare lungo la medesima linea e assistere allo sprofondamento
+      del continente africano, oppure fare un’inversione di rotta che consentirà di
+      tirare un <a>sospiro</a> di sollievo, specialmente sul continente africano,
+      grazie - ribadisco - a un’agricoltura di sussistenza che deve avere la priorità
+      sul commercio internazionale.
+- c: 1
+  r: 1
+  v: sembrare
+  x:
+  - s: Vi <v>andades</v> alla <p>ut</p> när konferensen i Ottawa visade att man kommit
+      fram till ett moratorium för att hindra spridning av truppminor.
+    t: Ciò che due anni fa <a>sembrava</a> essere del tutto impensabile, è diventato
+      realtà due settimane fa a Ottawa, dove 122 paesi hanno sottoscritto l’impegno
+      di un divieto totale dell’uso, della vendita, dell’esportazione, della detenzione
+      e della produzione di mine antiuomo.
+pt:
+- c: 1
+  r: 1
+  v: respirar
+  x:
+  - s: Antingen fortsätter vi på samma sätt och Afrikas kontinent kommer att fortsätta
+      mot undergång, eller så ändrar vi riktning radikalt och kan <v>andas</v> <p>ut</p>,
+      särskilt i Afrika, och jag upprepar att det kommer att ske genom självhushållsjordbruk
+      vilket måste prioriteras framför internationell handel.
+    t: Ou continuamos pelo mesmo rumo e o continente africano continuará a afundar-se,
+      ou mudamos radicalmente de rumo e poderemos começar a <a>respirar</a>, especialmente
+      em África, e - repito - isso será através da agricultura de subsistência, que
+      deve ter prioridade sobre o comércio internacional.
+- c: 1
+  r: 1
+  v: expelir
+  x:
+  - s: Folk har rätt att röka, men naturligtvis ska ingen behöva andas in rök på sin
+      arbetsplats eller någon annan plats, som någon annan person har <v>andats</v>
+      <p>ut</p>.
+    t: Senhora Presidente, as pessoas têm o direito de fumar, mas não peço desculpas
+      a ninguém para afirmar que os outros não devem ser obrigados a respeitar o fumo
+      <a>expelido</a> por essas pessoas nos locais de trabalho, ou em qualquer estabelecimento.
+- c: 1
+  r: 1
+  v: suspirar alívio
+  x:
+  - s: Jag måste säga att jag också gladde mig över resultatet av omröstningen, men
+      jag anser att det är alldeles för tidigt för att <v>andas</v> <p>ut</p>.
+    t: Devo dizer que também fiquei satisfeito com o resultado da votação, mas penso
+      que ainda é demasiado cedo para <a>suspirar</a> de <a>alívio</a>.
+- c: 1
+  r: 1
+  v: proibição
+  x:
+  - s: Vi <v>andades</v> alla <p>ut</p> när konferensen i Ottawa visade att man kommit
+      fram till ett moratorium för att hindra spridning av truppminor.
+    t: a <a>proibição</a> total da utilização, venda, exportação, armazenagem e produção
+      de minas antipessoal.

@@ -1,0 +1,159 @@
+---
+de:
+- c: 1
+  r: 1
+  v: abfinden
+  x:
+  - s: 'Dividing up, decoupling and <v>chopping</v> <p>up</p>:'
+    t: Diejenigen, die sich nicht mit dem Tod des Verfassungsvertrags <a>abfinden</a>
+      wollten, werden möglicherweise in die Offensive gehen.
+- c: 1
+  r: 1
+  v: raffiniert
+  x:
+  - s: This concept means that in effect, by <v>chopping</v> <p>up</p> the electoral
+      territory, we may well end up with lists of two or three MEPs in a constituency,
+      meaning that the electoral threshold will become 20 or 30%.
+    t: Dieses Konzept bedeutet doch in der Praxis, dass man durch einen <a>raffinierten</a>
+      Zuschnitt der Wahlgebiete zu Listen mit zwei oder drei Abgeordneten pro Wahlkreis
+      kommen kann, was indirekt einem <a>Mindeststimmenanteil</a> von 20 bis 30 %
+      gleichkäme.
+es:
+- c: 2
+  r: 1
+  v: trocear
+  x:
+  - s: 'Dividing up, decoupling and <v>chopping</v> <p>up</p>:'
+    t: 'Desglose, desvinculación, <a>troceado</a>:'
+  - s: This concept means that in effect, by <v>chopping</v> <p>up</p> the electoral
+      territory, we may well end up with lists of two or three MEPs in a constituency,
+      meaning that the electoral threshold will become 20 or 30%.
+    t: Este concepto significa que, efectivamente, <a>troceando</a> el territorio
+      electoral, se puede llegar a listas de dos o tres diputados por circunscripción
+      que impliquen que el umbral electoral pase al 20 o al 30%.
+- c: 1
+  r: 2
+  v: dividir
+  x:
+  - s: In fact, resources for the previous framework programme had been <v>chopped</v>
+      <p>up</p> into excessively small bits, and it has not been easy to achieve any
+      visible results.
+    t: De hecho, los recursos financieros del programa marco anterior se <a>dividieron</a>
+      en partes excesivamente pequeñas, por lo que no resultó fácil obtener resultados
+      visibles.
+- c: 1
+  r: 2
+  v: repartir
+  x:
+  - s: Because we still <v>chop</v> <p>up</p> our debates into little snippets, with
+      all nationalities and parties and shades of political opinion speaking individually,
+      rather than having a single spokesmen for all the groups who can make a real
+      and fundamental contribution to the debate.
+    t: Porque seguimos <a>repartiendo</a> nuestros debates en pequeños trocitos, en
+      los que todas las nacionalidades y todos los partidos con sus diferentes corrientes
+      toman la palabra por separado en vez de un único representante en nombre de
+      los grupos parlamentarios que pueda contribuir de forma sustancial al debate,
+      y porque tampoco tiene lugar un diálogo real con el Consejo y la Comisión en
+      que el Parlamento diga algo, a lo que responda el Consejo o la Comisión y que
+      a continuación exista la posibilidad de un segundo turno para nosotros.
+fr:
+- c: 1
+  r: 1
+  v: disperser
+  x:
+  - s: In fact, resources for the previous framework programme had been <v>chopped</v>
+      <p>up</p> into excessively small bits, and it has not been easy to achieve any
+      visible results.
+    t: En réalité, les ressources du programme précédent ont été <a>dispersées</a>
+      en tranches trop ténues et il n’a pas été facile de parvenir à des résultats
+      tangibles.
+- c: 1
+  r: 1
+  v: saucissonnage
+  x:
+  - s: 'Dividing up, decoupling and <v>chopping</v> <p>up</p>:'
+    t: 'Découpage, découplage, <a>saucissonnage</a> :'
+- c: 1
+  r: 1
+  v: charcuter
+  x:
+  - s: This concept means that in effect, by <v>chopping</v> <p>up</p> the electoral
+      territory, we may well end up with lists of two or three MEPs in a constituency,
+      meaning that the electoral threshold will become 20 or 30%.
+    t: Ce concept signifie qu’effectivement, on peut très bien, en <a>charcutant</a>
+      le territoire électoral, parvenir à des listes de deux ou trois députés par
+      circonscription, impliquant que le seuil électoral passe à 20 ou 30 %.
+- c: 1
+  r: 1
+  v: morceler
+  x:
+  - s: Because we still <v>chop</v> <p>up</p> our debates into little snippets, with
+      all nationalities and parties and shades of political opinion speaking individually,
+      rather than having a single spokesmen for all the groups who can make a real
+      and fundamental contribution to the debate.
+    t: Parce que nous continuons à <a>morceler</a> nos débats en petits morceaux dans
+      lesquels toutes les nationalités, tous les partis et toutes les tendances prennent
+      la parole séparément au lieu d’avoir un seul représentant s’exprimant au nom
+      des groupes et apportant une véritable contribution fondamentale au débat.
+it:
+- c: 1
+  r: 1
+  v: frammentare
+  x:
+  - s: In fact, resources for the previous framework programme had been <v>chopped</v>
+      <p>up</p> into excessively small bits, and it has not been easy to achieve any
+      visible results.
+    t: Le risorse destinate al precedente programma quadro erano state <a>frammentate</a>
+      in maniera eccessiva e quindi è stato difficile conseguire risultati visibili.
+- c: 1
+  r: 1
+  v: smembrare
+  x:
+  - s: 'Dividing up, decoupling and <v>chopping</v> <p>up</p>:'
+    t: 'Dividere, spezzare e <a>smembrare</a>:'
+- c: 1
+  r: 1
+  v: tagliuzzare
+  x:
+  - s: This concept means that in effect, by <v>chopping</v> <p>up</p> the electoral
+      territory, we may well end up with lists of two or three MEPs in a constituency,
+      meaning that the electoral threshold will become 20 or 30%.
+    t: '? Tale concetto significa che effettivamente, <a>tagliuzzando</a> il territorio
+      elettorale, è possibile ottenere liste di due o tre deputati per circoscrizione,
+      implicando che la soglia elettorale giunge al 20 o al 30 percento.'
+pt:
+- c: 1
+  r: 1
+  v: trinchar
+  x:
+  - s: This concept means that in effect, by <v>chopping</v> <p>up</p> the electoral
+      territory, we may well end up with lists of two or three MEPs in a constituency,
+      meaning that the electoral threshold will become 20 or 30%.
+    t: Este conceito significa que, efectivamente, podemos perfeitamente, ao <a>trinchar</a>
+      o território eleitoral, chegar a listas de dois ou três deputados por circunscrição,
+      implicando que o limite eleitoral passe para 20 ou 30%.
+- c: 1
+  r: 1
+  v: subdivisão
+  x:
+  - s: 'Dividing up, decoupling and <v>chopping</v> <p>up</p>:'
+    t: 'Corte, dissociação, <a>subdivisão</a>:'
+- c: 1
+  r: 1
+  v: dividir
+  x:
+  - s: In fact, resources for the previous framework programme had been <v>chopped</v>
+      <p>up</p> into excessively small bits, and it has not been easy to achieve any
+      visible results.
+    t: Com efeito, os recursos do anterior programa-quadro haviam sido <a>divididos</a>
+      em parcelas demasiado pequenas, e não foi fácil alcançar resultados visíveis.
+sv:
+- c: 1
+  r: 1
+  v: splittra
+  x:
+  - s: In fact, resources for the previous framework programme had been <v>chopped</v>
+      <p>up</p> into excessively small bits, and it has not been easy to achieve any
+      visible results.
+    t: I själva verket har det förra ramprogrammets resurser <a>splittrats</a> i för
+      små delar och det har inte varit lätt att uppnå synliga resultat.

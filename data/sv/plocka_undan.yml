@@ -1,0 +1,19 @@
+---
+en:
+- c: 1
+  r: 1
+  v: clear away
+  x:
+  - s: Eller är det jag som bär skulden för att inte ha <v>plockat</v> <p>undan</p>
+      korven och lagt den i kylskåpet när jag var klar med min måltid?
+    t: Or rather, am I to blame for not <a>clearing</a> <a>away</a> the sausage and
+      putting it back in the refrigerator after I had finished my meal?
+fr:
+- c: 1
+  r: 1
+  v: ranger
+  x:
+  - s: Eller är det jag som bär skulden för att inte ha <v>plockat</v> <p>undan</p>
+      korven och lagt den i kylskåpet när jag var klar med min måltid?
+    t: Ou moi-même pour n’avoir pas débarrassé et <a>rangé</a> dans le réfrigérateur
+      ladite saucisse après avoir terminé mon repas ?

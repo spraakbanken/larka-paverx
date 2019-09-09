@@ -1,0 +1,74 @@
+---
+de:
+- c: 1
+  r: 1
+  v: vierspurig Ausbau
+  x:
+  - s: We will not be able to support this new solution since it does not clearly
+      define the simultaneous purpose of benefiting the interests of the coastline
+      and the centre of the country by <v>doubling</v> <p>up</p> the IP 5 highway.
+    t: Solange nicht wenigstens klar festgelegt wird, daß gleichzeitig der <a>vierspurige</a>
+      <a>Ausbau</a> der IP 5 erfolgen wird, und damit die Interessen der Küstengebiete
+      und Mittelportugals berücksichtigt werden, können wir die jetzt vertretene Lösung
+      nicht unterstützen.
+- c: 1
+  r: 1
+  v: Verdoppelung
+  x:
+  - s: What we were proposing to do here was to <v>double</v> <p>up</p> on existing
+      regulation with all the potential for ambiguity and confusion that would have
+      created.
+    t: Was wir hier vorschlagen, ist eine <a>Verdoppelung</a> der bestehenden Rechtsvorschriften,
+      was höchstwahrscheinlich zu Mehrdeutigkeit und Verwirrung führen würde.
+es:
+- c: 1
+  r: 1
+  v: duplicación
+  x:
+  - s: We will not be able to support this new solution since it does not clearly
+      define the simultaneous purpose of benefiting the interests of the coastline
+      and the centre of the country by <v>doubling</v> <p>up</p> the IP 5 highway.
+    t: Mientras no se determine claramente, al menos, la simultaneidad de la mejora
+      y la <a>duplicación</a> del IP5, que redunde en pro de los intereses del litoral
+      y del centro, no podremos apoyar la solución que ahora se propugna.
+it:
+- c: 1
+  r: 1
+  v: raddoppio
+  x:
+  - s: We will not be able to support this new solution since it does not clearly
+      define the simultaneous purpose of benefiting the interests of the coastline
+      and the centre of the country by <v>doubling</v> <p>up</p> the IP 5 highway.
+    t: Fino a che non si definirà chiaramente, quanto meno, la possibilità di utilizzare
+      l’IP5 e non se ne prevedrà, contemporaneamente, il <a>raddoppio</a>, così da
+      servire gli interessi della regione costiera e del centro, non potremo appoggiare
+      la soluzione che viene ora proposta.
+- c: 1
+  r: 1
+  v: raddoppiare
+  x:
+  - s: What we were proposing to do here was to <v>double</v> <p>up</p> on existing
+      regulation with all the potential for ambiguity and confusion that would have
+      created.
+    t: In questo caso si proponeva di <a>raddoppiare</a> la normativa esistente con
+      tutto il potenziale di ambiguità e di confusione che ciò comporterebbe.
+pt:
+- c: 1
+  r: 1
+  v: duplicação
+  x:
+  - s: We will not be able to support this new solution since it does not clearly
+      define the simultaneous purpose of benefiting the interests of the coastline
+      and the centre of the country by <v>doubling</v> <p>up</p> the IP 5 highway.
+    t: Enquanto se não definir claramente, pelo menos, a simultaneidade da beneficiação
+      e da <a>duplicação</a> do IP5 que sirva, assim, os interesses do litoral e do
+      centro, não podemos apoiar a solução agora preconizada.
+sv:
+- c: 1
+  r: 1
+  v: arbeta
+  x:
+  - s: I know the poor mountains, the dry mountains, snowless mountains, mountains
+      where farmers cannot <v>double</v> <p>up</p> as skiing instructors.
+    t: Jag känner till de fattiga bergen, de torra bergen, bergen som saknar snö,
+      bergen där jordbrukaren inte kan <a>arbeta</a> som skidlärare.

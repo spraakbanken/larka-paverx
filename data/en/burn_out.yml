@@ -1,0 +1,358 @@
+---
+de:
+- c: 1
+  r: 1
+  v: Überlastung schon
+  x:
+  - s: Many <v>burn</v> <p>out</p> long before their pensionable age due to overworking.
+    t: Viele sind aufgrund von <a>Überlastung</a> <a>schon</a> lange vor Erreichen
+      des Rentenalters ein Wrack.
+- c: 1
+  r: 1
+  v: Erschöpfungszustand
+  x:
+  - s: That applies, of course, to the working environment, and especially to the
+      new problems arising in the working environment in connection with people being
+      stressed, excluded, <v>burned</v> <p>out</p> and such like.
+    t: Das betrifft natürlich die Arbeitsbedingungen, nicht zuletzt die neuen gesundheitlichen
+      Probleme wie Stress, Ausgrenzung, <a>Erschöpfungszustände</a> u. ä., aber auch
+      das lebenslange Lernen.
+- c: 1
+  r: 1
+  v: verlöschen
+  x:
+  - s: It is not yet time to let the candle of Russian civil society <v>burn</v> <p>out</p>.
+    t: Es ist noch nicht an der Zeit, die Kerze der russischen Zivilbevölkerung <a>verlöschen</a>
+      zu lassen.
+- c: 1
+  r: 1
+  v: erlöschen
+  x:
+  - s: Thank God the fire is now gradually beginning to <v>burn</v> <p>out</p> by
+      itself.
+    t: Gott sei Dank können wir jetzt feststellen, daß der Brand allmählich von selbst
+      zu <a>erlöschen</a> beginnt.
+- c: 1
+  r: 1
+  v: überleben haben
+  x:
+  - s: It may be that we simply have to wait for things to <v>burn</v> themselves
+      <p>out</p>.
+    t: Vielleicht müssen wir einfach abwarten, bis sich die Dinge von selbst <a>überlebt</a>
+      <a>haben</a>.
+- c: 1
+  r: 1
+  v: Brand
+  x:
+  - s: This year, 700 cars have been <v>burnt</v> <p>out</p> in Strasbourg.
+    t: In Straßburg wurden dieses Jahr 700 Autos in <a>Brand</a> gesteckt.
+- c: 1
+  r: 1
+  v: vergiften
+  x:
+  - s: This is, in fact, one of the last ways out following a generation of production
+      and mobility that has <v>burnt</v> itself <p>out</p>.
+    t: Es handelt sich nicht um einen einfachen Bericht über die künftige Verkehrspolitik,
+      der zur Beratung vorliegt, sondern um eine der letzten Gelegenheiten zur Umkehr
+      nach einer Generation der grenzenlosen Produktion und Mobilität, die sich selbst
+      <a>vergiftet</a>.
+es:
+- c: 2
+  r: 1
+  v: apagar
+  x:
+  - s: It is not yet time to let the candle of Russian civil society <v>burn</v> <p>out</p>.
+    t: Aún no es el momento de dejar que la llama de la sociedad civil rusa se <a>apague</a>.
+  - s: It may be that we simply have to wait for things to <v>burn</v> themselves
+      <p>out</p>.
+    t: Quizá tengamos simplemente que esperar a que la situación se <a>apague</a>
+      por sí misma.
+- c: 1
+  r: 2
+  v: incendiar
+  x:
+  - s: In addition, many villages and houses have been <v>burnt</v> <p>out</p> and
+      stocks of food and medicines are diminishing.
+    t: Además, muchos pueblos y casas han sido <a>incendiados</a> y existe una escasez
+      creciente de alimentos y medicinas.
+- c: 1
+  r: 2
+  v: sobrecargar trabajo
+  x:
+  - s: Many <v>burn</v> <p>out</p> long before their pensionable age due to overworking.
+    t: Muchos de ellos están <a>sobrecargados</a> de <a>trabajo</a> mucho antes de
+      llegar a la edad que da derecho a una pensión .
+- c: 1
+  r: 2
+  v: psíquico
+  x:
+  - s: That applies, of course, to the working environment, and especially to the
+      new problems arising in the working environment in connection with people being
+      stressed, excluded, <v>burned</v> <p>out</p> and such like.
+    t: Sin embargo, se necesitan muchas medidas en esta materia - obviamente en el
+      terreno del entorno laboral - especialmente respecto de nuevos problemas medioambientales
+      relacionados, por ejemplo, con el estrés, la marginación, el agotamiento físico
+      y <a>psíquico</a> y, además, en torno a la formación continua.
+- c: 1
+  r: 2
+  v: salir
+  x:
+  - s: We walked through ruins, past smashed up and <v>burnt</v> <p>out</p> cars,
+      the rubble from collapsed houses and smashed pavements.
+    t: Las canalizaciones rotas dejan <a>salir</a> el agua que forma torrentes de
+      suciedad.
+- c: 1
+  r: 2
+  v: extinguiéndo
+  x:
+  - s: Thank God the fire is now gradually beginning to <v>burn</v> <p>out</p> by
+      itself.
+    t: Gracias a Dios podemos determinar que el incendio va <a>extinguiéndose</a>
+      poco a poco.
+- c: 1
+  r: 2
+  v: arder
+  x:
+  - s: This year, 700 cars have been <v>burnt</v> <p>out</p> in Strasbourg.
+    t: En Estrasburgo este año han <a>ardido</a> 700 coches.
+- c: 1
+  r: 2
+  v: agotar
+  x:
+  - s: So much productivity is being required from people that many are physically
+      or mentally <v>burnt</v> <p>out</p> long before they reach the pensionable age.
+    t: Se está exigiendo tanta productividad a los trabajadores que muchos de ellos
+      están <a>agotados</a> física o mentalmente mucho antes de llegar a la edad de
+      jubilación.
+fr:
+- c: 2
+  r: 1
+  v: user
+  x:
+  - s: Many <v>burn</v> <p>out</p> long before their pensionable age due to overworking.
+    t: Beaucoup sont <a>usés</a> bien avant l’âge de la retraite.
+  - s: So much productivity is being required from people that many are physically
+      or mentally <v>burnt</v> <p>out</p> long before they reach the pensionable age.
+    t: On attend tellement de la productivité des travailleurs que bon nombre d’entre
+      eux sont physiquement ou psychologiquement <a>usés</a> avant d’avoir atteint
+      l’âge de la retraite.
+- c: 2
+  r: 1
+  v: éteindre
+  x:
+  - s: Thank God the fire is now gradually beginning to <v>burn</v> <p>out</p> by
+      itself.
+    t: Dieu merci, nous pouvons à présent constater que le feu commence peu à peu
+      à s’<a>éteindre</a> de lui-même.
+  - s: It is not yet time to let the candle of Russian civil society <v>burn</v> <p>out</p>.
+    t: L’heure n’est pas encore venue de laisser la flamme de la société civile russe
+      s’<a>éteindre</a>.
+- c: 1
+  r: 2
+  v: jaillir
+  x:
+  - s: We walked through ruins, past smashed up and <v>burnt</v> <p>out</p> cars,
+      the rubble from collapsed houses and smashed pavements.
+    t: Les canalisations crevées laissent <a>jaillir</a> de l’eau qui forme des torrents
+      de saleté.
+- c: 1
+  r: 2
+  v: tasser
+  x:
+  - s: It may be that we simply have to wait for things to <v>burn</v> themselves
+      <p>out</p>.
+    t: Peut-être devons-nous simplement attendre que les événements se <a>tassent</a>.
+- c: 1
+  r: 2
+  v: autoasphyxier
+  x:
+  - s: This is, in fact, one of the last ways out following a generation of production
+      and mobility that has <v>burnt</v> itself <p>out</p>.
+    t: Il s’agit, en fait, d’une des dernières sorties de secours après une génération
+      de production et de mobilité qui s’est <a>autoasphyxiée</a>.
+- c: 1
+  r: 2
+  v: épuisement
+  x:
+  - s: That applies, of course, to the working environment, and especially to the
+      new problems arising in the working environment in connection with people being
+      stressed, excluded, <v>burned</v> <p>out</p> and such like.
+    t: Cependant, dans ce domaine, une large série de mesures s’impose, bien entendu
+      en ce qui concerne l’environnement de travail, et notamment les nouveaux problèmes
+      tels que le stress, l’exclusion, l’<a>épuisement</a>, etc., mais aussi l’apprentissage
+      tout au long de la vie.
+it:
+- c: 1
+  r: 1
+  v: compiere corso
+  x:
+  - s: It may be that we simply have to wait for things to <v>burn</v> themselves
+      <p>out</p>.
+    t: Forse è il caso di attendere che gli eventi <a>compiano</a> il loro <a>corso</a>.
+- c: 1
+  r: 1
+  v: bruciare
+  x:
+  - s: In addition, many villages and houses have been <v>burnt</v> <p>out</p> and
+      stocks of food and medicines are diminishing.
+    t: Interi villaggi e abitazioni sono stati <a>bruciati</a> e mancano cibo e medicinali.
+- c: 1
+  r: 1
+  v: bruciata
+  x:
+  - s: We walked through ruins, past smashed up and <v>burnt</v> <p>out</p> cars,
+      the rubble from collapsed houses and smashed pavements.
+    t: Scavalchiamo rovine, macchine rotte, <a>bruciate</a>, detriti di case crollate,
+      marciapiedi sventrati.
+- c: 1
+  r: 1
+  v: burning out
+  x:
+  - s: That applies, of course, to the working environment, and especially to the
+      new problems arising in the working environment in connection with people being
+      stressed, excluded, <v>burned</v> <p>out</p> and such like.
+    t: Questo richiede però una lunga serie di interventi, indubbiamente sull’ambiente
+      di lavoro - per esempio, agendo sui nuovi problemi collegati all’ambiente di
+      lavoro rappresentati dallo stress, dall’esclusione, dal <a>burning</a> <a>out</a>
+      eccetera -, ma anche in termini di apprendimento lungo l’intero arco della vita.
+- c: 1
+  r: 1
+  v: spegnere
+  x:
+  - s: Thank God the fire is now gradually beginning to <v>burn</v> <p>out</p> by
+      itself.
+    t: Grazie a Dio oggi possiamo constatare che il fuoco comincia a <a>spegnersi</a>
+      da solo.
+- c: 1
+  r: 1
+  v: incendiare
+  x:
+  - s: This year, 700 cars have been <v>burnt</v> <p>out</p> in Strasbourg.
+    t: Quest’anno a Strasburgo sono state <a>incendiate</a> 700 automobili.
+- c: 1
+  r: 1
+  v: consumere
+  x:
+  - s: So much productivity is being required from people that many are physically
+      or mentally <v>burnt</v> <p>out</p> long before they reach the pensionable age.
+    t: Il livello della produttività richiesta dalle persone è così elevato che molti
+      si <a>consumano</a> mentalmente o fisicamente ben prima di raggiungere l’età
+      pensionabile.
+pt:
+- c: 1
+  r: 1
+  v: desgastar
+  x:
+  - s: As long as pressure of work continues to rise because the working population
+      is required to deliver maximum productivity, we should not be surprised if people
+      <v>burn</v> <p>out</p> at an increasingly younger age.
+    t: Enquanto a pressão do trabalho continuar a aumentar, em virtude de se exigir
+      o máximo de produtividade àqueles que trabalham, não é de espantar que as pessoas
+      fiquem <a>desgastadas</a> numa idade cada vez mais precoce.
+- c: 1
+  r: 1
+  v: síndroma esgotamento
+  x:
+  - s: That applies, of course, to the working environment, and especially to the
+      new problems arising in the working environment in connection with people being
+      stressed, excluded, <v>burned</v> <p>out</p> and such like.
+    t: No plano do ambiente de trabalho, naturalmente, no tocante aos novos problemas
+      relacionados com o stress, a exclusão, o <a>síndroma</a> do <a>esgotamento</a>
+      e outros, mas também no plano da formação ao longo da vida.
+- c: 1
+  r: 1
+  v: extinguir
+  x:
+  - s: Thank God the fire is now gradually beginning to <v>burn</v> <p>out</p> by
+      itself.
+    t: Graças a Deus, podemos agora verificar que o fogo começa gradualmente a <a>extinguir</a><a>-se</a>
+      por si próprio.
+- c: 1
+  r: 1
+  v: queimar
+  x:
+  - s: This year, 700 cars have been <v>burnt</v> <p>out</p> in Strasbourg.
+    t: Em Estrasburgo, este ano, 700 automóveis foram <a>queimados</a>.
+- c: 1
+  r: 1
+  v: sair
+  x:
+  - s: We walked through ruins, past smashed up and <v>burnt</v> <p>out</p> cars,
+      the rubble from collapsed houses and smashed pavements.
+    t: As canalizações perfuradas deixam <a>sair</a> a água em esguichos que formam
+      torrentes de lama.
+- c: 1
+  r: 1
+  v: psiquicamente desgastar
+  x:
+  - s: So much productivity is being required from people that many are physically
+      or mentally <v>burnt</v> <p>out</p> long before they reach the pensionable age.
+    t: Exige-se tanta produtividade às pessoas que muitas delas já estão física ou
+      <a>psiquicamente</a> <a>desgastadas</a> muito antes de atingirem a idade da
+      reforma.
+sv:
+- c: 1
+  r: 1
+  v: brännas
+  x:
+  - s: This year, 700 cars have been <v>burnt</v> <p>out</p> in Strasbourg.
+    t: I Strasbourg i år har 700 bilar <a>bränts</a>.
+- c: 1
+  r: 1
+  v: utsliten redan
+  x:
+  - s: Many <v>burn</v> <p>out</p> long before their pensionable age due to overworking.
+    t: Det är endast få som klarar av det under någon längre tid. Många är på grund
+      av överbelastning <a>utslitna</a> <a>redan</a> långt innan pensionsåldern.
+- c: 1
+  r: 1
+  v: bränna
+  x:
+  - s: We walked through ruins, past smashed up and <v>burnt</v> <p>out</p> cars,
+      the rubble from collapsed houses and smashed pavements.
+    t: Vi klev över ruiner, förstörda och <a>brända</a> bilar, bråte från nedfallna
+      hus, förstörda trottoarer.
+- c: 1
+  r: 1
+  v: färd avta
+  x:
+  - s: Thank God the fire is now gradually beginning to <v>burn</v> <p>out</p> by
+      itself.
+    t: Gud ske lov kan vi nu konstatera att branden så småningom tycks vara i <a>färd</a>
+      att <a>avta</a> av sig självt.
+- c: 1
+  r: 1
+  v: självkvävts
+  x:
+  - s: This is, in fact, one of the last ways out following a generation of production
+      and mobility that has <v>burnt</v> itself <p>out</p>.
+    t: Det här är i själva verket en av de sista utvägar som finns kvar, efter det
+      att en hel generation av produktion och rörlighet har <a>självkvävts</a>.
+- c: 1
+  r: 1
+  v: utbränd
+  x:
+  - s: So much productivity is being required from people that many are physically
+      or mentally <v>burnt</v> <p>out</p> long before they reach the pensionable age.
+    t: Det krävs så mycket produktivitet av människor att många är fysiskt eller mentalt
+      <a>utbrända</a> långt innan de når pensionsåldern.
+- c: 1
+  r: 1
+  v: utbrändhet
+  x:
+  - s: That applies, of course, to the working environment, and especially to the
+      new problems arising in the working environment in connection with people being
+      stressed, excluded, <v>burned</v> <p>out</p> and such like.
+    t: Det gäller naturligtvis arbetsmiljön, inte minst de nya arbetsmiljöproblemen
+      rörande stress, utanförskap, <a>utbrändhet</a> och liknande, men det gäller
+      också det livslånga lärandet.
+- c: 1
+  r: 1
+  v: utsliten
+  x:
+  - s: As long as pressure of work continues to rise because the working population
+      is required to deliver maximum productivity, we should not be surprised if people
+      <v>burn</v> <p>out</p> at an increasingly younger age.
+    t: Så länge arbetsbelastningen fortsätter att öka genom att en maximal produktivitet
+      krävs av dem som arbetar får man inte bli förvånad om människor blir <a>utslitna</a>
+      i allt yngre ålder.

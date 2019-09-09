@@ -1,0 +1,357 @@
+---
+de:
+- c: 1
+  r: 1
+  v: erneut
+  x:
+  - s: Det är upp till er att göra det, jag kan inte <v>ta</v> <p>om</p> en omröstning
+      om en text som har ersatts, vare sig med namnupprop eller inte.
+    t: ich kann nicht <a>erneut</a> namentlich oder auch nicht-namentlich über einen
+      Text abstimmen lassen, der ersetzt worden ist.
+en:
+- c: 2
+  r: 1
+  v: take
+  x:
+  - s: 'Jag skulle även via stöd till denna resolution vilja betona att Europeiska
+      gemenskapen inte endast kommer att uträtta utmärkt arbete inom ekonomi och juridik
+      utan även kommer att bedriva en social och uppmuntrande politik så att organisationer
+      som <v>tar</v> <p>om</p> hand de utsatta människorna därborta:'
+    t: Yet that is precisely the kind of group we must care for, the elderly who are
+      often locked away with the mentally ill with hardly a soul to <a>take</a> care
+      of them.
+  - s: Först vill jag betona att parlamentet <v>tog</v> initiativ till att utarbeta
+      ett betänkande om ”icke-spridning”, inte <p>om</p> nedrustning.
+    t: I wish to begin by highlighting the fact that Parliament <a>took</a> the initiative
+      of drawing up a report on ‘non-proliferation’ and not disarmament.
+- c: 1
+  r: 2
+  v: tackle
+  x:
+  - s: Om det är ett effektivare och mer solidariskt Europa ni önskar, om ert mål
+      är att i första hand verka för medborgarna, så är det arbetslöshetsproblemet
+      som man måste <v>ta</v> ett rejält grepp <p>om</p> för att bemöta deras verkliga
+      förväntningar.
+    t: If you want a more efficient and tightly-knit Europe and to act primarily for
+      the citizens of Europe, then you will have to <a>tackle</a> the unemployment
+      problem firmly in order to satisfy their expectations.
+- c: 1
+  r: 2
+  v: make
+  x:
+  - s: Vi ansåg inte att det var riktigt att återigen <v>ta</v> upp en diskussion
+      om beslutet i Ekofin-rådet i december 1991 <p>om</p> att avsluta den skattefria
+      försäljningen inom gemenskapen, vilket det fanns en ansats till i den ursprungliga
+      rapporten.
+    t: I am not just an advocate of duty-free because I want to <a>make</a> it easy
+      for executives with money to spend to buy luxury goods on business trips.
+- c: 1
+  r: 2
+  v: be
+  x:
+  - s: Föredraganden <v>tar</v> <p>om</p> sin gamla refräng, men med nya ord.
+    t: The rapporteur <a>is</a> repeating his old refrain with new words.
+- c: 1
+  r: 2
+  v: again
+  x:
+  - s: Trots detta har vi beslutat oss för att <v>ta</v> <p>om</p> vårt resolutionsförslag,
+      vars godkännande vi hoppas skall vara en europeisk solidaritetsyttring till
+      folket och till den regionala regeringen på Azorerna och stöd för ett införande
+      i fördraget av ett särskilt system för de ultraperiferiska regionerna.
+    t: Despite this we have decided to present once <a>again</a> this motion for a
+      resolution whose approval we hope will show European solidarity with the people
+      and the regional government of the Azores and support enshrinement in the Treaty
+      of a special scheme to deal with and help ultra-peripheral regions of the European
+      Union.
+- c: 1
+  r: 2
+  v: get
+  x:
+  - s: ', där alla normer är omvända och svart har blivit vitt, så jag tror att det
+      skulle vara lämpligt att <v>ta</v> <p>om</p> det från grunden.'
+    t: Mr President, there have been times in recent months when I have felt that
+      we are conducting politics through the looking-glass, where all the norms are
+      reversed and black has become white, so I think it is quite useful for us to
+      <a>get</a> back to basics.
+- c: 1
+  r: 2
+  v: take again
+  x:
+  - s: Jag lämnar därför in en formell begäran om att <v>ta</v> <p>om</p> omröstningen.
+    t: I therefore make a formal request for the vote to be <a>taken</a> <a>again</a>.
+- c: 1
+  r: 2
+  v: start
+  x:
+  - s: De sextio närvarande ledamöterna” fortsätter Monnet, ”visste inte att de i
+      mer än tio månader skulle få höra mig <v>ta</v> <p>om</p> samma läxa som är
+      en av de svåraste att lära sig för män utbildade för att försvara och gagna
+      rent nationella intressen.”
+    t: The sixty delegates present did not know they would have to listen to me for
+      more than ten months, and <a>start</a> this lesson over again, one of the most
+      difficult lessons to learn that there is, for men trained up in the defence
+      and conquest of purely national interests.
+- c: 1
+  r: 2
+  v: be cover
+  x:
+  - s: Vi kommer bara att <v>ta</v> <p>om</p> samma sak på nytt.
+    t: We will just simply <a>be</a> <a>covering</a> the same ground again.
+- c: 1
+  r: 2
+  v: take regard
+  x:
+  - s: Vilka beslut har man <v>tagit</v> <p>om</p> en definitiv stängning av enheterna
+      1 och 2 före utgången av år 2002 och vilka steg har tagits för att ingå ett
+      avtal så att den slutgiltiga rivningen av enheterna 3 och 4 sker tidigare år
+      2006, som villkoret är i det memorandum man kommit överens om?
+    t: What decisions have been <a>taken</a> <a>regarding</a> the definitive closure
+      of units 1 and 2 by the end of 2002 and what steps have been taken to conclude
+      an agreement on the definitive closure of units 3 and 4 earlier than 2006, as
+      called for in the agreed memorandum?
+es:
+- c: 1
+  r: 1
+  v: haber
+  x:
+  - s: Trots det beslut Förenade kungarikets regering <v>tagit</v> <p>om</p> att Storbritannien
+      inte ska gå med i den gemensamma valutan i den första fasen, så tror jag att
+      en stor majoritet av alla här i kammaren inser att det är den nya regeringens
+      och den nya ordförandeskapets föresats att på ett säkert sätt genomföra den
+      sista etappen för EMU.
+    t: Pese a que el Gobierno del Reino Unido <a>ha</a> decidido que Gran Bretaña
+      no se incorpore a la moneda única en la primera fase, creo que la inmensa mayoría
+      de los diputados a esta Asamblea reconocen que el nuevo Gobierno y la Presidencia
+      están firmemente decididos a realizar con seguridad la fase final de la UEM.
+- c: 1
+  r: 1
+  v: tomar
+  x:
+  - s: När det gäller den europeiska konferensen som hölls i Luxemburg i går så skulle
+      jag bara vilja uttrycka min stora uppskattning för det initiativ som ordförandeskapet
+      <v>tagit</v> <p>om</p> att på dagordningen för den andra europeiska konferensen
+      ta upp de viktiga teman som Ferrero nyss lade fram.
+    t: Señor Presidente, con respecto a la Conferencia Europea que se celebró ayer
+      en Luxemburgo solamente quisiera expresar mi gran respeto por la iniciativa
+      que ha <a>tomado</a> la Presidencia para poner en el orden del día de esta segunda
+      Conferencia Europea estos importantes temas que la Sra. Ferrero acaba de plantear.
+- c: 1
+  r: 1
+  v: respecto
+  x:
+  - s: Jag välkomnar det initiativ som kommissionen <v>tog</v> <p>om</p> hållbar energi.
+    t: Agradezco las iniciativas tomadas por la Comisión con <a>respecto</a> a la
+      energía sostenible.
+- c: 1
+  r: 1
+  v: relativo
+  x:
+  - s: Vi kunde absolut inte instämma i hans åsikt att det skulle vara förnedrande
+      för parlamentet att <v>ta</v> fram detaljerade instruktioner <p>om</p> vad vi
+      vill att kommissionen skall ta upp i sitt reformpaket.
+    t: De ningún modo podíamos estar de acuerdo con su opinión de que sería humillante
+      para el Parlamento Europeo establecer instrucciones detalladas <a>relativas</a>
+      a lo que deseamos que la Comisión incluya en su paquete de reformas.
+- c: 1
+  r: 1
+  v: recoger
+  x:
+  - s: Föredraganden <v>tar</v> <p>om</p> sin gamla refräng, men med nya ord.
+    t: El informe <a>recoge</a> su viejo estribillo con palabras nuevas.
+fr:
+- c: 1
+  r: 1
+  v: prendre vue
+  x:
+  - s: Vilka beslut har man <v>tagit</v> <p>om</p> en definitiv stängning av enheterna
+      1 och 2 före utgången av år 2002 och vilka steg har tagits för att ingå ett
+      avtal så att den slutgiltiga rivningen av enheterna 3 och 4 sker tidigare år
+      2006, som villkoret är i det memorandum man kommit överens om?
+    t: Quelles décisions ont été <a>prises</a> en <a>vue</a> de la fermeture définitive
+      des unités 1 et 2 avant la fin de l’an 2002 et quelles démarches ont été entreprises
+      en vue de la conclusion d’un accord sur le confinement définitif des unités
+      3 et 4 avant 2006, comme le mémorandum convenu l’exige ?
+- c: 1
+  r: 1
+  v: soulever
+  x:
+  - s: För det första, anser jag att den fråga som socialistgruppens ordförande <v>tog</v>
+      upp i går <p>om</p> att återinsätta debatten med kommissionens ordförande om
+      det femåriga strategiska programmet var tillräckligt viktig för att andra talare
+      som kort ville kommentera denna fråga skulle kunna tillmötesgås.
+    t: Premièrement, je crois que la question <a>soulevée</a> hier par le président
+      du groupe des socialiste, visant à réinscrire le débat avec le président de
+      la Commission sur le programme stratégique pour les cinq ans à venir, était
+      assez importante pour que d’autres orateurs souhaitant brièvement intervenir
+      sur ce sujet aient été contentés.
+- c: 1
+  r: 1
+  v: savoir avoir mettre
+  x:
+  - s: När det gäller den europeiska konferensen som hölls i Luxemburg i går så skulle
+      jag bara vilja uttrycka min stora uppskattning för det initiativ som ordförandeskapet
+      <v>tagit</v> <p>om</p> att på dagordningen för den andra europeiska konferensen
+      ta upp de viktiga teman som Ferrero nyss lade fram.
+    t: Monsieur le Président, par rapport à la Conférence européenne qui s’est tenue
+      hier à Luxembourg, je voulais seulement exprimer ma plus profonde estime pour
+      l’initiative entreprise par la présidence, à <a>savoir</a> d’<a>avoir</a> <a>mis</a>
+      à l’ordre du jour de cette deuxième Conférence européenne ces thèmes importants
+      dont madame Ferrero nous a parlé à l’instant.
+- c: 1
+  r: 1
+  v: reprendre
+  x:
+  - s: Föredraganden <v>tar</v> <p>om</p> sin gamla refräng, men med nya ord.
+    t: Le rapporteur <a>reprend</a> son vieux refrain avec de nouvelles paroles.
+- c: 1
+  r: 1
+  v: répéter
+  x:
+  - s: Det är upp till er att göra det, jag kan inte <v>ta</v> <p>om</p> en omröstning
+      om en text som har ersatts, vare sig med namnupprop eller inte.
+    t: C’est à vous de le faire, moi je ne peux pas <a>répéter</a> un vote sur un
+      texte qui a été remplacé, qu’il soit par appel nominal, ou non nominal.
+- c: 1
+  r: 1
+  v: recommencer
+  x:
+  - s: De sextio närvarande ledamöterna” fortsätter Monnet, ”visste inte att de i
+      mer än tio månader skulle få höra mig <v>ta</v> <p>om</p> samma läxa som är
+      en av de svåraste att lära sig för män utbildade för att försvara och gagna
+      rent nationella intressen.”
+    t: Les soixante délégués présents» continue Monnet, «ne savaient pas qu’ils auraient
+      à m’entendre, pendant plus de dix mois, <a>recommencer</a> cette leçon, qui
+      est une des plus difficiles à apprendre pour des hommes formés à la défense
+      et à la conquête d’intérêts purement nationaux.
+- c: 1
+  r: 1
+  v: rappeler
+  x:
+  - s: ', där alla normer är omvända och svart har blivit vitt, så jag tror att det
+      skulle vara lämpligt att <v>ta</v> <p>om</p> det från grunden.'
+    t: C’est la raison pour laquelle je pense qu’il est tout à fait utile de <a>rappeler</a>
+      certaines choses essentielles.
+- c: 1
+  r: 1
+  v: concerner
+  x:
+  - s: Jag ser gärna att en del av EU:s informationsbudget läggs på att säkerställa,
+      både via digitala informationsmedier och personlig kontakt, att medborgarna
+      får äkta och fullständig information och svar på frågor som t.ex. ”Kan ni upplysa
+      mig om hur de beslut som Europa <v>tog</v> <p>om</p> den europeiska insatsen
+      under konferensen i Köpenhamn om klimatförändringarna fortlöper?”.
+    t: Je voudrais qu’une partie du budget européen de l’information serve à garantir,
+      par l’intermédiaire d’outils d’information numériques et de contacts humains,
+      que les citoyens reçoivent des informations authentiques et complètes à des
+      questions telles que «Pouvez-vous me dire l’état d’avancement précis des décisions
+      prises par l’Europe <a>concernant</a> l’effort européen au cours de la Conférence
+      sur le changement climatique de Copenhague ?» C’est ce que les citoyens veulent
+      savoir.
+- c: 1
+  r: 1
+  v: mettre
+  x:
+  - s: Låt oss nu göra som PSE-gruppen redan gjort under den gångna sammanträdesperioden
+      och visa mod för att <v>ta</v> alla <p>om</p> och men för att helt lägga om
+      rodret.
+    t: Montrons la voie à suivre, comme le groupe PSE l’a fait au cours de la période
+      législative précédente, afin de <a>mettre</a> tout en ?uvre pour renverser la
+      vapeur.
+- c: 1
+  r: 1
+  v: noter
+  x:
+  - s: Jag <v>tar</v> också upp punkten <p>om</p> vad vi försöker göra när der gäller
+      att skydda jobben.
+    t: Je <a>note</a> également la remarque à propos de la protection des emplois.
+it:
+- c: 1
+  r: 1
+  v: affrontare
+  x:
+  - s: Om det är ett effektivare och mer solidariskt Europa ni önskar, om ert mål
+      är att i första hand verka för medborgarna, så är det arbetslöshetsproblemet
+      som man måste <v>ta</v> ett rejält grepp <p>om</p> för att bemöta deras verkliga
+      förväntningar.
+    t: Se quella che auspica è un’Europa più efficace e più solidale, se il suo obiettivo
+      è agire in primo luogo per i cittadini, il problema che occorre <a>affrontare</a>
+      per rispondere alle loro reali aspettative è quello dell’occupazione.
+- c: 1
+  r: 1
+  v: merito
+  x:
+  - s: Vilka beslut har man <v>tagit</v> <p>om</p> en definitiv stängning av enheterna
+      1 och 2 före utgången av år 2002 och vilka steg har tagits för att ingå ett
+      avtal så att den slutgiltiga rivningen av enheterna 3 och 4 sker tidigare år
+      2006, som villkoret är i det memorandum man kommit överens om?
+    t: Quali decisioni sono state adottate in <a>merito</a> alla chiusura definitiva
+      delle unità 1 e 2 entro il 2002 e quali passi sono stati compiuti per concludere
+      un accordo sulla chiusura definitiva delle unità 3 e 4 entro il 2006, come richiesto
+      nel suddetto memorandum?
+- c: 1
+  r: 1
+  v: se
+  x:
+  - s: Låt oss nu göra som PSE-gruppen redan gjort under den gångna sammanträdesperioden
+      och visa mod för att <v>ta</v> alla <p>om</p> och men för att helt lägga om
+      rodret.
+    t: Come il gruppo del PSE ha già fatto nella legislatura scorsa, dimostriamo di
+      avere il coraggio di cambiare nonostante tutti i <a>se</a> e tutti i ma.
+- c: 1
+  r: 1
+  v: sollevare
+  x:
+  - s: För det första, anser jag att den fråga som socialistgruppens ordförande <v>tog</v>
+      upp i går <p>om</p> att återinsätta debatten med kommissionens ordförande om
+      det femåriga strategiska programmet var tillräckligt viktig för att andra talare
+      som kort ville kommentera denna fråga skulle kunna tillmötesgås.
+    t: Innanzi tutto ritengo che la questione <a>sollevata</a> ieri dal presidente
+      del gruppo socialista riguardo al reinserimento, nell’ordine del giorno, della
+      discussione con il presidente della Commissione sugli obiettivi strategici per
+      i prossimi cinque anni fosse tanto importante per gli altri deputati che avevano
+      chiesto di intervenire brevemente, che la loro richiesta avrebbe potuto essere
+      accolta.
+pt:
+- c: 1
+  r: 1
+  v: pegar
+  x:
+  - s: Om det är ett effektivare och mer solidariskt Europa ni önskar, om ert mål
+      är att i första hand verka för medborgarna, så är det arbetslöshetsproblemet
+      som man måste <v>ta</v> ett rejält grepp <p>om</p> för att bemöta deras verkliga
+      förväntningar.
+    t: Se é uma Europa mais eficaz e mais solidária que vós desejais, se o vosso objectivo
+      é agir primeiro a favor dos cidadãos, então é mesmo no problema do emprego que
+      é preciso <a>pegar</a> com ambas as mãos para responder à sua verdadeira expectativa.
+- c: 1
+  r: 1
+  v: aspecto
+  x:
+  - s: ', där alla normer är omvända och svart har blivit vitt, så jag tror att det
+      skulle vara lämpligt att <v>ta</v> <p>om</p> det från grunden.'
+    t: Senhor Presidente, nestes últimos meses houve alturas em que senti que estamos
+      a fazer política como se fosse através de um espelho, invertendo todas as normas
+      e transformando o preto em branco, por isso acho que será bastante útil regressarmos
+      aos <a>aspectos</a> fundamentais da questão.
+- c: 1
+  r: 1
+  v: quanto
+  x:
+  - s: Vi kunde absolut inte instämma i hans åsikt att det skulle vara förnedrande
+      för parlamentet att <v>ta</v> fram detaljerade instruktioner <p>om</p> vad vi
+      vill att kommissionen skall ta upp i sitt reformpaket.
+    t: Não concordamos, de modo algum, com a sua opinião de que seria vexatório o
+      Parlamento formular instruções pormenorizadas <a>quanto</a> àquilo que pretende
+      que a Comissão inclua no seu pacote de medidas de reforma.
+- c: 1
+  r: 1
+  v: deixar
+  x:
+  - s: 'Jag skulle även via stöd till denna resolution vilja betona att Europeiska
+      gemenskapen inte endast kommer att uträtta utmärkt arbete inom ekonomi och juridik
+      utan även kommer att bedriva en social och uppmuntrande politik så att organisationer
+      som <v>tar</v> <p>om</p> hand de utsatta människorna därborta:'
+    t: Porém, temos de zelar também justamente por estes grupos de idosos, que muitas
+      vezes são encerrados em conjunto com doentes do foro psiquiátrico, e que <a>deixam</a>
+      assim de ter o devido acompanhamento.

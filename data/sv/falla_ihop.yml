@@ -1,0 +1,385 @@
+---
+de:
+- c: 1
+  r: 1
+  v: beugen
+  x:
+  - s: Det är en konservativ hållning som, i alla händelser, förr eller senare kommer
+      att <v>falla</v> <p>ihop</p> som ett korthus inför fakta.
+    t: So denken können nur konservative Geister, die sich früher oder später jedoch
+      den Tatsachen <a>beugen</a> werden müssen.
+- c: 1
+  r: 1
+  v: zusammenbrechen
+  x:
+  - s: Efter att ha ställts inför katastrofen anser jag att vi borde stanna upp och
+      reflektera för att se hur EU kan arbeta för att förebygga framtida situationer
+      där svaga demokratier <v>faller</v> <p>ihop</p> och utvecklas till humanitära
+      katastrofer.
+    t: Nachdem wir uns der Notlage angenommen haben, sollten wir meiner Meinung nach
+      inne halten und überlegen, wie die EU künftig vorgehen kann, um Situationen
+      zu vermeiden, in denen schwache Demokratien <a>zusammenbrechen</a> und zu humanitären
+      Katastrophen werden.
+- c: 1
+  r: 1
+  v: einstürzen
+  x:
+  - s: De har <v>fallit</v> <p>ihop</p> som ett korthus och irländska skattebetalare
+      bär en outhärdlig börda.
+    t: Sie sind wie ein Kartenhaus <a>eingestürzt</a> und die irischen Steuerzahler
+      schultern eine unerträgliche Last.
+- c: 1
+  r: 1
+  v: platzen
+  x:
+  - s: Ett möte hålls på fredag mellan Papandreou och premiärminister Gruevski och
+      om vi spänner hanen för högt kan vi öka trycket så att allting <v>faller</v>
+      <p>ihop</p> och det vill vi inte riskera.
+    t: Denn wenn wir jetzt die Erwartungen zu hoch treiben - am Freitag dieser Woche
+      wird ja ein Gespräch zwischen Papandreou und Ministerpräsident Gruevski stattfinden
+      -, dann mag es sein, dass wir den Druck so stark erhöhen, dass der Kessel <a>platzt</a>.
+- c: 1
+  r: 1
+  v: werden
+  x:
+  - s: Timoreserna skapade en blomma, en borg av hopp som plötsligt, i en storm av
+      våld, <v>föll</v> <p>ihop</p> och förstördes i blod, våld och död.
+    t: Die Timoresen ließen eine Blüte erblühen und schufen eine Burg der Hoffnung,
+      die plötzlich durch einen Sturm der Gewalt zu Boden gerissen <a>wurde</a> und
+      in Blut, Gewalt und Tod unterging.
+- c: 1
+  r: 1
+  v: führen
+  x:
+  - s: Om vi slutade nu skulle freden, stabiliteten, säkerheten och den sociala sammanhållningen
+      <v>falla</v> <p>ihop</p>.
+    t: Genauso würde das plötzliche Einstellen unserer Bemühungen zum jetzigen Zeitpunkt
+      zum Zusammenbruch von Frieden, Stabilität, Sicherheit und sozialem Zusammenhalt
+      <a>führen</a>.
+en:
+- c: 3
+  r: 1
+  v: collapse
+  x:
+  - s: det krävdes ett plågoris som BSE för att förstå att även inom ramen för en
+      kontrollerad och övervakad produktion kan konsumtionen <v>falla</v> <p>ihop</p>
+      på grund av dramatiska händelser eller på grund av tillfälliga nycker från konsumentens
+      sida.
+    t: It took bovine spongiform encephalopathy to make us understand that even in
+      a controlled and supported production system consumption can <a>collapse</a>
+      because of disasters or consumer caprice.
+  - s: Slutligen vill jag också understryka det faktum att vi måste ta stora steg
+      mot ett gemensamt och relativt enhetligt kontroll- och övervakningssystem, för
+      att inte hela politiken inom denna sektor skall <v>falla</v> <p>ihop</p>, när
+      vi nu står inför ett fastställande av den kvantitativa och kvalitativa framtida
+      hanteringen av fiskeresurserna.
+    t: Finally, I wish to underline the need for us to move quickly towards introducing
+      a joint and relatively uniform system of monitoring and control - lest the foundations
+      of the entire policy for the sector <a>collapse</a> - since this will be a decisive
+      element in the quantitative and qualitative management of fisheries resources
+      in the future.
+  - s: De har <v>fallit</v> <p>ihop</p> som ett korthus och irländska skattebetalare
+      bär en outhärdlig börda.
+    t: They have <a>collapsed</a> like a house of cards and Irish taxpayers are shouldering
+      an unbearable burden.
+  - s: Det betyder att förslaget om misstroendevotum <v>faller</v> <p>ihop</p> som
+      ett korthus!
+    t: So it is that this motion of censure <a>collapses</a> like a house of cards!
+  - s: Det är en konservativ hållning som, i alla händelser, förr eller senare kommer
+      att <v>falla</v> <p>ihop</p> som ett korthus inför fakta.
+    t: It is a conservative attitude which, in any case, sooner or later, will <a>collapse</a>
+      in view of the facts.
+- c: 2
+  r: 2
+  v: break down
+  x:
+  - s: Efter att ha ställts inför katastrofen anser jag att vi borde stanna upp och
+      reflektera för att se hur EU kan arbeta för att förebygga framtida situationer
+      där svaga demokratier <v>faller</v> <p>ihop</p> och utvecklas till humanitära
+      katastrofer.
+    t: After facing the emergency, I think we should stop and reflect to see how the
+      EU can work in future to prevent future situations where weak democracies <a>break</a>
+      <a>down</a> and develop into humanitarian disasters.
+  - s: Om vi slutade nu skulle freden, stabiliteten, säkerheten och den sociala sammanhållningen
+      <v>falla</v> <p>ihop</p>.
+    t: If we stopped now, peace, stability, security and social cohesion would <a>break</a>
+      <a>down</a>.
+- c: 2
+  r: 2
+  v: collapse
+  x:
+  - s: det krävdes ett plågoris som BSE för att förstå att även inom ramen för en
+      kontrollerad och övervakad produktion kan konsumtionen <v>falla</v> <p>ihop</p>
+      på grund av dramatiska händelser eller på grund av tillfälliga nycker från konsumentens
+      sida.
+    t: It took bovine spongiform encephalopathy to make us understand that even in
+      a controlled and supported production system consumption can <a>collapse</a>
+      because of disasters or consumer caprice.
+  - s: Slutligen vill jag också understryka det faktum att vi måste ta stora steg
+      mot ett gemensamt och relativt enhetligt kontroll- och övervakningssystem, för
+      att inte hela politiken inom denna sektor skall <v>falla</v> <p>ihop</p>, när
+      vi nu står inför ett fastställande av den kvantitativa och kvalitativa framtida
+      hanteringen av fiskeresurserna.
+    t: Finally, I wish to underline the need for us to move quickly towards introducing
+      a joint and relatively uniform system of monitoring and control - lest the foundations
+      of the entire policy for the sector <a>collapse</a> - since this will be a decisive
+      element in the quantitative and qualitative management of fisheries resources
+      in the future.
+  - s: De har <v>fallit</v> <p>ihop</p> som ett korthus och irländska skattebetalare
+      bär en outhärdlig börda.
+    t: They have <a>collapsed</a> like a house of cards and Irish taxpayers are shouldering
+      an unbearable burden.
+  - s: Det betyder att förslaget om misstroendevotum <v>faller</v> <p>ihop</p> som
+      ett korthus!
+    t: So it is that this motion of censure <a>collapses</a> like a house of cards!
+  - s: Det är en konservativ hållning som, i alla händelser, förr eller senare kommer
+      att <v>falla</v> <p>ihop</p> som ett korthus inför fakta.
+    t: It is a conservative attitude which, in any case, sooner or later, will <a>collapse</a>
+      in view of the facts.
+- c: 1
+  r: 3
+  v: be bring down
+  x:
+  - s: Timoreserna skapade en blomma, en borg av hopp som plötsligt, i en storm av
+      våld, <v>föll</v> <p>ihop</p> och förstördes i blod, våld och död.
+    t: The Timorese created a flower, a castle of hope which, in one outburst of violence,
+      <a>was</a> <a>brought</a> <a>down</a> and destroyed in blood, violence and death.
+- c: 1
+  r: 3
+  v: fall
+  x:
+  - s: Ett möte hålls på fredag mellan Papandreou och premiärminister Gruevski och
+      om vi spänner hanen för högt kan vi öka trycket så att allting <v>faller</v>
+      <p>ihop</p> och det vill vi inte riskera.
+    t: A meeting is being held on Friday between Mr Papandreou and Prime Minister
+      Gruevski, and if we set expectations too high, we may increase the pressure
+      so much that the whole thing <a>falls</a> apart and we do not want to risk that.
+es:
+- c: 2
+  r: 1
+  v: caer
+  x:
+  - s: Slutligen vill jag också understryka det faktum att vi måste ta stora steg
+      mot ett gemensamt och relativt enhetligt kontroll- och övervakningssystem, för
+      att inte hela politiken inom denna sektor skall <v>falla</v> <p>ihop</p>, när
+      vi nu står inför ett fastställande av den kvantitativa och kvalitativa framtida
+      hanteringen av fiskeresurserna.
+    t: Por último, quiero subrayar también que debemos avanzar con grandes pasos hacia
+      un sistema común y relativamente uniforme de vigilancia y control, so pena de
+      que toda la política para el sector se <a>caiga</a> por la base, ya que estamos
+      ante un elemento determinante para la gestión cuantitativa y cualitativa de
+      los recursos haliéuticos en el futuro.
+  - s: De har <v>fallit</v> <p>ihop</p> som ett korthus och irländska skattebetalare
+      bär en outhärdlig börda.
+    t: Estos han <a>caído</a> como torres de naipes y los contribuyentes irlandeses
+      están soportando una carga insoportable.
+- c: 1
+  r: 2
+  v: 'no'
+  x:
+  - s: Då skulle EU:s ambition på klimatområdet <v>falla</v> <p>ihop</p> som ett korthus.
+    t: Además, es absolutamente necesario respetar las normas de seguridad y sanitarias,
+      entre otras cosas porque con la ampliación hacia el Este vendrán a nosotros
+      algunos Estados cuyos estándares de seguridad <a>no</a> corresponden en absoluto
+      a los nuestros.
+- c: 1
+  r: 2
+  v: venir abajo
+  x:
+  - s: Om vi slutade nu skulle freden, stabiliteten, säkerheten och den sociala sammanhållningen
+      <v>falla</v> <p>ihop</p>.
+    t: Si nos paramos ahora, se <a>vendrán</a> <a>abajo</a> la paz, la estabilidad,
+      la seguridad y la cohesión social.
+- c: 1
+  r: 2
+  v: hundirse
+  x:
+  - s: det krävdes ett plågoris som BSE för att förstå att även inom ramen för en
+      kontrollerad och övervakad produktion kan konsumtionen <v>falla</v> <p>ihop</p>
+      på grund av dramatiska händelser eller på grund av tillfälliga nycker från konsumentens
+      sida.
+    t: hacía falta la plaga de la encefalopatía espongiforme bovina para comprender
+      que, incluso en un régimen de producción controlada y asistida, los consumos
+      pueden <a>hundirse</a> como consecuencia de sucesos calamitosos o por los caprichos
+      del consumidor.
+- c: 1
+  r: 2
+  v: abajo
+  x:
+  - s: Efter att ha ställts inför katastrofen anser jag att vi borde stanna upp och
+      reflektera för att se hur EU kan arbeta för att förebygga framtida situationer
+      där svaga demokratier <v>faller</v> <p>ihop</p> och utvecklas till humanitära
+      katastrofer.
+    t: Después de afrontar la situación de emergencia, creo que deberíamos pararnos
+      a reflexionar para ver cómo puede trabajar la UE en adelante para prevenir futuras
+      situaciones en las que las democracias débiles se vengan <a>abajo</a> y se conviertan
+      en desastres humanitarios.
+- c: 1
+  r: 2
+  v: ser derribar
+  x:
+  - s: Timoreserna skapade en blomma, en borg av hopp som plötsligt, i en storm av
+      våld, <v>föll</v> <p>ihop</p> och förstördes i blod, våld och död.
+    t: Los timorenses crearon una flor, un castillo de esperanza que de repente, con
+      un soplo de violencia, <a>fue</a> <a>derribado</a> y destruido en sangre, violencia
+      y muerte.
+fr:
+- c: 1
+  r: 1
+  v: avoir
+  x:
+  - s: Timoreserna skapade en blomma, en borg av hopp som plötsligt, i en storm av
+      våld, <v>föll</v> <p>ihop</p> och förstördes i blod, våld och död.
+    t: Les Timorais ont fait naître une fleur, un château d’espoir qu’un souffle violent
+      <a>a</a> subitement détruit dans le sang, la violence et la mort.
+- c: 1
+  r: 1
+  v: correspondre pas
+  x:
+  - s: Då skulle EU:s ambition på klimatområdet <v>falla</v> <p>ihop</p> som ett korthus.
+    t: Ne serait-ce déjà que pour la raison qu’avec l’élargissement, nous allons être
+      rejoints par certains États dont les normes de sécurité ne <a>correspondent</a>
+      <a>pas</a>, et de loin, aux nôtres.
+- c: 1
+  r: 1
+  v: être effondrer
+  x:
+  - s: De har <v>fallit</v> <p>ihop</p> som ett korthus och irländska skattebetalare
+      bär en outhärdlig börda.
+    t: Ils se <a>sont</a> <a>effondrés</a> comme des châteaux de cartes, et les contribuables
+      irlandais héritent d’un insupportable fardeau.
+- c: 1
+  r: 1
+  v: effondrer
+  x:
+  - s: Slutligen vill jag också understryka det faktum att vi måste ta stora steg
+      mot ett gemensamt och relativt enhetligt kontroll- och övervakningssystem, för
+      att inte hela politiken inom denna sektor skall <v>falla</v> <p>ihop</p>, när
+      vi nu står inför ett fastställande av den kvantitativa och kvalitativa framtida
+      hanteringen av fiskeresurserna.
+    t: Enfin, je voudrais encore souligner le fait qu’il faut avancer à grand pas
+      vers un système commun et relativement uniforme de surveillance et de contrôle,
+      au risque de voir s’<a>effondrer</a> toute la politique de ce secteur, car nous
+      sommes confrontés à un élément déterminant pour la gestion quantitative et qualitative
+      des ressources halieutiques de demain.
+it:
+- c: 1
+  r: 1
+  v: fallire
+  x:
+  - s: Ett möte hålls på fredag mellan Papandreou och premiärminister Gruevski och
+      om vi spänner hanen för högt kan vi öka trycket så att allting <v>faller</v>
+      <p>ihop</p> och det vill vi inte riskera.
+    t: Venerdì si è tenuto un incontro tra il primo ministro Papandreou e il primo
+      ministro Gruevski e, se ci poniamo delle aspettative troppo ambiziose, potremmo
+      aumentare la pressione al punto tale da far <a>fallire</a> il processo - e noi
+      non vogliamo correre questo rischio.
+- c: 1
+  r: 1
+  v: essere essere rovesciare
+  x:
+  - s: Timoreserna skapade en blomma, en borg av hopp som plötsligt, i en storm av
+      våld, <v>föll</v> <p>ihop</p> och förstördes i blod, våld och död.
+    t: I timoresi hanno dato vita a un fiore, un castello di speranze che, d’improvviso,
+      in un soffio di violenza, <a>è</a> <a>stato</a> <a>rovesciato</a> e distrutto
+      nel sangue, nella crudeltà, nella morte.
+- c: 1
+  r: 1
+  v: essere collassare
+  x:
+  - s: De har <v>fallit</v> <p>ihop</p> som ett korthus och irländska skattebetalare
+      bär en outhärdlig börda.
+    t: Gli investimenti azzardati di molti paesi sono confluiti nelle banche irlandesi,
+      che <a>sono</a> <a>collassate</a> come castelli di carta e i contribuenti irlandesi
+      devono ora sostenere un fardello troppo pesante.
+- c: 1
+  r: 1
+  v: degenerare
+  x:
+  - s: Efter att ha ställts inför katastrofen anser jag att vi borde stanna upp och
+      reflektera för att se hur EU kan arbeta för att förebygga framtida situationer
+      där svaga demokratier <v>faller</v> <p>ihop</p> och utvecklas till humanitära
+      katastrofer.
+    t: Dopo aver affrontato l’emergenza, credo che dovremmo fermarci a riflettere
+      per capire come l’Unione può in futuro lavorare per evitare che le situazioni
+      di democrazie deboli <a>degenerino</a> e sfocino in disastri umanitari.
+- c: 1
+  r: 1
+  v: crollare
+  x:
+  - s: det krävdes ett plågoris som BSE för att förstå att även inom ramen för en
+      kontrollerad och övervakad produktion kan konsumtionen <v>falla</v> <p>ihop</p>
+      på grund av dramatiska händelser eller på grund av tillfälliga nycker från konsumentens
+      sida.
+    t: ci voleva la piaga dell’encefalopatia spongiforme bovina per comprendere che
+      anche in un regime di produzione controllata e assistita i consumi possono <a>crollare</a>
+      per eventi calamitosi o per il capriccio del consumatore.
+pt:
+- c: 1
+  r: 1
+  v: ruir
+  x:
+  - s: De har <v>fallit</v> <p>ihop</p> som ett korthus och irländska skattebetalare
+      bär en outhärdlig börda.
+    t: Os investimentos do tipo casino feitos por muitos países inundaram os bancos
+      irlandeses, que <a>ruíram</a> como um castelo de cartas, e agora os contribuintes
+      irlandeses estão a assumir um fardo insuportável.
+- c: 1
+  r: 1
+  v: juntar não
+  x:
+  - s: Då skulle EU:s ambition på klimatområdet <v>falla</v> <p>ihop</p> som ett korthus.
+    t: Além disso, é absolutamente necessário manter as normas de segurança e de saúde,
+      muito especialmente também porque, na sequência do alargamento a Leste, se irão
+      <a>juntar</a> a nós alguns países cujas normas de segurança <a>não</a> correspondem
+      de modo algum às nossas.
+- c: 1
+  r: 1
+  v: ir tombar
+  x:
+  - s: Timoreserna skapade en blomma, en borg av hopp som plötsligt, i en storm av
+      våld, <v>föll</v> <p>ihop</p> och förstördes i blod, våld och död.
+    t: Os Timorenses criaram uma flor, um castelo de esperança que, de repente, num
+      sopro de violência, <a>foi</a> <a>tombado</a> e destruído em sangue, violência
+      e morte.
+- c: 1
+  r: 1
+  v: desaparecer
+  x:
+  - s: Om vi slutade nu skulle freden, stabiliteten, säkerheten och den sociala sammanhållningen
+      <v>falla</v> <p>ihop</p>.
+    t: Se parássemos agora, a paz, a estabilidade, a segurança e a coesão social <a>desapareceriam</a>.
+- c: 1
+  r: 1
+  v: ceder
+  x:
+  - s: Det är en konservativ hållning som, i alla händelser, förr eller senare kommer
+      att <v>falla</v> <p>ihop</p> som ett korthus inför fakta.
+    t: É uma atitude conservadora que, de qualquer forma, tarde ou cedo, acabará por
+      <a>ceder</a> perante os factos.
+- c: 1
+  r: 1
+  v: cair
+  x:
+  - s: Slutligen vill jag också understryka det faktum att vi måste ta stora steg
+      mot ett gemensamt och relativt enhetligt kontroll- och övervakningssystem, för
+      att inte hela politiken inom denna sektor skall <v>falla</v> <p>ihop</p>, när
+      vi nu står inför ett fastställande av den kvantitativa och kvalitativa framtida
+      hanteringen av fiskeresurserna.
+    t: Por fim, quero ainda sublinhar o facto de termos que caminhar a passos largos
+      para um sistema comum e relativamente uniforme de vigilância e controle, sob
+      pena de toda a política para o sector <a>cair</a> pela base, já que estamos
+      perante um elemento determinante para a gestão quantitativa e qualitativa dos
+      recursos haliêuticos no futuro.
+- c: 1
+  r: 1
+  v: baixar
+  x:
+  - s: det krävdes ett plågoris som BSE för att förstå att även inom ramen för en
+      kontrollerad och övervakad produktion kan konsumtionen <v>falla</v> <p>ihop</p>
+      på grund av dramatiska händelser eller på grund av tillfälliga nycker från konsumentens
+      sida.
+    t: foi necessária a praga da encefalopatia espongiforme bovina para compreender
+      que, mesmo num sistema de produção controlada e assistida, os consumos podem
+      <a>baixar</a> drasticamente devido a acontecimentos calamitosos ou ao capricho
+      do consumidor.

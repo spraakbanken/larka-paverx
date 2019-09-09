@@ -1,0 +1,232 @@
+---
+de:
+- c: 1
+  r: 1
+  v: aufspringen müssen
+  x:
+  - s: I am always in favour of preventing you having to <v>jump</v> <p>up</p> and
+      down, so your point has been noted, Mr Wynn.
+    t: Ich bin immer dafür, dass Sie nicht ständig <a>aufspringen</a> <a>müssen</a>,
+      Ihre Bemerkung wird also zur Kenntnis genommen, Herr Wynn.
+- c: 1
+  r: 1
+  v: fachkompetent
+  x:
+  - s: Do you expect us to believe that you are suddenly going to <v>jump</v> <p>up</p>
+      like a jack in the box with a list of people who are highly specialised in Estonian,
+      Latvian, Czech, in all these new languages which we shall have?
+    t: Wollen Sie irgendeinem erzählen, daß Sie auf einmal wie Jack in the box herausspringen
+      und dann diese Leute haben, die wirklich <a>fachkompetent</a> sind, in Estnisch,
+      Lettisch, Tschechisch, in all diesen Sprachen, die dazu kommen sollen?
+- c: 1
+  r: 1
+  v: daherkommen
+  x:
+  - s: when we have a very tight vote with only a difference of one or two votes,
+      there would be people <v>jumping</v> <p>up</p> all over the place saying their
+      machine did not work, they did not vote, or whatever.
+    t: Bei einer sehr knappen Abstimmung mit einer Differenz von einer oder zwei Stimmen
+      könnte ja jeder <a>daherkommen</a> und behaupten, sein Abstimmungsgerät hätte
+      nicht funktioniert, er hätte nicht abgestimmt und dergleichen.
+es:
+- c: 1
+  r: 1
+  v: salto
+  x:
+  - s: They are singing ’Let us march, let us march’, while <v>jumping</v> <p>up</p>
+      and down on the spot.
+    t: Cantan «adelante, adelante», pero dando <a>saltitos</a> en el mismo sitio.
+- c: 1
+  r: 1
+  v: aumentar
+  x:
+  - s: It follows, then, that it is negligent or worse to allow the EU to be used
+      as a sort of trampoline, with the help of which one <v>jumps</v> <p>up</p> in
+      the air in order to give the Russian bear a hefty thump on the nose.
+    t: No obstante, la desconfianza que existe entre las dos partes ha <a>aumentado</a>
+      con la ampliación de la Unión Europea, en lugar de disminuir.
+- c: 1
+  r: 1
+  v: brotar encontrar
+  x:
+  - s: Do you expect us to believe that you are suddenly going to <v>jump</v> <p>up</p>
+      like a jack in the box with a list of people who are highly specialised in Estonian,
+      Latvian, Czech, in all these new languages which we shall have?
+    t: ¿Pretenden afirmar acaso que éstos van a <a>brotar</a> como setas y que va
+      a ser posible <a>encontrar</a> de improviso personas con verdadera competencia
+      técnica en estonio, letón, checo y todas las demás lenguas que va a ser preciso
+      incorporar?
+- c: 1
+  r: 1
+  v: levantar
+  x:
+  - s: I am not in favour of people like Alex Falconer <v>jumping</v> <p>up</p> and
+      down every time there is a roll-call vote.
+    t: No soy partidario de que los diputados se <a>levanten</a> y se vuelvan a sentar,
+      como Alex Falconer, cada vez que haya una votación nominal.
+fr:
+- c: 1
+  r: 1
+  v: lever
+  x:
+  - s: I am always in favour of preventing you having to <v>jump</v> <p>up</p> and
+      down, so your point has been noted, Mr Wynn.
+    t: J’essaie toujours de vous éviter de vous <a>lever</a> sans arrêt.
+- c: 1
+  r: 1
+  v: tapage
+  x:
+  - s: when we have a very tight vote with only a difference of one or two votes,
+      there would be people <v>jumping</v> <p>up</p> all over the place saying their
+      machine did not work, they did not vote, or whatever.
+    t: en cas de vote très serré, avec une différence de seulement une ou deux voix,
+      il se trouverait des députés pour faire du <a>tapage</a>, pour dire que leurs
+      machines pas fonctionné, qu’ils n’ont pas voté, ou quoi que ce soit d’autre.
+- c: 1
+  r: 1
+  v: sautiller
+  x:
+  - s: They are singing ’Let us march, let us march’, while <v>jumping</v> <p>up</p>
+      and down on the spot.
+    t: 'Ils chantent : «Marchons, marchons», mais en <a>sautillant</a> sur place.'
+it:
+- c: 1
+  r: 1
+  v: potere
+  x:
+  - s: Do you expect us to believe that you are suddenly going to <v>jump</v> <p>up</p>
+      like a jack in the box with a list of people who are highly specialised in Estonian,
+      Latvian, Czech, in all these new languages which we shall have?
+    t: Siete davvero convinti di <a>poter</a> trovare in quattro e quattr’otto tutte
+      queste persone, competenti in materia per la lingua estone, lettone, ceca e
+      per tutte le altre che seguiranno?
+- c: 1
+  r: 1
+  v: saltare
+  x:
+  - s: It follows, then, that it is negligent or worse to allow the EU to be used
+      as a sort of trampoline, with the help of which one <v>jumps</v> <p>up</p> in
+      the air in order to give the Russian bear a hefty thump on the nose.
+    t: Ne consegue, quindi, che è quanto meno imprudente permettere che l’Unione sia
+      usata come una sorta di trampolino dal quale si <a>salta</a> per assestare all’orso
+      russo un forte colpo sul naso.
+- c: 1
+  r: 1
+  v: evitare alzare
+  x:
+  - s: I am always in favour of preventing you having to <v>jump</v> <p>up</p> and
+      down, so your point has been noted, Mr Wynn.
+    t: Le <a>eviterò</a> volentieri di <a>alzarsi</a> tante volte, onorevole Wynn,
+      e prendo atto della sua proposta.
+- c: 1
+  r: 1
+  v: agitare
+  x:
+  - s: when we have a very tight vote with only a difference of one or two votes,
+      there would be people <v>jumping</v> <p>up</p> all over the place saying their
+      machine did not work, they did not vote, or whatever.
+    t: ogni qualvolta il risultato di una votazione fosse di strettissima misura,
+      con una differenza di solo uno o due voti, ci sarebbero persone che si <a>agitano</a>
+      dicendo che i loro dispositivi non hanno funzionato, che non hanno votato, e
+      così via.
+- c: 1
+  r: 1
+  v: avere salto
+  x:
+  - s: The first time somebody <v>jumped</v> <p>up</p> and down and the lift started
+      again.
+    t: La prima volta, qualcuno <a>ha</a> fatto un paio di <a>salti</a> e l’ascensore
+      è ripartito.
+pt:
+- c: 2
+  r: 1
+  v: saltar
+  x:
+  - s: I am not in favour of people like Alex Falconer <v>jumping</v> <p>up</p> and
+      down every time there is a roll-call vote.
+    t: Não estou de acordo com os colegas, como deputado Alex Falconer, que <a>saltam</a>
+      da cadeira sempre que se vai proceder a uma votação nominal.
+  - s: The first time somebody <v>jumped</v> <p>up</p> and down and the lift started
+      again.
+    t: Da primeira vez, uma das pessoas começou a <a>saltar</a> e o elevador voltou
+      a funcionar.
+- c: 1
+  r: 2
+  v: tirar
+  x:
+  - s: Do you expect us to believe that you are suddenly going to <v>jump</v> <p>up</p>
+      like a jack in the box with a list of people who are highly specialised in Estonian,
+      Latvian, Czech, in all these new languages which we shall have?
+    t: Será que pretende fazer crer a alguém que consegue de repente <a>tirar</a>
+      um coelho da cartola e encontrar logo pessoas que sejam verdadeiramente competentes
+      em estónio, letão, checo e em todas essas línguas?
+- c: 1
+  r: 2
+  v: salto atingir
+  x:
+  - s: It follows, then, that it is negligent or worse to allow the EU to be used
+      as a sort of trampoline, with the help of which one <v>jumps</v> <p>up</p> in
+      the air in order to give the Russian bear a hefty thump on the nose.
+    t: Daqui se infere que constitui negligência, ou coisa pior, permitir que a UE
+      seja usada como uma espécie de trampolim para dar <a>saltos</a> e <a>atingir</a>
+      com um forte murro nariz do urso russo.
+- c: 1
+  r: 2
+  v: constantemente levantar
+  x:
+  - s: I am always in favour of preventing you having to <v>jump</v> <p>up</p> and
+      down, so your point has been noted, Mr Wynn.
+    t: Senhor deputado Wynn, serei sempre a favor de evitar que os senhores tenham
+      de estar <a>constantemente</a> a <a>levantar</a>-se, pelo que registo a sua
+      observação.
+- c: 1
+  r: 2
+  v: saltitar
+  x:
+  - s: They are singing ’Let us march, let us march’, while <v>jumping</v> <p>up</p>
+      and down on the spot.
+    t: 'Cantam: «Marchemos, marchemos!», mas <a>saltitando</a> sempre no mesmo sítio.'
+sv:
+- c: 2
+  r: 1
+  v: hoppa upp
+  x:
+  - s: They are singing ’Let us march, let us march’, while <v>jumping</v> <p>up</p>
+      and down on the spot.
+    t: ', medan de <a>hoppar</a> <a>upp</a> och ned på stället.'
+  - s: when we have a very tight vote with only a difference of one or two votes,
+      there would be people <v>jumping</v> <p>up</p> all over the place saying their
+      machine did not work, they did not vote, or whatever.
+    t: när vi har mycket lika röstetal med bara en övervikt på en eller två röster
+      skulle folk <a>hoppa</a> <a>upp</a> överallt och säga att deras maskiner inte
+      fungerade, att de inte röstade eller något annat.
+  - s: I am always in favour of preventing you having to <v>jump</v> <p>up</p> and
+      down, so your point has been noted, Mr Wynn.
+    t: Jag är alltid pigg på att förhindra att ni tvingas <a>hoppa</a> <a>upp</a>
+      och ned, och därför har jag noterat er anmärkning, herr Wynn.
+- c: 1
+  r: 2
+  v: språng upp
+  x:
+  - s: It follows, then, that it is negligent or worse to allow the EU to be used
+      as a sort of trampoline, with the help of which one <v>jumps</v> <p>up</p> in
+      the air in order to give the Russian bear a hefty thump on the nose.
+    t: Därför är det nonchalant om inte ännu värre att låta EU användas som en sorts
+      språngbräda för att ta ett <a>språng</a> <a>upp</a> i luften och ge den ryska
+      björnen en kraftig smäll på nosen.
+- c: 1
+  r: 2
+  v: ändra sina
+  x:
+  - s: I am not in favour of people like Alex Falconer <v>jumping</v> <p>up</p> and
+      down every time there is a roll-call vote.
+    t: Det är nu på tiden att presidiet <a>ändrar</a> <a>sina</a> alltför byråkratiska
+      regler.
+- c: 1
+  r: 2
+  v: hoppa därinne
+  x:
+  - s: The first time somebody <v>jumped</v> <p>up</p> and down and the lift started
+      again.
+    t: Första gången var det någon som började <a>hoppa</a> <a>därinne</a>, och så
+      gick hissen igång igen.

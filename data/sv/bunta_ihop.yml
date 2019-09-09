@@ -1,0 +1,940 @@
+---
+de:
+- c: 3
+  r: 1
+  v: bündeln
+  x:
+  - s: Det är något av en utmaning att <v>bunta</v> <p>ihop</p> alla dessa betänkanden
+      och lämna omdömen om dem, men jag kanske kan framföra några synpunkter.
+    t: Es stellt eine gewisse Herausforderung dar, all diese Berichte zu <a>bündeln</a>
+      und sie zu bewerten, aber vielleicht kann ich meine Ansicht dazu zum Ausdruck
+      bringen.
+  - s: Det finns en oerhörd entusiasm i den här frågan som vi måste ta vara på och
+      ”<v>bunta</v> <p>ihop</p>” för att skapa ett mervärde.
+    t: Es besteht hier ein unglaublicher Enthusiasmus, den man kanalisieren muss,
+      sozusagen <a>bündeln</a>, um einen entsprechenden Mehrwert zu schaffen.
+  - s: De befintliga programmen kommer att <v>buntas</v> <p>ihop</p>.
+    t: Programme, die da sind, werden <a>gebündelt</a>.
+- c: 2
+  r: 2
+  v: Topf werfen
+  x:
+  - s: Låt mig avsluta genom att ansluta mig till dem som begär att vi nu måste tillsätta
+      en utredning för att undersöka de icke-statliga organisationernas ansvar - och
+      det är självklart att inte alla får <v>buntas</v> <p>ihop</p> utan åtskillnad
+      - för utan tvekan existerar detta ansvar och det måste definieras av Europeiska
+      kommissionen, även mot bakgrund av den generositet som visats av Europeiska
+      unionen.
+    t: Abschließend möchte ich mich denjenigen anschließen, die an dieser Stelle eine
+      genaue Untersuchung der Verantwortung der Nichtregierungsorganisationen fordern
+      - auch hier darf man selbstverständlich nicht alle in einen <a>Topf</a> <a>werfen</a>
+      -, denn eine solche Verantwortung gibt es, und sie muss ermittelt werden, auch
+      unter Berücksichtigung der Großzügigkeit, welche die Europäische Union bzw.
+      die Europäische Kommission gegenüber den Nichtregierungsorganisationen unter
+      Beweis gestellt haben.
+  - s: Linjeflygbolag, regionala flygbolag, researrangörer och lågprisbolag <v>buntas</v>
+      alla <p>ihop</p>.
+    t: Line Carriers, Regionalfluggesellschaften, Pauschalreiseveranstalter und Billigfluglinien,
+      sie alle werden in einen <a>Topf</a> <a>geworfen</a>.
+- c: 2
+  r: 2
+  v: zusammenfassen
+  x:
+  - s: Vid utskottsdebatterna kändes det upprörande att många medlemmar ville <v>bunta</v>
+      <p>ihop</p> de baltiska staterna i ett block utan att alls ta hänsyn till deras
+      historiska, samhälleliga och socioekonomiska bakgrunder.
+    t: In den Aussprachen der Ausschüsse wurde einem fast schwindlig, daß einige Mitglieder
+      die baltischen Staaten in einem Block <a>zusammenfassen</a> wollten, wobei voll
+      und ganz die unterschiedlichen historischen, gesellschaftlichen und sozioökonomischen
+      Hintergründe übergangen wurden.
+  - s: Jag vill också betona att vi under inga omständigheter bör <v>bunta</v> <p>ihop</p>
+      två ämnen genom att knyta de två medlemsstaternas anslutning till Schengenområdet
+      till frågan om övervakning av kontrollmekanismen.
+    t: Ich möchte auch betonen, dass wir diese beiden Angelegenheiten unter keinen
+      Umständen hier <a>zusammenfassen</a> sollten, damit meine ich eine Verbindung
+      des Schengen-Beitritts zweier Mitgliedstaaten mit der Überwachung des Schengener
+      Überprüfungsmechanismus.
+- c: 1
+  r: 3
+  v: wegschließen packen
+  x:
+  - s: Vi får inte behandla dem bara som äldre människor och låsa in dem i ett skåp
+      eller <v>bunta</v> <p>ihop</p> dem och säga ”detta är de äldre”.
+    t: Wir dürfen sie nicht einfach als die Alten behandeln und sie in einen Schrank
+      <a>wegschließen</a> oder ein Paket <a>packen</a> und sagen „das ist alt“.
+- c: 1
+  r: 3
+  v: gemeinsam
+  x:
+  - s: Olika betänkanden har <v>buntats</v> <p>ihop</p> och diskuteras i en allomfattande
+      debatt.
+    t: Darüber hinaus wäre es vielleicht hilfreich, wenn mehrere Kommissionsmitglieder
+      aus unterschiedlichen Fachbereichen <a>gemeinsam</a> eine globale Strategie
+      für die Europäische Union entwickeln würden.
+- c: 1
+  r: 3
+  v: Gleichmacherei Topf werfen
+  x:
+  - s: Vi måsta vara försiktiga så att vi inte <v>buntar</v> <p>ihop</p> alla utan
+      åtskillnad!
+    t: Wir müssen aufpassen, dass keine <a>Gleichmacherei</a> betrieben und nicht
+      alle in einen <a>Topf</a> <a>geworfen</a> werden!
+- c: 1
+  r: 3
+  v: gruppenweise
+  x:
+  - s: Länderna i fråga, som här <v>buntas</v> <p>ihop</p> i en grupp, befinner sig
+      i mycket olika ekonomiska utvecklingsfaser.
+    t: Die betreffenden Länder, die hier <a>gruppenweise</a> erfaßt werden, befinden
+      sich in sehr unterschiedlichen wirtschaftlichen Entwicklungsphasen.
+- c: 1
+  r: 3
+  v: Tagesordnungspunkt
+  x:
+  - s: Jag skall avsluta med ISPA, som tydligen måste vara skälet till att mitt betänkande
+      har <v>buntats</v> <p>ihop</p> med betänkanden om utvidgningen.
+    t: Am Schluss meiner Ausführungen komme ich auf das ISPA zu sprechen, was wohl
+      der Grund dafür sein dürfte, dass mein Bericht unter dem <a>Tagesordnungspunkt</a>
+      Erweiterung der Union behandelt wird.
+- c: 1
+  r: 3
+  v: vereinnahmen
+  x:
+  - s: för det första att prohibitionismen har misslyckats och att vi därför måste
+      arbeta för att, om än successivt, till exempel dela upp marknaderna för att
+      undvika att konsumenter av hasch och marijuana - som inte är droger - <v>buntas</v>
+      <p>ihop</p> med grövre missbrukare på den svarta marknaden och leds in på marknaderna
+      för andra droger.
+    t: dass der Prohibitionismus gescheitert ist und demnach, auch schrittweise, darauf
+      hingearbeitet werden muss, beispielsweise die Märkte auseinander zu halten,
+      um zu vermeiden, dass der illegale Markt Konsumenten von Haschisch und Marihuana
+      - die keine Drogen sind - <a>vereinnahmt</a> und dazu bringt, sich den Märkten
+      anderer Drogen anzunähern;
+en:
+- c: 9
+  r: 1
+  v: lump together
+  x:
+  - s: Precis som det finns stora inbördes skillnader mellan de gamla medlemsstaterna
+      kan vi självfallet inte <v>bunta</v> <p>ihop</p> de tio nya medlemsstaterna.
+    t: Just as there are big differences from one old Member State to another, we
+      cannot, of course, <a>lump</a> the ten new Member States <a>together</a>.
+  - s: I betänkandet används avsiktligt den generella termen medborgarskap för att
+      helt oriktigt <v>bunta</v> <p>ihop</p> begreppen medborgarskap i en medlemsstat
+      och unionsmedborgarskap.
+    t: The report deliberately uses the general term of citizenship to <a>lump</a>
+      <a>together</a> in a totally illegitimate manner the concepts of nationality
+      of a Member State and citizenship of the Union.
+  - s: Jag vädjar till er att bedöma varje land utifrån dess egna meriter och att
+      undvika att göra om samma misstag genom att <v>bunta</v> <p>ihop</p> Rumänien
+      med Bulgarien.
+    t: I urge you to assess each country on its own merits and avoid making the same
+      mistake by <a>lumping</a> Romania <a>together</a> with Bulgaria.
+  - s: Jag är dessutom för separata förvaltningskommittéer eftersom saker inte bara
+      kan <v>buntas</v> <p>ihop</p>, särskilt inte när det gäller specifika frågor.
+    t: I am also in favour of the special management committees, as, particularly
+      in very specific matters, things cannot just be <a>lumped</a> <a>together</a>.
+  - s: Genom att <v>bunta</v> <p>ihop</p> dem på ett sätt som är både farligt och
+      felaktigt försöker de ”konservativa” partierna att peka ut dem som extremister,
+      enbart av den anledningen att de vill arbeta för bevarandet av den nationella
+      identiteten.
+    t: <a>Lumping</a> them <a>together</a> in a way that is unhealthy and wrong, all
+      the so-called ’conservative’ parties are still trying to accuse them of being
+      extremists solely because they want to promote the maintenance of national identity.
+  - s: Att <v>bunta</v> <p>ihop</p> allting gör bilden oklar och förvirrar diskussionen
+      om huruvida det som behöver göras är att rätta till misstag eller om det är
+      att kontakta polisen.
+    t: <a>Lumping</a> everything <a>together</a> blurs the image, and confuses discussion
+      on the subject as to whether we need to correct mistakes or call in the police.
+  - s: Vid utskottsdebatterna kändes det upprörande att många medlemmar ville <v>bunta</v>
+      <p>ihop</p> de baltiska staterna i ett block utan att alls ta hänsyn till deras
+      historiska, samhälleliga och socioekonomiska bakgrunder.
+    t: The committee was quite horrified that many members wished to <a>lump</a> <a>together</a>
+      the Baltic states as one block, sweeping away these countries’ entirely different
+      historical, social, and socio-economic backgrounds.
+  - s: Kommissionen har valt en övergripande strategi som innebär en risk att alla
+      yrkeskvalifikationer <v>buntas</v> <p>ihop</p>.
+    t: The Commission has chosen a horizontal approach that carries the danger that
+      all professional qualifications will be <a>lumped</a> <a>together</a>.
+  - s: Nej, i Nederländerna hör den andra pelaren uttryckligen till den första pelaren,
+      till systemen för social trygghet, och får inte <v>buntas</v> <p>ihop</p> med
+      de individuella produkterna inom tredje pelaren för de som kan tillåta sig det.
+    t: No, the second pillar in the Netherlands expressly belongs with the first pillar,
+      with the social security schemes and must not be <a>lumped</a> <a>together</a>
+      with the individual third-pillar products for those who can afford them.
+- c: 2
+  r: 2
+  v: bundle
+  x:
+  - s: Det finns en oerhörd entusiasm i den här frågan som vi måste ta vara på och
+      ”<v>bunta</v> <p>ihop</p>” för att skapa ett mervärde.
+    t: There is an incredible enthusiasm here that must be channelled - <a>bundled</a>,
+      if you will - in order to create the corresponding added value.
+  - s: Jag vill också betona att vi under inga omständigheter bör <v>bunta</v> <p>ihop</p>
+      två ämnen genom att knyta de två medlemsstaternas anslutning till Schengenområdet
+      till frågan om övervakning av kontrollmekanismen.
+    t: I would also like to emphasise that under no circumstances should we <a>bundle</a>
+      two matters here, that is, link the Schengen accession of the two Member States
+      to the matter of the supervision of the Schengen verification mechanism.
+- c: 1
+  r: 3
+  v: be put together omnibus
+  x:
+  - s: Olika betänkanden har <v>buntats</v> <p>ihop</p> och diskuteras i en allomfattande
+      debatt.
+    t: Different reports have <a>been</a> <a>put</a> <a>together</a> into an <a>omnibus</a>
+      debate.
+- c: 1
+  r: 3
+  v: group together
+  x:
+  - s: Länderna i fråga, som här <v>buntas</v> <p>ihop</p> i en grupp, befinner sig
+      i mycket olika ekonomiska utvecklingsfaser.
+    t: The relevant countries, which are <a>grouped</a> <a>together</a> here, are
+      at very different stages of economic development.
+- c: 1
+  r: 3
+  v: Cyprus
+  x:
+  - s: I kommissionens senaste meddelande stod det att skyddet för offer har högsta
+      prioritet, men att medlemsstaterna tenderar att <v>bunta</v> <p>ihop</p> människohandel
+      med illegal invandring och föredrar att bara skydda offren under förutsättning
+      att de ställer upp som vittnen.
+    t: Austria, <a>Cyprus</a>, Poland, Portugal and Sweden.
+- c: 1
+  r: 3
+  v: everything umbrella
+  x:
+  - s: Vi måsta vara försiktiga så att vi inte <v>buntar</v> <p>ihop</p> alla utan
+      åtskillnad!
+    t: We must be careful not to put <a>everything</a> under the same <a>umbrella</a>
+      indiscriminately.
+- c: 1
+  r: 3
+  v: geographically stagger
+  x:
+  - s: Man kan inte godkänna att ansökarländer <v>buntas</v> <p>ihop</p> i geografiska
+      grupper och att tidpunkten för ansökarländernas anslutning delas upp regionvis.
+    t: Bunching the applicant countries <a>geographically</a> and <a>staggering</a>
+      their accession dates according to regional criteria are unacceptable.
+- c: 1
+  r: 3
+  v: treat
+  x:
+  - s: 128 ändringsförslag lades fram, och ni formulerade sedan slutligen 17 eller
+      18 kompromissändringsförslag som skall hjälpa till att <v>bunta</v> <p>ihop</p>
+      detta överflöd av ändringsförslag på ett sådant sätt att resultatet i slutändan
+      blir ett i sig logiskt och övertygande betänkande från parlamentets sida till
+      denna handlingsplan.
+    t: This means that countries like France and Germany should do more to <a>treat</a>
+      their drug addicts but that a country like the Netherlands, for example, should
+      focus on controlling the drugs nuisance created by the ‘coffee shops’ and on
+      drugs tourism.
+- c: 1
+  r: 3
+  v: please put together
+  x:
+  - s: 'Alla dessa länder är olika, och de vinnlägger sig om att säga: ”<v>Bunta</v>
+      inte <p>ihop</p> oss och betrakta oss som ett och detsamma.'
+    t: These countries are all different and they are at pains to say, ’<a>Please</a>
+      do not <a>put</a> us all <a>together</a> and see us as the same.
+- c: 1
+  r: 3
+  v: bundle together
+  x:
+  - s: Det är något av en utmaning att <v>bunta</v> <p>ihop</p> alla dessa betänkanden
+      och lämna omdömen om dem, men jag kanske kan framföra några synpunkter.
+    t: It is something of a challenge to <a>bundle</a> all these reports <a>together</a>
+      and give evaluations of them, but perhaps I can express a few views on them.
+- c: 1
+  r: 3
+  v: parcel
+  x:
+  - s: Vi får inte behandla dem bara som äldre människor och låsa in dem i ett skåp
+      eller <v>bunta</v> <p>ihop</p> dem och säga ”detta är de äldre”.
+    t: We must not treat them just as elderly and lock them away in a cupboard or
+      <a>parcel</a> them off and say ’that is elderly’.
+- c: 1
+  r: 3
+  v: cram
+  x:
+  - s: Att <v>bunta</v> <p>ihop</p> dem alla i samma paket skulle leda till dålig
+      lagstiftning och bryta mot subsidiaritetsprincipen.
+    t: <a>Cramming</a> them all into the same package would result in poor legislation
+      and breach the principle of subsidiarity.
+- c: 1
+  r: 3
+  v: package together
+  x:
+  - s: De befintliga programmen kommer att <v>buntas</v> <p>ihop</p>.
+    t: Mr Santer said that existing programmes will be <a>packaged</a> <a>together</a>.
+- c: 1
+  r: 3
+  v: box together
+  x:
+  - s: Linjeflygbolag, regionala flygbolag, researrangörer och lågprisbolag <v>buntas</v>
+      alla <p>ihop</p>.
+    t: Line carriers, regional airlines, tour operators and low-cost airlines are
+      all <a>boxed</a> <a>together</a>.
+- c: 1
+  r: 3
+  v: bunch together
+  x:
+  - s: Vissa frågor har upprepats eller överlappat varandra och jag ska försöka <v>bunta</v>
+      <p>ihop</p> dem så mycket jag kan.
+    t: Some questions have been repeated or have overlapped and I will try to <a>bunch</a>
+      them <a>together</a> as much as I can.
+es:
+- c: 2
+  r: 1
+  v: meter mismo saco
+  x:
+  - s: I betänkandet används avsiktligt den generella termen medborgarskap för att
+      helt oriktigt <v>bunta</v> <p>ihop</p> begreppen medborgarskap i en medlemsstat
+      och unionsmedborgarskap.
+    t: El informe deliberadamente utiliza el término general de ciudadanía para <a>meter</a>
+      en el <a>mismo</a> <a>saco</a> de una manera totalmente ilegítima los conceptos
+      de nacionalidad de un Estado miembro y de ciudadanía de la Unión.
+  - s: I kommissionens senaste meddelande stod det att skyddet för offer har högsta
+      prioritet, men att medlemsstaterna tenderar att <v>bunta</v> <p>ihop</p> människohandel
+      med illegal invandring och föredrar att bara skydda offren under förutsättning
+      att de ställer upp som vittnen.
+    t: La reciente Comunicación de la Comisión decía que la protección de las víctimas
+      es la máxima prioridad, pero los Estados miembros tienden a <a>meter</a> en
+      el <a>mismo</a> <a>saco</a> el tráfico y la inmigración ilegal, y prefieren
+      condicionar la protección de las víctimas a su actuación como testigos.
+- c: 2
+  r: 1
+  v: meter
+  x:
+  - s: Att <v>bunta</v> <p>ihop</p> dem alla i samma paket skulle leda till dålig
+      lagstiftning och bryta mot subsidiaritetsprincipen.
+    t: Si los <a>metemos</a> a todos en el mismo paquete, daría lugar a una legislación
+      pobre y al incumplimiento del principio de subsidiariedad.
+  - s: Vi måsta vara försiktiga så att vi inte <v>buntar</v> <p>ihop</p> alla utan
+      åtskillnad!
+    t: Debemos tener cuidado de no <a>meter</a> todo en el mismo saco, sin hacer distinciones.
+- c: 2
+  r: 1
+  v: juntar
+  x:
+  - s: Att <v>bunta</v> <p>ihop</p> allting gör bilden oklar och förvirrar diskussionen
+      om huruvida det som behöver göras är att rätta till misstag eller om det är
+      att kontakta polisen.
+    t: <a>Juntarlo</a> todo hace borrosa la imagen y crea confusión en cuanto al tema
+      de si lo que necesitamos es corregir errores o llamar a la policía.
+  - s: Vid utskottsdebatterna kändes det upprörande att många medlemmar ville <v>bunta</v>
+      <p>ihop</p> de baltiska staterna i ett block utan att alls ta hänsyn till deras
+      historiska, samhälleliga och socioekonomiska bakgrunder.
+    t: El debate en comisión provocó estremecimientos, porque varios miembros querían
+      <a>juntar</a> los países bálticos en un solo bloque, pasando completamente por
+      alto los fundamentos históricos, las diferencias de la sociedades y los factores
+      socioeconómicos.
+- c: 2
+  r: 1
+  v: saco
+  x:
+  - s: Låt mig avsluta genom att ansluta mig till dem som begär att vi nu måste tillsätta
+      en utredning för att undersöka de icke-statliga organisationernas ansvar - och
+      det är självklart att inte alla får <v>buntas</v> <p>ihop</p> utan åtskillnad
+      - för utan tvekan existerar detta ansvar och det måste definieras av Europeiska
+      kommissionen, även mot bakgrund av den generositet som visats av Europeiska
+      unionen.
+    t: Termino sumándome a todos aquellos que en este punto piden que se proceda a
+      depurar las responsabilidades en el ámbito de las organizaciones no gubernamentales
+      - está claro que, como siempre, no hay que meter a todos en el mismo <a>saco</a>
+      - porque seguramente estas responsabilidades existen y se han de esclarecer
+      también de cara a la generosidad mostrada por la Unión Europea, por la Comisión
+      Europea, en bien de las organizaciones no gubernamentales.
+  - s: 'Alla dessa länder är olika, och de vinnlägger sig om att säga: ”<v>Bunta</v>
+      inte <p>ihop</p> oss och betrakta oss som ett och detsamma.'
+    t: 'Estos países son muy distintos y nos quieren decir: «No nos metan a todos
+      en el mismo <a>saco</a>, ni crean que somos todos iguales.'
+- c: 1
+  r: 2
+  v: meterse saco
+  x:
+  - s: Jag är dessutom för separata förvaltningskommittéer eftersom saker inte bara
+      kan <v>buntas</v> <p>ihop</p>, särskilt inte när det gäller specifika frågor.
+    t: También estoy a favor de las comisiones de gestión especiales, puesto que en
+      cuestiones muy específicas las cosas no pueden <a>meterse</a> en un solo <a>saco</a>.
+- c: 1
+  r: 2
+  v: canalizar
+  x:
+  - s: Det finns en oerhörd entusiasm i den här frågan som vi måste ta vara på och
+      ”<v>bunta</v> <p>ihop</p>” för att skapa ett mervärde.
+    t: Existe un entusiasmo increíble que debe ser <a>canalizado</a> — concretado,
+      si ustedes prefieren — a fin de crear el valor añadido correspondiente.
+- c: 1
+  r: 2
+  v: compilar
+  x:
+  - s: Det är något av en utmaning att <v>bunta</v> <p>ihop</p> alla dessa betänkanden
+      och lämna omdömen om dem, men jag kanske kan framföra några synpunkter.
+    t: Viene a ser un reto <a>compilar</a> todos estos informes y dar evaluaciones
+      de ellos, pero tal vez yo pueda expresar algunos puntos de vista sobre ellos.
+- c: 1
+  r: 2
+  v: etiquetar
+  x:
+  - s: Vi får inte behandla dem bara som äldre människor och låsa in dem i ett skåp
+      eller <v>bunta</v> <p>ihop</p> dem och säga ”detta är de äldre”.
+    t: No debemos tratarlas simplemente como personas de edad avanzada y encerrarlas
+      en un armario o <a>etiquetarlas</a> y decir «esto son las personas de edad avanzada».
+- c: 1
+  r: 2
+  v: meter saco
+  x:
+  - s: Jag skall avsluta med ISPA, som tydligen måste vara skälet till att mitt betänkande
+      har <v>buntats</v> <p>ihop</p> med betänkanden om utvidgningen.
+    t: Concluyo con el ISPA que, aparentemente, debería ser el motivo por el cual
+      mi informe se ha <a>metido</a> en el mismo <a>saco</a> de la ampliación.
+- c: 1
+  r: 2
+  v: amalgama tacharlo
+  x:
+  - s: Genom att <v>bunta</v> <p>ihop</p> dem på ett sätt som är både farligt och
+      felaktigt försöker de ”konservativa” partierna att peka ut dem som extremister,
+      enbart av den anledningen att de vill arbeta för bevarandet av den nationella
+      identiteten.
+    t: Sin embargo, en un espíritu de <a>amalgama</a> malsano y falso, todos los denominados
+      partidos «bien pensantes» se afanan en <a>tacharlos</a> de extremistas únicamente
+      porque trabajan por promover el mantenimiento de la identidad nacional.
+- c: 1
+  r: 2
+  v: mezclar
+  x:
+  - s: Jag vill också betona att vi under inga omständigheter bör <v>bunta</v> <p>ihop</p>
+      två ämnen genom att knyta de två medlemsstaternas anslutning till Schengenområdet
+      till frågan om övervakning av kontrollmekanismen.
+    t: Del mismo modo, me gustaría hacer hincapié en que debemos evitar por todos
+      los medios <a>mezclar</a> dos asuntos, es decir, no debemos vincular la adhesión
+      al espacio Schengen de estos dos Estados miembros al tema de la supervisión
+      del mecanismo de verificación de Schengen.
+- c: 1
+  r: 2
+  v: mezclarse
+  x:
+  - s: Nej, i Nederländerna hör den andra pelaren uttryckligen till den första pelaren,
+      till systemen för social trygghet, och får inte <v>buntas</v> <p>ihop</p> med
+      de individuella produkterna inom tredje pelaren för de som kan tillåta sig det.
+    t: No, el segundo pilar de los Países Bajos pertenece expresamente al primer pilar,
+      con los regímenes de la seguridad social, y no debe <a>mezclarse</a> con los
+      productos individuales del tercer pilar, para aquellos que pueden permitírselos.
+- c: 1
+  r: 2
+  v: unir
+  x:
+  - s: De befintliga programmen kommer att <v>buntas</v> <p>ihop</p>.
+    t: Jacques Santer ha dicho que los programas existentes se van a <a>unir</a> y
+      que se orientarán al FSE y al empleo.
+- c: 1
+  r: 2
+  v: vincular
+  x:
+  - s: Jag vädjar till er att bedöma varje land utifrån dess egna meriter och att
+      undvika att göra om samma misstag genom att <v>bunta</v> <p>ihop</p> Rumänien
+      med Bulgarien.
+    t: Le pido que valore a cada país por sus propios méritos y evite cometer el mismo
+      error <a>vinculando</a> a Rumanía con Bulgaria.
+fr:
+- c: 3
+  r: 1
+  v: sac
+  x:
+  - s: Jag vädjar till er att bedöma varje land utifrån dess egna meriter och att
+      undvika att göra om samma misstag genom att <v>bunta</v> <p>ihop</p> Rumänien
+      med Bulgarien.
+    t: Je vous prie instamment d’axer votre évaluation de chaque pays sur ses propres
+      mérites et d’éviter de refaire les erreurs du passé, en mettant la Roumanie
+      et la Bulgarie dans le même <a>sac</a>.
+  - s: Låt mig avsluta genom att ansluta mig till dem som begär att vi nu måste tillsätta
+      en utredning för att undersöka de icke-statliga organisationernas ansvar - och
+      det är självklart att inte alla får <v>buntas</v> <p>ihop</p> utan åtskillnad
+      - för utan tvekan existerar detta ansvar och det måste definieras av Europeiska
+      kommissionen, även mot bakgrund av den generositet som visats av Europeiska
+      unionen.
+    t: Je conclus en m’associant à ceux qui demandent qu’à ce stade l’on diligente
+      une enquête précise sur les responsabilités au sein des organisations non gouvernementales
+      - il est clair que, comme toujours, il ne faut pas tout mettre dans le même
+      <a>sac</a> - parce qu’il est certain que ces responsabilités existent et doivent
+      être établies, surtout si l’on considère la générosité que manifestent l’Union
+      européenne et la Commission européenne à l’égard des organisations non gouvernementales.
+  - s: Nej, i Nederländerna hör den andra pelaren uttryckligen till den första pelaren,
+      till systemen för social trygghet, och får inte <v>buntas</v> <p>ihop</p> med
+      de individuella produkterna inom tredje pelaren för de som kan tillåta sig det.
+    t: Non, le deuxième pilier fait aux Pays-Bas partie intégrante du premier, des
+      régimes de sécurité sociale, et il ne doit pas être mis dans le même <a>sac</a>
+      que les produits du troisième pilier destinés à ceux qui peuvent se les permettre.
+- c: 2
+  r: 2
+  v: regrouper
+  x:
+  - s: Jag är dessutom för separata förvaltningskommittéer eftersom saker inte bara
+      kan <v>buntas</v> <p>ihop</p>, särskilt inte när det gäller specifika frågor.
+    t: Je suis également en faveur des comités de gestion spéciaux dans la mesure
+      où tout <a>regrouper</a> ne suffit pas, en particulier dans des domaines très
+      spécifiques.
+  - s: Jag vill också betona att vi under inga omständigheter bör <v>bunta</v> <p>ihop</p>
+      två ämnen genom att knyta de två medlemsstaternas anslutning till Schengenområdet
+      till frågan om övervakning av kontrollmekanismen.
+    t: Je tiens également à souligner que nous ne devons en aucun cas <a>regrouper</a>
+      ici deux questions différentes, à savoir lier l’adhésion de ces deux États membres
+      à Schengen à la question de la supervision du mécanisme de vérification de Schengen.
+- c: 1
+  r: 3
+  v: actuel être lier
+  x:
+  - s: De befintliga programmen kommer att <v>buntas</v> <p>ihop</p>.
+    t: les programmes <a>actuels</a> <a>sont</a> <a>liés</a>.
+- c: 1
+  r: 3
+  v: traiter
+  x:
+  - s: Vid utskottsdebatterna kändes det upprörande att många medlemmar ville <v>bunta</v>
+      <p>ihop</p> de baltiska staterna i ett block utan att alls ta hänsyn till deras
+      historiska, samhälleliga och socioekonomiska bakgrunder.
+    t: Il était effarant d’entendre dans les débats en commission que plusieurs États
+      membres voulaient <a>traiter</a> les pays baltes comme un seul bloc, en ignorant
+      complètement les différences dans le contexte historique, social et socio-économique
+      de ces pays.
+- c: 1
+  r: 3
+  v: toxicomane
+  x:
+  - s: 128 ändringsförslag lades fram, och ni formulerade sedan slutligen 17 eller
+      18 kompromissändringsförslag som skall hjälpa till att <v>bunta</v> <p>ihop</p>
+      detta överflöd av ändringsförslag på ett sådant sätt att resultatet i slutändan
+      blir ett i sig logiskt och övertygande betänkande från parlamentets sida till
+      denna handlingsplan.
+    t: Cela signifie que des pays comme la France et l’Allemagne devraient faire des
+      efforts en matière de traitement des <a>toxicomanes</a> mais qu’un pays comme
+      les Pays-Bas par exemple, devrait lutter plus efficacement contre le problème
+      de la drogue né des «coffeeshops» et du tourisme de la drogue.
+- c: 1
+  r: 3
+  v: panier
+  x:
+  - s: 'Alla dessa länder är olika, och de vinnlägger sig om att säga: ”<v>Bunta</v>
+      inte <p>ihop</p> oss och betrakta oss som ett och detsamma.'
+    t: 'Ces pays sont tous différents et n’ont de cesse de nous dire : «Ne nous mettez
+      pas tous dans le même <a>panier</a>.'
+- c: 1
+  r: 3
+  v: nature divers être rassembler
+  x:
+  - s: Olika betänkanden har <v>buntats</v> <p>ihop</p> och diskuteras i en allomfattande
+      debatt.
+    t: Des rapports de <a>natures</a> <a>diverses</a> ont <a>été</a> <a>rassemblés</a>
+      dans une espèce de «débat omnibus».
+- c: 1
+  r: 3
+  v: mince mettre ensemble
+  x:
+  - s: Det är något av en utmaning att <v>bunta</v> <p>ihop</p> alla dessa betänkanden
+      och lämna omdömen om dem, men jag kanske kan framföra några synpunkter.
+    t: Ce n’est pas une <a>mince</a> affaire que de <a>mettre</a> <a>ensemble</a>
+      tous ces rapports et les évaluer, mais je peux peut-être exprimer quelques points
+      de vue à leur sujet.
+- c: 1
+  r: 3
+  v: mettre
+  x:
+  - s: Att <v>bunta</v> <p>ihop</p> dem alla i samma paket skulle leda till dålig
+      lagstiftning och bryta mot subsidiaritetsprincipen.
+    t: Les <a>mettre</a> tous dans le même panier aboutirait à une mauvaise législation
+      et enfreindrait le principe de subsidiarité.
+- c: 1
+  r: 3
+  v: même sac
+  x:
+  - s: Vi måsta vara försiktiga så att vi inte <v>buntar</v> <p>ihop</p> alla utan
+      åtskillnad!
+    t: Prenons garde à ne pas tout mettre dans le <a>même</a> <a>sac</a>, sans faire
+      de distinctions !
+- c: 1
+  r: 3
+  v: être panier
+  x:
+  - s: Jag skall avsluta med ISPA, som tydligen måste vara skälet till att mitt betänkande
+      har <v>buntats</v> <p>ihop</p> med betänkanden om utvidgningen.
+    t: Je terminerai avec l’ISPA, qui devrait apparemment être la raison pour laquelle
+      mon rapport a <a>été</a> mis dans le grand <a>panier</a> de l’élargissement.
+- c: 1
+  r: 3
+  v: être mélanger
+  x:
+  - s: Linjeflygbolag, regionala flygbolag, researrangörer och lågprisbolag <v>buntas</v>
+      alla <p>ihop</p>.
+    t: Transporteurs de lignes, compagnies aériennes régionales, organisateurs de
+      voyages à forfait et compagnies aériennes à bas prix, tous <a>sont</a> <a>mélangés</a>.
+- c: 1
+  r: 3
+  v: canaliser rassembler
+  x:
+  - s: Det finns en oerhörd entusiasm i den här frågan som vi måste ta vara på och
+      ”<v>bunta</v> <p>ihop</p>” för att skapa ett mervärde.
+    t: Il y a ici un enthousiasme incroyable qui doit être <a>canalisé</a> (<a>rassemblé</a>,
+      si vous voulez) afin de créer la valeur ajoutée correspondante.
+- c: 1
+  r: 3
+  v: amalgame malsain
+  x:
+  - s: Genom att <v>bunta</v> <p>ihop</p> dem på ett sätt som är både farligt och
+      felaktigt försöker de ”konservativa” partierna att peka ut dem som extremister,
+      enbart av den anledningen att de vill arbeta för bevarandet av den nationella
+      identiteten.
+    t: Dans un esprit d’<a>amalgame</a> <a>malsain</a> et faux, l’ensemble des partis
+      dits «bien-pensants» s’évertuent à pourtant les taxer d’extrémistes uniquement
+      parce qu’ils s’attachent à promouvoir le maintien de l’identité nationale.
+it:
+- c: 3
+  r: 1
+  v: erba fascio
+  x:
+  - s: Precis som det finns stora inbördes skillnader mellan de gamla medlemsstaterna
+      kan vi självfallet inte <v>bunta</v> <p>ihop</p> de tio nya medlemsstaterna.
+    t: Se anche tra i vecchi Stati membri sussistono delle differenze, non possiamo
+      ovviamente fare di tutta un’<a>erba</a> un <a>fascio</a> dei dieci nuovi Stati
+      membri.
+  - s: Jag är dessutom för separata förvaltningskommittéer eftersom saker inte bara
+      kan <v>buntas</v> <p>ihop</p>, särskilt inte när det gäller specifika frågor.
+    t: Sono inoltre a favore dei comitati speciali di gestione, in quanto, soprattutto
+      in questioni così specifiche, non si può fare di tutta un’<a>erba</a> un <a>fascio</a>.
+  - s: Låt mig avsluta genom att ansluta mig till dem som begär att vi nu måste tillsätta
+      en utredning för att undersöka de icke-statliga organisationernas ansvar - och
+      det är självklart att inte alla får <v>buntas</v> <p>ihop</p> utan åtskillnad
+      - för utan tvekan existerar detta ansvar och det måste definieras av Europeiska
+      kommissionen, även mot bakgrund av den generositet som visats av Europeiska
+      unionen.
+    t: Concludo associandomi a quanti chiedono che a questo punto si proceda a un’indagine
+      precisa delle responsabilità nell’ambito delle organizzazioni non governative
+      - è chiaro che, come sempre, non bisogna fare di tutt’<a>erba</a> un <a>fascio</a>
+      - perché sicuramente queste responsabilità esistono e devono essere accertate,
+      anche in considerazione della generosità dimostrata dall’Unione europea, dalla
+      Commissione europea, nei confronti delle organizzazioni non governative.
+- c: 2
+  r: 2
+  v: riunire
+  x:
+  - s: Det är något av en utmaning att <v>bunta</v> <p>ihop</p> alla dessa betänkanden
+      och lämna omdömen om dem, men jag kanske kan framföra några synpunkter.
+    t: È comunque positivo da parte nostra affrontare tali problemi, ed è una vera
+      e propria sfida <a>riunire</a> tutte queste relazioni e valutarle;
+  - s: Man kan inte godkänna att ansökarländer <v>buntas</v> <p>ihop</p> i geografiska
+      grupper och att tidpunkten för ansökarländernas anslutning delas upp regionvis.
+    t: È inammissibile <a>riunire</a> i paesi candidati per gruppi geografici e scaglionare
+      le date di adesione in base alla loro collocazione geografica.
+- c: 1
+  r: 3
+  v: raggruppare
+  x:
+  - s: Vissa frågor har upprepats eller överlappat varandra och jag ska försöka <v>bunta</v>
+      <p>ihop</p> dem så mycket jag kan.
+    t: Alcune domande sono state ripetute o si sono parzialmente sovrapposte e cercherò
+      di <a>raggrupparle</a>, per quanto possibile.
+  - s: De befintliga programmen kommer att <v>buntas</v> <p>ihop</p>.
+    t: Il Presidente Santer ha affermato che i programmi esistenti saranno <a>raggruppati</a>
+      ed orientati in funzione del FSE e dell’occupazione.
+- c: 1
+  r: 3
+  v: ridurre essere
+  x:
+  - s: Linjeflygbolag, regionala flygbolag, researrangörer och lågprisbolag <v>buntas</v>
+      alla <p>ihop</p>.
+    t: Aerei di linea, compagnie aeree regionali, tour operator e compagnie aeree
+      a tariffe <a>ridotte</a> <a>sono</a> tutti allo stesso livello.
+- c: 1
+  r: 3
+  v: riunire assieme
+  x:
+  - s: Genom att <v>bunta</v> <p>ihop</p> dem på ett sätt som är både farligt och
+      felaktigt försöker de ”konservativa” partierna att peka ut dem som extremister,
+      enbart av den anledningen att de vill arbeta för bevarandet av den nationella
+      identiteten.
+    t: <a>Riunendoli</a> <a>assieme</a> in un modo poco sano e sbagliato, tutti i
+      cosiddetti partiti «conservatori» stanno ancora cercando di accusarli di estremismo
+      solo perché intendono promuovere il mantenimento dell’identità nazionale.
+- c: 1
+  r: 3
+  v: indurre
+  x:
+  - s: för det första att prohibitionismen har misslyckats och att vi därför måste
+      arbeta för att, om än successivt, till exempel dela upp marknaderna för att
+      undvika att konsumenter av hasch och marijuana - som inte är droger - <v>buntas</v>
+      <p>ihop</p> med grövre missbrukare på den svarta marknaden och leds in på marknaderna
+      för andra droger.
+    t: che il proibizionismo è fallito, e che quindi occorre lavorare, anche passo
+      dopo passo, ad esempio per dividere i mercati, per evitare che il mercato clandestino
+      accomuni consumatori di hashish, di marijuana - che droghe non sono - <a>inducendoli</a>
+      ad avvicinarsi ai mercati delle altre droghe;
+- c: 1
+  r: 3
+  v: contemplare
+  x:
+  - s: Länderna i fråga, som här <v>buntas</v> <p>ihop</p> i en grupp, befinner sig
+      i mycket olika ekonomiska utvecklingsfaser.
+    t: I paesi interessati, che <a>contempliamo</a> in un unico gruppo, si trovano
+      in realtà in fasi di sviluppo molto differenziate dal punto di vista economico.
+- c: 1
+  r: 3
+  v: conseguire raccogliere
+  x:
+  - s: 128 ändringsförslag lades fram, och ni formulerade sedan slutligen 17 eller
+      18 kompromissändringsförslag som skall hjälpa till att <v>bunta</v> <p>ihop</p>
+      detta överflöd av ändringsförslag på ett sådant sätt att resultatet i slutändan
+      blir ett i sig logiskt och övertygande betänkande från parlamentets sida till
+      denna handlingsplan.
+    t: Sono tutti obiettivi molto ambiziosi, ma in realtà non sarà facile <a>conseguirli</a>,
+      poiché finora non era possibile <a>raccogliere</a> dai singoli paesi dati comparabili
+      e confrontare i vari metodi;
+- c: 1
+  r: 3
+  v: cavalcare
+  x:
+  - s: Det finns en oerhörd entusiasm i den här frågan som vi måste ta vara på och
+      ”<v>bunta</v> <p>ihop</p>” för att skapa ett mervärde.
+    t: Esiste un entusiasmo incredibile in tale ambito che deve essere incanalato,
+      o se preferite <a>cavalcato</a>, per creare il corrispondente valore aggiunto.
+- c: 1
+  r: 3
+  v: associare
+  x:
+  - s: Nej, i Nederländerna hör den andra pelaren uttryckligen till den första pelaren,
+      till systemen för social trygghet, och får inte <v>buntas</v> <p>ihop</p> med
+      de individuella produkterna inom tredje pelaren för de som kan tillåta sig det.
+    t: No, il secondo pilastro nei Paesi Bassi è espressamente unito al primo pilastro,
+      ai regimi di sicurezza sociale, e non deve essere <a>associato</a> ai prodotti
+      individuali del terzo pilastro destinati a coloro che se li possono permettere.
+- c: 1
+  r: 3
+  v: accorpare
+  x:
+  - s: Jag vill också betona att vi under inga omständigheter bör <v>bunta</v> <p>ihop</p>
+      två ämnen genom att knyta de två medlemsstaternas anslutning till Schengenområdet
+      till frågan om övervakning av kontrollmekanismen.
+    t: Ricordo inoltre che non dovremmo nel più assoluto dei modi <a>accorpare</a>
+      due questioni distinte, ovvero l’adesione di due Stati membri all’area Schengen
+      e la supervisione del meccanismo di verifica Schengen.
+- c: 1
+  r: 3
+  v: drizzare
+  x:
+  - s: Vid utskottsdebatterna kändes det upprörande att många medlemmar ville <v>bunta</v>
+      <p>ihop</p> de baltiska staterna i ett block utan att alls ta hänsyn till deras
+      historiska, samhälleliga och socioekonomiska bakgrunder.
+    t: Il desiderio espresso da taluni membri nelle discussioni in seno alla commissione
+      di fare tutt’un blocco dei paesi baltici, tralasciando completamente le loro
+      diverse condizioni storiche, sociali e socioeconomiche, ha fatto <a>drizzare</a>
+      i capelli.
+- c: 1
+  r: 3
+  v: infilare
+  x:
+  - s: Jag skall avsluta med ISPA, som tydligen måste vara skälet till att mitt betänkande
+      har <v>buntats</v> <p>ihop</p> med betänkanden om utvidgningen.
+    t: Concludo con l’ISPA, che apparentemente dovrebbe essere la ragione per cui
+      la mia relazione è stata <a>infilata</a> nel calderone dell’allargamento.
+- c: 1
+  r: 3
+  v: raggruppare
+  x:
+  - s: Vissa frågor har upprepats eller överlappat varandra och jag ska försöka <v>bunta</v>
+      <p>ihop</p> dem så mycket jag kan.
+    t: Alcune domande sono state ripetute o si sono parzialmente sovrapposte e cercherò
+      di <a>raggrupparle</a>, per quanto possibile.
+  - s: De befintliga programmen kommer att <v>buntas</v> <p>ihop</p>.
+    t: Il Presidente Santer ha affermato che i programmi esistenti saranno <a>raggruppati</a>
+      ed orientati in funzione del FSE e dell’occupazione.
+pt:
+- c: 2
+  r: 1
+  v: misturar
+  x:
+  - s: Jag vill också betona att vi under inga omständigheter bör <v>bunta</v> <p>ihop</p>
+      två ämnen genom att knyta de två medlemsstaternas anslutning till Schengenområdet
+      till frågan om övervakning av kontrollmekanismen.
+    t: Gostaria também de salientar que em nenhuma circunstância se devem <a>misturar</a>
+      duas questões, ou seja, ligar a adesão a Schengen dos dois Estados-Membros à
+      questão da supervisão dos mecanismos de verificação de Shengen.
+  - s: Nej, i Nederländerna hör den andra pelaren uttryckligen till den första pelaren,
+      till systemen för social trygghet, och får inte <v>buntas</v> <p>ihop</p> med
+      de individuella produkterna inom tredje pelaren för de som kan tillåta sig det.
+    t: Não, o segundo pilar nos Países Baixos está explicitamente ligado ao primeiro
+      pilar, aos regimes de segurança social, e não pode ser simplesmente <a>misturado</a>
+      com os produtos individuais do terceiro pilar, destinados àqueles que têm meios
+      para os pagar.
+- c: 2
+  r: 1
+  v: saco
+  x:
+  - s: Jag vädjar till er att bedöma varje land utifrån dess egna meriter och att
+      undvika att göra om samma misstag genom att <v>bunta</v> <p>ihop</p> Rumänien
+      med Bulgarien.
+    t: Exortá-lo-ia a avaliar cada país em função dos seus próprios méritos e a evitar
+      cometer o mesmo erro de colocar a Bulgária e a Roménia no mesmo <a>saco</a>.
+  - s: 'Alla dessa länder är olika, och de vinnlägger sig om att säga: ”<v>Bunta</v>
+      inte <p>ihop</p> oss och betrakta oss som ett och detsamma.'
+    t: 'Esses países são diferentes entre si e procuram deixá-lo claro: «Por favor,
+      não nos ponham todos no mesmo <a>saco</a> como se fôssemos a mesma coisa.'
+- c: 1
+  r: 2
+  v: amálgama esmerar
+  x:
+  - s: Genom att <v>bunta</v> <p>ihop</p> dem på ett sätt som är både farligt och
+      felaktigt försöker de ”konservativa” partierna att peka ut dem som extremister,
+      enbart av den anledningen att de vill arbeta för bevarandet av den nationella
+      identiteten.
+    t: Num espírito de <a>amálgama</a> pouco sã e verdadeira, o conjunto dos partidos
+      ditos «bem pensantes» <a>esmeram</a>-se, no entanto, em classificá-los de extremistas
+      apenas porque pretendem promover a manutenção da identidade nacional.
+- c: 1
+  r: 2
+  v: confundir coisa
+  x:
+  - s: Vi måsta vara försiktiga så att vi inte <v>buntar</v> <p>ihop</p> alla utan
+      åtskillnad!
+    t: Cuidado para não <a>confundirmos</a> as <a>coisas</a>, sem estabelecer diferenças!
+- c: 1
+  r: 2
+  v: confundir trigo
+  x:
+  - s: Låt mig avsluta genom att ansluta mig till dem som begär att vi nu måste tillsätta
+      en utredning för att undersöka de icke-statliga organisationernas ansvar - och
+      det är självklart att inte alla får <v>buntas</v> <p>ihop</p> utan åtskillnad
+      - för utan tvekan existerar detta ansvar och det måste definieras av Europeiska
+      kommissionen, även mot bakgrund av den generositet som visats av Europeiska
+      unionen.
+    t: Termino, associando-me àqueles que exigem que, neste momento, se proceda a
+      um apuramento rigoroso das responsabilidades no âmbito das organizações não
+      governamentais - é claro que, como sempre, não devemos <a>confundir</a> o <a>trigo</a>
+      com o joio -, porque não há dúvida de que essas responsabilidades existem e
+      devem ser apuradas, tendo em conta também a generosidade demonstrada pela União
+      Europeia, pela Comissão Europeia, em relação às organizações não governamentais.
+- c: 1
+  r: 2
+  v: efectuar abordagem
+  x:
+  - s: Länderna i fråga, som här <v>buntas</v> <p>ihop</p> i en grupp, befinner sig
+      i mycket olika ekonomiska utvecklingsfaser.
+    t: Estamos a <a>efectuar</a> uma <a>abordagem</a> por grupos de países e cada
+      um destes se encontra em diferentes fases de desenvolvimento económico.
+- c: 1
+  r: 2
+  v: complicar juntar
+  x:
+  - s: Det är något av en utmaning att <v>bunta</v> <p>ihop</p> alla dessa betänkanden
+      och lämna omdömen om dem, men jag kanske kan framföra några synpunkter.
+    t: É <a>complicado</a> <a>juntar</a> todos estes relatórios e emitir uma avaliação,
+      mas talvez possa expressar algumas perspectivas sobre eles.
+- c: 1
+  r: 2
+  v: reunir conjunto
+  x:
+  - s: Olika betänkanden har <v>buntats</v> <p>ihop</p> och diskuteras i en allomfattande
+      debatt.
+    t: <a>Reuniram</a>-se relatórios diferentes num debate de <a>conjunto</a>.
+- c: 1
+  r: 2
+  v: assinar
+  x:
+  - s: I kommissionens senaste meddelande stod det att skyddet för offer har högsta
+      prioritet, men att medlemsstaterna tenderar att <v>bunta</v> <p>ihop</p> människohandel
+      med illegal invandring och föredrar att bara skydda offren under förutsättning
+      att de ställer upp som vittnen.
+    t: 'Até à data, a Convenção foi <a>assinada</a> por cinco Estados-Membros da União
+      Europeia:'
+- c: 1
+  r: 2
+  v: associar
+  x:
+  - s: 128 ändringsförslag lades fram, och ni formulerade sedan slutligen 17 eller
+      18 kompromissändringsförslag som skall hjälpa till att <v>bunta</v> <p>ihop</p>
+      detta överflöd av ändringsförslag på ett sådant sätt att resultatet i slutändan
+      blir ett i sig logiskt och övertygande betänkande från parlamentets sida till
+      denna handlingsplan.
+    t: Tal significa que países como a França e a Alemanha terão de passar a dar mais
+      atenção ao tratamento dos toxicodependentes, enquanto um país, como a Holanda,
+      por exemplo, terá de fazer mais quanto às inconveniências causadas pelas drogas,
+      que resultam dos «cofeeshops» e do turismo <a>associado</a> à droga.
+- c: 1
+  r: 2
+  v: colocar saco
+  x:
+  - s: Jag är dessutom för separata förvaltningskommittéer eftersom saker inte bara
+      kan <v>buntas</v> <p>ihop</p>, särskilt inte när det gäller specifika frågor.
+    t: Sou igualmente favorável aos comités de gestão especiais, uma vez que, sobretudo
+      em matérias muito específicas, não é possível <a>colocar</a> tudo no mesmo <a>saco</a>.
+- c: 1
+  r: 2
+  v: induzir
+  x:
+  - s: för det första att prohibitionismen har misslyckats och att vi därför måste
+      arbeta för att, om än successivt, till exempel dela upp marknaderna för att
+      undvika att konsumenter av hasch och marijuana - som inte är droger - <v>buntas</v>
+      <p>ihop</p> med grövre missbrukare på den svarta marknaden och leds in på marknaderna
+      för andra droger.
+    t: que o proibicionismo falhou e que, por conseguinte, é preciso tomar medidas,
+      ainda que gradualmente, para separar os mercados, por exemplo, para evitar que
+      o mercado negro atraia consumidores de Haxixe ou de marijuana, que não são drogas,
+      <a>induzindo</a>-os a recorrer aos mercados de outras drogas.
+- c: 1
+  r: 2
+  v: juntar
+  x:
+  - s: Vid utskottsdebatterna kändes det upprörande att många medlemmar ville <v>bunta</v>
+      <p>ihop</p> de baltiska staterna i ett block utan att alls ta hänsyn till deras
+      historiska, samhälleliga och socioekonomiska bakgrunder.
+    t: O debate em comissão provocou arrepios porque vários membros queriam <a>juntar</a>
+      os países bálticos num só bloco, ultrapassando completamente os fundamentos
+      históricos, as diferenças das sociedades e os factores socioeconómicos.
+- c: 1
+  r: 2
+  v: juntar saco
+  x:
+  - s: Att <v>bunta</v> <p>ihop</p> allting gör bilden oklar och förvirrar diskussionen
+      om huruvida det som behöver göras är att rätta till misstag eller om det är
+      att kontakta polisen.
+    t: <a>Juntar</a> tudo no mesmo <a>saco</a> distorce a imagem e confunde o debate,
+      centrando-o na questão de saber se é preciso corrigir os erros ou chamar a polícia.
+- c: 1
+  r: 2
+  v: acondicionar
+  x:
+  - s: Det finns en oerhörd entusiasm i den här frågan som vi måste ta vara på och
+      ”<v>bunta</v> <p>ihop</p>” för att skapa ett mervärde.
+    t: Há um grande entusiasmo que deve ser canalizado - ou, se preferirem, <a>acondicionado</a>
+      -, para que se torne possível gerar o correspondente valor acrescentado.
+- c: 1
+  r: 2
+  v: mesmo saco
+  x:
+  - s: Precis som det finns stora inbördes skillnader mellan de gamla medlemsstaterna
+      kan vi självfallet inte <v>bunta</v> <p>ihop</p> de tio nya medlemsstaterna.
+    t: Do mesmo modo como existem grandes diferenças entre os antigos Estados-Membros,
+      também não podemos colocar todos os novos Estados-Membros no <a>mesmo</a> <a>saco</a>.
+- c: 1
+  r: 2
+  v: meter mesmo saco
+  x:
+  - s: Linjeflygbolag, regionala flygbolag, researrangörer och lågprisbolag <v>buntas</v>
+      alla <p>ihop</p>.
+    t: Os serviços aéreos regulares, as transportadoras áreas regionais, os operadores
+      turísticos e as transportadoras aéreas de baixo custo, são todos <a>metidos</a>
+      no <a>mesmo</a> <a>saco</a>.
+- c: 1
+  r: 2
+  v: meter saco
+  x:
+  - s: Jag skall avsluta med ISPA, som tydligen måste vara skälet till att mitt betänkande
+      har <v>buntats</v> <p>ihop</p> med betänkanden om utvidgningen.
+    t: Concluo com o ISPA, que, aparentemente, terá sido a razão pela qual o meu relatório
+      foi <a>metido</a> no <a>saco</a> do alargamento.
+- c: 1
+  r: 2
+  v: pacote
+  x:
+  - s: De befintliga programmen kommer att <v>buntas</v> <p>ihop</p>.
+    t: O senhor Presidente Jacques Santer afirmou que os programas existentes vão
+      ser tratados em <a>pacote</a> e orientados para o FSE e o emprego.

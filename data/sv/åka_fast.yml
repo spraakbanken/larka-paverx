@@ -1,0 +1,292 @@
+---
+de:
+- c: 3
+  r: 1
+  v: erwischen
+  x:
+  - s: 'vi kommer att läsa om hur en obetydlig skojare, en andra klassens knarklangare
+      <v>åker</v> <p>fast</p>, döms till ”livstids” fängelse, förs bort till något
+      fängelse på andra sidan Uralbergen, och sedan säger man: ”Titta, vi haffade
+      en!”.'
+    t: Irgendein Kleinkrimineller, irgendein Drogenhändler wird <a>erwischt</a> werden.
+  - s: <v>Åker</v> man <p>fast</p>, blir straffet inte sällan 10-12 år.
+    t: Wird man <a>erwischt</a>, beträgt die Strafe nicht selten 10-12 Jahre.
+  - s: <v>Åker</v> man <p>fast</p>, blir straffet inte mer än ett eller två år.
+    t: Wird man <a>erwischt</a>, beträgt die Strafe höchstens ein oder zwei Jahre.
+- c: 1
+  r: 2
+  v: Temposünder
+  x:
+  - s: Det kommer inte längre att finnas några möjligheter för heltäckande paket som
+      har gjort det möjligt för personer som ertappats med att köra under påverkan
+      av alkohol eller droger eller som <v>åkt</v> <p>fast</p> för fortkörning att
+      skaffa ett nytt körkort utomlands.
+    t: Keine Chance gibt es mehr für All-Inclusive-Pakete, mit denen Alkohol-, Drogen-
+      und <a>Temposünder</a> im Ausland einen neuen Führerschein erwerben konnten.
+- c: 1
+  r: 2
+  v: fahren erwischen
+  x:
+  - s: Alla som <v>åkt</v> <p>fast</p> för fortkörning eller rattfylleri och fått
+      sitt körkort indraget eller återkallat kan i dag åka utomlands och ansöka om
+      ett nytt körkort där.
+    t: Wer zu schnell <a>gefahren</a> ist oder mit Alkohol im Blut <a>erwischt</a>
+      wurde und seine „Pappe“ entzogen bekam, kann derzeit ins Ausland ausweichen
+      und dort einen neuen Führerschein machen.
+- c: 1
+  r: 2
+  v: überführen
+  x:
+  - s: Risken att <v>åka</v> <p>fast</p> på grund av falska uppgifter är alltför liten.
+    t: Das Risiko, wegen einer falschen Angabe <a>überführt</a> zu werden, ist zu
+      gering.
+- c: 1
+  r: 2
+  v: offenlegen
+  x:
+  - s: De har vid revisionsrättens granskning <v>åkt</v> <p>fast</p> för detta.
+    t: Das wurde bei einer Untersuchung des Rechnungshofes <a>offengelegt</a>.
+en:
+- c: 2
+  r: 1
+  v: catch
+  x:
+  - s: Visst vore det bekvämt om hastighetsbegränsningarna övervakades på så sätt
+      att om man <v>åkte</v> <p>fast</p> i en hastighetskontroll tillräckligt många
+      gånger så höjdes bara den nuvarande hastighetsbegränsningen så att inte så många
+      skulle drabbas av böter i framtiden!
+    t: I would be delighted if speed limits were applied by saying that if you get
+      <a>caught</a> too often by a speed trap, we will just raise the relevant speed
+      limit so that not so many people are fined in future!
+  - s: De har varken rätt till sjukvård eller pensioner, och de lever i ständig rädsla
+      för att <v>åka</v> <p>fast</p> och skickas tillbaka till sina hemländer.
+    t: They have no right to healthcare or pensions and they live in constant fear
+      of being <a>caught</a> and sent back to their home country.
+- c: 1
+  r: 2
+  v: be catch
+  x:
+  - s: Att EU till sist har erkänt att olagliga invandrare som <v>åker</v> <p>fast</p>
+      också måste ges rättigheter och skyddas mot exploatering är ett viktigt steg
+      framåt.
+    t: However, the fact that it has at last been recognised within the European Union
+      that illegal immigrants who <a>are</a> <a>caught</a> must also be granted rights
+      and must be protected against exploitation represents an important step forward.
+- c: 1
+  r: 2
+  v: have drive
+  x:
+  - s: Alla som <v>åkt</v> <p>fast</p> för fortkörning eller rattfylleri och fått
+      sitt körkort indraget eller återkallat kan i dag åka utomlands och ansöka om
+      ett nytt körkort där.
+    t: Anyone who <a>has</a> <a>driven</a> too fast or been caught with alcohol in
+      their blood and lost their licence can at present go abroad and apply for a
+      new licence there.
+- c: 1
+  r: 2
+  v: get catch
+  x:
+  - s: Bra körutbildning, trafikundervisning i skolan, upplysningskampanjer, kontroll
+      av efterlevnaden av trafikregler som kör- och vilotid, med en stor risk att
+      <v>åka</v> <p>fast</p> vid överträdelse, är därför omistligt.
+    t: Better training for drivers, road safety education in schools, information
+      campaigns, enforcement of traffic regulations such as those relating to rest
+      and driving times for professional drivers (with a serious chance of <a>getting</a>
+      <a>caught</a>) are indispensable if this reduction is to be achieved.
+- c: 1
+  r: 2
+  v: convict
+  x:
+  - s: Risken att <v>åka</v> <p>fast</p> på grund av falska uppgifter är alltför liten.
+    t: The risk of being <a>convicted</a> for a false declaration is too slight.
+es:
+- c: 1
+  r: 1
+  v: caso
+  x:
+  - s: <v>Åker</v> man <p>fast</p>, blir straffet inte mer än ett eller två år.
+    t: En <a>caso</a> de detención, la condena no sobrepasa uno o dos años.
+- c: 1
+  r: 1
+  v: ir
+  x:
+  - s: Skall de <v>åka</v> <p>fast</p>, skall de bli stoppade, skall de tystas eller
+      skall de få tala fritt?
+    t: <a>irán</a> a la cárcel, se les pondrán trabas, se les silenciará o podrán
+      hablar libremente?
+- c: 1
+  r: 1
+  v: coger
+  x:
+  - s: De har varken rätt till sjukvård eller pensioner, och de lever i ständig rädsla
+      för att <v>åka</v> <p>fast</p> och skickas tillbaka till sina hemländer.
+    t: No tienen derecho a asistencia sanitaria ni a pensiones y viven en un miedo
+      constante de que les <a>cojan</a> y les devuelvan a su país de origen.
+- c: 1
+  r: 1
+  v: pillar
+  x:
+  - s: Bra körutbildning, trafikundervisning i skolan, upplysningskampanjer, kontroll
+      av efterlevnaden av trafikregler som kör- och vilotid, med en stor risk att
+      <v>åka</v> <p>fast</p> vid överträdelse, är därför omistligt.
+    t: Para ello son imprescindibles una buena enseñanza práctica de la conducción,
+      la enseñanza sobre seguridad vial en la escuela, campañas de información, el
+      control del respeto de las reglas de tráfico como las horas de conducción y
+      de descanso, con una alta probabilidad de ser <a>pillado</a> en caso de infracción.
+- c: 1
+  r: 1
+  v: descubrir curso
+  x:
+  - s: De har vid revisionsrättens granskning <v>åkt</v> <p>fast</p> för detta.
+    t: Y han sido <a>descubiertos</a> en el <a>curso</a> de las inspecciones del Tribunal
+      de Cuentas.
+- c: 1
+  r: 1
+  v: ser inculpar
+  x:
+  - s: Risken att <v>åka</v> <p>fast</p> på grund av falska uppgifter är alltför liten.
+    t: El riesgo de <a>ser</a> <a>inculpado</a> por prestar una declaración falsa
+      es demasiado pequeño.
+fr:
+- c: 2
+  r: 1
+  v: prendre
+  x:
+  - s: De har varken rätt till sjukvård eller pensioner, och de lever i ständig rädsla
+      för att <v>åka</v> <p>fast</p> och skickas tillbaka till sina hemländer.
+    t: Quelqu’un tire profit de ces travailleurs, qui n’ont pas droit à des soins
+      de santé ou à une pension et vivent dans la crainte permanente d’être <a>pris</a>
+      et renvoyés dans leur pays d’origine.
+  - s: Bra körutbildning, trafikundervisning i skolan, upplysningskampanjer, kontroll
+      av efterlevnaden av trafikregler som kör- och vilotid, med en stor risk att
+      <v>åka</v> <p>fast</p> vid överträdelse, är därför omistligt.
+    t: Une bonne formation, un enseignement du code de la route à l’école, des campagnes
+      d’information, le contrôle du respect des règles de circulation telles que les
+      temps de conduite et de repos, accompagnés de bonnes probabilités d’être <a>pris</a>
+      en cas d’infraction, sont indispensables.
+- c: 1
+  r: 2
+  v: arrêter
+  x:
+  - s: Att EU till sist har erkänt att olagliga invandrare som <v>åker</v> <p>fast</p>
+      också måste ges rättigheter och skyddas mot exploatering är ett viktigt steg
+      framåt.
+    t: Mai le fait que l’Union européenne ait reconnu que les immigrants illégaux
+      qui sont <a>arrêtés</a> doivent aussi se voir accorder des droits et être protégés
+      contre l’exploitation constitue un important pas en avant.
+- c: 1
+  r: 2
+  v: inquiéter
+  x:
+  - s: Risken att <v>åka</v> <p>fast</p> på grund av falska uppgifter är alltför liten.
+    t: Le risque d’être <a>inquiété</a> en cas de fausse déclaration, est trop petit.
+- c: 1
+  r: 2
+  v: découvrir inspection
+  x:
+  - s: De har vid revisionsrättens granskning <v>åkt</v> <p>fast</p> för detta.
+    t: Ils ont été <a>découverts</a> lors d’une <a>inspection</a> de la Cour des comptes.
+- c: 1
+  r: 2
+  v: excès
+  x:
+  - s: Det kommer inte längre att finnas några möjligheter för heltäckande paket som
+      har gjort det möjligt för personer som ertappats med att köra under påverkan
+      av alkohol eller droger eller som <v>åkt</v> <p>fast</p> för fortkörning att
+      skaffa ett nytt körkort utomlands.
+    t: Il n’existera plus de possibilité de formules tous risques, permettant aux
+      personnes reconnues coupables de conduite sous l’influence de l’alcool ou de
+      drogues, ou d’<a>excès</a> de vitesse, d’obtenir un nouveau permis de conduire
+      à l’étranger.
+it:
+- c: 2
+  r: 1
+  v: limite
+  x:
+  - s: Alla som <v>åkt</v> <p>fast</p> för fortkörning eller rattfylleri och fått
+      sitt körkort indraget eller återkallat kan i dag åka utomlands och ansöka om
+      ett nytt körkort där.
+    t: Allo stato attuale delle cose, chiunque abbia superato i <a>limiti</a> di velocità
+      o sia stato pizzicato con un tasso troppo elevato di alcool nel sangue e si
+      è visto ritirare la patente può procurarsene una nuova all’estero.
+  - s: Visst vore det bekvämt om hastighetsbegränsningarna övervakades på så sätt
+      att om man <v>åkte</v> <p>fast</p> i en hastighetskontroll tillräckligt många
+      gånger så höjdes bara den nuvarande hastighetsbegränsningen så att inte så många
+      skulle drabbas av böter i framtiden!
+    t: Sarei molto contento se i <a>limiti</a> di velocità fossero applicati in modo
+      tale per cui, se troppi automobilisti sono colti in fallo dall’, non si fa altro
+      che aumentare il limite di velocità per evitare che in futuro ci siano troppe
+      multe!
+- c: 1
+  r: 2
+  v: scoprire
+  x:
+  - s: De har varken rätt till sjukvård eller pensioner, och de lever i ständig rädsla
+      för att <v>åka</v> <p>fast</p> och skickas tillbaka till sina hemländer.
+    t: Qualcuno si sta arricchendo alle spalle degli immigrati clandestini, che non
+      hanno diritto all’assistenza sanitaria né a una pensione e vivono nella paura
+      costante di essere <a>scoperti</a> e rispediti nel paese d’origine.
+- c: 1
+  r: 2
+  v: riconoscere
+  x:
+  - s: Risken att <v>åka</v> <p>fast</p> på grund av falska uppgifter är alltför liten.
+    t: Il rischio di essere <a>riconosciuto</a> colpevole per aver fornito dati falsi
+      è, dunque, troppo limitato.
+- c: 1
+  r: 2
+  v: contabile
+  x:
+  - s: De har vid revisionsrättens granskning <v>åkt</v> <p>fast</p> för detta.
+    t: Sono stati scoperti dalla revisione <a>contabile</a> della Corte dei conti.
+- c: 1
+  r: 2
+  v: bloccare
+  x:
+  - s: Skall de <v>åka</v> <p>fast</p>, skall de bli stoppade, skall de tystas eller
+      skall de få tala fritt?
+    t: Saranno incarcerate, <a>bloccate</a>, ridotte al silenzio oppure potranno parlare
+      liberamente?
+pt:
+- c: 2
+  r: 1
+  v: apanhar
+  x:
+  - s: Att EU till sist har erkänt att olagliga invandrare som <v>åker</v> <p>fast</p>
+      också måste ges rättigheter och skyddas mot exploatering är ett viktigt steg
+      framåt.
+    t: Contudo, o facto de ter sido reconhecido, na União Europeia, que os imigrantes
+      ilegais que são <a>apanhados</a> devem, também, ter direitos e devem ser protegidos
+      da exploração representa um importante passo em frente.
+  - s: De har varken rätt till sjukvård eller pensioner, och de lever i ständig rädsla
+      för att <v>åka</v> <p>fast</p> och skickas tillbaka till sina hemländer.
+    t: Não têm direito a cuidados de saúde nem pensões e vivem com receio permanente
+      de serem <a>apanhados</a> e terem de regressar ao seu país.
+- c: 1
+  r: 2
+  v: ir apanhar
+  x:
+  - s: De har vid revisionsrättens granskning <v>åkt</v> <p>fast</p> för detta.
+    t: Estes partidos <a>foram</a> <a>apanhados</a> na fiscalização do Tribunal de
+      Contas.
+- c: 1
+  r: 2
+  v: inculpar
+  x:
+  - s: Risken att <v>åka</v> <p>fast</p> på grund av falska uppgifter är alltför liten.
+    t: O risco de ser <a>inculpado</a> por ter prestado uma declaração falsa é demasiado
+      pequeno.
+- c: 1
+  r: 2
+  v: detenção
+  x:
+  - s: <v>Åker</v> man <p>fast</p>, blir straffet inte sällan 10-12 år.
+    t: Em caso de <a>detenção</a>, não é raro que a pena atinja 10 ou 12 anos.
+- c: 1
+  r: 2
+  v: preso
+  x:
+  - s: Skall de <v>åka</v> <p>fast</p>, skall de bli stoppade, skall de tystas eller
+      skall de få tala fritt?
+    t: Serão <a>presos</a>, serão impedidos de agir, serão silenciados, ou poderão
+      falar livremente?

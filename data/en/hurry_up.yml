@@ -1,0 +1,370 @@
+---
+de:
+- c: 4
+  r: 1
+  v: beeilen
+  x:
+  - s: With this report, we have given the European Commission a powerful signal to
+      <v>hurry</v> <p>up</p> and make some specific legislative changes.
+    t: Mit diesem Bericht haben wir ein klares Signal an die Europäische Kommission
+      ausgesendet, sich zu <a>beeilen</a> und einige spezifische Gesetzesänderungen
+      vorzunehmen.
+  - s: That amounts to telling dictators in every country to <v>hurry</v> <p>up</p>
+      and get nuclear weapons, so that, that way, we will not do anything more to
+      them and will negotiate with them.
+    t: 'Das würde bedeuten: ’Diktatoren aller Länder, <a>beeilt</a> euch mit der Beschaffung
+      von Nuklearwaffen, dann werden wir euch nichts mehr tun und mit euch verhandeln’.'
+  - s: Let us <v>hurry</v> <p>up</p> and get this sorted out.
+    t: Wir sollten uns <a>beeilen</a> und diese Angelegenheit zum Abschluß bringen.
+  - s: You must <v>hurry</v> <p>up</p>.
+    t: Sie müssen sich <a>beeilen</a>.
+- c: 1
+  r: 2
+  v: sputen
+  x:
+  - s: We therefore need to <v>hurry</v> <p>up</p>.
+    t: Man sollte sich daher <a>sputen</a>.
+- c: 1
+  r: 2
+  v: beschleunigt
+  x:
+  - s: The Commission will also give clear instructions to all the parties concerned
+      to <v>hurry</v> <p>up</p> and complete the assessments, if possible before the
+      end of the year.
+    t: Ferner werden wir auch allen betroffenen Parteien deutliche Anweisungen zum
+      <a>beschleunigten</a> Abschluss der Bewertungen erteilen, um diese möglichst
+      noch vor Jahresende vorliegen zu haben.
+- c: 1
+  r: 2
+  v: beschleunigen
+  x:
+  - s: The Commission needs to <v>hurry</v> <p>up</p> here, and that is where you,
+      Mrs Bjerregaard, come in.
+    t: Die Kommission sollte also hier <a>beschleunigen</a>.
+- c: 1
+  r: 2
+  v: schnell Ende
+  x:
+  - s: Mrs Anttila, I am sorry that I had to tell you to <v>hurry</v> <p>up</p>, but
+      I am not to blame.
+    t: Frau Anttila, es tut mir leid, daß ich gezwungen war, Sie zu bitten, <a>schnell</a>
+      zum <a>Ende</a> zu kommen, aber das ist nicht meine Schuld, Ihre Fraktion sollte
+      Ihnen mehr Redezeit geben.
+- c: 1
+  r: 2
+  v: zulegen
+  x:
+  - s: Let us also <v>hurry</v> <p>up</p> with the measures we need to take in each
+      Member State cutting traffic emissions, increasing energy efficiency, promoting
+      renewables and CHP.
+    t: Wir sollten auch einen Schritt <a>zulegen</a> bei Maßnahmen, die in jedem unserer
+      Mitgliedstaaten ergriffen werden müssen.
+- c: 1
+  r: 2
+  v: vorantreiben
+  x:
+  - s: If we do not change, if we do not <v>hurry</v> <p>up</p> with structural changes,
+      competitiveness and innovation, we shall simply live more poorly.
+    t: Wenn wir uns nicht verändern, wenn wir keine strukturellen Veränderungen, die
+      Wettbewerbsfähigkeit und die Innovation <a>vorantreiben</a>, werden wir einfach
+      in mehr Armut leben.
+es:
+- c: 2
+  r: 1
+  v: darse prisa
+  x:
+  - s: We therefore need to <v>hurry</v> <p>up</p>.
+    t: Por lo tanto había que <a>darse</a> <a>prisa</a>.
+  - s: Let us <v>hurry</v> <p>up</p> and get this sorted out.
+    t: Hay que <a>darse</a> <a>prisa</a> y resolver esta cuestión.
+- c: 2
+  r: 1
+  v: prisa
+  x:
+  - s: Let us also <v>hurry</v> <p>up</p> with the measures we need to take in each
+      Member State cutting traffic emissions, increasing energy efficiency, promoting
+      renewables and CHP.
+    t: Y démonos <a>prisa</a> también con las medidas que necesitamos adoptar en cada
+      Estado miembro para reducir las emisiones del tráfico, para aumentar la eficiencia
+      energética, para promocionar las energías renovables y la PCCE (producción combinada
+      de calor y electricidad).
+  - s: With this report, we have given the European Commission a powerful signal to
+      <v>hurry</v> <p>up</p> and make some specific legislative changes.
+    t: Con este informe, le hemos dado a la Comisión Europea una señal fuerte para
+      que se dé <a>prisa</a> y haga algunos cambios legislativos específicos.
+- c: 1
+  r: 2
+  v: apresurarse
+  x:
+  - s: You must <v>hurry</v> <p>up</p>.
+    t: Debe <a>apresurarse</a>.
+- c: 1
+  r: 2
+  v: acelerar
+  x:
+  - s: it is up to the European Commission to investigate and ascertain if a Community
+      directive has been infringed, to <v>hurry</v> <p>up</p> with the case law which
+      we want to see in order to make shipping safer and, finally, to do whatever
+      needs to be done and, as I said, to investigate the matter of this famous competition
+      committee.
+    t: Y por último, la visita de la Comisión de Transportes y Turismo no creo que
+      sea sólo un deseo, la labor de la Comisión Europea es investigar y ver si ha
+      habido infracciones de alguna directiva comunitaria, <a>acelerar</a> la jurisprudencia
+      que queremos ver para que la navegación sea más segura y debe hacer lo necesario
+      e investigar el tema de este famoso Comité de competencia, tal como he dicho
+      anteriormente.
+- c: 1
+  r: 2
+  v: aceleradamente
+  x:
+  - s: The Commission needs to <v>hurry</v> <p>up</p> here, and that is where you,
+      Mrs Bjerregaard, come in.
+    t: La Comisión debería trabajar aquí <a>aceleradamente</a>.
+- c: 1
+  r: 2
+  v: entregar
+  x:
+  - s: The Commission will also give clear instructions to all the parties concerned
+      to <v>hurry</v> <p>up</p> and complete the assessments, if possible before the
+      end of the year.
+    t: La Comisión dará también claras instrucciones a todas las partes para que,
+      si es posible, <a>entreguen</a> sus apreciaciones de los riesgos antes de fin
+      de año.
+- c: 1
+  r: 2
+  v: dense prisa
+  x:
+  - s: '<v>Hurry</v> <p>up</p> and equip yourselves with institutions to run the economy:'
+    t: <a>Dense</a> <a>prisa</a> en dotarse de instituciones capaces de gobernar la
+      economía;
+fr:
+- c: 2
+  r: 1
+  v: hâter
+  x:
+  - s: Let us also <v>hurry</v> <p>up</p> with the measures we need to take in each
+      Member State cutting traffic emissions, increasing energy efficiency, promoting
+      renewables and CHP.
+    t: <a>Hâtons</a>-nous aussi de prendre les mesures nécessaires dans chaque État
+      membre en matière de réduction des émissions dues au trafic, d’augmentation
+      de l’efficacité énergétique, de promotion des énergies renouvelables et de PCCE.
+  - s: You must <v>hurry</v> <p>up</p>.
+    t: Vous devez vous <a>hâter</a>.
+- c: 2
+  r: 1
+  v: accélérer
+  x:
+  - s: it is up to the European Commission to investigate and ascertain if a Community
+      directive has been infringed, to <v>hurry</v> <p>up</p> with the case law which
+      we want to see in order to make shipping safer and, finally, to do whatever
+      needs to be done and, as I said, to investigate the matter of this famous competition
+      committee.
+    t: Et enfin, je ne pense pas que la mission sur place de la commission des transports
+      soit souhaitable, c’est à la Commission européenne qu’il incombe de mener une
+      enquête et de voir s’il y a eu des violations de la directive communautaire,
+      d’<a>accélérer</a> la jurisprudence que nous appelons de nos vux pour que la
+      navigation soit plus sûre, et enfin de faire ce qui convient et de chercher
+      à élucider, comme je l’ai dit, la question de cette fameuse commission de la
+      concurrence.
+  - s: The Commission will also give clear instructions to all the parties concerned
+      to <v>hurry</v> <p>up</p> and complete the assessments, if possible before the
+      end of the year.
+    t: La Commission devrait également donner des instructions claires à toutes les
+      parties concernées pour <a>accélérer</a> la réalisation des évaluations, si
+      possible avant la fin de l’année.
+- c: 1
+  r: 2
+  v: presser pas
+  x:
+  - s: We therefore need to <v>hurry</v> <p>up</p>.
+    t: Il fallait donc <a>presser</a> le <a>pas</a>.
+- c: 1
+  r: 2
+  v: abréger
+  x:
+  - s: Mrs Anttila, I am sorry that I had to tell you to <v>hurry</v> <p>up</p>, but
+      I am not to blame.
+    t: Madame Antilla, je regrette d’avoir dû vous demander d’<a>abréger</a>, mais
+      je n’y suis pour rien, c’est à votre groupe qu’il revient de vous accorder davantage
+      de temps de parole.
+it:
+- c: 2
+  r: 1
+  v: accelerare
+  x:
+  - s: it is up to the European Commission to investigate and ascertain if a Community
+      directive has been infringed, to <v>hurry</v> <p>up</p> with the case law which
+      we want to see in order to make shipping safer and, finally, to do whatever
+      needs to be done and, as I said, to investigate the matter of this famous competition
+      committee.
+    t: Infine, non credo che una visita della commissione per i trasporti sia un pio
+      desiderio, in quanto è compito della Commissione indagare, appurare se ci sono
+      state violazioni della direttiva comunitaria, <a>accelerare</a> l’iter della
+      legge che vogliamo adottare per rendere più sicura la navigazione, e infine
+      fare tutto il possibile per esaminare la questione della famosa commissione
+      greca per la concorrenza.
+  - s: Mrs Anttila, I am sorry that I had to tell you to <v>hurry</v> <p>up</p>, but
+      I am not to blame.
+    t: Onorevole Anttila, mi rincresce di essermi visto costretto a chiederle di <a>accelerare</a>,
+      ma non è colpa mia, è il suo gruppo che deve attribuirle più tempo.
+- c: 1
+  r: 2
+  v: perdere tempo
+  x:
+  - s: You must <v>hurry</v> <p>up</p>.
+    t: Non può <a>perdere</a> <a>tempo</a>.
+- c: 1
+  r: 2
+  v: accelerare tempo
+  x:
+  - s: We therefore need to <v>hurry</v> <p>up</p>.
+    t: Era necessario <a>accelerare</a> i <a>tempi</a>.
+- c: 1
+  r: 2
+  v: fare rapidamente
+  x:
+  - s: I would ask you to <v>hurry</v> <p>up</p>.
+    t: Vi chiedo di <a>farlo</a> <a>rapidamente</a>.
+pt:
+- c: 3
+  r: 1
+  v: apressar
+  x:
+  - s: If we do not change, if we do not <v>hurry</v> <p>up</p> with structural changes,
+      competitiveness and innovation, we shall simply live more poorly.
+    t: Se não mudarmos, se não nos <a>apressarmos</a> com mudanças estruturais, competitividade
+      e inovação, simplesmente ficaremos mais pobres.
+  - s: '<v>Hurry</v> <p>up</p> and equip yourselves with institutions to run the economy:'
+    t: <a>Apressem</a><a>-se</a> a dotar-se de instituições capazes de gerir a economia;
+  - s: With this report, we have given the European Commission a powerful signal to
+      <v>hurry</v> <p>up</p> and make some specific legislative changes.
+    t: Com este relatório, enviámos à Comissão Europeia um sinal muito forte, instando-a
+      a <a>apressar</a><a>-se</a> e a efectuar algumas alterações legislativas específicas.
+  - s: You must <v>hurry</v> <p>up</p>.
+    t: <a>Apresse</a><a>-se</a>.
+- c: 2
+  r: 2
+  v: despachar
+  x:
+  - s: That amounts to telling dictators in every country to <v>hurry</v> <p>up</p>
+      and get nuclear weapons, so that, that way, we will not do anything more to
+      them and will negotiate with them.
+    t: 'É o mesmo que dizer: ’Ditadores de todos os países, <a>despachem</a><a>-se</a>
+      a arranjar armas nucleares, pois assim não lhes faremos nada e negociaremos
+      convosco?'
+  - s: Let us <v>hurry</v> <p>up</p> and get this sorted out.
+    t: Vamos <a>despachar</a><a>-nos</a> e resolver isto quanto antes.
+  - s: I would ask you to <v>hurry</v> <p>up</p>.
+    t: Peço-lhes que se <a>despachem</a>.
+- c: 2
+  r: 2
+  v: acelerar
+  x:
+  - s: it is up to the European Commission to investigate and ascertain if a Community
+      directive has been infringed, to <v>hurry</v> <p>up</p> with the case law which
+      we want to see in order to make shipping safer and, finally, to do whatever
+      needs to be done and, as I said, to investigate the matter of this famous competition
+      committee.
+    t: compete à Comissão Europeia investigar e ver se houve violações da directiva
+      comunitária, <a>acelerar</a> a jurisprudência por que esperamos para que a navegação
+      seja mais segura e cumprir o seu dever e investigar a questão da famosa Comissão
+      da Concorrência a que já fiz referência.
+  - s: The Commission needs to <v>hurry</v> <p>up</p> here, and that is where you,
+      Mrs Bjerregaard, come in.
+    t: Por conseguinte, no que respeita a esta matéria, a Comissão deveria <a>acelerar</a>
+      o passo.
+- c: 1
+  r: 3
+  v: rapidamente
+  x:
+  - s: Let us also <v>hurry</v> <p>up</p> with the measures we need to take in each
+      Member State cutting traffic emissions, increasing energy efficiency, promoting
+      renewables and CHP.
+    t: Mas vamos avançar também <a>rapidamente</a> com as medidas que serão necessárias
+      nos vários Estados-Membros para reduzir as emissões do tráfego rodoviário, aumentar
+      a eficiência energética, promover as energias renováveis e a produção combinada
+      de calor e electricidade.
+- c: 1
+  r: 3
+  v: decisão
+  x:
+  - s: We therefore need to <v>hurry</v> <p>up</p>.
+    t: Impunha-se portanto uma <a>decisão</a>.
+- c: 1
+  r: 3
+  v: despachar
+  x:
+  - s: That amounts to telling dictators in every country to <v>hurry</v> <p>up</p>
+      and get nuclear weapons, so that, that way, we will not do anything more to
+      them and will negotiate with them.
+    t: 'É o mesmo que dizer: ’Ditadores de todos os países, <a>despachem</a><a>-se</a>
+      a arranjar armas nucleares, pois assim não lhes faremos nada e negociaremos
+      convosco?'
+  - s: Let us <v>hurry</v> <p>up</p> and get this sorted out.
+    t: Vamos <a>despachar</a><a>-nos</a> e resolver isto quanto antes.
+  - s: I would ask you to <v>hurry</v> <p>up</p>.
+    t: Peço-lhes que se <a>despachem</a>.
+- c: 1
+  r: 3
+  v: perder
+  x:
+  - s: Mr Barrot, Mr President, please <v>hurry</v> <p>up</p> and visit Turkey and
+      Libya.
+    t: Senhor Vice-Presidente Barrot, Senhor Presidente, não <a>percam</a> mais tempo
+      e visitem a Turquia e a Líbia.
+- c: 1
+  r: 3
+  v: apressar
+  x:
+  - s: If we do not change, if we do not <v>hurry</v> <p>up</p> with structural changes,
+      competitiveness and innovation, we shall simply live more poorly.
+    t: Se não mudarmos, se não nos <a>apressarmos</a> com mudanças estruturais, competitividade
+      e inovação, simplesmente ficaremos mais pobres.
+  - s: '<v>Hurry</v> <p>up</p> and equip yourselves with institutions to run the economy:'
+    t: <a>Apressem</a><a>-se</a> a dotar-se de instituições capazes de gerir a economia;
+  - s: With this report, we have given the European Commission a powerful signal to
+      <v>hurry</v> <p>up</p> and make some specific legislative changes.
+    t: Com este relatório, enviámos à Comissão Europeia um sinal muito forte, instando-a
+      a <a>apressar</a><a>-se</a> e a efectuar algumas alterações legislativas específicas.
+  - s: You must <v>hurry</v> <p>up</p>.
+    t: <a>Apresse</a><a>-se</a>.
+sv:
+- c: 2
+  r: 1
+  v: påskynda
+  x:
+  - s: it is up to the European Commission to investigate and ascertain if a Community
+      directive has been infringed, to <v>hurry</v> <p>up</p> with the case law which
+      we want to see in order to make shipping safer and, finally, to do whatever
+      needs to be done and, as I said, to investigate the matter of this famous competition
+      committee.
+    t: Avslutningsvis vill jag säga att ett besök av transportutskottet inte är något
+      önskvärt, det är Europeiska kommissionens uppgift att undersöka om man har brutit
+      mot gemenskapens direktiv, att <a>påskynda</a> den lagstiftning som vi önskar,
+      så att sjöfarten blir säkrare.
+  - s: The Commission will also give clear instructions to all the parties concerned
+      to <v>hurry</v> <p>up</p> and complete the assessments, if possible before the
+      end of the year.
+    t: Kommissionen kommer också att ge tydliga instruktioner till alla berörda parter
+      för att <a>påskynda</a> slutförandet av bedömningarna om möjligt före årets
+      slut.
+- c: 1
+  r: 2
+  v: se snabbt
+  x:
+  - s: '<v>Hurry</v> <p>up</p> and equip yourselves with institutions to run the economy:'
+    t: <a>Se</a> till att <a>snabbt</a> skapa institutioner som kan styra ekonomin.
+- c: 1
+  r: 2
+  v: öka tempo
+  x:
+  - s: The Commission needs to <v>hurry</v> <p>up</p> here, and that is where you,
+      Mrs Bjerregaard, come in.
+    t: Här borde kommissionen alltså <a>öka</a> <a>tempot</a>.
+- c: 1
+  r: 2
+  v: skynda
+  x:
+  - s: Mr Barrot, Mr President, please <v>hurry</v> <p>up</p> and visit Turkey and
+      Libya.
+    t: Herr Barrot, herr talman, <a>skynda</a> er att besöka Turkiet och Libyen.

@@ -1,0 +1,646 @@
+---
+de:
+- c: 5
+  r: 1
+  v: Vorsicht
+  x:
+  - s: <v>watch</v> <p>out</p> for emergencies, watch out for delays, we would not
+      be forgiven for them.
+    t: <a>Vorsicht</a> bei Dringlichkeit, Vorsicht bei Verzögerungen, man würde es
+      als unverzeihlich betrachten.
+  - s: watch out for emergencies, <v>watch</v> <p>out</p> for delays, we would not
+      be forgiven for them.
+    t: Vorsicht bei Dringlichkeit, <a>Vorsicht</a> bei Verzögerungen, man würde es
+      als unverzeihlich betrachten.
+  - s: You say you have left your mark on justice and home affairs, but <v>watch</v>
+      <p>out</p>.
+    t: Sie behaupten, Sie hätten im Bereich Justiz und Innere Angelegenheiten Ihren
+      Stempel hinterlassen, aber <a>Vorsicht</a>!
+  - s: <v>Watch</v> <p>out</p>!
+    t: <a>Vorsicht</a>!
+  - s: It is commonplace these days to say that the American economy is the most dynamic
+      of all, but <v>watch</v> <p>out</p>!
+    t: Doch <a>Vorsicht</a>!
+- c: 3
+  r: 2
+  v: aufpassen
+  x:
+  - s: Similarly, as Satu Hassi has said, we have a long history on asbestos, and
+      we have a very strong feeling that we need to <v>watch</v> <p>out</p> for that.
+    t: Ähnlich, wie auch Satu Hassi gesagt, haben wir eine lange Asbestgeschichte,
+      und wir haben das sehr starke Empfinden, hier <a>aufpassen</a> zu müssen.
+  - s: If we do not <v>watch</v> <p>out</p>, these are areas in which the candidate
+      countries will end up being in a state of passive dependence for years and indeed
+      decades.
+    t: Wenn wir da nicht <a>aufpassen</a>, hängen die Beitrittsländer jahrelang, jahrzehntelang
+      am Tropf.
+  - s: My second example illustrates where we have to <v>watch</v> <p>out</p> with
+      the opening-up of market access opportunities.
+    t: 'Zweites Beispiel, wo wir <a>aufpassen</a> müssen mit den Marktzugangschancen:'
+- c: 1
+  r: 3
+  v: genau beobachten werden
+  x:
+  - s: Here too we must <v>watch</v> <p>out</p>!
+    t: Auch hier muß das <a>genau</a> <a>beobachtet</a> <a>werden</a>!
+- c: 1
+  r: 3
+  v: wachsam
+  x:
+  - s: We must now <v>watch</v> <p>out</p> to ensure that the monetary process does
+      not carry everything along in its wake, thus depriving the Member States of
+      a degree of economic manoeuvre.
+    t: Wir müssen <a>wachsam</a> sein, damit der Währungsprozeß auf seinem weiteren
+      Weg nicht alles andere mit sich reißt und die Staaten ihrer wirtschaftlichen
+      Handlungsfähigkeit beraubt, denn das könnten sie nicht mehr vor ihren Bürgern
+      rechtfertigen, die für diese in Aussicht gestellten Vorteile, die dann immer
+      wieder verschoben wurden, so viele Anstrengungen auf sich genommen haben.
+- c: 1
+  r: 3
+  v: ergeben
+  x:
+  - s: Brazil had better <v>watch</v> <p>out</p>.
+    t: Und aus dem, was wir besprochen haben, <a>ergaben</a> sich diese mündlichen
+      Anfragen und Entschließungsanträge.
+- c: 1
+  r: 3
+  v: Auftrag
+  x:
+  - s: The Indonesian media have been told to <v>watch</v> <p>out</p> for communist
+      propaganda.
+    t: Die indonesischen Medien erhielten den <a>Auftrag</a>, nach kommunistischer
+      Propaganda Ausschau zu halten.
+- c: 1
+  r: 3
+  v: aufmerksam
+  x:
+  - s: The right time for this has to be identified, and this is where the Commission
+      has to <v>watch</v> <p>out</p>.
+    t: Hier muss die Kommission <a>aufmerksam</a> sein.
+- c: 1
+  r: 3
+  v: achten
+  x:
+  - s: I surmise that it reflects the view that we have to <v>watch</v> <p>out</p>
+      for Europe’s diversity, that we have to safeguard and sustain the European Union’s
+      multilingual character, and that we think is absolutely the right thing to do,
+      so why not create a proper portfolio for it?
+    t: Den Ansatz, den ich dahinter vermute, nämlich dass wir auf die Diversität Europas
+      <a>achten</a> müssen, dass wir den multikulturellen Charakter der Europäischen
+      Union schützen und stärken müssen, halten wir für absolut richtig.
+- c: 1
+  r: 3
+  v: diesbezüglich
+  x:
+  - s: We must <v>watch</v> <p>out</p> for that very carefully.
+    t: Wir müssen <a>diesbezüglich</a> sehr wachsam sein.
+es:
+- c: 5
+  r: 1
+  v: cuidado
+  x:
+  - s: You say you have left your mark on justice and home affairs, but <v>watch</v>
+      <p>out</p>.
+    t: 'Dice usted que ha dejado su impronta en el ámbito de la justicia y los asuntos
+      de interior, pero <a>cuidado</a>:'
+  - s: If we do not <v>watch</v> <p>out</p>, these are areas in which the candidate
+      countries will end up being in a state of passive dependence for years and indeed
+      decades.
+    t: Si no tenemos <a>cuidado</a>, son ámbitos en los que los países candidatos
+      terminarán en una situación de dependencia pasiva durante años o incluso décadas.
+  - s: <v>Watch</v> <p>out</p>!
+    t: ¡<a>Cuidado</a>!
+  - s: We need to <v>watch</v> <p>out</p> that a debate about terrorism is not narrowed
+      down into a debate about body scanners or data protection.
+    t: Tenemos que tener <a>cuidado</a> para que el debate sobre el terrorismo no
+      se reduzca a un debate acerca de escáneres corporales o protección de datos.
+  - s: My second example illustrates where we have to <v>watch</v> <p>out</p> with
+      the opening-up of market access opportunities.
+    t: 'Un segundo ejemplo en el que debemos tener <a>cuidado</a> con las oportunidades
+      que ofrece la apertura del mercado:'
+- c: 2
+  r: 2
+  v: vigilar
+  x:
+  - s: We should not be accused of not knowing about the past of these countries,
+      that they were behind an Iron Curtain and we must indeed <v>watch</v> <p>out</p>
+      that no fear of discrimination is provoked.
+    t: No se nos debería acusar de desconocer el pasado de estos países, que estaban
+      detrás un Telón de Acero y efectivamente debemos <a>vigilar</a> que no se provoque
+      miedo de discriminación.
+  - s: We must <v>watch</v> <p>out</p> for that very carefully.
+    t: Debemos <a>vigilar</a> esto muy de cerca.
+- c: 1
+  r: 3
+  v: prestar atención
+  x:
+  - s: Let us <v>watch</v> <p>out</p> for the easy appeal of a pro-GMO lobby that
+      promises to rid the world of famine, but which is an ephemeral shortcut that
+      instead would cause enormous damage.
+    t: <a>Prestemos</a> <a>atención</a> al sencillo llamamiento de un grupo de presión
+      a favor de los OMG que promete acabar con el hambre en el mundo, pero que resulta
+      ser un efímero atajo que más bien podría causar un enorme daño.
+- c: 1
+  r: 3
+  v: procurar
+  x:
+  - s: We must <v>watch</v> <p>out</p> that we do not fall into an ambiguous situation
+      here and apply double standards.
+    t: Debemos <a>procurar</a> no caer en una situación de doble rasero y no aplicar
+      una doble moral.
+- c: 1
+  r: 3
+  v: contemplar
+  x:
+  - s: That is very nice for lawyers - and I am one myself - but for our citizens,
+      it is tedious and of course very expensive too to <v>watch</v> the game being
+      played <p>out</p>, rather than receiving decent content.
+    t: Aunque esto resulte muy agradable para los abogados —yo mismo lo soy— resulta
+      muy fatigoso para los ciudadanos y, naturalmente, resulta también muy costoso
+      <a>contemplar</a> el espectáculo en vez de recibir una oferta razonable.
+- c: 1
+  r: 3
+  v: precaver
+  x:
+  - s: Similarly, as Satu Hassi has said, we have a long history on asbestos, and
+      we have a very strong feeling that we need to <v>watch</v> <p>out</p> for that.
+    t: Asimismo, como ha dicho Satu Hassi, tenemos una larga historia relativa al
+      amianto y tenemos la intensa sensación de que por eso tenemos que ser <a>precavidos</a>.
+- c: 1
+  r: 3
+  v: alertar
+  x:
+  - s: The right time for this has to be identified, and this is where the Commission
+      has to <v>watch</v> <p>out</p>.
+    t: Es necesario identificar el momento idóneo para esta vacunación, y éste es
+      el ámbito en el que la Comisión tiene que estar <a>alerta</a>.
+- c: 1
+  r: 3
+  v: tener cuidado
+  x:
+  - s: <v>Watch</v> <p>out</p> on 19 June.
+    t: <a>Tengan</a> <a>cuidado</a> el 19 de junio.
+- c: 1
+  r: 3
+  v: tine atento
+  x:
+  - s: Here too we must <v>watch</v> <p>out</p>!
+    t: También esto <a>tine</a> que considerarse <a>atentamente</a>.
+- c: 1
+  r: 3
+  v: venir
+  x:
+  - s: Brazil had better <v>watch</v> <p>out</p>.
+    t: Y sobre lo que <a>venimos</a> hablando se hicieron estas preguntas orales y
+      propuestas de resolución.
+- c: 1
+  r: 3
+  v: verse
+  x:
+  - s: Otherwise <v>watch</v> <p>out</p> for the brutal adverse effect which the Commission’s
+      preliminary draft could have on employment, local production and rural or regional
+      development in Andalusia, the leading European and world producer of olive oil.
+    t: <a>Véase</a> si no el impacto brutal, negativo, que el anteproyecto de la Comisión
+      podría tener en Andalucía, primer productor europeo y mundial del aceite de
+      oliva, en cuanto al empleo, la producción local y el desarrollo rural o regional.
+- c: 1
+  r: 3
+  v: revelar
+  x:
+  - s: It is commonplace these days to say that the American economy is the most dynamic
+      of all, but <v>watch</v> <p>out</p>!
+    t: hoy es habitual señalar a la economía americana como la que <a>revela</a> mayor
+      dinamismo.
+- c: 1
+  r: 3
+  v: atento
+  x:
+  - s: On one hand you are saying this communication must not in any way be mandatory,
+      and we shall have to <v>watch</v> <p>out</p> lest we end up in the devil of
+      a mess.
+    t: Por un lado, dice que la presente Comunicación no debe ser vinculante absolutamente
+      en ningún sentido y que debemos estar muy <a>atentos</a> o nos veremos en un
+      aprieto.
+fr:
+- c: 8
+  r: 1
+  v: attention
+  x:
+  - s: On one hand you are saying this communication must not in any way be mandatory,
+      and we shall have to <v>watch</v> <p>out</p> lest we end up in the devil of
+      a mess.
+    t: D’un côté, vous dites que cette communication ne peut en aucun cas avoir un
+      caractère obligatoire et que nous avons intérêt à faire <a>attention</a> pour
+      ne pas nous retrouver en mauvaise posture.
+  - s: <v>Watch</v> <p>out</p> on 19 June.
+    t: <a>Attention</a> au 19 juin.
+  - s: Similarly, as Satu Hassi has said, we have a long history on asbestos, and
+      we have a very strong feeling that we need to <v>watch</v> <p>out</p> for that.
+    t: De même, comme l’a dit Satu Hassi, l’histoire de l’amiante est longue et nous
+      avons le très fort sentiment que nous devons faire très <a>attention</a>.
+  - s: You say you have left your mark on justice and home affairs, but <v>watch</v>
+      <p>out</p>.
+    t: Vous dites que vous vous êtes distingués en matière de justice et de questions
+      relatives à l’intérieur, mais <a>attention</a>.
+  - s: however, we also need to <v>watch</v> <p>out</p> for abuse.
+    t: Néanmoins, nous devons également faire <a>attention</a> aux abus.
+  - s: <v>Watch</v> <p>out</p>!
+    t: <a>Attention</a> !
+  - s: It is commonplace these days to say that the American economy is the most dynamic
+      of all, but <v>watch</v> <p>out</p>!
+    t: Mais <a>attention</a> !
+  - s: <v>watch</v> <p>out</p>, environmental pirate!
+    t: <a>attention</a>, pirate écologique !
+- c: 2
+  r: 2
+  v: garde
+  x:
+  - s: If we do not <v>watch</v> <p>out</p>, these are areas in which the candidate
+      countries will end up being in a state of passive dependence for years and indeed
+      decades.
+    t: Si nous n’y prenons <a>garde</a>, les pays adhérents resteront sous perfusion
+      pendant des années, des décennies.
+  - s: We must now <v>watch</v> <p>out</p> to ensure that the monetary process does
+      not carry everything along in its wake, thus depriving the Member States of
+      a degree of economic manoeuvre.
+    t: Il faut maintenant prendre <a>garde</a> à ce que le processus monétaire n’entraîne
+      pas tout sur son passage, privant ainsi les États de marge de manoeuvre économique,
+      ce qu’ils ne pourront plus justifier devant les citoyens qui ont consenti à
+      de nombreux efforts pour d’hypothétiques bénéfices toujours remis au lendemain.
+- c: 1
+  r: 3
+  v: gare
+  x:
+  - s: watch out for emergencies, <v>watch</v> <p>out</p> for delays, we would not
+      be forgiven for them.
+    t: gare à l’urgence, <a>gare</a> aux retards, on ne nous le pardonnerait pas.
+- c: 1
+  r: 3
+  v: veiller
+  x:
+  - s: I surmise that it reflects the view that we have to <v>watch</v> <p>out</p>
+      for Europe’s diversity, that we have to safeguard and sustain the European Union’s
+      multilingual character, and that we think is absolutely the right thing to do,
+      so why not create a proper portfolio for it?
+    t: Je soupçonne qu’il faut voir là l’idée selon laquelle il convient de <a>veiller</a>
+      à la diversité de l’Europe, de protéger et garantir le caractère plurilingue
+      de l’Union européenne et c’est, selon nous, ce qu’il y a absolument lieu de
+      faire ;
+- c: 1
+  r: 3
+  v: vigilant
+  x:
+  - s: We must <v>watch</v> <p>out</p> for that very carefully.
+    t: Nous devons être très <a>vigilants</a> à ce sujet.
+- c: 1
+  r: 3
+  v: attentif
+  x:
+  - s: Since we want to learn from the past, we need to be vigilant and also <v>watch</v>
+      <p>out</p> for the first signs of expulsions taking place, as in the case of
+      the Roma, for example.
+    t: Étant donné que nous voulons tirer des leçons du passé, nous devons être extrêmement
+      vigilants et également <a>attentifs</a> aux premiers signes d’expulsions, comme
+      dans le cas des Roms notamment.
+- c: 1
+  r: 3
+  v: assister
+  x:
+  - s: That is very nice for lawyers - and I am one myself - but for our citizens,
+      it is tedious and of course very expensive too to <v>watch</v> the game being
+      played <p>out</p>, rather than receiving decent content.
+    t: Tant mieux pour les avocats - j’en suis un moi-même - mais pour le citoyen,
+      il est fatigant et naturellement aussi très coûteux d’<a>assister</a> au spectacle
+      au lieu d’avoir une offre raisonnable.
+it:
+- c: 11
+  r: 1
+  v: attenzione
+  x:
+  - s: Governing bodies should <v>watch</v> <p>out</p>.
+    t: Gli organi di governo dovrebbero fare <a>attenzione</a>.
+  - s: We must therefore <v>watch</v> <p>out</p> for clouds on the horizon, and I
+      am referring specifically to the fact that the Committee on Budgets today voted
+      on its position on the financial regulation.
+    t: 'A tale scopo occorre fare <a>attenzione</a> alle nuvole che si addensano all’orizzonte:'
+  - s: On one hand you are saying this communication must not in any way be mandatory,
+      and we shall have to <v>watch</v> <p>out</p> lest we end up in the devil of
+      a mess.
+    t: Da un lato afferma che questa Comunicazione non dev’essere affatto vincolante
+      e che dobbiamo far <a>attenzione</a>, altrimenti finiremo nei guai.
+  - s: <v>Watch</v> <p>out</p> on 19 June.
+    t: <a>Attenzione</a> al 19 giugno.
+  - s: You say you have left your mark on justice and home affairs, but <v>watch</v>
+      <p>out</p>.
+    t: Avete affermato di aver lasciato il segno nel settore della giustizia e degli
+      affari interni, ma <a>attenzione</a>.
+  - s: We should not be accused of not knowing about the past of these countries,
+      that they were behind an Iron Curtain and we must indeed <v>watch</v> <p>out</p>
+      that no fear of discrimination is provoked.
+    t: Non ci sentiamo di essere accusati di non conoscere il passato di questi paesi
+      che vivevano dietro la Cortina di ferro, e dobbiamo veramente fare <a>attenzione</a>
+      affinché non si diffonda la paura della discriminazione.
+  - s: If we do not <v>watch</v> <p>out</p>, these are areas in which the candidate
+      countries will end up being in a state of passive dependence for years and indeed
+      decades.
+    t: Se non facciamo <a>attenzione</a>, questi sono i settori nei quali i paesi
+      candidati finiranno per rimanere in uno stato di dipendenza passiva per anni,
+      se non per decenni.
+  - s: <v>Watch</v> <p>out</p>!
+    t: <a>attenzione</a>!
+  - s: Let us <v>watch</v> <p>out</p> for the easy appeal of a pro-GMO lobby that
+      promises to rid the world of famine, but which is an ephemeral shortcut that
+      instead would cause enormous damage.
+    t: Facciamo <a>attenzione</a> al facile fascino di una campagna pro OGM, che promette
+      di sfamare il mondo, una scorciatoia effimera che causerebbe invece danni enormi.
+  - s: It is commonplace these days to say that the American economy is the most dynamic
+      of all, but <v>watch</v> <p>out</p>!
+    t: Ma <a>attenzione</a>!
+  - s: My second example illustrates where we have to <v>watch</v> <p>out</p> with
+      the opening-up of market access opportunities.
+    t: 'Secondo caso in cui bisogna fare <a>attenzione</a> alle opportunità di accesso
+      al mercato:'
+- c: 2
+  r: 2
+  v: guaio
+  x:
+  - s: watch out for emergencies, <v>watch</v> <p>out</p> for delays, we would not
+      be forgiven for them.
+    t: guai all’urgenza, <a>guai</a> ai ritardi, non ce li perdonerebbero mai.
+  - s: Similarly, as Satu Hassi has said, we have a long history on asbestos, and
+      we have a very strong feeling that we need to <v>watch</v> <p>out</p> for that.
+    t: <a>Guai</a> abbassare la guardia!
+- c: 2
+  r: 2
+  v: vigilare
+  x:
+  - s: I surmise that it reflects the view that we have to <v>watch</v> <p>out</p>
+      for Europe’s diversity, that we have to safeguard and sustain the European Union’s
+      multilingual character, and that we think is absolutely the right thing to do,
+      so why not create a proper portfolio for it?
+    t: Suppongo che rifletta l’intenzione di <a>vigilare</a> sulla diversità dell’Europa,
+      salvaguardare e sostenere il carattere multilinguistico dell’Unione europea,
+      e riteniamo che sia assolutamente giusto farlo, ma perché non creare un portafoglio
+      adeguato a tal fine?
+  - s: We need to <v>watch</v> <p>out</p> that a debate about terrorism is not narrowed
+      down into a debate about body scanners or data protection.
+    t: Signor Presidente, dobbiamo <a>vigilare</a> affinché un dibattito sul terrorismo
+      non si riduca a una discussione sui body scanner e la protezione dei dati.
+- c: 1
+  r: 3
+  v: stare guardare
+  x:
+  - s: That is very nice for lawyers - and I am one myself - but for our citizens,
+      it is tedious and of course very expensive too to <v>watch</v> the game being
+      played <p>out</p>, rather than receiving decent content.
+    t: Ciò può far molto piacere agli avvocati - son avvocato anch’io - ma per il
+      cittadino diventa faticoso e ovviamente anche costoso <a>stare</a> a <a>guardare</a>
+      lo spettacolo invece di disporre di un’offerta ragionevole.
+- c: 1
+  r: 3
+  v: assistere
+  x:
+  - s: Would the European Commission consider drawing up and marketing an information
+      leaflet which would highlight the different taxation, accountancy and legal
+      issues that prospective European purchasers should <v>watch</v> <p>out</p> for
+      when buying a residential property in a different EU Member State?
+    t: Alla luce dell’estensione delle competenze dell’Unione sull’immigrazione e
+      dello sviluppo delle conseguenti attività della Commissione, dispone il servizio
+      esterno dell’Unione di risorse adeguate per <a>assistere</a> gli Stati membri
+      nelle nuove modalità di collaborazione attivate in materia di assunzione di
+      immigrati legali, ritorno degli immigranti ai propri paesi di origine e loro
+      adattamento alle società di provenienza?
+- c: 1
+  r: 3
+  v: considerare
+  x:
+  - s: Here too we must <v>watch</v> <p>out</p>!
+    t: Si deve <a>considerare</a> anche questo!
+- c: 1
+  r: 3
+  v: guardia
+  x:
+  - s: Suharto and others <v>watch</v> <p>out</p>.
+    t: Stiano in <a>guardia</a> Suharto e compagni.
+- c: 1
+  r: 3
+  v: attento
+  x:
+  - s: The right time for this has to be identified, and this is where the Commission
+      has to <v>watch</v> <p>out</p>.
+    t: Occorre determinare il momento corretto ed è su questo punto che la Commissione
+      deve essere <a>attenta</a>.
+- c: 1
+  r: 3
+  v: stare
+  x:
+  - s: My dear colleague, we could also let the Swiss know that anyone who makes it
+      economically impossible for us to transit through Switzerland should <v>watch</v>
+      <p>out</p> that we don’t make coming out of Switzerland economically impossible,
+      not to put to fine a point on it!
+    t: Onorevole collega, si potrebbe anche far presente agli svizzeri che chi ci
+      rende economicamente impossibile il transito attraverso la Svizzera deve <a>star</a>
+      bene attento che noi, poi, a nostra volta, non rendiamo economicamente impossibile
+      il transito attraverso la Svizzera, per dirlo una buona volta in termini chiari.
+- c: 1
+  r: 3
+  v: stare attentare
+  x:
+  - s: We must now <v>watch</v> <p>out</p> to ensure that the monetary process does
+      not carry everything along in its wake, thus depriving the Member States of
+      a degree of economic manoeuvre.
+    t: Bisogna ora <a>stare</a> <a>attenti</a> che il processo monetario non travolga
+      tutto al suo passaggio, privando dei margini di manovra economica gli Stati
+      che a questo punto non avranno più giustificazioni nei confronti dei cittadini
+      che hanno acconsentito a compiere numerosi sforzi per ipotetici benefici sempre
+      rinviati al domani.
+- c: 1
+  r: 3
+  v: prestare attenzione eventuale
+  x:
+  - s: The Indonesian media have been told to <v>watch</v> <p>out</p> for communist
+      propaganda.
+    t: I mezzi di comunicazione hanno ricevuto istruzioni di <a>prestare</a> <a>attenzione</a>
+      ad <a>eventuali</a> forme di propaganda comunista.
+pt:
+- c: 3
+  r: 1
+  v: cuidado
+  x:
+  - s: On one hand you are saying this communication must not in any way be mandatory,
+      and we shall have to <v>watch</v> <p>out</p> lest we end up in the devil of
+      a mess.
+    t: Por um lado, afirma que a presente comunicação não deve de modo algum ser normativa,
+      e é aqui que devemos ter <a>cuidado</a>, senão haverá graves problemas.
+  - s: <v>Watch</v> <p>out</p>!
+    t: <a>Cuidado</a>!
+  - s: <v>watch</v> <p>out</p>, environmental pirate!
+    t: <a>cuidado</a>, pirata ambiental!
+- c: 3
+  r: 1
+  v: estar atento
+  x:
+  - s: however, we also need to <v>watch</v> <p>out</p> for abuse.
+    t: contudo, devemos igualmente <a>estar</a> <a>atentos</a> aos eventuais abusos.
+  - s: The right time for this has to be identified, and this is where the Commission
+      has to <v>watch</v> <p>out</p>.
+    t: É necessário determinar o momento certo para isso, e é nisso que a Comissão
+      tem de <a>estar</a> <a>atenta</a>.
+  - s: My second example illustrates where we have to <v>watch</v> <p>out</p> with
+      the opening-up of market access opportunities.
+    t: 'Segundo exemplo, em que temos de <a>estar</a> <a>atentos</a> às oportunidades
+      de acesso ao mercado:'
+- c: 3
+  r: 1
+  v: atenção
+  x:
+  - s: <v>Watch</v> <p>out</p> on 19 June.
+    t: <a>Atenção</a> ao 19 de Junho!
+  - s: Similarly, as Satu Hassi has said, we have a long history on asbestos, and
+      we have a very strong feeling that we need to <v>watch</v> <p>out</p> for that.
+    t: Como referiu Satu Hassi, temos uma longa história com o amianto, e pensamos
+      claramente que há que não reduzir a <a>atenção</a> dispensada ao assunto.
+  - s: It is commonplace these days to say that the American economy is the most dynamic
+      of all, but <v>watch</v> <p>out</p>!
+    t: Mas <a>atenção</a>!
+- c: 1
+  r: 2
+  v: ficar assistir
+  x:
+  - s: That is very nice for lawyers - and I am one myself - but for our citizens,
+      it is tedious and of course very expensive too to <v>watch</v> the game being
+      played <p>out</p>, rather than receiving decent content.
+    t: Todas as outras alternativas são soluções regulamentadas com processos, ou
+      seja, de dar trabalho a advogados, o que não deixa de ser muito bom para eles
+      - eu próprio sou advogado - mas para os cidadãos é muito cansativo e claro,
+      muito dispendioso, <a>ficar</a> a <a>assistir</a> ao espectáculo em vez de receber
+      uma oferta adequada.
+- c: 1
+  r: 2
+  v: atento
+  x:
+  - s: Since we want to learn from the past, we need to be vigilant and also <v>watch</v>
+      <p>out</p> for the first signs of expulsions taking place, as in the case of
+      the Roma, for example.
+    t: Uma vez que queremos aprender com o passado, precisamos de estar vigilantes
+      e <a>atentos</a> aos primeiros sinais de expulsões, como no caso dos romanichéis,
+      por exemplo.
+- c: 1
+  r: 2
+  v: acautelar
+  x:
+  - s: If we do not <v>watch</v> <p>out</p>, these are areas in which the candidate
+      countries will end up being in a state of passive dependence for years and indeed
+      decades.
+    t: Se não nos <a>acautelarmos</a>, estas são áreas nas quais os países candidatos
+      acabarão num estado de dependência passiva durante anos, e quem sabe até décadas.
+- c: 1
+  r: 2
+  v: cautela
+  x:
+  - s: You say you have left your mark on justice and home affairs, but <v>watch</v>
+      <p>out</p>.
+    t: A Presidência afirma ter deixado a sua marca na justiça e assuntos internos,
+      mas importa ter <a>cautela</a>, pois os acordos sobre a partilha de dados estão
+      perigosamente à frente dos acordos para a protecção de dados e a sua segurança.
+- c: 1
+  r: 2
+  v: precaver
+  x:
+  - s: My dear colleague, we could also let the Swiss know that anyone who makes it
+      economically impossible for us to transit through Switzerland should <v>watch</v>
+      <p>out</p> that we don’t make coming out of Switzerland economically impossible,
+      not to put to fine a point on it!
+    t: 'Para nós é inaceitável que a Suíça diga: «somos a ilha da felicidade, façam
+      o que quiserem no Brenner, façam o que quiserem em França, nós fechamos a loja!»
+      Cara colega, para que fique bem assente, dever-se-ia dar a entender aos suíços
+      que quem nos impossibilita economicamente a passagem pelo seu país, deverá <a>precaver</a><a>-se</a>
+      para que não tornemos as saídas da Suíça economicamente impossíveis!'
+- c: 1
+  r: 2
+  v: ver
+  x:
+  - s: Otherwise <v>watch</v> <p>out</p> for the brutal adverse effect which the Commission’s
+      preliminary draft could have on employment, local production and rural or regional
+      development in Andalusia, the leading European and world producer of olive oil.
+    t: Se não, <a>veja</a><a>-se</a> o impacte brutal, negativo, que o anteprojecto
+      da Comissão poderia ter na Andaluzia, região que é o primeiro produtor europeu
+      e mundial de azeite, em termos de emprego, da produção local e do desenvolvimento
+      rural ou regional.
+sv:
+- c: 2
+  r: 1
+  v: uppmärksam
+  x:
+  - s: Since we want to learn from the past, we need to be vigilant and also <v>watch</v>
+      <p>out</p> for the first signs of expulsions taking place, as in the case of
+      the Roma, for example.
+    t: Eftersom vi vill dra lärdom av det förflutna måste vi vara vaksamma och även
+      vara <a>uppmärksamma</a> på de första tecknen på att fördrivningar genomförs,
+      vilket är fallet med exempelvis romerna.
+  - s: The right time for this has to be identified, and this is where the Commission
+      has to <v>watch</v> <p>out</p>.
+    t: Här måste kommissionen vara <a>uppmärksam</a>.
+- c: 1
+  r: 2
+  v: uppmärksamma
+  x:
+  - s: We must therefore <v>watch</v> <p>out</p> for clouds on the horizon, and I
+      am referring specifically to the fact that the Committee on Budgets today voted
+      on its position on the financial regulation.
+    t: Därför är det viktigt att <a>uppmärksamma</a> molnen som dyker upp vid horisonten
+      - jag tänker konkret på att budgetutskottet i dag röstade om sin ståndpunkt
+      inför budgetförordningen.
+- c: 1
+  r: 2
+  v: försiktig
+  x:
+  - s: We need to <v>watch</v> <p>out</p> that a debate about terrorism is not narrowed
+      down into a debate about body scanners or data protection.
+    t: Vi måste vara <a>försiktiga</a> så att debatten om terrorism inte förminskas
+      till en debatt om kroppsskannrar eller skydd av personuppgifter.
+- c: 1
+  r: 2
+  v: här
+  x:
+  - s: It is commonplace these days to say that the American economy is the most dynamic
+      of all, but <v>watch</v> <p>out</p>!
+    t: Men hör <a>här</a>!
+- c: 1
+  r: 2
+  v: se
+  x:
+  - s: We must now <v>watch</v> <p>out</p> to ensure that the monetary process does
+      not carry everything along in its wake, thus depriving the Member States of
+      a degree of economic manoeuvre.
+    t: Nu måste man <a>se</a> till att den monetära processen inte drar med sig allt
+      och på så sätt beröva staterna ett ekonomiskt manöverutrymme, vilket de inte
+      skulle kunna rättfärdiga inför medborgarna som har gått med på många ansträngningar
+      för hypotetiska fördelar som alltid ligger i framtiden.
+- c: 1
+  r: 2
+  v: titta
+  x:
+  - s: That is very nice for lawyers - and I am one myself - but for our citizens,
+      it is tedious and of course very expensive too to <v>watch</v> the game being
+      played <p>out</p>, rather than receiving decent content.
+    t: Det är visserligen mycket snällt menat för advokaterna - jag är själv en -
+      men för medborgaren är det tröttsamt och naturligtvis också mycket dyrt att
+      <a>titta</a> på skådespelet, i stället för att få ett vettigt utbud.
+- c: 1
+  r: 2
+  v: vara uppmärksam
+  x:
+  - s: We must <v>watch</v> <p>out</p> for that very carefully.
+    t: Vi måste <a>vara</a> mycket <a>uppmärksamma</a> på det.
+- c: 1
+  r: 2
+  v: ange
+  x:
+  - s: Would the European Commission consider drawing up and marketing an information
+      leaflet which would highlight the different taxation, accountancy and legal
+      issues that prospective European purchasers should <v>watch</v> <p>out</p> for
+      when buying a residential property in a different EU Member State?
+    t: Så även om det finns skillnader mellan de 27 medlemsstaterna, och ytterligare
+      komplexiteter inom dessa, finns det alltså vissa centrala värderingar som kommissionen
+      skulle kunna <a>ange</a> på webbplatsen, som ni med rätta säger.

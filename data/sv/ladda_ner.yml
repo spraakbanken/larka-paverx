@@ -1,0 +1,310 @@
+---
+de:
+- c: 1
+  r: 1
+  v: laden
+  x:
+  - s: I vissa fall döljs avgifterna för konsumenter och därför <v>laddar</v> de <p>ner</p>
+      en prenumeration utan att de inser det, trots att de bara ville ha en engångstjänst.
+    t: Noch bleibt dem Konsumenten die Entgeltlichkeit verborgen und so <a>lädt</a>
+      er ohne es zu merken ein Abonnement herunter, obwohl er nur eine einmalige Leistung
+      wollte.
+- c: 1
+  r: 1
+  v: amüsant
+  x:
+  - s: Jag kan i alla fall inte längre känna mig entusiastisk över att bara <v>ladda</v>
+      <p>ner</p> roliga bilder till min mobil.
+    t: Ich zumindest kann keine Begeisterung mehr dafür aufbringen, einfach nur mehr
+      oder weniger <a>amüsante</a> <a>Bildchen</a> für mein Mobiltelefon herunter
+      zu laden.
+- c: 1
+  r: 1
+  v: werden
+  x:
+  - s: En vanlig långfilm kommer till exempel att kunna <v>laddas</v> <p>ner</p> på
+      några sekunder i stället för några timmar, som fallet är i dag.
+    t: Ganze Spielfilme werden dann zum Beispiel in Sekunden übertragen <a>werden</a>
+      und nicht in Stunden, wie es jetzt noch der Fall ist.
+en:
+- c: 1
+  r: 1
+  v: deliver
+  x:
+  - s: En vanlig långfilm kommer till exempel att kunna <v>laddas</v> <p>ner</p> på
+      några sekunder i stället för några timmar, som fallet är i dag.
+    t: For example, a full-length movie will be <a>delivered</a> in seconds rather
+      than hours, as it is at the moment.
+- c: 1
+  r: 1
+  v: bomb-making
+  x:
+  - s: Nu är det förvisso rätt av oss att inte göra det lätt för potentiella mördare
+      att <v>ladda</v> <p>ner</p> instruktioner om hur man tillverkar bomber från
+      Internet och vi välkomnar naturligtvis ett närmare samarbete mellan medlemsstaterna.
+    t: Now, it is certainly right actually for us not to make it easy for potential
+      assassins to <a>download</a> <a>bomb-making</a> instructions from the Internet
+      and of course closer cooperation among Member States is to be welcomed.
+- c: 1
+  r: 1
+  v: order
+  x:
+  - s: Jag kan i alla fall inte längre känna mig entusiastisk över att bara <v>ladda</v>
+      <p>ner</p> roliga bilder till min mobil.
+    t: I, at least, can no longer get enthusiastic about <a>ordering</a> merely amusing
+      images for my cell phone.
+es:
+- c: 4
+  r: 1
+  v: descargar
+  x:
+  - s: Nu är det förvisso rätt av oss att inte göra det lätt för potentiella mördare
+      att <v>ladda</v> <p>ner</p> instruktioner om hur man tillverkar bomber från
+      Internet och vi välkomnar naturligtvis ett närmare samarbete mellan medlemsstaterna.
+    t: Indudablemente, conviene en la práctica que no demos facilidades a potenciales
+      asesinos para <a>descargar</a> de Internet instrucciones relativas a la fabricación
+      de bombas y, por supuesto, una cooperación más estrecha entre los Estados miembros
+      ha de acogerse favorablemente.
+  - s: Ett exempel på detta är fallet med den unge journalisten, Perwez Kambakhsh,
+      som vågade sprida en artikel om kvinnors rättigheter i islam som han hade <v>laddat</v>
+      <p>ner</p> från Internet.
+    t: Tal es el caso relativo a un joven periodista, Perwez Kambakhsh, que se atrevió
+      a difundir un artículo sobre los derechos de la mujer bajo el islamismo, que
+      había <a>descargado</a> de Internet.
+  - s: Ett sådant påstående är rent nonsens, för redan i dag kan vem som helst från
+      Internet <v>ladda</v> <p>ner</p> ett sådant program som identifierar skräppost,
+      oberoende av hos vem han annars är bunden med Internetabonnemang.
+    t: Una afirmación semejante constituye un completo dislate pues hoy cualquiera
+      puede <a>descargar</a> desde Internet un programa de reconocimiento Spam, con
+      independencia de con qué proveedor de Internet esté vinculado por contrato.
+  - s: Alla är vana vid att gratis <v>ladda</v> <p>ner</p> innehåll från nätet.
+    t: Todo el mundo solía <a>descargar</a> contenidos de la Red de manera gratuita.
+- c: 1
+  r: 2
+  v: divertido
+  x:
+  - s: Jag kan i alla fall inte längre känna mig entusiastisk över att bara <v>ladda</v>
+      <p>ner</p> roliga bilder till min mobil.
+    t: A mí al menos ya no me entusiasma meramente pedir <a>divertidas</a> imágenes
+      para mi teléfono celular.
+- c: 1
+  r: 2
+  v: obtener
+  x:
+  - s: ni kan <v>ladda</v> <p>ner</p> hela gemenskapens regelverk här i kammaren från
+      Celexsystemet.
+    t: puede <a>obtener</a> todo el acervo comunitario desde el Parlamento a través
+      del sistema Celex.
+- c: 1
+  r: 2
+  v: bajar
+  x:
+  - s: Men för det första utgår förespråkarna då från att det finns ett stort antal
+      dåliga företag som inte klarar av detta, och för det andra kan det hända att
+      det marknadsföringstekniskt är väl riktat om jag erhåller information om barnkläder,
+      men jag vill inte <v>ladda</v> <p>ner</p> några sparkbyxor eller blöjor på skärmen
+      på egen bekostnad.
+    t: Es más, desde el punto de vista técnico y en términos de marketing puede ser
+      perfectamente justificado que yo reciba información sobre ropa de bebé, pero
+      me niego a <a>bajar</a> a mi pantalla peleles o pañales si los costes corren
+      a mi cargo.
+- c: 1
+  r: 2
+  v: gratuito
+  x:
+  - s: Föräldrar bör informeras om befintliga tekniska lösningar för att skydda barnen,
+      i synnerhet om programvaror som är enkla att använda och som kan <v>laddas</v>
+      <p>ner</p> utan kostnad eller för ett mindre belopp.
+    t: Se debería fomentar entre los padres el empleo de los medios técnicos ya existentes
+      para proteger a los menores, es especial el de las herramientas de software,
+      de fácil uso y disponibles de forma <a>gratuita</a> o a bajo coste.
+fr:
+- c: 5
+  r: 1
+  v: télécharger
+  x:
+  - s: Ett exempel på detta är fallet med den unge journalisten, Perwez Kambakhsh,
+      som vågade sprida en artikel om kvinnors rättigheter i islam som han hade <v>laddat</v>
+      <p>ner</p> från Internet.
+    t: Tel est le cas d’un jeune journaliste, Perwiz Kambakhsh, qui a osé faire circuler
+      un article sur les droits des femmes dans l’Islam, qu’il avait <a>téléchargé</a>
+      depuis l’Internet.
+  - s: Ett sådant påstående är rent nonsens, för redan i dag kan vem som helst från
+      Internet <v>ladda</v> <p>ner</p> ett sådant program som identifierar skräppost,
+      oberoende av hos vem han annars är bunden med Internetabonnemang.
+    t: Affirmer cela est totalement insensé, car on peut d’ores et déjà <a>télécharger</a>
+      d’Internet ce genre de programme de reconnaissance d’envois de spamming, quel
+      que soit le fournisseur d’accès avec lequel on a un contrat.
+  - s: Jag kan i alla fall inte längre känna mig entusiastisk över att bara <v>ladda</v>
+      <p>ner</p> roliga bilder till min mobil.
+    t: En ce qui me concerne, je ne parviens plus à m’enthousiasmer à l’idée de <a>télécharger</a>
+      des images amusantes pour mon téléphone portable.
+  - s: I vissa fall döljs avgifterna för konsumenter och därför <v>laddar</v> de <p>ner</p>
+      en prenumeration utan att de inser det, trots att de bara ville ha en engångstjänst.
+    t: En revanche, dans certains cas, les frais sont dissimulés aux consommateurs
+      et ceux-ci <a>téléchargent</a> donc une souscription sans même le savoir et
+      alors qu’ils souhaitaient ne se servir qu’une seule fois du service en question.
+  - s: Men för det första utgår förespråkarna då från att det finns ett stort antal
+      dåliga företag som inte klarar av detta, och för det andra kan det hända att
+      det marknadsföringstekniskt är väl riktat om jag erhåller information om barnkläder,
+      men jag vill inte <v>ladda</v> <p>ner</p> några sparkbyxor eller blöjor på skärmen
+      på egen bekostnad.
+    t: D’autre part, ces pratiques sont peut-être bien ciblées du point de vue du
+      marketing si je reçois des informations sur des layettes, mais il se peut que
+      je ne veuille pas <a>télécharger</a> à mes propres frais des images de combinaisons
+      pour bébé ou de couches culottes.
+- c: 1
+  r: 2
+  v: téléchargement
+  x:
+  - s: Nu är det förvisso rätt av oss att inte göra det lätt för potentiella mördare
+      att <v>ladda</v> <p>ner</p> instruktioner om hur man tillverkar bomber från
+      Internet och vi välkomnar naturligtvis ett närmare samarbete mellan medlemsstaterna.
+    t: Aujourd’hui, il y a certainement lieu de compliquer l’accès d’assassins potentiels
+      au <a>téléchargement</a> sur l’internet d’instructions portant sur la fabrication
+      de bombes et, bien entendu, une coopération plus étroite entre les États membres
+      doit être saluée.
+- c: 1
+  r: 2
+  v: disponible gratuitement
+  x:
+  - s: Föräldrar bör informeras om befintliga tekniska lösningar för att skydda barnen,
+      i synnerhet om programvaror som är enkla att använda och som kan <v>laddas</v>
+      <p>ner</p> utan kostnad eller för ett mindre belopp.
+    t: Il faudrait promouvoir auprès des parents les solutions techniques existantes
+      permettant de protéger les enfants, en particulier les outils logiciels qui
+      sont faciles à utiliser et <a>disponibles</a> <a>gratuitement</a> ou à peu de
+      frais.
+- c: 1
+  r: 2
+  v: consulter
+  x:
+  - s: ni kan <v>ladda</v> <p>ner</p> hela gemenskapens regelverk här i kammaren från
+      Celexsystemet.
+    t: vous pouvez <a>consulter</a> l’ensemble de l’acquis communautaire à partir
+      du système Celex, dans cette Assemblée.
+- c: 1
+  r: 2
+  v: prestation
+  x:
+  - s: För det andra vill jag kort gå in på förslagen i samband med tjänster som tillhandahålls
+      på elektronisk väg, där det till största delen handlar om tjänster som kan <v>laddas</v>
+      <p>ner</p> från Internet och tjänster för radio- och TV-sändningar.
+    t: Je voudrais ensuite m’exprimer brièvement sur les propositions relatives aux
+      prestations électroniques, qui concernent en fait principalement les <a>prestations</a>
+      de services via Internet, la radio et la télévision.
+it:
+- c: 8
+  r: 1
+  v: scaricare
+  x:
+  - s: Nu är det förvisso rätt av oss att inte göra det lätt för potentiella mördare
+      att <v>ladda</v> <p>ner</p> instruktioner om hur man tillverkar bomber från
+      Internet och vi välkomnar naturligtvis ett närmare samarbete mellan medlemsstaterna.
+    t: Adesso, di certo è giusto non consentire ai potenziali assassini di <a>scaricare</a>
+      da Internet le istruzioni sulla costruzione di una bomba e ovviamente una più
+      stretta cooperazione fra Stati membri è ben accetta.
+  - s: Ett exempel på detta är fallet med den unge journalisten, Perwez Kambakhsh,
+      som vågade sprida en artikel om kvinnors rättigheter i islam som han hade <v>laddat</v>
+      <p>ner</p> från Internet.
+    t: Questo è il caso relativo ad un giovane giornalista, Perwez Kambakhsh, che
+      ha osato diffondere un articolo sui diritti delle donne nell’islam, <a>scaricato</a>
+      da Internet.
+  - s: Ett sådant påstående är rent nonsens, för redan i dag kan vem som helst från
+      Internet <v>ladda</v> <p>ner</p> ett sådant program som identifierar skräppost,
+      oberoende av hos vem han annars är bunden med Internetabonnemang.
+    t: Un’affermazione simile è un’assurdità, poiché già oggi chiunque può <a>scaricare</a>
+      da Internet un simile programma per il riconoscimento Spam, qualunque sia il
+      suo provider Internet.
+  - s: I kommissionens förslag skiljs mellan linjära tjänster, nämligen överföring
+      genom traditionell television, Internet eller mobil television som konstant
+      tillhandahåller tittaren material under ett pågående program, och icke-linjära
+      tjänster liknande television som <v>laddats</v> <p>ner</p> från nätverket på
+      begäran.
+    t: La proposta della Commissione europea distingue tra servizi lineari, e più
+      precisamente la forma di trasmissione tradizionale, Internet o televisione mobile
+      che fornisce costantemente materiali allo spettatore secondo il palinsesto in
+      corso, e servizi non-lineari simili ai programmi televisivi <a>scaricati</a>
+      su richiesta dalla rete.
+  - s: För det andra vill jag kort gå in på förslagen i samband med tjänster som tillhandahålls
+      på elektronisk väg, där det till största delen handlar om tjänster som kan <v>laddas</v>
+      <p>ner</p> från Internet och tjänster för radio- och TV-sändningar.
+    t: In secondo luogo, vorrei soffermarmi brevemente sulle proposte legate ai servizi
+      prestati tramite mezzi elettronici, che riguardano in prevalenza i servizi <a>scaricati</a>
+      da Internet e i servizi di emittenza radiotelevisiva.
+  - s: Alla är vana vid att gratis <v>ladda</v> <p>ner</p> innehåll från nätet.
+    t: così avviene, per esempio, nei casi in cui si <a>scaricano</a> contenuti digitali.
+  - s: I vissa fall döljs avgifterna för konsumenter och därför <v>laddar</v> de <p>ner</p>
+      en prenumeration utan att de inser det, trots att de bara ville ha en engångstjänst.
+    t: Tutti sono abituati a scaricare gratuitamente contenuti da Internet, ma in
+      qualche caso il costo non viene comunicato ai consumatori, che <a>scaricano</a>
+      così un abbonamento senza accorgersene, anche se desideravano un servizio una
+      tantum.
+  - s: Men för det första utgår förespråkarna då från att det finns ett stort antal
+      dåliga företag som inte klarar av detta, och för det andra kan det hända att
+      det marknadsföringstekniskt är väl riktat om jag erhåller information om barnkläder,
+      men jag vill inte <v>ladda</v> <p>ner</p> några sparkbyxor eller blöjor på skärmen
+      på egen bekostnad.
+    t: In primo luogo, i fautori di questa teoria tengono già conto del fatto che
+      vi è una notevole percentuale di aziende «cattive» che rovinano tutto e, in
+      secondo luogo, è possibile che sotto il profilo della tecnica di marketing sia
+      giusto che io riceva informazioni sull’abbigliamento per neonati, ma non voglio
+      <a>scaricare</a> a mie spese sul mio monitor offerte di pannolini o tutine.
+pt:
+- c: 5
+  r: 1
+  v: descarregar
+  x:
+  - s: Nu är det förvisso rätt av oss att inte göra det lätt för potentiella mördare
+      att <v>ladda</v> <p>ner</p> instruktioner om hur man tillverkar bomber från
+      Internet och vi välkomnar naturligtvis ett närmare samarbete mellan medlemsstaterna.
+    t: Actualmente, temos seguramente razão em não facilitar que potenciais assassinos
+      <a>descarreguem</a> instruções da Internet para fabricar bombas, e claro que
+      nos devemos congratular com uma cooperação mais estreita entre Estados-Membros.
+  - s: Ett exempel på detta är fallet med den unge journalisten, Perwez Kambakhsh,
+      som vågade sprida en artikel om kvinnors rättigheter i islam som han hade <v>laddat</v>
+      <p>ner</p> från Internet.
+    t: É o caso de um jovem jornalista, Perwez Kambakhsh, que se atreveu a fazer circular
+      um artigo sobre os direitos da mulher no Islão, <a>descarregado</a> da Internet.
+  - s: I kommissionens förslag skiljs mellan linjära tjänster, nämligen överföring
+      genom traditionell television, Internet eller mobil television som konstant
+      tillhandahåller tittaren material under ett pågående program, och icke-linjära
+      tjänster liknande television som <v>laddats</v> <p>ner</p> från nätverket på
+      begäran.
+    t: A proposta da Comissão Europeia faz a distinção entre serviços lineares, nomeadamente
+      a transmissão através da televisão tradicional, da Internet ou da televisão
+      móvel que fornece constantemente conteúdos ao espectador segundo um programa
+      em vigor, e serviços não lineares semelhantes à televisão <a>descarregada</a>
+      da rede a pedido.
+  - s: Alla är vana vid att gratis <v>ladda</v> <p>ner</p> innehåll från nätet.
+    t: Todos se habituaram a <a>descarregar</a> conteúdos da Internet gratuitamente.
+  - s: I vissa fall döljs avgifterna för konsumenter och därför <v>laddar</v> de <p>ner</p>
+      en prenumeration utan att de inser det, trots att de bara ville ha en engångstjänst.
+    t: Contudo, em alguns casos, os encargos não estão à vista dos consumidores, que,
+      sem se aperceberem, <a>descarregam</a> uma subscrição quando apenas pretendiam
+      um serviço único.
+- c: 1
+  r: 2
+  v: transferir
+  x:
+  - s: Men för det första utgår förespråkarna då från att det finns ett stort antal
+      dåliga företag som inte klarar av detta, och för det andra kan det hända att
+      det marknadsföringstekniskt är väl riktat om jag erhåller information om barnkläder,
+      men jag vill inte <v>ladda</v> <p>ner</p> några sparkbyxor eller blöjor på skärmen
+      på egen bekostnad.
+    t: Mas, em primeiro lugar, os defensores dessa tese têm de ter em conta que há
+      um número substancial de más empresas que fazem montes de mailings, e, em segundo
+      lugar, pode acontecer que se considere bem dirigido, de um ponto de vista de
+      técnica de marketing, que eu receba informação sobre roupa de bebé, e, no entanto,
+      eu não querer <a>transferir</a> roupinha interior de bebé ou fraldas para o
+      meu écrã, à minha custa.
+- c: 1
+  r: 2
+  v: gratuito
+  x:
+  - s: Föräldrar bör informeras om befintliga tekniska lösningar för att skydda barnen,
+      i synnerhet om programvaror som är enkla att använda och som kan <v>laddas</v>
+      <p>ner</p> utan kostnad eller för ett mindre belopp.
+    t: As soluções técnicas de protecção das crianças já existentes devem ser promovidas
+      entre os pais, sobretudo as ferramentas informáticas de fácil utilização e <a>gratuitas</a>
+      ou de custo reduzido.

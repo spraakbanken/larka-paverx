@@ -1,0 +1,94 @@
+---
+de:
+- c: 1
+  r: 1
+  v: versprühen
+  x:
+  - s: Like those who share his creed, who murder and then flee, he <v>spits</v> <p>out</p>
+      his poison on this House and then disappears like a coward.
+    t: Wie seine Gesinnungsgenossen, die morden und dann fliehen, <a>versprüht</a>
+      er sein Gift in diesem Parlament, um anschließend feige zu verschwinden.
+es:
+- c: 1
+  r: 1
+  v: denegar
+  x:
+  - s: Now, as some sceptical voices brand EMU responsible for job losses, it is time
+      to <v>spit</v> <p>out</p> some home truths from abroad about EMU.
+    t: Ahora que algunas voces escépticas responsabilizan a la UEM por las pérdidas
+      de puestos de trabajo, es hora de <a>denegar</a> algunas falsas verdades acerca
+      de la UEM que nos llegan del exterior.
+- c: 1
+  r: 1
+  v: soltar
+  x:
+  - s: Like those who share his creed, who murder and then flee, he <v>spits</v> <p>out</p>
+      his poison on this House and then disappears like a coward.
+    t: Como sus correligionarios, que asesinan y después huyen, él <a>suelta</a> su
+      veneno sobre esta Asamblea y, después, cobardemente desaparece.
+- c: 1
+  r: 1
+  v: escupir
+  x:
+  - s: It is either movement, mobility, or suffocation among iron monsters, <v>spitting</v>
+      <p>out</p> pollutants.
+    t: O es el movimiento, la movilidad, o es asfixiarse entre monstruos de hierro,
+      <a>escupiendo</a> contaminantes.
+fr:
+- c: 1
+  r: 1
+  v: cracher
+  x:
+  - s: Like those who share his creed, who murder and then flee, he <v>spits</v> <p>out</p>
+      his poison on this House and then disappears like a coward.
+    t: Comme ses coreligionnaires, qui assassinent et fuient ensuite, il <a>crache</a>
+      son venin sur cette Assemblée, puis disparaît lâchement.
+- c: 1
+  r: 1
+  v: dire sentir
+  x:
+  - s: Now, as some sceptical voices brand EMU responsible for job losses, it is time
+      to <v>spit</v> <p>out</p> some home truths from abroad about EMU.
+    t: Alors que les sceptiques pointent un doigt accusateur sur l’UEM, la rendant
+      responsable de pertes d’emplois, il est temps de <a>dire</a> certaines vérités
+      bien <a>senties</a> au sujet de l’UEM.
+it:
+- c: 1
+  r: 1
+  v: sputare
+  x:
+  - s: It is either movement, mobility, or suffocation among iron monsters, <v>spitting</v>
+      <p>out</p> pollutants.
+    t: È circolazione, mobilità o soffocamento tra mostri di ferro che <a>sputano</a>
+      sostanze inquinanti.
+pt:
+- c: 1
+  r: 1
+  v: dizer
+  x:
+  - s: Now, as some sceptical voices brand EMU responsible for job losses, it is time
+      to <v>spit</v> <p>out</p> some home truths from abroad about EMU.
+    t: Agora que algumas vozes cépticas atribuem à UEM a responsabilidade pela perda
+      de postos de trabalho, está na altura de <a>dizer</a> algumas verdades sobre
+      a UEM.
+- c: 1
+  r: 1
+  v: fora
+  x:
+  - s: they use them and <v>spit</v> them <p>out</p>.
+    t: usam-nas e <a>deitam-nas</a> <a>fora</a>.
+sv:
+- c: 1
+  r: 1
+  v: herre
+  x:
+  - s: they use them and <v>spit</v> them <p>out</p>.
+    t: Herr talman, mina damer och <a>herrar</a>!
+- c: 1
+  r: 1
+  v: sprida
+  x:
+  - s: Like those who share his creed, who murder and then flee, he <v>spits</v> <p>out</p>
+      his poison on this House and then disappears like a coward.
+    t: Som sina ideologiska likar, vilka mördar och sedan flyr, <a>sprider</a> han
+      sitt gift över denna församling, för att sedan fegt försvinna.

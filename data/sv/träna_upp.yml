@@ -1,0 +1,37 @@
+---
+de:
+- c: 1
+  r: 1
+  v: trainieren
+  x:
+  - s: Man förvärvar kunskaper, man <v>tränar</v> <p>upp</p> färdigheter, och man
+      övar in socialt uppträdande och integrationsberedskap.
+    t: Wissen wird erworben, Fähigkeiten werden <a>trainiert</a>, soziales Verhalten
+      und Integrationsbereitschaft werden eingeübt.
+en:
+- c: 1
+  r: 1
+  v: learn
+  x:
+  - s: Man förvärvar kunskaper, man <v>tränar</v> <p>upp</p> färdigheter, och man
+      övar in socialt uppträdande och integrationsberedskap.
+    t: Knowledge is acquired, skills are <a>learnt</a> through training, social behaviour
+      and the ability to integrate are learnt through practice.
+es:
+- c: 1
+  r: 1
+  v: ejercitar
+  x:
+  - s: Man förvärvar kunskaper, man <v>tränar</v> <p>upp</p> färdigheter, och man
+      övar in socialt uppträdande och integrationsberedskap.
+    t: Se adquieren conocimientos, se <a>ejercitan</a> habilidades, se inculcan actitudes
+      sociales y una buena disposición para la integración.
+pt:
+- c: 1
+  r: 1
+  v: treinar
+  x:
+  - s: Man förvärvar kunskaper, man <v>tränar</v> <p>upp</p> färdigheter, och man
+      övar in socialt uppträdande och integrationsberedskap.
+    t: Adquire-se conhecimentos, <a>treina</a><a>-se</a> capacidades, pratica-se o
+      comportamento social e a disponibilidade para a integração.

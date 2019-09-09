@@ -1,0 +1,431 @@
+---
+de:
+- c: 1
+  r: 1
+  v: warm
+  x:
+  - s: I have to say that I was surprised to learn that ’Glühwein’ is on offer to
+      the consumer ready-made in this way, with all these ingredients already added,
+      so that all that you have to do is <v>heat</v> it <p>up</p>.
+    t: Ich muß gestehen, daß ich etwas überrascht war, daß der „Glühwein“ dergestalt
+      dem Verbraucher mit allen Zutaten fix und fertig offeriert wird und nur noch
+      <a>warm</a> gemacht zu werden braucht, da ich ihn bisher ausschließlich in ad
+      hoc nach den guten Rezepten unserer Großmütter zubereiteter Form kannte und
+      genossen habe.
+- c: 1
+  r: 1
+  v: werden
+  x:
+  - s: The newspapers say nationalist tension is breaking out again in Brisco between
+      Muslims and Serbs, and the situation is <v>heating</v> <p>up</p>.
+    t: es herrscht eine äußerst brisante Lage, der die Europäische Union alles in
+      allem mit einer Politik entgegentreten muß, die in der gesamten Region umgesetzt
+      <a>werden</a> müßte.
+- c: 1
+  r: 1
+  v: Kollektor erwärmen
+  x:
+  - s: Not only the sun which warms us up, but also the sun which <v>heats</v> <p>up</p>
+      thermal plaques to give us hot water and photovoltaic cells to give us energy.
+    t: Aber nicht nur die Sonne, die uns wärmt, sondern auch die Sonne, die die <a>Kollektoren</a>
+      <a>erwärmt</a>, um uns mit warmem Wasser zu versorgen, und die die photovoltaischen
+      Zellen aktiviert, um uns mit Energie zu versorgen.
+- c: 1
+  r: 1
+  v: heizen
+  x:
+  - s: What we are doing now is <v>heating</v> <p>up</p> the atmosphere.
+    t: Wir <a>heizen</a> ja jetzt noch die Atmosphäre auf.
+- c: 1
+  r: 1
+  v: erwärmen
+  x:
+  - s: Mr President, the objective of reducing the greenhouse effect is absolutely
+      praiseworthy given that there is a great deal of macroscopic evidence that the
+      planet is <v>heating</v> <p>up</p>.
+    t: Herr Präsident, das Ziel einer Senkung des Treibhauseffektes ist durchaus verdienstvoll,
+      denn es gibt sehr viele Beweise dafür, daß sich die Erdatmosphäre <a>erwärmt</a>.
+- c: 1
+  r: 1
+  v: brenzlig werden
+  x:
+  - s: Mr President, when the situation <v>heats</v> <p>up</p>, we have to keep cool
+      heads.
+    t: Herr Präsident, wenn die Situation <a>brenzlig</a> <a>wird</a>, muss man einen
+      kühlen Kopf bewahren.
+- c: 1
+  r: 1
+  v: aufheizen
+  x:
+  - s: As yet nobody knows what we are to do with the nuclear waste and we also know
+      what will happen if we continue to <v>heat</v> <p>up</p> the atmosphere with
+      coal-fired power stations.
+    t: Kein Mensch weiß bis heute, wo wir mit dem Nuklearmüll hinsollen, und wir wissen
+      auch, was es bedeutet, wenn wir weiter die Atmosphäre mit Kohlekraftwerken <a>aufheizen</a>.
+- c: 1
+  r: 1
+  v: Erdklima
+  x:
+  - s: The fact that the summit in Copenhagen is generally described as a ’deplorable
+      failure’ of an attempt to reach a global agreement on limiting the greenhouse
+      emissions which are <v>heating</v> <p>up</p> the Earth’s climate only serves
+      to highlight the total lack of coordination among EU Member States with regard
+      to the US and the emerging countries.
+    t: Die Tatsache, dass der Gipfel in Kopenhagen gemeinhin als „bedauernswerter
+      Misserfolg“ eines Versuchs, eine globale Übereinkunft für die Begrenzung der
+      Treibhausgase, die zur Erwärmung des <a>Erdklimas</a> führen, beschrieben wird,
+      ist nur ein weiterer Faktor, der den völligen Mangel an Koordination unter den
+      EU-Mitgliedstaaten gegenüber den USA und den Schwellenländern unterstreicht.
+es:
+- c: 5
+  r: 1
+  v: calentar
+  x:
+  - s: I want to draw your attention to the fact that, according to scientific research,
+      carbon dioxide in the atmosphere increases not before the earth heats up but
+      only after it <v>heats</v> <p>up</p>.
+    t: Deseo llamar su atención sobre el hecho de que, según los resultados de ciertas
+      investigaciones científicas, el dióxido de carbono en la atmósfera aumenta no
+      antes de que la Tierra se caliente, sino después de que se ha <a>calentado</a>.
+  - s: Within Europe too, we have to make our own emission reduction commitments and
+      take action in line with the aim to prevent the world from <v>heating</v> <p>up</p>
+      by more than two degrees.
+    t: Dentro de Europa, también hemos de llegar a compromisos en materia de reducción
+      de emisiones y emprender acciones de conformidad con el objetivo de evitar que
+      el mundo se <a>caliente</a> más de dos grados.
+  - s: Mr President, when the situation <v>heats</v> <p>up</p>, we have to keep cool
+      heads.
+    t: Señor Presidente, cuando la situación se <a>calienta</a>, tenemos que mantener
+      la cabeza fría.
+  - s: What we are doing now is <v>heating</v> <p>up</p> the atmosphere.
+    t: Seguimos <a>calentando</a> la atmósfera.
+  - s: The fact that the summit in Copenhagen is generally described as a ’deplorable
+      failure’ of an attempt to reach a global agreement on limiting the greenhouse
+      emissions which are <v>heating</v> <p>up</p> the Earth’s climate only serves
+      to highlight the total lack of coordination among EU Member States with regard
+      to the US and the emerging countries.
+    t: El hecho de que la Cumbre de Copenhague se describa por lo general como el
+      «fracaso deplorable» de un intento de lograr un acuerdo global para limitar
+      las emisiones de efecto invernadero que están <a>calentando</a> el clima de
+      la Tierra solo sirve para resaltar la total falta de coordinación entre los
+      Estados miembros de la UE con respecto a Estados Unidos y los países emergentes.
+- c: 1
+  r: 2
+  v: zona
+  x:
+  - s: The newspapers say nationalist tension is breaking out again in Brisco between
+      Muslims and Serbs, and the situation is <v>heating</v> <p>up</p>.
+    t: Pero la cuestión más general y más importante que creo que debería abordar
+      la Presidencia alemana es la de definir, por fin, un marco de directrices generales
+      para toda la República Federal de la antigua Yugoslavia, dado que Macedonia
+      está en ebullición y leo en la prensa que en Brisco se están volviendo a producir
+      tensiones nacionalistas entre musulmanes y serbios, la situación está al rojo
+      vivo y ha de ser afrontada con una política que la Unión Europea debería lograr
+      aplicar en toda la <a>zona</a>.
+- c: 1
+  r: 2
+  v: caldear
+  x:
+  - s: Mr President, with winter just around the corner, the political atmosphere
+      in Serbia is <v>heating</v> <p>up</p>.
+    t: Señor Presidente, con el invierno a la vuelta de la esquina, la atmósfera política
+      en Serbia se está <a>caldeando</a>.
+- c: 1
+  r: 2
+  v: exacerber
+  x:
+  - s: No one can have an interest in the situation <v>heating</v> <p>up</p> further
+      or people being radicalised and a lasting solution becoming less and less likely.
+    t: A nadie interesa que la situación se <a>exacerbe</a> aún más ni que el pueblo
+      se radicalice, ya que tal situación alejaría la posibilidad de lograr una solución
+      duradera.
+- c: 1
+  r: 2
+  v: irritar
+  x:
+  - s: Madam President, I would like to start by saying to the Spanish rapporteur
+      that I do not need a visit from Mr Moratino to get <v>het</v> <p>up</p> about
+      what the Spanish Government is doing.
+    t: Señora Presidenta, quisiera decir al ponente español que no necesito la visita
+      del señor Moratinos para <a>irritarme</a> por lo que hace el Gobierno español.
+- c: 1
+  r: 2
+  v: nervioso
+  x:
+  - s: Why are you getting so <v>het</v> <p>up</p>?
+    t: ¿Por qué se ha puesto tan <a>nervioso</a>?
+- c: 1
+  r: 2
+  v: recalentar
+  x:
+  - s: As yet nobody knows what we are to do with the nuclear waste and we also know
+      what will happen if we continue to <v>heat</v> <p>up</p> the atmosphere with
+      coal-fired power stations.
+    t: Y también sabemos qué ocurrirá si seguimos <a>recalentando</a> la atmósfera
+      con las centrales térmicas.
+fr:
+- c: 1
+  r: 1
+  v: soucier
+  x:
+  - s: They get <v>het</v> <p>up</p> about wars and genocide on other continents,
+      but wrongly keep quiet about the genocide taking place in their own country.
+    t: Ils se <a>soucient</a> fort justement des guerres et des génocides se déroulant
+      dans d’autres parties du monde mais ils passent injustement sous silence le
+      génocide qui se déroule dans leur propre pays.
+- c: 1
+  r: 1
+  v: énerver comme celer
+  x:
+  - s: Why are you getting so <v>het</v> <p>up</p>?
+    t: Pourquoi vous <a>énervez</a>-vous <a>comme</a> <a>cela</a> ?
+- c: 1
+  r: 1
+  v: communiqué
+  x:
+  - s: As we all know, when the planet <v>heats</v> <p>up</p>, the sea also heats
+      up and when the temperature of the sea exceeds 26°C, then a tropical cyclone
+      is likely to develop.
+    t: Entendre dire que le <a>communiqué</a> du G8 sur le changement climatique est
+      ambitieux revient à étirer la langue anglaise jusqu’à la limite du point de
+      rupture.
+- c: 1
+  r: 1
+  v: réchauffer
+  x:
+  - s: As yet nobody knows what we are to do with the nuclear waste and we also know
+      what will happen if we continue to <v>heat</v> <p>up</p> the atmosphere with
+      coal-fired power stations.
+    t: Personne ne sait à ce jour ce que nous devons faire avec les déchets nucléaires
+      et nous savons également ce qui nous attend si nous continuons à <a>réchauffer</a>
+      l’atmosphère avec des centrales au charbon.
+- c: 1
+  r: 1
+  v: irriter plus
+  x:
+  - s: when he says he no longer gets <v>het</v> <p>up</p> about anything, that’s
+      not news to us.
+    t: Nous savons depuis longtemps que vous ne vous <a>irritez</a> <a>plus</a> de
+      rien.
+- c: 1
+  r: 1
+  v: envenimer
+  x:
+  - s: No one can have an interest in the situation <v>heating</v> <p>up</p> further
+      or people being radicalised and a lasting solution becoming less and less likely.
+    t: Personne ne peut avoir intérêt à ce que la situation s’<a>envenime</a> davantage
+      ou à ce que les personnes se radicalisent et que la possibilité d’une solution
+      durable s’éloigne.
+- c: 1
+  r: 1
+  v: échauffer
+  x:
+  - s: Mr President, with winter just around the corner, the political atmosphere
+      in Serbia is <v>heating</v> <p>up</p>.
+    t: Monsieur le Président, malgré la proximité de l’hiver, l’atmosphère politique
+      s’<a>échauffe</a> en Serbie.
+- c: 1
+  r: 1
+  v: chauffer
+  x:
+  - s: What we are doing now is <v>heating</v> <p>up</p> the atmosphere.
+    t: Pour l’instant nous <a>chauffons</a> l’atmosphère.
+it:
+- c: 4
+  r: 1
+  v: riscaldare
+  x:
+  - s: As yet nobody knows what we are to do with the nuclear waste and we also know
+      what will happen if we continue to <v>heat</v> <p>up</p> the atmosphere with
+      coal-fired power stations.
+    t: Nessuno sa finora cosa fare delle scorie nucleari, e sappiamo anche cosa accadrà
+      se continueremo a <a>riscaldare</a> l’atmosfera con le centrali a carbone.
+  - s: According to them, methane and carbon dioxide are going to <v>heat</v> <p>up</p>
+      the planet and melt the poles and glaciers.
+    t: Ed ora ecco che, in base alla nuova nevrosi ossessiva, vengono scorti in ogni
+      dove CO2 e gas che causano l’effetto serra, tra cui il metano e il biossido
+      di carbonio che <a>riscalderebbero</a> il pianeta e farebbero sciogliere i poli
+      ed i ghiacciai.
+  - s: Not only the sun which warms us up, but also the sun which <v>heats</v> <p>up</p>
+      thermal plaques to give us hot water and photovoltaic cells to give us energy.
+    t: E non solo del sole che ci riscalda, ma anche del sole che <a>riscalda</a>
+      i pannelli solari che ci forniscono acqua calda e che fa funzionare le cellule
+      fotovoltaiche che ci forniscono energia elettrica.
+  - s: Mr President, the objective of reducing the greenhouse effect is absolutely
+      praiseworthy given that there is a great deal of macroscopic evidence that the
+      planet is <v>heating</v> <p>up</p>.
+    t: Signor Presidente, l’obiettivo della riduzione dell’effetto serra è assolutamente
+      meritevole, in quanto ci sono molte evidenze macroscopiche che il pianeta si
+      sta <a>riscaldando</a>.
+- c: 1
+  r: 2
+  v: scaldare
+  x:
+  - s: Mr President, with winter just around the corner, the political atmosphere
+      in Serbia is <v>heating</v> <p>up</p>.
+    t: Signor Presidente, con l’inverno alle porte, l’atmosfera politica in Serbia
+      si sta <a>scaldando</a>.
+- c: 1
+  r: 2
+  v: guadagnare
+  x:
+  - s: As we all know, when the planet <v>heats</v> <p>up</p>, the sea also heats
+      up and when the temperature of the sea exceeds 26°C, then a tropical cyclone
+      is likely to develop.
+    t: questo dimostra che è possibile ridurre le emissioni e <a>guadagnare</a> molto
+      in un periodo relativamente breve.
+- c: 1
+  r: 2
+  v: caldo
+  x:
+  - s: Mr President, when the situation <v>heats</v> <p>up</p>, we have to keep cool
+      heads.
+    t: Signor Presidente, quando la situazione si fa <a>calda</a> bisogna tenere la
+      mente fredda.
+- c: 1
+  r: 2
+  v: agitare più
+  x:
+  - s: when he says he no longer gets <v>het</v> <p>up</p> about anything, that’s
+      not news to us.
+    t: che non si <a>agiti</a> <a>più</a> per niente, ci è noto da molto tempo.
+- c: 1
+  r: 2
+  v: innervosire
+  x:
+  - s: Why are you getting so <v>het</v> <p>up</p>?
+    t: Perché si <a>innervosisce</a> così?
+pt:
+- c: 7
+  r: 1
+  v: aquecer
+  x:
+  - s: As yet nobody knows what we are to do with the nuclear waste and we also know
+      what will happen if we continue to <v>heat</v> <p>up</p> the atmosphere with
+      coal-fired power stations.
+    t: Ninguém sabe, até hoje, o que fazer com os resíduos radioactivos e, por outro
+      lado, sabemos o que acontecerá se continuarmos a <a>aquecer</a> a atmosfera
+      com centrais a carvão.
+  - s: Mr President, when the situation <v>heats</v> <p>up</p>, we have to keep cool
+      heads.
+    t: Senhor Presidente, quando a situação <a>aquece</a>, é preciso ter cabeça fria.
+  - s: Mr President, the objective of reducing the greenhouse effect is absolutely
+      praiseworthy given that there is a great deal of macroscopic evidence that the
+      planet is <v>heating</v> <p>up</p>.
+    t: Senhor Presidente, o objectivo da redução do efeito de estufa é inteiramente
+      louvável, visto que existem provas macroscópicas cabais de que o planeta está
+      a <a>aquecer</a>;
+  - s: The fact that the summit in Copenhagen is generally described as a ’deplorable
+      failure’ of an attempt to reach a global agreement on limiting the greenhouse
+      emissions which are <v>heating</v> <p>up</p> the Earth’s climate only serves
+      to highlight the total lack of coordination among EU Member States with regard
+      to the US and the emerging countries.
+    t: O facto de a cimeira de Copenhaga ser geralmente descrita como um «fracasso
+      deplorável» de uma tentativa para se chegar a um acordo global sobre a limitação
+      dos gases com efeitos de estufa que estão a <a>aquecer</a> o clima da Terra,
+      só serve para pôr em destaque a total falta de coordenação entre os Estados-Membros
+      da UE relativamente aos EUA e aos países emergentes.
+  - s: No one can have an interest in the situation <v>heating</v> <p>up</p> further
+      or people being radicalised and a lasting solution becoming less and less likely.
+    t: Ninguém está interessado em que a situação <a>aqueça</a> mais ou em que as
+      posições se radicalizem, afastando cada vez mais a possibilidade de encontrar
+      uma solução duradoura.
+  - s: As we all know, when the planet <v>heats</v> <p>up</p>, the sea also heats
+      up and when the temperature of the sea exceeds 26°C, then a tropical cyclone
+      is likely to develop.
+    t: Como todos sabemos, quando o planeta <a>aquece</a>, o mar aquece também e,
+      quando a temperatura do mar excede os 26°C, existe a probabilidade de se desencadear
+      um ciclone tropical.
+  - s: As we all know, when the planet heats up, the sea also <v>heats</v> <p>up</p>
+      and when the temperature of the sea exceeds 26°C, then a tropical cyclone is
+      likely to develop.
+    t: Como todos sabemos, quando o planeta aquece, o mar <a>aquece</a> também e,
+      quando a temperatura do mar excede os 26°C, existe a probabilidade de se desencadear
+      um ciclone tropical.
+- c: 1
+  r: 2
+  v: legitimamente
+  x:
+  - s: They get <v>het</v> <p>up</p> about wars and genocide on other continents,
+      but wrongly keep quiet about the genocide taking place in their own country.
+    t: Eles preocupam-se, <a>legitimamente</a>, com as guerras e o genocídio noutras
+      partes do mundo, guardando contudo, ilegitimamente, silêncio sobre o genocídio
+      cometido no seu próprio país.
+- c: 1
+  r: 2
+  v: indignar
+  x:
+  - s: Madam President, I would like to start by saying to the Spanish rapporteur
+      that I do not need a visit from Mr Moratino to get <v>het</v> <p>up</p> about
+      what the Spanish Government is doing.
+    t: Senhora Presidente, gostaria de começar por dizer ao relator espanhol que não
+      preciso de uma visita do Senhor Ministro Moratino para me <a>indignar</a> com
+      o que o Governo espanhol está a fazer.
+- c: 1
+  r: 2
+  v: nervoso
+  x:
+  - s: Why are you getting so <v>het</v> <p>up</p>?
+    t: Porque é que está tão <a>nervoso</a>?
+- c: 1
+  r: 2
+  v: corresponder
+  x:
+  - s: The newspapers say nationalist tension is breaking out again in Brisco between
+      Muslims and Serbs, and the situation is <v>heating</v> <p>up</p>.
+    t: com efeito, surgem focos de conflito na Macedónia, leio aqui, nos jornais,
+      que em Brisco estão a manifestar-se novamente tensões nacionalistas entre muçulmanos
+      e sérvios, há uma situação incandescente a que deve <a>corresponder</a> uma
+      política que, globalmente, a União Europeia deveria conseguir realizar em toda
+      aquela região.
+- c: 1
+  r: 2
+  v: globo
+  x:
+  - s: I want to draw your attention to the fact that, according to scientific research,
+      carbon dioxide in the atmosphere increases not before the earth heats up but
+      only after it <v>heats</v> <p>up</p>.
+    t: Chamo a vossa atenção para o facto de a investigação científica indicar que
+      o nível de dióxido de carbono na atmosfera aumenta antes, e não depois, do aquecimento
+      do <a>globo</a>.
+- c: 1
+  r: 2
+  v: aquecimento
+  x:
+  - s: Within Europe too, we have to make our own emission reduction commitments and
+      take action in line with the aim to prevent the world from <v>heating</v> <p>up</p>
+      by more than two degrees.
+    t: Na Europa, também temos de assumir os nossos compromissos de redução de emissões
+      e actuar em conformidade com o objectivo de evitar o <a>aquecimento</a> do mundo
+      em mais de dois graus.
+sv:
+- c: 1
+  r: 1
+  v: temperatur stiga
+  x:
+  - s: Mr President, when the situation <v>heats</v> <p>up</p>, we have to keep cool
+      heads.
+    t: När <a>temperaturen</a> <a>stiger</a> gäller det att hålla huvudet kallt.
+- c: 1
+  r: 1
+  v: öka
+  x:
+  - s: The newspapers say nationalist tension is breaking out again in Brisco between
+      Muslims and Serbs, and the situation is <v>heating</v> <p>up</p>.
+    t: Vi har från kommissionären fått höra hypotesen att utplacerandet av trupper
+      i området skulle <a>öka</a> möjligheterna till fred i området.
+- c: 1
+  r: 1
+  v: värma
+  x:
+  - s: According to them, methane and carbon dioxide are going to <v>heat</v> <p>up</p>
+      the planet and melt the poles and glaciers.
+    t: Metan, koldioxid skulle <a>värma</a> planeten och få polerna och glaciärerna
+      att smälta.
+- c: 1
+  r: 1
+  v: varm
+  x:
+  - s: Mr President, with winter just around the corner, the political atmosphere
+      in Serbia is <v>heating</v> <p>up</p>.
+    t: Vintern är snart här, men den politiska stämningen i Serbien blir allt <a>varmare</a>.

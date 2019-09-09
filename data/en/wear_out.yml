@@ -1,0 +1,541 @@
+---
+de:
+- c: 3
+  r: 1
+  v: abnutzen
+  x:
+  - s: Everything is old and <v>worn</v> <p>out</p>.
+    t: Alles ist alt und <a>abgenutzt</a>.
+  - s: Speed restrictions are imposed on 66% of the Romanian railways due to the condition
+      of the railway infrastructure, and 77% of the rolling stock is <v>worn</v> <p>out</p>.
+    t: Für 66 % der rumänischen Eisenbahnen gelten wegen des Zustands der Eisenbahninfrastruktur
+      Geschwindigkeitsbeschränkungen, und 77 % des rollenden Materials sind <a>abgenutzt</a>.
+  - s: Some people speak about it undergoing a mid-life crisis - feeling a bit tired,
+      morally <v>worn</v> <p>out</p>, hesitant about further enlargement.
+    t: Die Europäische Gemeinschaft ist nun über 50 Jahre alt. Einige Leute sprechen
+      davon, dass sie eine Midlife Crisis durchlebt - sich etwas müde fühlt, moralisch
+      <a>abgenutzt</a>, zögerlich gegenüber einer Erweiterung.
+- c: 2
+  r: 2
+  v: auslaugen
+  x:
+  - s: they use them until they are <v>worn</v> <p>out</p>, pay them peanuts, move
+      them around at will and arbitrarily get rid of them.
+    t: Sie benutzen sie, bis sie <a>ausgelaugt</a> sind, zahlen ihnen einen Hungerlohn,
+      setzen sie nach Gutdünken ein und kündigen ihnen willkürlich.
+  - s: We have <v>worn</v> <p>out</p> the soil with intensive production.
+    t: Mit intensiver Landwirtschaft haben wir die Böden <a>ausgelaugt</a>.
+- c: 2
+  r: 2
+  v: verschleißen
+  x:
+  - s: We are absolutely opposed to anything that postpones retirement age, as we
+      particularly have in mind the factory workers, many of whom are <v>worn</v>
+      <p>out</p> well before the legal retirement age, even in countries where this
+      age is relatively low.
+    t: Wir wenden uns mit aller Deutlichkeit gegen jedwede Bemühungen, das Rentenalter
+      zu erhöhen, denn wir denken zunächst an die in der Produktion Beschäftigten,
+      deren Kräfte oftmals schon lange Zeit vor dem gesetzlichen Rentenalter <a>verschlissen</a>
+      sind, und dies selbst in Ländern, in denen dieses Alter relativ niedrig ist.
+  - s: They may end up with quieter tyres that are expensive, that <v>wear</v> <p>out</p>
+      quickly and that allow cars to slide off the road and crash into trees!
+    t: Das könnte dazu führen, dass die Rollgeräusche zwar verringert werden, dass
+      die Reifen jedoch teurer werden, dass sie schneller <a>verschleißen</a>, die
+      Haftfähigkeit sinkt und damit die Unfallgefahr steigt!
+- c: 2
+  r: 2
+  v: erschöpfen
+  x:
+  - s: it is highly dangerous to discredit MONUC, to discredit it unnecessarily, to
+      make it solely responsible for the situation in the eyes of the populations,
+      who are already <v>worn</v> <p>out</p> by so many years of war and massacres.
+    t: es ist höchst gefährlich, die MONUC zu diskreditieren, sie unnötigerweise zu
+      diskreditieren, sie in den Augen der Bevölkerung, die schon <a>erschöpft</a>
+      ist von den vielen Jahre des Krieges und der Massaker, ganz allein für die Situation
+      verantwortlich zu machen.
+  - s: Neither must we forget the need for health protection to supplement the social
+      protection offered to people who are often <v>worn</v> <p>out</p> by their state
+      of extreme weakness.
+    t: Und wir dürfen auch nicht den Bedarf an Gesundheitsschutz als Ergänzung zum
+      sozialen Schutz vergessen, der den Menschen angeboten wird, die oftmals aufgrund
+      ihrer extremen Schwäche völlig <a>erschöpft</a> sind.
+- c: 1
+  r: 3
+  v: fahren
+  x:
+  - s: It is true that the majority of companies <v>wear</v> <p>out</p> this argument
+      that restructuring and closures of sites are necessary in order to deal with
+      international competition.
+    t: Die meisten Unternehmen <a>führen</a> das Argument an, dass die Umstrukturierungen
+      und Betriebsschließungen notwendig seien, um dem internationalen Wettbewerb
+      standzuhalten.
+- c: 1
+  r: 3
+  v: erschöpft
+  x:
+  - s: we work from morning to night, getting up at six o’clock in the morning and
+      returning home, tired, <v>worn</v> <p>out</p>, at eight or nine o’clock at night.
+    t: Die Arbeitnehmer arbeiten von früh bis spät, sie stehen um 6.00 Uhr morgens
+      auf und kehren um 8.00 oder 9.00 Uhr abends müde und <a>erschöpft</a> nach Hause
+      zurück.
+- c: 1
+  r: 3
+  v: verbraucht
+  x:
+  - s: Your economy turns everything into goods, including the pensioners that you
+      wish to hand over to the finance sharks but, in the same way, it is the working
+      class pensioners who are <v>worn</v> <p>out</p> from working that you are turning
+      into goods, and this is appalling.
+    t: Ihre Wirtschaft macht alles zur Ware, einschließlich der Renten, die Sie den
+      Finanzhaien überlassen wollen, doch damit machen Sie gleichzeitig die durch
+      die Arbeit <a>verbrauchten</a> Rentner der arbeitenden Klassen zur Ware, und
+      dies ist verabscheuungswürdig.
+es:
+- c: 4
+  r: 1
+  v: agotar
+  x:
+  - s: We are absolutely opposed to anything that postpones retirement age, as we
+      particularly have in mind the factory workers, many of whom are <v>worn</v>
+      <p>out</p> well before the legal retirement age, even in countries where this
+      age is relatively low.
+    t: Nosotros nos oponemos absolutamente a todo aquello que retrase la edad de jubilación,
+      ya que pensamos ante todo en los trabajadores de la producción, muchos de los
+      cuales están <a>agotados</a> mucho antes de la edad legal, incluso en los países
+      en que dicha edad es relativamente baja.
+  - s: Neither must we forget the need for health protection to supplement the social
+      protection offered to people who are often <v>worn</v> <p>out</p> by their state
+      of extreme weakness.
+    t: Tampoco debemos olvidar la necesidad de una protección sanitaria como complemento
+      de la protección social ofrecida a las personas que a menudo están <a>agotadas</a>
+      por su estado de extrema debilidad.
+  - s: We have <v>worn</v> <p>out</p> the soil with intensive production.
+    t: Para producir de forma intensiva, hemos <a>agotado</a> los suelos.
+  - s: Some people speak about it undergoing a mid-life crisis - feeling a bit tired,
+      morally <v>worn</v> <p>out</p>, hesitant about further enlargement.
+    t: Algunos dicen que está atravesando la crisis de la mediana edad y que se siente
+      un poco cansada, <a>agotada</a> moralmente y vacilante ante más ampliaciones.
+- c: 1
+  r: 2
+  v: desgastar
+  x:
+  - s: They may end up with quieter tyres that are expensive, that <v>wear</v> <p>out</p>
+      quickly and that allow cars to slide off the road and crash into trees!
+    t: ¡Podrían acabar teniendo neumáticos más silenciosos pero que serían caros,
+      se <a>desgastarían</a> rápidamente y que no evitarían que los coches patinasen,
+      se saliesen de la carretera y se estrellasen contra los árboles!
+- c: 1
+  r: 2
+  v: debilitar
+  x:
+  - s: Your economy turns everything into goods, including the pensioners that you
+      wish to hand over to the finance sharks but, in the same way, it is the working
+      class pensioners who are <v>worn</v> <p>out</p> from working that you are turning
+      into goods, and this is appalling.
+    t: Su economía lo transforma todo en mercancía, incluso las jubilaciones que pretenden
+      entregar a los tiburones de las finanzas pero, por ese mismo procedimiento,
+      es a los jubilados de las clases trabajadoras <a>debilitadas</a> por el trabajo
+      a los que transforman en mercancía, y eso es innoble.
+- c: 1
+  r: 2
+  v: desfallecido
+  x:
+  - s: The tragedy of the exhausted refugees, terrified and <v>worn</v> <p>out</p>
+      by the long, weary road taking them to some unknown destination, confronts us
+      with a human tragedy which leaves us helpless - we cannot even arrange for them
+      to receive humanitarian aid, as we are currently unable to distribute it.
+    t: El drama de los refugiados exhaustos, asustados y <a>desfallecidos</a> por
+      el cansancio del largo camino que los conduce quién sabe dónde, nos sitúa ante
+      una tragedia humana que nos encuentra impotentes, puesto que no conseguimos
+      hacerles llegar ni tan siquiera las ayudas humanitarias que, hoy por hoy, no
+      somos capaces de distribuir.
+- c: 1
+  r: 2
+  v: agotamiento
+  x:
+  - s: they use them until they are <v>worn</v> <p>out</p>, pay them peanuts, move
+      them around at will and arbitrarily get rid of them.
+    t: los utilizan hasta el <a>agotamiento</a>, les pagan una miseria, los trasladan
+      a voluntad, y se deshacen de ellos arbitrariamente.
+- c: 1
+  r: 2
+  v: gastar
+  x:
+  - s: Everything is old and <v>worn</v> <p>out</p>.
+    t: todo está viejo y <a>gastado</a>.
+- c: 1
+  r: 2
+  v: agotado
+  x:
+  - s: The current method is rather <v>worn</v> <p>out</p> but, in any case, it is
+      essential that the Council commits itself to taking appropriate account of the
+      proposals which the Commission and the Parliament make in turn.
+    t: El método actual está bastante <a>agotado</a> pero, en todo caso, sería imprescindible
+      que el Consejo se comprometiera a tener en cuenta las propuestas que hagan en
+      su momento la Comisión y el Parlamento de manera adecuada.
+- c: 1
+  r: 2
+  v: cansar
+  x:
+  - s: Most people are <v>worn</v> <p>out</p> from a long working life long before
+      they reach retirement age.
+    t: La mayoría de las personas están <a>cansadas</a> después de una larga vida
+      laboral.
+fr:
+- c: 4
+  r: 1
+  v: user
+  x:
+  - s: We are absolutely opposed to anything that postpones retirement age, as we
+      particularly have in mind the factory workers, many of whom are <v>worn</v>
+      <p>out</p> well before the legal retirement age, even in countries where this
+      age is relatively low.
+    t: Nous sommes absolument opposés à tout ce qui repousse l’âge de la retraite,
+      car nous pensons avant tout aux travailleurs de la production dont beaucoup
+      sont <a>usés</a> bien avant l’âge légal, même dans les pays où cet âge est relativement
+      bas.
+  - s: Most people are <v>worn</v> <p>out</p> from a long working life long before
+      they reach retirement age.
+    t: La plupart des gens sont <a>usés</a> par une longue vie professionnelle avant
+      d’atteindre l’âge de partir en retraite.
+  - s: Can the European Union have become such a poor and underdeveloped region that
+      it cannot provide for the twilight years of those <v>worn</v> <p>out</p> by
+      work?
+    t: L’Union européenne serait-elle devenue une région sous-développée tellement
+      pauvre qu’elle ne puisse assurer les vieux jours de ceux qui se sont <a>usés</a>
+      au travail ?
+  - s: Your economy turns everything into goods, including the pensioners that you
+      wish to hand over to the finance sharks but, in the same way, it is the working
+      class pensioners who are <v>worn</v> <p>out</p> from working that you are turning
+      into goods, and this is appalling.
+    t: Votre économie transforme tout en marchandise, y compris les retraites que
+      vous voulez livrer aux requins de la finance mais, par là même, ce sont les
+      retraités des classes laborieuses <a>usées</a> au travail que vous transformez
+      en marchandise, et c’est ignoble.
+- c: 1
+  r: 2
+  v: manipuler
+  x:
+  - s: They are thus not only very difficult to handle, with the risk too of dropping
+      them, but they are also a contributory factor in causing those who work with
+      these materials to become <v>worn</v> <p>out</p>.
+    t: Non seulement ces éléments sont très difficiles à monter - et il y a le risque
+      de les laisser tomber - mais ils peuvent également provoquer la chute des personnes
+      qui <a>manipulent</a> ces matériaux.
+- c: 1
+  r: 2
+  v: exténuer
+  x:
+  - s: we work from morning to night, getting up at six o’clock in the morning and
+      returning home, tired, <v>worn</v> <p>out</p>, at eight or nine o’clock at night.
+    t: les travailleurs travaillent du matin au soir, ils se lèvent à six heures du
+      matin, rentrent à la maison fatigués, <a>exténués</a>, à huit heures, neuf heures
+      du soir.
+- c: 1
+  r: 2
+  v: délabrer
+  x:
+  - s: Everything is old and <v>worn</v> <p>out</p>.
+    t: Tout est vieux et <a>délabré</a>.
+- c: 1
+  r: 2
+  v: épuiser
+  x:
+  - s: it is highly dangerous to discredit MONUC, to discredit it unnecessarily, to
+      make it solely responsible for the situation in the eyes of the populations,
+      who are already <v>worn</v> <p>out</p> by so many years of war and massacres.
+    t: il est totalement dangereux de discréditer la MONUC, de la discréditer inutilement,
+      de la rendre responsable, à elle seule, de la situation aux yeux des populations
+      déjà <a>épuisées</a> par tant d’années de guerre et de massacres.
+- c: 1
+  r: 2
+  v: épuisement
+  x:
+  - s: they use them until they are <v>worn</v> <p>out</p>, pay them peanuts, move
+      them around at will and arbitrarily get rid of them.
+    t: elles les utilisent jusqu’à <a>épuisement</a>, les paient une misère, les déplacent
+      à volonté et les licencient de manière arbitraire.
+- c: 1
+  r: 2
+  v: temps
+  x:
+  - s: The current method is rather <v>worn</v> <p>out</p> but, in any case, it is
+      essential that the Council commits itself to taking appropriate account of the
+      proposals which the Commission and the Parliament make in turn.
+    t: La méthode actuelle a fait son <a>temps</a> mais en tout cas il serait indispensable
+      que le Conseil s’engage à tenir compte des propositions appropriées qui seront
+      faites par la Commission et le Parlement.
+it:
+- c: 2
+  r: 1
+  v: sfinire
+  x:
+  - s: We are absolutely opposed to anything that postpones retirement age, as we
+      particularly have in mind the factory workers, many of whom are <v>worn</v>
+      <p>out</p> well before the legal retirement age, even in countries where this
+      age is relatively low.
+    t: Pensiamo soprattutto ai lavoratori del settore produttivo, molti dei quali
+      sono <a>sfiniti</a> molto prima di raggiungere l’età legale, perfino nei paesi
+      in cui tale soglia è relativamente bassa.
+  - s: they use them until they are <v>worn</v> <p>out</p>, pay them peanuts, move
+      them around at will and arbitrarily get rid of them.
+    t: li usano finché non sono <a>sfiniti</a>, pagano loro cifre irrisorie, li spostano
+      a loro piacimento e si liberano di loro arbitrariamente.
+- c: 1
+  r: 2
+  v: affaticare
+  x:
+  - s: we work from morning to night, getting up at six o’clock in the morning and
+      returning home, tired, <v>worn</v> <p>out</p>, at eight or nine o’clock at night.
+    t: i lavoratori lavorano dalla mattina alla sera, si alzano alle sei di mattina,
+      rientrano a casa stanchi, <a>affaticati</a> alle otto, nove di sera.
+- c: 1
+  r: 2
+  v: consumare
+  x:
+  - s: Can the European Union have become such a poor and underdeveloped region that
+      it cannot provide for the twilight years of those <v>worn</v> <p>out</p> by
+      work?
+    t: L’Unione europea è forse diventata una regione sottosviluppata talmente povera
+      da non poter garantire la vecchiaia di coloro che si sono <a>consumati</a> di
+      lavoro?
+- c: 1
+  r: 2
+  v: esasperare
+  x:
+  - s: it is highly dangerous to discredit MONUC, to discredit it unnecessarily, to
+      make it solely responsible for the situation in the eyes of the populations,
+      who are already <v>worn</v> <p>out</p> by so many years of war and massacres.
+    t: è estremamente pericoloso screditare la MONUC, senza motivo, rendendola l’unica
+      responsabile della situazione agli occhi della popolazione, già <a>esasperata</a>
+      da anni di conflitti e massacri.
+- c: 1
+  r: 2
+  v: già esausto
+  x:
+  - s: Most people are <v>worn</v> <p>out</p> from a long working life long before
+      they reach retirement age.
+    t: La maggior parte delle persone è <a>già</a> <a>esausta</a> per una lunga vita
+      di lavoro ben prima del raggiungimento dell’età pensionabile.
+- c: 1
+  r: 2
+  v: usurare
+  x:
+  - s: Speed restrictions are imposed on 66% of the Romanian railways due to the condition
+      of the railway infrastructure, and 77% of the rolling stock is <v>worn</v> <p>out</p>.
+    t: Sul 66 per cento delle ferrovie rumene sono imposti limiti di velocità dovuti
+      alle condizioni delle infrastrutture, e il 77 per cento del materiale rotabile
+      è <a>usurato</a>.
+  - s: However, it is of course not only a question of what happens to the material
+      when it is <v>worn</v> <p>out</p> but also of what happens to it while it is
+      in use.
+    t: Capisco che si voglia organizzare la raccolta differenziata, è anche giusto
+      ma il problema non è soltanto il destino finale del materiale una volta <a>usurato</a>
+      ma anche quando è in uso poiché durante il suo utilizzo rilascia sostanze che
+      in parte si accumulano nel sangue, in parte nel grasso e in parte nel latte
+      materno.
+- c: 1
+  r: 2
+  v: usurare
+  x:
+  - s: Speed restrictions are imposed on 66% of the Romanian railways due to the condition
+      of the railway infrastructure, and 77% of the rolling stock is <v>worn</v> <p>out</p>.
+    t: Sul 66 per cento delle ferrovie rumene sono imposti limiti di velocità dovuti
+      alle condizioni delle infrastrutture, e il 77 per cento del materiale rotabile
+      è <a>usurato</a>.
+  - s: However, it is of course not only a question of what happens to the material
+      when it is <v>worn</v> <p>out</p> but also of what happens to it while it is
+      in use.
+    t: Capisco che si voglia organizzare la raccolta differenziata, è anche giusto
+      ma il problema non è soltanto il destino finale del materiale una volta <a>usurato</a>
+      ma anche quando è in uso poiché durante il suo utilizzo rilascia sostanze che
+      in parte si accumulano nel sangue, in parte nel grasso e in parte nel latte
+      materno.
+- c: 1
+  r: 2
+  v: logoro
+  x:
+  - s: Everything is old and <v>worn</v> <p>out</p>.
+    t: tutto è vecchio e <a>logoro</a> e mi chiedo se forse anche il sistema di sicurezza
+      non venga a volte trascurato.
+- c: 1
+  r: 2
+  v: utilizzare proprio
+  x:
+  - s: It is true that the majority of companies <v>wear</v> <p>out</p> this argument
+      that restructuring and closures of sites are necessary in order to deal with
+      international competition.
+    t: È vero che la maggioranza delle imprese <a>utilizza</a> <a>proprio</a> questo
+      argomento per sostenere che la ristrutturazione e le chiusure sono necessarie
+      per affrontare la competizione a livello internazionale.
+pt:
+- c: 3
+  r: 1
+  v: esgotar
+  x:
+  - s: Most people are <v>worn</v> <p>out</p> from a long working life long before
+      they reach retirement age.
+    t: A maior parte das pessoas ficam <a>esgotadas</a> por uma longa vida de trabalho,
+      ainda antes de atingirem a idade da reforma.
+  - s: We have <v>worn</v> <p>out</p> the soil with intensive production.
+    t: <a>Esgotámos</a> o solo com a produção intensiva.
+  - s: Your economy turns everything into goods, including the pensioners that you
+      wish to hand over to the finance sharks but, in the same way, it is the working
+      class pensioners who are <v>worn</v> <p>out</p> from working that you are turning
+      into goods, and this is appalling.
+    t: A vossa economia transforma tudo em mercadoria, incluindo as reformas que pretendem
+      deixar ao cuidado dos grandes tubarões da finança, mas aqui são exactamente
+      os reformados das classes trabalhadoras, <a>esgotados</a> pelo trabalho, que
+      pretendem transformar em mercadoria.
+- c: 2
+  r: 2
+  v: desgastar
+  x:
+  - s: they use them until they are <v>worn</v> <p>out</p>, pay them peanuts, move
+      them around at will and arbitrarily get rid of them.
+    t: servem-se deles até ficarem <a>desgastados</a>, pagam-lhes miseravelmente,
+      mudam-nos de lugar conforme lhes apetece e despedem-nos de forma arbitrária.
+  - s: Some people speak about it undergoing a mid-life crisis - feeling a bit tired,
+      morally <v>worn</v> <p>out</p>, hesitant about further enlargement.
+    t: Algumas pessoas dizem que ela está a atravessar uma crise da meia-idade - a
+      sentir-se um pouco cansada, moralmente <a>desgastada</a>, hesitante quanto a
+      um futuro alargamento.
+- c: 1
+  r: 3
+  v: gasto
+  x:
+  - s: We are absolutely opposed to anything that postpones retirement age, as we
+      particularly have in mind the factory workers, many of whom are <v>worn</v>
+      <p>out</p> well before the legal retirement age, even in countries where this
+      age is relatively low.
+    t: Opomo-nos veementemente a qualquer medida no sentido de prorrogar a idade da
+      reforma, pois temos sobretudo em mente os trabalhadores do sector produtivo,
+      muitos dos quais já estão <a>gastos</a> bastante antes de terem atingido a idade
+      prevista por lei, inclusivamente naqueles países em que essa idade é relativamente
+      baixa.
+- c: 1
+  r: 3
+  v: velho
+  x:
+  - s: Speed restrictions are imposed on 66% of the Romanian railways due to the condition
+      of the railway infrastructure, and 77% of the rolling stock is <v>worn</v> <p>out</p>.
+    t: 66% dos caminhos-de-ferro romenos têm limites de velocidade devido ao estado
+      da infra-estrutura ferroviária, e 77% do material ferroviário está <a>velho</a>.
+- c: 1
+  r: 3
+  v: usar
+  x:
+  - s: Everything is old and <v>worn</v> <p>out</p>.
+    t: Tudo é antigo e <a>usado</a>.
+- c: 1
+  r: 3
+  v: atingir
+  x:
+  - s: However, it is of course not only a question of what happens to the material
+      when it is <v>worn</v> <p>out</p> but also of what happens to it while it is
+      in use.
+    t: Mas não é apenas uma questão do que irá acontecer com o material, uma vez que
+      <a>atingiu</a> o fim da vida útil, mas também o que acontece com o material
+      enquanto está em uso.
+- c: 1
+  r: 3
+  v: movimentar
+  x:
+  - s: They are thus not only very difficult to handle, with the risk too of dropping
+      them, but they are also a contributory factor in causing those who work with
+      these materials to become <v>worn</v> <p>out</p>.
+    t: Os componentes não são apenas pesados para efeitos de manuseamento, podendo
+      inclusivamente representar um risco sério se alguém os deixa cair, mas contribuem
+      igualmente para o desgaste das pessoas que os <a>movimentam</a>.
+- c: 1
+  r: 3
+  v: exausto
+  x:
+  - s: we work from morning to night, getting up at six o’clock in the morning and
+      returning home, tired, <v>worn</v> <p>out</p>, at eight or nine o’clock at night.
+    t: os trabalhadores trabalham de manhã à noite, levantam-se às seis da manhã,
+      voltam para casa cansados, <a>exaustos</a>, às oito ou nove da noite.
+sv:
+- c: 4
+  r: 1
+  v: utsliten
+  x:
+  - s: We are absolutely opposed to anything that postpones retirement age, as we
+      particularly have in mind the factory workers, many of whom are <v>worn</v>
+      <p>out</p> well before the legal retirement age, even in countries where this
+      age is relatively low.
+    t: Många av dem är <a>utslitna</a> långt innan de uppnått den lagstadgade pensionsåldern,
+      till och med i de länder där pensionsåldern infaller relativt tidigt.
+  - s: Most people are <v>worn</v> <p>out</p> from a long working life long before
+      they reach retirement age.
+    t: De flesta människor är <a>utslitna</a> av ett långt arbetsliv långt innan de
+      når pensionsåldern.
+  - s: they use them until they are <v>worn</v> <p>out</p>, pay them peanuts, move
+      them around at will and arbitrarily get rid of them.
+    t: de använder dem tills de är <a>utslitna</a>, betalar dem struntlöner, flyttar
+      på dem som de vill och gör sig kvitt dem på godtyckliga grunder.
+  - s: Speed restrictions are imposed on 66% of the Romanian railways due to the condition
+      of the railway infrastructure, and 77% of the rolling stock is <v>worn</v> <p>out</p>.
+    t: Hastighetsrestriktioner har införts på 66 procent av de rumänska järnvägarna
+      på grund av järnvägsinfrastrukturens skick, och 77 procent av den rullande materielen
+      är <a>utsliten</a>.
+- c: 2
+  r: 2
+  v: slita
+  x:
+  - s: They may end up with quieter tyres that are expensive, that <v>wear</v> <p>out</p>
+      quickly and that allow cars to slide off the road and crash into trees!
+    t: De kan i slutändan få tystare däck som är dyrare, <a>slits</a> fortare och
+      som gör att bilar åker av vägen och krockar med träd!
+  - s: Some people speak about it undergoing a mid-life crisis - feeling a bit tired,
+      morally <v>worn</v> <p>out</p>, hesitant about further enlargement.
+    t: Vissa menar att den genomgår en medelålderskris - att den känner sig en aning
+      trött, moraliskt <a>sliten</a> och tveksam till ytterligare utvidgning.
+- c: 1
+  r: 3
+  v: utmatta
+  x:
+  - s: we work from morning to night, getting up at six o’clock in the morning and
+      returning home, tired, <v>worn</v> <p>out</p>, at eight or nine o’clock at night.
+    t: Arbetarna jobbar från morgon till kväll, de går upp klockan sex på morgonen
+      och kommer hem igen trötta, <a>utmattade</a> klockan åtta eller nio på kvällen.
+- c: 1
+  r: 3
+  v: uttjänt
+  x:
+  - s: However, it is of course not only a question of what happens to the material
+      when it is <v>worn</v> <p>out</p> but also of what happens to it while it is
+      in use.
+    t: Men det är ju inte bara en fråga om vad som händer med materialet när det är
+      <a>uttjänt</a> utan också om vad som händer med det medan det är i användning.
+- c: 1
+  r: 3
+  v: förslitningsskada
+  x:
+  - s: They are thus not only very difficult to handle, with the risk too of dropping
+      them, but they are also a contributory factor in causing those who work with
+      these materials to become <v>worn</v> <p>out</p>.
+    t: Detta gör dem mycket svåra att hantera och lätta att tappa, och de bidrar också
+      till att förorsaka <a>förslitningsskador</a>.
+- c: 1
+  r: 3
+  v: önska
+  x:
+  - s: The current method is rather <v>worn</v> <p>out</p> but, in any case, it is
+      essential that the Council commits itself to taking appropriate account of the
+      proposals which the Commission and the Parliament make in turn.
+    t: Låt oss <a>önska</a> det!
+- c: 1
+  r: 3
+  v: regim förverka
+  x:
+  - s: Let us never forget that the legitimacy of power <v>wears</v> <p>out</p> very
+      quickly when you permanently betray the principles on which that power is based.
+    t: Vi måste hela tiden påminna om att en <a>regims</a> legitimitet snabbt <a>förverkas</a>
+      om den ständigt bryter mot de principer på vilka legitimiteten vilar.
+- c: 1
+  r: 3
+  v: slit
+  x:
+  - s: Everything is old and <v>worn</v> <p>out</p>.
+    t: Allt är gammalt och <a>slitet</a>.

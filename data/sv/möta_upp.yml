@@ -1,0 +1,208 @@
+---
+de:
+- c: 1
+  r: 1
+  v: versammeln
+  x:
+  - s: Rådet måste nu i mars <v>möta</v> <p>upp</p> och fatta detta beslut.
+    t: Nun muß sich der Rat im März <a>versammeln</a> und einen Beschluß fassen.
+- c: 1
+  r: 1
+  v: Energieversorgung
+  x:
+  - s: Miljontals irakier <v>mötte</v> <p>upp</p> under de svåraste av omständigheter
+      för att godkänna en ny konstitution som kommer att styra deras land och skydda
+      deras rättigheter.
+    t: Der Klimawandel und insbesondere seine Verbindung zur Energie und zur sicheren
+      <a>Energieversorgung</a> gehören zu den Prioritäten unserer bilateralen und
+      multilateralen Kontakte.
+- c: 1
+  r: 1
+  v: Thema reagieren
+  x:
+  - s: Enligt min mening måste kommissionen <v>möta</v> <p>upp</p> på två fronter
+      och reflektera över de åsikter som uttrycks i den skriftliga uttalandet och
+      i PSE:s resolution om ämnet.
+    t: 'Meiner Ansicht nach muss die Kommission entsprechend dem Wortlaut der schriftlichen
+      Erklärung und der Entschließung der PSE-Fraktion zu diesem <a>Thema</a> in zweierlei
+      Weise <a>reagieren</a>:'
+- c: 1
+  r: 1
+  v: haben
+  x:
+  - s: Ärade ledamöter, ni känner till att delegationerna från Syrien och Libanon
+      slutligen bestämde sig för att inte infinna sig för att inte sammanträffa med
+      Israels delegation, men de övriga länderna från Medelhavsområdet <v>mötte</v>
+      däremot <p>upp</p> och de 25 länderna har enigt antagit en handlingsplan, ett
+      program om så känsliga ämnen som rättsliga och inrikes frågor och även ett program
+      för att leda in dialogen mellan kulturer och civilisationer på rätt väg.
+    t: Sie wissen, dass sich die Delegationen Syriens und des Libanons am Ende entschieden
+      hatten, nicht anzureisen, um nicht mit der Delegation Israels zusammenzutreffen,
+      aber die übrigen Anrainerländer des Mittelmeers <a>haben</a> teilgenommen, und
+      die fünfundzwanzig Teilnehmerländer haben im Konsens einen Aktionsplan verabschiedet,
+      ein Programm in so sensiblen Bereichen wie Justiz und Inneres sowie ein Programm
+      zur Aufnahme des Dialogs zwischen Kulturen und Zivilisationen.
+en:
+- c: 2
+  r: 1
+  v: respond
+  x:
+  - s: Enligt min mening måste kommissionen <v>möta</v> <p>upp</p> på två fronter
+      och reflektera över de åsikter som uttrycks i den skriftliga uttalandet och
+      i PSE:s resolution om ämnet.
+    t: 'As I see it, the Commission needs to <a>respond</a> on two fronts, reflecting
+      the ideas expressed in the written statement and in the PSE resolution on the
+      subject:'
+  - s: Vi är nu högt över det målet och det är mycket uppmuntrande att se att befolkningen
+      har <v>mött</v> <p>upp</p> i så stort antal.
+    t: we are well above that and it is all the same encouraging to see that the population
+      has <a>responded</a> in such great numbers.
+- c: 1
+  r: 2
+  v: meet up
+  x:
+  - s: Det hände danska demonstranter, era landsmän, herr tjänstgörande rådsordförande,
+      under toppmötet i Göteborg, när de försökte korsa gränsen och <v>möta</v> <p>upp</p>
+      med personer som protesterade mot Europeiska unionens politik.
+    t: It happened to Danish demonstrators, your fellow countrymen, Mr President-in-Office,
+      during the Gothenburg summit, when they tried to cross the border and <a>meet</a>
+      <a>up</a> with people protesting against the policy of the European Union.
+- c: 1
+  r: 2
+  v: convene
+  x:
+  - s: Rådet måste nu i mars <v>möta</v> <p>upp</p> och fatta detta beslut.
+    t: The Council must now <a>convene</a> in March and make the relevant decision.
+- c: 1
+  r: 2
+  v: do
+  x:
+  - s: Ärade ledamöter, ni känner till att delegationerna från Syrien och Libanon
+      slutligen bestämde sig för att inte infinna sig för att inte sammanträffa med
+      Israels delegation, men de övriga länderna från Medelhavsområdet <v>mötte</v>
+      däremot <p>upp</p> och de 25 länderna har enigt antagit en handlingsplan, ett
+      program om så känsliga ämnen som rättsliga och inrikes frågor och även ett program
+      för att leda in dialogen mellan kulturer och civilisationer på rätt väg.
+    t: You know that the delegations from Syria and Lebanon finally decided not to
+      attend in order not to come into contact with the Israeli delegation, but the
+      other countries of the Mediterranean <a>did</a> attend and the twenty-five of
+      us reached a consensus on approving an action plan, a programme in such sensitive
+      areas as justice and internal affairs as well as a programme to guide dialogue
+      between cultures and civilisations.
+- c: 1
+  r: 2
+  v: turn out
+  x:
+  - s: Miljontals irakier <v>mötte</v> <p>upp</p> under de svåraste av omständigheter
+      för att godkänna en ny konstitution som kommer att styra deras land och skydda
+      deras rättigheter.
+    t: They <a>turned</a> <a>out</a> in their millions and in the most difficult of
+      circumstances to approve a new Constitution that will guide their country and
+      protect their rights.
+es:
+- c: 1
+  r: 1
+  v: reunirse
+  x:
+  - s: Det hände danska demonstranter, era landsmän, herr tjänstgörande rådsordförande,
+      under toppmötet i Göteborg, när de försökte korsa gränsen och <v>möta</v> <p>upp</p>
+      med personer som protesterade mot Europeiska unionens politik.
+    t: Les pasó a manifestantes daneses, a sus compatriotas campesinos, señor Presidente
+      en ejercicio, durante la cumbre de Gotemburgo, cuando intentaron cruzar la frontera
+      y <a>reunirse</a> con gente que protestaba contra la política de la Unión Europea.
+- c: 1
+  r: 1
+  v: haber
+  x:
+  - s: Ärade ledamöter, ni känner till att delegationerna från Syrien och Libanon
+      slutligen bestämde sig för att inte infinna sig för att inte sammanträffa med
+      Israels delegation, men de övriga länderna från Medelhavsområdet <v>mötte</v>
+      däremot <p>upp</p> och de 25 länderna har enigt antagit en handlingsplan, ett
+      program om så känsliga ämnen som rättsliga och inrikes frågor och även ett program
+      för att leda in dialogen mellan kulturer och civilisationer på rätt väg.
+    t: Saben los señores diputados que las delegaciones de Siria y Líbano finalmente
+      decidieron no acudir por no coincidir con la delegación de Israel, pero el resto
+      de países de la cuenca mediterránea sí <a>han</a> acudido y los veinticinco,
+      por consenso, hemos aprobado un plan de acción, un programa en materias tan
+      sensibles como justicia e interior y también un programa para encarrilar el
+      diálogo entre culturas y civilizaciones.
+fr:
+- c: 1
+  r: 1
+  v: avoir répondre
+  x:
+  - s: Ärade ledamöter, ni känner till att delegationerna från Syrien och Libanon
+      slutligen bestämde sig för att inte infinna sig för att inte sammanträffa med
+      Israels delegation, men de övriga länderna från Medelhavsområdet <v>mötte</v>
+      däremot <p>upp</p> och de 25 länderna har enigt antagit en handlingsplan, ett
+      program om så känsliga ämnen som rättsliga och inrikes frågor och även ett program
+      för att leda in dialogen mellan kulturer och civilisationer på rätt väg.
+    t: Vous n’êtes pas sans savoir que les délégations de la Syrie et du Liban ont
+      finalement décidé de ne pas assister à la réunion afin de ne pas se retrouver
+      en présence de la délégation israélienne, mais les autres pays du bassin méditerranéen
+      <a>ont</a> <a>répondu</a> à l’appel et les vingt-cinq délégations en présence
+      ont convenu, par consensus, d’un plan d’action, d’un programme portant sur des
+      sujets aussi sensibles que la justice et les affaires intérieures, ainsi que
+      d’un programme visant à remettre sur les rails le dialogue entre les cultures
+      et les civilisations.
+- c: 1
+  r: 1
+  v: réunir
+  x:
+  - s: Rådet måste nu i mars <v>möta</v> <p>upp</p> och fatta detta beslut.
+    t: Le Conseil doit se <a>réunir</a> en mars pour prendre cette décision.
+it:
+- c: 1
+  r: 1
+  v: rispondere
+  x:
+  - s: Vi är nu högt över det målet och det är mycket uppmuntrande att se att befolkningen
+      har <v>mött</v> <p>upp</p> i så stort antal.
+    t: Considerato che avevamo fissato un obiettivo di 15 milioni, siamo ben oltre
+      quanto stabilito ed è parimenti incoraggiante che la popolazione abbia <a>risposto</a>
+      con una partecipazione così massiccia.
+- c: 1
+  r: 1
+  v: avere
+  x:
+  - s: Ärade ledamöter, ni känner till att delegationerna från Syrien och Libanon
+      slutligen bestämde sig för att inte infinna sig för att inte sammanträffa med
+      Israels delegation, men de övriga länderna från Medelhavsområdet <v>mötte</v>
+      däremot <p>upp</p> och de 25 länderna har enigt antagit en handlingsplan, ett
+      program om så känsliga ämnen som rättsliga och inrikes frågor och även ett program
+      för att leda in dialogen mellan kulturer och civilisationer på rätt väg.
+    t: Gli onorevoli parlamentari sanno che le delegazioni della Siria e del Libano
+      hanno deciso, alla fine, di non partecipare per non incontrare la delegazione
+      israeliana, ma tutti gli altri paesi del bacino mediterraneo <a>hanno</a> invece
+      partecipato, e tutti e venticinque, unanimi, abbiamo approvato un piano d’azione,
+      un programma su temi così delicati come la giustizia e gli affari interni, oltre
+      a un programma volto ad avviare un dialogo interculturale.
+pt:
+- c: 1
+  r: 1
+  v: responder
+  x:
+  - s: Vi är nu högt över det målet och det är mycket uppmuntrande att se att befolkningen
+      har <v>mött</v> <p>upp</p> i så stort antal.
+    t: estamos largamente acima desse número e é encorajador ver que a população <a>respondeu</a>
+      em tão grande número.
+- c: 1
+  r: 1
+  v: estar
+  x:
+  - s: Ärade ledamöter, ni känner till att delegationerna från Syrien och Libanon
+      slutligen bestämde sig för att inte infinna sig för att inte sammanträffa med
+      Israels delegation, men de övriga länderna från Medelhavsområdet <v>mötte</v>
+      däremot <p>upp</p> och de 25 länderna har enigt antagit en handlingsplan, ett
+      program om så känsliga ämnen som rättsliga och inrikes frågor och även ett program
+      för att leda in dialogen mellan kulturer och civilisationer på rätt väg.
+    t: Contudo, o resto dos países da bacia do Mediterrâneo <a>estiveram</a> presentes,
+      e aprovámos, os vinte e cinco, por consenso, um plano de acção, um programa
+      em matérias tão sensíveis como a Justiça e os Assuntos Internos e ainda um programa
+      destinado a recolocar no bom caminho o diálogo entre culturas e civilizações.
+- c: 1
+  r: 1
+  v: reunir
+  x:
+  - s: Rådet måste nu i mars <v>möta</v> <p>upp</p> och fatta detta beslut.
+    t: O Conselho deve <a>reunir</a> em Março e tomar a decisão.

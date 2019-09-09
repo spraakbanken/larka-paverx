@@ -1,0 +1,46 @@
+---
+de:
+- c: 1
+  r: 1
+  v: Mann fesseln
+  x:
+  - s: 'Banditerna <v>band</v> <p>fast</p> honom och hans fru vid en stol och, när
+      hon vädjade för hans liv, sade Brigadmedlemmarna till henne: ”Hans tid har kommit.”'
+    t: 'Die bewaffneten <a>Männer</a> <a>fesselten</a> ihn und seine Frau an einen
+      Stuhl, und als die Frau um ihr beider Leben flehte, antwortete ihr der angebliche
+      Brigade-Angehörige:'
+en:
+- c: 3
+  r: 1
+  v: tie
+  x:
+  - s: Spöstraff som utmäts av en domstol, där den person som bestraffas <v>binds</v>
+      <p>fast</p> vid en ställning och hans eller hennes rygg och bakdel pryglas med
+      en käpp, är oetiskt och en kränkning av den mänskliga värdigheten.
+    t: Mr President, caning by order of a court, where the person receiving the punishment
+      is <a>tied</a> to a frame and his or her back and buttocks are beaten with a
+      stick, is unethical and violates human dignity.
+  - s: Jag föreslår att ni i stället gör som Odysseus när ni hör sirenernas sång och
+      <v>binder</v> <p>fast</p> er själv vid masten och fortsätter på den kurs som
+      ger oss så mycket framgång, och att ni övertygar kommissionären om att detta
+      är den kurs som måste följas.
+    t: Rather than that, I would suggest that, like Ulysses, when you hear those sirens’
+      songs, you <a>tie</a> yourself to the mast and continue on the course which
+      brings us so much success, and convince the Commissioner that that is the course
+      to follow.
+  - s: 'Banditerna <v>band</v> <p>fast</p> honom och hans fru vid en stol och, när
+      hon vädjade för hans liv, sade Brigadmedlemmarna till henne: ”Hans tid har kommit.”'
+    t: 'The gunmen <a>tied</a> him and his wife to a chair and, as she pleaded for
+      their lives, the Brigade member told her: ’ His time has come’ .'
+fr:
+- c: 1
+  r: 1
+  v: attacher
+  x:
+  - s: Spöstraff som utmäts av en domstol, där den person som bestraffas <v>binds</v>
+      <p>fast</p> vid en ställning och hans eller hennes rygg och bakdel pryglas med
+      en käpp, är oetiskt och en kränkning av den mänskliga värdigheten.
+    t: Monsieur le Président, la peine de bastonnade infligée par un tribunal, dans
+      laquelle la personne qui subit la peine est <a>attachée</a> à une structure
+      tandis que son dos ou ses fesses sont battus à coups de bâton, est contraire
+      à l’éthique et à la dignité humaine.

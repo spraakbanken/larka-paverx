@@ -1,0 +1,349 @@
+---
+de:
+- c: 2
+  r: 1
+  v: Leiter erklimmen
+  x:
+  - s: Det är helt orimligt att lagstifta om hur europeiska medborgare skall tillåtas
+      <v>klättra</v> <p>upp</p> för stegar.
+    t: Es ist doch nicht sinnvoll, Vorschriften darüber zu erlassen, wie Europäer
+      eine <a>Leiter</a> <a>erklimmen</a> dürfen.
+  - s: Vi kan ge Europas människor förtroendet att själva bestämma hur de <v>klättrar</v>
+      <p>upp</p> för stegar.
+    t: Die Entscheidung, wie sie eine <a>Leiter</a> <a>erklimmen</a>, können wir ruhig
+      den Bürgern Europas überlassen.
+- c: 1
+  r: 2
+  v: hinaufsteigen
+  x:
+  - s: Jag har fått ett berg av minuter och jag vill inte <v>klättra</v> <p>upp</p>
+      ända till toppen av detta berg, eftersom jag inte vill att alla skall bli trötta
+      efter en sådan klättring.
+    t: Sie haben mir einen Berg von Minuten gegeben, und ich will nicht bis zum Berggipfel
+      <a>hinaufsteigen</a>, weil ich nicht möchte, daß der Aufstieg alle erschöpft.
+- c: 1
+  r: 2
+  v: Leiter
+  x:
+  - s: Eller så kan vi svara att EU, genom kommissionen och parlamentet, håller på
+      att besluta huruvida det bör vara lagligt eller ej för en person att stå och
+      hålla i nederdelen av en stege medan en annan person <v>klättrar</v> <p>upp</p>
+      på den.
+    t: Oder aber wir teilen ihnen mit, dass die EU zur Zeit in der Kommission und
+      im Parlament mit der Entscheidung befasst ist, ob es den Rechtsvorschriften
+      entspricht, dass eine Person am unteren Teil einer Leiter steht und diese festhält,
+      während eine andere Person die <a>Leiter</a> hinaufsteigt, oder nicht.
+- c: 1
+  r: 2
+  v: hochklettern
+  x:
+  - s: Om den tyska regeringen, som blockerade bruket av övergångsklausulen i artikel
+      42 för bara några månader sedan, verkligen vill främja demokratin inom EU, kommer
+      ni att erkänna kravet på omröstning med kvalificerad majoritet i rådet och medbeslutande
+      med Europaparlamentet som en grundval för allt lagstiftningsarbete, annars riskerar
+      ni att se ut som mimartisten Marcel Marceau, som verkar <v>klättra</v> <p>upp</p>
+      för väggen medan han i själva verket inte kommer någonstans alls, under er tid
+      vid rodret.
+    t: Wenn die deutsche Regierung, die erst vor einigen Monaten die Anwendung der
+      Passerelle-Klausel in Artikel 42 blockierte, die Demokratie in Europa wirklich
+      befördern möchte, dann wird sie wohl die Notwendigkeit der Abstimmung mit qualifizierter
+      Mehrheit im Rat und die Mitentscheidung des Europäischen Parlaments als Grundlage
+      der gesamten Rechtsetzung anerkennen müssen, denn sonst riskieren Sie, während
+      Ihres Ratsvorsitzes wie der Pantomime Marcel Marceau auszusehen, der scheinbar
+      eine Wand <a>hochklettert</a>, aber in Wirklichkeit am Boden bleibt.
+- c: 1
+  r: 2
+  v: erklettern
+  x:
+  - s: Ett berg som det kommer att vara svårt att <v>klättra</v> <p>upp</p> för, eftersom
+      vi som union har en dubbel börda att bära.
+    t: Eine Leiter, die schwierig zu <a>erklettern</a> sein wird, denn wir tragen
+      als Union eine doppelte Last.
+en:
+- c: 5
+  r: 1
+  v: climb
+  x:
+  - s: Om den tyska regeringen, som blockerade bruket av övergångsklausulen i artikel
+      42 för bara några månader sedan, verkligen vill främja demokratin inom EU, kommer
+      ni att erkänna kravet på omröstning med kvalificerad majoritet i rådet och medbeslutande
+      med Europaparlamentet som en grundval för allt lagstiftningsarbete, annars riskerar
+      ni att se ut som mimartisten Marcel Marceau, som verkar <v>klättra</v> <p>upp</p>
+      för väggen medan han i själva verket inte kommer någonstans alls, under er tid
+      vid rodret.
+    t: If the German Government, which blocked the use of the passerelle clause in
+      Article 42 just a few months ago, really wants to promote democracy in Europe,
+      you will recognise the imperative of qualified majority voting in the Council
+      and codecision with the European Parliament as a basis for all law-making, otherwise
+      in your time at the helm you risk looking like the mime artist, Marcel Marceau,
+      appearing to <a>climb</a> a wall but actually going nowhere.
+  - s: Det är helt orimligt att lagstifta om hur europeiska medborgare skall tillåtas
+      <v>klättra</v> <p>upp</p> för stegar.
+    t: It can make no sense to legislate on how Europeans are permitted to <a>climb</a>
+      ladders.
+  - s: En gemensam, enhetlig och centraliserad norm om hur man skall <v>klättra</v>
+      <p>upp</p> för en stege är inte nödvändig och innebär en oönskad inblandning
+      i hur människor hanterar sin arbetsmiljö.
+    t: A common and uniform and centralised standard on how you <a>climb</a> a ladder
+      is not necessary and it is an undesirable interference with the way people run
+      their work environment.
+  - s: Vi kan ge Europas människor förtroendet att själva bestämma hur de <v>klättrar</v>
+      <p>upp</p> för stegar.
+    t: We can trust the people of Europe to decide for themselves how they <a>climb</a>
+      ladders.
+  - s: Om vägen efter Kyoto var svår och stenig, så har resultatet, de interna överenskommelserna
+      i Kyoto, ställt oss framför ett åtgärdsberg som vi på elva månader måste <v>klättra</v>
+      <p>upp</p> för, för att vi skall vara förberedda till nästa konferens i Argentina.
+    t: Madam President, Madam Commissioner, though the road to Kyoto has been a long
+      and stony one, the outcome, namely the Kyoto internal agreements, has provided
+      us with a ladder up which we will have to <a>climb</a> in eleven months, before
+      we are ready for the next conference in Argentina.
+  - s: Ett berg som det kommer att vara svårt att <v>klättra</v> <p>upp</p> för, eftersom
+      vi som union har en dubbel börda att bära.
+    t: The <a>climb</a> will be a difficult one for the European Union, since we have
+      a double load to bear.
+- c: 1
+  r: 2
+  v: monkey go up
+  x:
+  - s: Om apan <v>klättrar</v> <p>upp</p> i trädet, är det lättare att se dess baksida!
+    t: It is good that you are here because, if the <a>monkey</a> <a>goes</a> <a>up</a>
+      the tree, it is easier to see its backside!
+- c: 1
+  r: 2
+  v: climb
+  x:
+  - s: Om den tyska regeringen, som blockerade bruket av övergångsklausulen i artikel
+      42 för bara några månader sedan, verkligen vill främja demokratin inom EU, kommer
+      ni att erkänna kravet på omröstning med kvalificerad majoritet i rådet och medbeslutande
+      med Europaparlamentet som en grundval för allt lagstiftningsarbete, annars riskerar
+      ni att se ut som mimartisten Marcel Marceau, som verkar <v>klättra</v> <p>upp</p>
+      för väggen medan han i själva verket inte kommer någonstans alls, under er tid
+      vid rodret.
+    t: If the German Government, which blocked the use of the passerelle clause in
+      Article 42 just a few months ago, really wants to promote democracy in Europe,
+      you will recognise the imperative of qualified majority voting in the Council
+      and codecision with the European Parliament as a basis for all law-making, otherwise
+      in your time at the helm you risk looking like the mime artist, Marcel Marceau,
+      appearing to <a>climb</a> a wall but actually going nowhere.
+  - s: Det är helt orimligt att lagstifta om hur europeiska medborgare skall tillåtas
+      <v>klättra</v> <p>upp</p> för stegar.
+    t: It can make no sense to legislate on how Europeans are permitted to <a>climb</a>
+      ladders.
+  - s: En gemensam, enhetlig och centraliserad norm om hur man skall <v>klättra</v>
+      <p>upp</p> för en stege är inte nödvändig och innebär en oönskad inblandning
+      i hur människor hanterar sin arbetsmiljö.
+    t: A common and uniform and centralised standard on how you <a>climb</a> a ladder
+      is not necessary and it is an undesirable interference with the way people run
+      their work environment.
+  - s: Vi kan ge Europas människor förtroendet att själva bestämma hur de <v>klättrar</v>
+      <p>upp</p> för stegar.
+    t: We can trust the people of Europe to decide for themselves how they <a>climb</a>
+      ladders.
+  - s: Om vägen efter Kyoto var svår och stenig, så har resultatet, de interna överenskommelserna
+      i Kyoto, ställt oss framför ett åtgärdsberg som vi på elva månader måste <v>klättra</v>
+      <p>upp</p> för, för att vi skall vara förberedda till nästa konferens i Argentina.
+    t: Madam President, Madam Commissioner, though the road to Kyoto has been a long
+      and stony one, the outcome, namely the Kyoto internal agreements, has provided
+      us with a ladder up which we will have to <a>climb</a> in eleven months, before
+      we are ready for the next conference in Argentina.
+  - s: Ett berg som det kommer att vara svårt att <v>klättra</v> <p>upp</p> för, eftersom
+      vi som union har en dubbel börda att bära.
+    t: The <a>climb</a> will be a difficult one for the European Union, since we have
+      a double load to bear.
+es:
+- c: 2
+  r: 1
+  v: subirse
+  x:
+  - s: Det är helt orimligt att lagstifta om hur europeiska medborgare skall tillåtas
+      <v>klättra</v> <p>upp</p> för stegar.
+    t: No tiene ningún sentido legislar sobre cómo deben <a>subirse</a> a una escalera
+      los europeos.
+  - s: En gemensam, enhetlig och centraliserad norm om hur man skall <v>klättra</v>
+      <p>upp</p> för en stege är inte nödvändig och innebär en oönskad inblandning
+      i hur människor hanterar sin arbetsmiljö.
+    t: Una norma común, uniforme y centralizada sobre cómo hay que <a>subirse</a>
+      a una escalera de mano no es necesaria y es una intromisión indeseable en el
+      modo en que las personas gestionan su entorno laboral.
+- c: 2
+  r: 1
+  v: escalar
+  x:
+  - s: Om den tyska regeringen, som blockerade bruket av övergångsklausulen i artikel
+      42 för bara några månader sedan, verkligen vill främja demokratin inom EU, kommer
+      ni att erkänna kravet på omröstning med kvalificerad majoritet i rådet och medbeslutande
+      med Europaparlamentet som en grundval för allt lagstiftningsarbete, annars riskerar
+      ni att se ut som mimartisten Marcel Marceau, som verkar <v>klättra</v> <p>upp</p>
+      för väggen medan han i själva verket inte kommer någonstans alls, under er tid
+      vid rodret.
+    t: Si el Gobierno alemán, que bloqueó la cláusula pasarela en el artículo 42 hace
+      un par de meses, realmente desea promover la democracia en Europa, usted tendrá
+      que reconocer la obligación de la votación por mayoría cualificada en el Consejo
+      y la codecisión con el Parlamento Europeo como base de todo el proceso legislativo,
+      pues de lo contrario corre el riesgo, durante su Presidencia, de parecerse al
+      mimo Marcel Marceau cuando aparenta <a>escalar</a> una pared, pero sin llegar
+      realmente a ninguna parte.
+  - s: Ett berg som det kommer att vara svårt att <v>klättra</v> <p>upp</p> för, eftersom
+      vi som union har en dubbel börda att bära.
+    t: Una escalera que va a ser difícil de <a>escalar</a> pues como Unión tenemos
+      que soportar una doble carga.
+- c: 2
+  r: 1
+  v: subir
+  x:
+  - s: Jag har fått ett berg av minuter och jag vill inte <v>klättra</v> <p>upp</p>
+      ända till toppen av detta berg, eftersom jag inte vill att alla skall bli trötta
+      efter en sådan klättring.
+    t: Señora Presidenta, señor Comisario, me han concedido una montaña de minutos
+      y yo no quiero <a>subir</a> hasta la cima de la montaña, porque no quiero que
+      acaben todos cansados con la subida.
+  - s: Eller så kan vi svara att EU, genom kommissionen och parlamentet, håller på
+      att besluta huruvida det bör vara lagligt eller ej för en person att stå och
+      hålla i nederdelen av en stege medan en annan person <v>klättrar</v> <p>upp</p>
+      på den.
+    t: O podemos responder que la UE, a través de la Comisión y el Parlamento, se
+      propone decidir si es legal o no que alguien permanezca al pie de una escalera
+      de mano sujetándola, mientras otra persona <a>sube</a> por ella.
+- c: 1
+  r: 2
+  v: pasar encabezar
+  x:
+  - s: Detta pris är ett internationellt erkännande av att klimatförändringarna har
+      <v>klättrat</v> <p>upp</p> till toppen på den internationella politiska agendan.
+    t: Ese premio es el reconocimiento internacional de que el cambio climático ha
+      <a>pasado</a> a <a>encabezar</a> la agenda política internacional.
+fr:
+- c: 2
+  r: 1
+  v: grimper
+  x:
+  - s: Eller så kan vi svara att EU, genom kommissionen och parlamentet, håller på
+      att besluta huruvida det bör vara lagligt eller ej för en person att stå och
+      hålla i nederdelen av en stege medan en annan person <v>klättrar</v> <p>upp</p>
+      på den.
+    t: Ou nous pouvons répondre que l’UE, par le biais de la Commission et du Parlement,
+      est là pour décider s’il est légal qu’une personne soit au pied d’une échelle
+      pour la tenir pendant qu’une autre personne <a>grimpe</a> dessus.
+  - s: Om vägen efter Kyoto var svår och stenig, så har resultatet, de interna överenskommelserna
+      i Kyoto, ställt oss framför ett åtgärdsberg som vi på elva månader måste <v>klättra</v>
+      <p>upp</p> för, för att vi skall vara förberedda till nästa konferens i Argentina.
+    t: Madame le Président, Madame le Commissaire, si le chemin vers Kyoto fur long
+      et difficile, le résultat - les conventions internes de Kyoto - nous a mis au
+      pied d’une échelle que nous devons <a>grimper</a> en onze mois afin d’être prêts
+      pour la prochaine conférence en Argentine.
+- c: 1
+  r: 2
+  v: passible
+  x:
+  - s: Jag tror inte att vi hjälper dessa människor som försöker undkomma genom att
+      inte göra någonting och låta situationen vara som den är så de måste <v>klättra</v>
+      <p>upp</p> bak i lastbilar och kvävas och utstå tortyr och elände.
+    t: Il faut que chaque État membre prenne les mesures nécessaires pour garantir
+      que faciliter intentionnellement l’entrée, la circulation et le séjour illégal
+      d’immigrés soit considéré comme une infraction <a>passible</a> de sanctions
+      efficaces, proportionnelles et dissuasives.
+- c: 1
+  r: 2
+  v: climatique
+  x:
+  - s: Detta pris är ett internationellt erkännande av att klimatförändringarna har
+      <v>klättrat</v> <p>upp</p> till toppen på den internationella politiska agendan.
+    t: Ce prix est une reconnaissance internationale du fait que le changement <a>climatique</a>
+      se trouve aujourd’hui en tête de l’agenda politique international.
+- c: 1
+  r: 2
+  v: gravir
+  x:
+  - s: Ett berg som det kommer att vara svårt att <v>klättra</v> <p>upp</p> för, eftersom
+      vi som union har en dubbel börda att bära.
+    t: Il ne sera pas facile de <a>gravir</a> les échelons de cette échelle car en
+      tant qu’Union, nous avons une double charge.
+it:
+- c: 4
+  r: 1
+  v: salire
+  x:
+  - s: Jag har fått ett berg av minuter och jag vill inte <v>klättra</v> <p>upp</p>
+      ända till toppen av detta berg, eftersom jag inte vill att alla skall bli trötta
+      efter en sådan klättring.
+    t: Signora Presidente, signor Commissario, mi è stata concessa una montagna di
+      minuti e io non intendo <a>salire</a> fino in cima al monte, perché non voglio
+      che tutti si stanchino per l’ascesa.
+  - s: Vi kan ge Europas människor förtroendet att själva bestämma hur de <v>klättrar</v>
+      <p>upp</p> för stegar.
+    t: Pensiamo che i cittadini europei siano in grado di decidere per conto loro
+      come <a>salire</a> le scale.
+  - s: Om vägen efter Kyoto var svår och stenig, så har resultatet, de interna överenskommelserna
+      i Kyoto, ställt oss framför ett åtgärdsberg som vi på elva månader måste <v>klättra</v>
+      <p>upp</p> för, för att vi skall vara förberedda till nästa konferens i Argentina.
+    t: Signora Presidente, signora Commissario, se la strada per Kyoto è stata difficile
+      e faticosa, il risultato, gli accordi interni di Kyoto, ci hanno posto di fronte
+      ad una scala sulla quale dobbiamo <a>salire</a> nei prossimi 11 mesi finché
+      non saremo pronti per la prossima Conferenza che si terrà in Argentina.
+  - s: Om apan <v>klättrar</v> <p>upp</p> i trädet, är det lättare att se dess baksida!
+    t: È un bene che lei sia qui perché se la scimmia <a>sale</a> sull’albero è più
+      facile vederle il sedere.
+- c: 1
+  r: 2
+  v: arrampicare
+  x:
+  - s: Ett berg som det kommer att vara svårt att <v>klättra</v> <p>upp</p> för, eftersom
+      vi som union har en dubbel börda att bära.
+    t: Si tratta di una scala su cui sarà difficile <a>arrampicarsi</a> poiché noi,
+      in quanto Unione, trasportiamo un duplice peso.
+- c: 1
+  r: 2
+  v: cima
+  x:
+  - s: Detta pris är ett internationellt erkännande av att klimatförändringarna har
+      <v>klättrat</v> <p>upp</p> till toppen på den internationella politiska agendan.
+    t: L’assegnazione di questo premio costituisce un riconoscimento internazionale
+      che il cambiamento del clima è in <a>cima</a> all’agenda politica internazionale.
+- c: 1
+  r: 2
+  v: sala
+  x:
+  - s: Eller så kan vi svara att EU, genom kommissionen och parlamentet, håller på
+      att besluta huruvida det bör vara lagligt eller ej för en person att stå och
+      hålla i nederdelen av en stege medan en annan person <v>klättrar</v> <p>upp</p>
+      på den.
+    t: Altrimenti, possiamo rispondere che l’Unione europea, attraverso la Commissione
+      e il Parlamento, si occupa di decidere se dovrebbe essere legale o meno che
+      una persona stia ai piedi di una scala a pioli, tenendola ferma, mentre un’altra
+      <a>sale</a>.
+pt:
+- c: 4
+  r: 1
+  v: subir
+  x:
+  - s: Jag har fått ett berg av minuter och jag vill inte <v>klättra</v> <p>upp</p>
+      ända till toppen av detta berg, eftersom jag inte vill att alla skall bli trötta
+      efter en sådan klättring.
+    t: Senhora Presidente, Senhor Comissário, deram-me uma montanha de minutos e eu
+      não quero <a>subir</a> até ao cimo da montanha, porque não quero que fiquem
+      todos cansados com a subida.
+  - s: Eller så kan vi svara att EU, genom kommissionen och parlamentet, håller på
+      att besluta huruvida det bör vara lagligt eller ej för en person att stå och
+      hålla i nederdelen av en stege medan en annan person <v>klättrar</v> <p>upp</p>
+      på den.
+    t: Ou podemos responder que a UE, através da Comissão e do Parlamento, está prestes
+      a decidir se é ou não legal uma pessoa estar a agarrar a base de uma escada
+      enquanto uma outra <a>sobe</a> por ela.
+  - s: Det är helt orimligt att lagstifta om hur europeiska medborgare skall tillåtas
+      <v>klättra</v> <p>upp</p> för stegar.
+    t: Não pode fazer sentido legislar sobre a forma como os europeus podem <a>subir</a>
+      escadas.
+  - s: Vi kan ge Europas människor förtroendet att själva bestämma hur de <v>klättrar</v>
+      <p>upp</p> för stegar.
+    t: Podemos confiar na capacidade dos povos europeus de decidirem por si próprios
+      sobre a forma como <a>sobem</a> escadas.
+- c: 1
+  r: 2
+  v: ascender topo
+  x:
+  - s: Detta pris är ett internationellt erkännande av att klimatförändringarna har
+      <v>klättrat</v> <p>upp</p> till toppen på den internationella politiska agendan.
+    t: A atribuição deste galardão constitui o reconhecimento internacional de que
+      as alterações climáticas <a>ascenderam</a> ao <a>topo</a> da agenda política
+      internacional.

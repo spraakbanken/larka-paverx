@@ -1,0 +1,216 @@
+---
+de:
+- c: 1
+  r: 1
+  v: zeihen
+  x:
+  - s: Om jag i dag <v>tar</v> <p>ner</p> uppgifter om högerradikalismen från nätet
+      och av den anledningen förlorar mitt tjänstemannajobb i morgon, då kommer det
+      också att kunna bero på det direktiv som diskuterats i dag.
+    t: Wenn ich mir heute Daten über Rechtsradikalismus aus dem Netz <a>ziehe</a>
+      und dafür morgen meinen Beamtenjob verliere, dann wird das auch wegen dieser
+      heute diskutierten Richtlinie der Fall sein können.
+- c: 1
+  r: 1
+  v: nehmen
+  x:
+  - s: Han har <v>tagit</v> <p>ner</p> strykjärnet, som var förpackat, ur hyllan,
+      givit det till köparen - och sedan skall han tre månader senare bevisa att detta
+      strykjärn fungerade.
+    t: Er hat sein Bügeleisen, das eingepackt war, aus dem Regal <a>genommen</a>,
+      hat es dem Käufer gegeben - und dann soll er drei Monate später nachweisen,
+      daß dieses Bügeleisen in Ordnung war.
+en:
+- c: 1
+  r: 1
+  v: bring back down
+  x:
+  - s: Jag vill tacka föredraganden för att åtminstone ha <v>tagit</v> <p>ner</p>
+      förslaget på jorden och för att kraftigt ha förbättrat kommissionens version.
+    t: I would like to thank the rapporteur for at least <a>bringing</a> the proposal
+      <a>back</a> <a>down</a> to earth and greatly improving the Commission’s version.
+- c: 1
+  r: 1
+  v: take lower
+  x:
+  - s: Detsamma gäller i fråga om ett land som diskuterats mycket i detta hus, Turkiet,
+      som vi för två år sedan slöt en tullunion med och med vilken vi fortfarande
+      försöker att få närmare förbindelser men för vilket då också mycket tydliga
+      och konkreta steg från ett land som Turkiet är nödvändiga och ingen dom på 21
+      år mot en politisk aktivist som <v>tar</v> <p>ner</p> en flagga från en byggnad.
+    t: it needs to <a>take</a> clear and practical measures rather than condemning
+      to 21 years in prison a political activist who did nothing more than <a>lower</a>
+      a flag.
+- c: 1
+  r: 1
+  v: bring down
+  x:
+  - s: Tack för att jag får ordet i denna fråga, eftersom jag i debattens hetta vill
+      <v>ta</v> <p>ner</p> saker och ting till en mer praktisk nivå.
+    t: Mr President, thank you for allowing me to speak on this because, in the heat
+      of the debate, I think I want to <a>bring</a> matters <a>down</a> to a more
+      practical level.
+- c: 1
+  r: 1
+  v: remove banner
+  x:
+  - s: Jag ber er enträget att sitta ner på era platser och att <v>ta</v> <p>ner</p>
+      banderollerna!
+    t: Please sit down and <a>remove</a> the <a>banners</a>.
+- c: 1
+  r: 1
+  v: take
+  x:
+  - s: Det kommer att göras en nedskärning med omkring 4, 5 miljoner ecu vid förstabehandlingen
+      av parlamentets budget, som kommer att säkerställa de nödvändiga nedskärningarna
+      och <v>ta</v> <p>ner</p> parlamentet, som vi alltid har sagt att vi ska, under
+      20 % av kategori 5-anslagen.
+    t: There will be a cut of some ECU 4.5 million in the first reading of Parliament’s
+      budget that will secure the necessary cuts and will <a>take</a> Parliament,
+      as we always said we would, below the 20 % of Category 5 appropriations.
+- c: 1
+  r: 1
+  v: take down
+  x:
+  - s: Ska vi <v>ta</v> <p>ner</p> flaggan eller kommer detta möte att anses olagligt?
+    t: Are we going to <a>take</a> the flag <a>down</a> or is this meeting going to
+      be considered illegal?
+es:
+- c: 2
+  r: 1
+  v: retirar
+  x:
+  - s: Detsamma gäller i fråga om ett land som diskuterats mycket i detta hus, Turkiet,
+      som vi för två år sedan slöt en tullunion med och med vilken vi fortfarande
+      försöker att få närmare förbindelser men för vilket då också mycket tydliga
+      och konkreta steg från ett land som Turkiet är nödvändiga och ingen dom på 21
+      år mot en politisk aktivist som <v>tar</v> <p>ner</p> en flagga från en byggnad.
+    t: Lo mismo puede decirse de Turquía, país del que se ha hablado mucho en esta
+      Asamblea, con el que hace dos años firmamos una Unión aduanera y con el que
+      seguimos intentando estrechar relaciones, aunque también es preciso que dé unos
+      pasos muy claros y concretos y deje de imponer condenas como la de 21 años a
+      un activista político por <a>retirar</a> una bandera de un edificio.
+  - s: Jag ber er enträget att sitta ner på era platser och att <v>ta</v> <p>ner</p>
+      banderollerna!
+    t: Hagan el favor de sentarse y <a>retirar</a> las pancartas.
+fr:
+- c: 2
+  r: 1
+  v: ramener
+  x:
+  - s: Tack för att jag får ordet i denna fråga, eftersom jag i debattens hetta vill
+      <v>ta</v> <p>ner</p> saker och ting till en mer praktisk nivå.
+    t: Monsieur le Président, merci de me permettre de m’exprimer sur ce sujet parce
+      que, au plus vif du débat, je pense vouloir <a>ramener</a> les choses à un niveau
+      plus pratique.
+  - s: Jag vill tacka föredraganden för att åtminstone ha <v>tagit</v> <p>ner</p>
+      förslaget på jorden och för att kraftigt ha förbättrat kommissionens version.
+    t: Je voudrais remercier le rapporteur pour avoir au moins <a>ramener</a> la proposition
+      sur terre et avoir énormément amélioré la version de la Commission.
+- c: 1
+  r: 2
+  v: mettre
+  x:
+  - s: Detsamma gäller i fråga om ett land som diskuterats mycket i detta hus, Turkiet,
+      som vi för två år sedan slöt en tullunion med och med vilken vi fortfarande
+      försöker att få närmare förbindelser men för vilket då också mycket tydliga
+      och konkreta steg från ett land som Turkiet är nödvändiga och ingen dom på 21
+      år mot en politisk aktivist som <v>tar</v> <p>ner</p> en flagga från en byggnad.
+    t: Il en va de même pour ce pays tant controversé en ces murs, à savoir la Turquie,
+      avec laquelle nous avons conclu une union douanière il y a deux ans et avec
+      laquelle nous essayons toujours de resserrer les liens, mais qui devrait prendre
+      des mesures claires et concrètes, et certainement pas condamner à 21 ans un
+      activiste politique qui <a>met</a> un drapeau en berne.
+- c: 1
+  r: 2
+  v: baisser
+  x:
+  - s: Ska vi <v>ta</v> <p>ner</p> flaggan eller kommer detta möte att anses olagligt?
+    t: Va-t-on <a>baisser</a> le drapeau ou considérer cette réunion comme illégale
+      ?
+- c: 1
+  r: 2
+  v: rassembler
+  x:
+  - s: Om jag i dag <v>tar</v> <p>ner</p> uppgifter om högerradikalismen från nätet
+      och av den anledningen förlorar mitt tjänstemannajobb i morgon, då kommer det
+      också att kunna bero på det direktiv som diskuterats i dag.
+    t: Si je <a>rassemble</a> aujourd’hui des données sur l’extrême-droite via Internet
+      et que je perds pour cela mon emploi demain, cela pourra également être mis
+      sur le compte de la directive dont nous discutons aujourd’hui.
+it:
+- c: 2
+  r: 1
+  v: ritirare
+  x:
+  - s: Jag får be våra kolleger <v>ta</v> <p>ner</p> banderollerna och sitta ner och
+      lyssna på rådets uttalande.
+    t: Invito gentilmente i deputati a <a>ritirare</a> le bandiere e tornare a sedere,
+      in modo da poter ascoltare la dichiarazione del Consiglio.
+  - s: Jag ber er enträget att sitta ner på era platser och att <v>ta</v> <p>ner</p>
+      banderollerna!
+    t: Vi prego di tornare a sedere e di <a>ritirare</a> le bandiere.
+- c: 1
+  r: 2
+  v: prendere
+  x:
+  - s: Han har <v>tagit</v> <p>ner</p> strykjärnet, som var förpackat, ur hyllan,
+      givit det till köparen - och sedan skall han tre månader senare bevisa att detta
+      strykjärn fungerade.
+    t: Il venditore che ha <a>preso</a> il suo ferro da stiro già imballato dallo
+      scaffale e lo ha consegnato al cliente, tre mesi dopo si trova così a dover
+      dimostrare che non era rotto.
+- c: 1
+  r: 2
+  v: riportare
+  x:
+  - s: Tack för att jag får ordet i denna fråga, eftersom jag i debattens hetta vill
+      <v>ta</v> <p>ner</p> saker och ting till en mer praktisk nivå.
+    t: Signor Presidente, grazie per avermi dato la parola perché, nella concitazione
+      del dibattito, vorrei <a>riportare</a> la questione a un livello più pratico.
+pt:
+- c: 1
+  r: 1
+  v: pôr
+  x:
+  - s: Detsamma gäller i fråga om ett land som diskuterats mycket i detta hus, Turkiet,
+      som vi för två år sedan slöt en tullunion med och med vilken vi fortfarande
+      försöker att få närmare förbindelser men för vilket då också mycket tydliga
+      och konkreta steg från ett land som Turkiet är nödvändiga och ingen dom på 21
+      år mot en politisk aktivist som <v>tar</v> <p>ner</p> en flagga från en byggnad.
+    t: O mesmo se aplica a países tão contestados entre estas paredes, designadamente
+      a Turquia, com a qual concluímos uma união aduaneira há dois anos e com a qual
+      continuamos a tentar estreitar os laços, mas que deverá tomar medidas claras
+      e concretas em vez de condenar a 21 anos de prisão um activista político que
+      <a>põe</a> uma bandeira a meia haste.
+- c: 1
+  r: 1
+  v: retirar
+  x:
+  - s: Om jag i dag <v>tar</v> <p>ner</p> uppgifter om högerradikalismen från nätet
+      och av den anledningen förlorar mitt tjänstemannajobb i morgon, då kommer det
+      också att kunna bero på det direktiv som diskuterats i dag.
+    t: Se eu hoje <a>retirar</a> da net dados sobre o radicalismo de direita e, por
+      causa disso, perder amanhã o meu emprego de funcionária pública, este facto
+      também poderá ser causado pela directiva que hoje aqui debatemos.
+- c: 1
+  r: 1
+  v: abordar
+  x:
+  - s: Tack för att jag får ordet i denna fråga, eftersom jag i debattens hetta vill
+      <v>ta</v> <p>ner</p> saker och ting till en mer praktisk nivå.
+    t: Senhor Presidente, obrigada por me ter concedido a palavra para intervir sobre
+      este assunto porque, no calor do debate, acho que quero <a>abordar</a> a questão
+      a um nível mais prático.
+- c: 1
+  r: 1
+  v: colocar
+  x:
+  - s: Det kommer att göras en nedskärning med omkring 4, 5 miljoner ecu vid förstabehandlingen
+      av parlamentets budget, som kommer att säkerställa de nödvändiga nedskärningarna
+      och <v>ta</v> <p>ner</p> parlamentet, som vi alltid har sagt att vi ska, under
+      20 % av kategori 5-anslagen.
+    t: Na primeira leitura do orçamento do Parlamento haverá uma redução de cerca
+      de 4, 5 milhões de ecus que irá garantir os cortes necessários e <a>colocará</a>
+      o Parlamento, como sempre afirmámos que aconteceria, abaixo dos 20 % das dotações
+      da categoria 5.

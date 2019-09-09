@@ -1,0 +1,778 @@
+---
+de:
+- c: 2
+  r: 1
+  v: zerbrechen
+  x:
+  - s: Ni använde metaforen med en termometer och sade att den inte får <v>gå</v>
+      <p>sönder</p>.
+    t: Herr Barnier, Sie haben eben das Bild des Fieberthermometers benutzt und haben
+      gesagt, dass man das nicht <a>zerbrechen</a> darf.
+  - s: Vi måste påminna våra medborgare om att dessa instrument kan utgöra en hälsorisk
+      och ett hot mot miljön eftersom de lätt <v>går</v> <p>sönder</p> och ofta slängs.
+    t: Wir müssen unsere Bürger daran erinnern, dass diese Geräte eine Gefahr für
+      die Gesundheit und die Umwelt darstellen können, da sie leicht <a>zerbrechen</a>
+      und vielleicht im Müll landen oder, schlimmer noch, wenn sie verbrannt werden,
+      breitet sich das Quecksilber in der Atmosphäre aus und kontaminiert die Luft,
+      den Boden und das Wasser.
+- c: 2
+  r: 1
+  v: brechen
+  x:
+  - s: Produkter kan <v>gå</v> <p>sönder</p> eller läcka så att kvicksilver kommer
+      ut i naturen ändå.
+    t: Die Erzeugnisse können <a>brechen</a> oder lecken, so dass dann Quecksilber
+      in die Umwelt gelangt.
+  - s: Barometrar kan <v>gå</v> <p>sönder</p> och läcka så att kvicksilvret ändå hamnar
+      i naturen.
+    t: Barometer können <a>brechen</a> oder lecken, so dass Quecksilber in die Umwelt
+      gelangt.
+- c: 1
+  r: 2
+  v: sein brechen
+  x:
+  - s: För övrigt har en behållare med cyanid just <v>gått</v> <p>sönder</p> i Rumänien,
+      något som utgör ett hot mot grundvattenakviferer som förser Jugoslaviens befolkning
+      med vatten.
+    t: Gerade <a>ist</a> in Rumänien ein Becken mit Zyanid <a>gebrochen</a> und bedroht
+      die wasserführenden Schichten, die die Bevölkerung von Jugoslawien versorgen.
+- c: 1
+  r: 2
+  v: platzen
+  x:
+  - s: I källaren har avloppsrören <v>gått</v> <p>sönder</p>.
+    t: Im Kellergeschoss ist die Kanalisation <a>geplatzt</a>.
+- c: 1
+  r: 2
+  v: zusammenhalten
+  x:
+  - s: Alla vi i Europaparlamentet och rådet måste verkligen bemöda oss om att den
+      här kuben inte ska <v>gå</v> <p>sönder</p>.
+    t: Wir alle im Europäischen Parlament und im Rat müssen sehr sorgsam darauf achten,
+      dass die Teile dieses Würfels <a>zusammengehalten</a> werden.
+- c: 1
+  r: 2
+  v: zerbrechen sein
+  x:
+  - s: Det finns de i parlamentet som anser att det skulle vara lämpligt att först
+      återställa enigheten, att reparera det som har <v>gått</v> <p>sönder</p>, innan
+      vi genomför utvidgningen.
+    t: Manche in diesem Hause halten es für sinnvoll, vor unserer Erweiterung die
+      Einigkeit wiederherzustellen und wieder zusammenzufügen, was <a>zerbrochen</a>
+      <a>ist</a>.
+- c: 1
+  r: 2
+  v: sein
+  x:
+  - s: I går inträffade en fruktansvärd katastrof i den spanska staden Melilla där
+      några vattenreservoarer <v>gick</v> <p>sönder</p> och dränkte viktiga delar
+      av staden med det tragiska resultatet av nio döda, många skadade och betydande
+      materiella skador.
+    t: Herr Präsident, gestern passierte in einer spanischen Stadt, in Melilla, eine
+      schreckliche Tragödie, weil einige Wasserspeicher gebrochen <a>sind</a> und
+      große Teile der Stadt überflutet wurden.
+- c: 1
+  r: 2
+  v: gehen kaputt
+  x:
+  - s: varför utrustning som skulle kunna vara användbar och effektiv längre <v>går</v>
+      <p>sönder</p> på ett sätt som förutsätts och planeras efter en viss tid.
+    t: Warum <a>gehen</a> Materialien, die längere Zeit verwendbar und effektiv sein
+      könnten, nach einer gewissen Zeit vorzeitig und vorhersehbar <a>kaputt</a>?
+- c: 1
+  r: 2
+  v: beschädigen
+  x:
+  - s: På maskinen finns en massa kontrollampor som varnar oss och talar om att i
+      fall en lampa lyser rött är det något fel och då måste man genast ingripa för
+      att inte maskinen skall <v>gå</v> <p>sönder</p>.
+    t: Wir versehen die Maschine mit vielen Kontrolllampen, die uns rotes Licht signalisieren,
+      wenn etwas nicht in Ordnung ist, damit die Maschine nicht <a>beschädigt</a>
+      wird, und wir dürfen nicht abwarten, bis mehrere oder alle Lampen rot aufleuchten.
+- c: 1
+  r: 2
+  v: werden
+  x:
+  - s: De skulle kunna föra med sig en höjd bakterienivå om de <v>går</v> <p>sönder</p>,
+      och öka kostnaderna för transportörerna.
+    t: Sie könnten zu erhöhten Bakterienniveaus führen, wenn sie durchlöchert <a>werden</a>,
+      und die Kosten für die Transportunternehmer würden steigen.
+- c: 1
+  r: 2
+  v: spät
+  x:
+  - s: Detta är extremt klokt eftersom förebyggande åtgärder alltid är bättre - mycket
+      bättre - än att laga något som har <v>gått</v> <p>sönder</p>.
+    t: Das ist sehr klug, denn bekanntermaßen ist es immer besser - viel besser -
+      vorzubeugen, als <a>später</a> heilen zu müssen.
+en:
+- c: 4
+  r: 1
+  v: break
+  x:
+  - s: Produkter kan <v>gå</v> <p>sönder</p> eller läcka så att kvicksilver kommer
+      ut i naturen ändå.
+    t: Products may <a>break</a> or leak, so that mercury ends up in the environment
+      anyway.
+  - s: Som resultat av förbudet mot glödlampan har jag tvingats evakuera ett rum efter
+      att en lågenergilampa innehållande kvicksilver <v>gått</v> <p>sönder</p>, för
+      att undvika att människors hälsa skulle ta skada.
+    t: As result of the light bulb ban, I have had to evacuate a room after an energy-saving
+      bulb containing mercury <a>broke</a>, in order to avoid damage being caused
+      to people’s health.
+  - s: varför utrustning som skulle kunna vara användbar och effektiv längre <v>går</v>
+      <p>sönder</p> på ett sätt som förutsätts och planeras efter en viss tid.
+    t: why do materials that could remain useful and effective for longer <a>break</a>
+      in a way that is anticipated and planned after a certain amount of time?
+  - s: Barometrar kan <v>gå</v> <p>sönder</p> och läcka så att kvicksilvret ändå hamnar
+      i naturen.
+    t: Barometers may <a>break</a> or leak, so that mercury ends up in the environment
+      anyway.
+  - s: I källaren har avloppsrören <v>gått</v> <p>sönder</p>.
+    t: The sewers in the basement are <a>broken</a>.
+- c: 2
+  r: 2
+  v: break down
+  x:
+  - s: Olyckligtvis <v>gick</v> deras buss <p>sönder</p> och de var tvungna att hyra
+      en lokal fransk buss, som inte hade bälten.
+    t: Unfortunately their bus <a>broke</a> <a>down</a> and they were forced to hire
+      a local French bus which did not have seat-belts.
+  - s: Innan vi går över till nästa fråga och med anledning av det som bekymrade herr
+      Rübig, vill jag klart och tydligt förklara att frågorna inte syns på skärmen,
+      eftersom systemet har <v>gått</v> <p>sönder</p>.
+    t: Before proceeding to the next question and because I share Mr Rübig’s concern,
+      I must clearly state that the corresponding questions do not appear on the screen
+      because the system has <a>broken</a> <a>down</a>.
+- c: 2
+  r: 2
+  v: be break
+  x:
+  - s: Ni använde metaforen med en termometer och sade att den inte får <v>gå</v>
+      <p>sönder</p>.
+    t: Mr Barnier, you have just used the metaphor of a thermometer and said that
+      it must not <a>be</a> <a>broken</a>.
+  - s: Det finns de i parlamentet som anser att det skulle vara lämpligt att först
+      återställa enigheten, att reparera det som har <v>gått</v> <p>sönder</p>, innan
+      vi genomför utvidgningen.
+    t: There are some in this House who believe we should recover our unity and repair
+      what has <a>been</a> <a>broken</a> before enlarging.
+- c: 1
+  r: 3
+  v: rupture
+  x:
+  - s: I går inträffade en fruktansvärd katastrof i den spanska staden Melilla där
+      några vattenreservoarer <v>gick</v> <p>sönder</p> och dränkte viktiga delar
+      av staden med det tragiska resultatet av nio döda, många skadade och betydande
+      materiella skador.
+    t: Mr President, yesterday a terrible tragedy took place in the Spanish city of
+      Melilla, where a water tower <a>ruptured</a> and flooded whole sections of the
+      city, resulting in the tragic deaths of nine people, with many others wounded,
+      and substantial material losses.
+- c: 1
+  r: 3
+  v: break be
+  x:
+  - s: Om den skulle <v>gå</v> <p>sönder</p> har man inga fler.
+    t: If it <a>broke</a>, we would <a>be</a> left with nothing.
+- c: 1
+  r: 3
+  v: break down break down
+  x:
+  - s: Här ser man ju i realiteten, i såväl små som stora affärer i vilken grad det
+      Europa från Nice, som skapats för att vara en dynamik, har <v>gått</v> <p>sönder</p>,
+      varaktigt, av skäl som Bourlanges mycket väl beskrev dagen efter toppmötet i
+      Nice.
+    t: What we are in fact seeing here, in both the minor and major incidents, is
+      the extent to which the Europe of Nice, designed to be a driving force, has
+      in fact <a>broken</a> <a>down</a>, irretrievably <a>broken</a> <a>down</a>,
+      for the reasons clearly described by Mr Bourlanges the day after the Nice Summit.
+- c: 1
+  r: 3
+  v: burst bank
+  x:
+  - s: Emellertid är det som har hänt i Melilla denna måndag, efter att en vattenreservoar
+      med 20 000 kubikmeter <v>gått</v> <p>sönder</p>, historien om en förebådad katastrof.
+    t: Nevertheless, what happened in Melilla on Monday - when a 20, 000 cubic metre
+      reservoir <a>burst</a> its <a>banks</a> - was the chronicle of a tragedy foretold.
+- c: 1
+  r: 3
+  v: can break
+  x:
+  - s: Vi måste påminna våra medborgare om att dessa instrument kan utgöra en hälsorisk
+      och ett hot mot miljön eftersom de lätt <v>går</v> <p>sönder</p> och ofta slängs.
+    t: We must remind our citizens that this equipment may pose a risk to health and
+      the environment, since it <a>can</a> <a>break</a> easily and end up being dumped,
+      or, worse still, if it is burnt, the mercury is dispersed into the atmosphere,
+      polluting the air, the soil and water.
+- c: 1
+  r: 3
+  v: cure
+  x:
+  - s: Detta är extremt klokt eftersom förebyggande åtgärder alltid är bättre - mycket
+      bättre - än att laga något som har <v>gått</v> <p>sönder</p>.
+    t: This is extremely wise, as prevention is always better - much better - than
+      <a>cure</a>.
+- c: 1
+  r: 3
+  v: have burst bank
+  x:
+  - s: För övrigt har en behållare med cyanid just <v>gått</v> <p>sönder</p> i Rumänien,
+      något som utgör ett hot mot grundvattenakviferer som förser Jugoslaviens befolkning
+      med vatten.
+    t: In fact, a reservoir containing cyanide <a>has</a> just <a>burst</a> its <a>banks</a>
+      in Romania, threatening aquifers which supply the population of Yugoslavia.
+- c: 1
+  r: 3
+  v: puncture
+  x:
+  - s: De skulle kunna föra med sig en höjd bakterienivå om de <v>går</v> <p>sönder</p>,
+      och öka kostnaderna för transportörerna.
+    t: They could lead to increased bacteria levels if <a>punctured</a> and would
+      increase costs for transporters.
+- c: 1
+  r: 3
+  v: break
+  x:
+  - s: Produkter kan <v>gå</v> <p>sönder</p> eller läcka så att kvicksilver kommer
+      ut i naturen ändå.
+    t: Products may <a>break</a> or leak, so that mercury ends up in the environment
+      anyway.
+  - s: Som resultat av förbudet mot glödlampan har jag tvingats evakuera ett rum efter
+      att en lågenergilampa innehållande kvicksilver <v>gått</v> <p>sönder</p>, för
+      att undvika att människors hälsa skulle ta skada.
+    t: As result of the light bulb ban, I have had to evacuate a room after an energy-saving
+      bulb containing mercury <a>broke</a>, in order to avoid damage being caused
+      to people’s health.
+  - s: varför utrustning som skulle kunna vara användbar och effektiv längre <v>går</v>
+      <p>sönder</p> på ett sätt som förutsätts och planeras efter en viss tid.
+    t: why do materials that could remain useful and effective for longer <a>break</a>
+      in a way that is anticipated and planned after a certain amount of time?
+  - s: Barometrar kan <v>gå</v> <p>sönder</p> och läcka så att kvicksilvret ändå hamnar
+      i naturen.
+    t: Barometers may <a>break</a> or leak, so that mercury ends up in the environment
+      anyway.
+  - s: I källaren har avloppsrören <v>gått</v> <p>sönder</p>.
+    t: The sewers in the basement are <a>broken</a>.
+- c: 1
+  r: 3
+  v: up
+  x:
+  - s: Detta är en generation av ansvariga som är oansvariga och som avsiktligt förgiftar
+      folk med smittat blod, bygger kärnkraftverk samtidigt som de mycket väl vet
+      att dessa en dag kommer att <v>gå</v> <p>sönder</p> mitt framför näsan på oss
+      samt slutligen föredrar att skicka bombplan på oskyldiga folkmassor i syfte
+      att avleda uppmärksamheten och få folk att glömma deras sexuella eskapader.
+    t: This is a generation that knowingly lets populations slowly poison themselves
+      with contaminated blood, that builds nuclear power stations knowing full well
+      that one day they will blow <a>up</a> in our faces, and that would rather fly
+      bombers over innocent crowds to detract from their sexual dalliances and conceal
+      them.
+- c: 1
+  r: 3
+  v: will destroy
+  x:
+  - s: Av denna sortens politiska och moraliska skenhelighet <v>går</v> den internationella
+      gemenskapen <p>sönder</p>.
+    t: This kind of moral and political hypocrisy <a>will</a> <a>destroy</a> the international
+      community.
+- c: 1
+  r: 3
+  v: go down
+  x:
+  - s: Jag vill fråga min kollega hur många kärnkraftverk som måste <v>gå</v> <p>sönder</p>
+      innan hon tycker att det räcker?
+    t: Mr President, I would like to ask my colleague how many nuclear plants have
+      to <a>go</a> <a>down</a> before she says that it is enough.
+es:
+- c: 2
+  r: 1
+  v: romperse
+  x:
+  - s: Produkter kan <v>gå</v> <p>sönder</p> eller läcka så att kvicksilver kommer
+      ut i naturen ändå.
+    t: Estos productos pueden <a>romperse</a> o presentar fugas, de forma que el mercurio
+      acabe liberándose finalmente en el medio ambiente.
+  - s: Barometrar kan <v>gå</v> <p>sönder</p> och läcka så att kvicksilvret ändå hamnar
+      i naturen.
+    t: Los barómetros pueden <a>romperse</a> o tener fugas, con lo que el mercurio
+      acaba de todas maneras en el medio ambiente.
+- c: 2
+  r: 1
+  v: romper
+  x:
+  - s: För övrigt har en behållare med cyanid just <v>gått</v> <p>sönder</p> i Rumänien,
+      något som utgör ett hot mot grundvattenakviferer som förser Jugoslaviens befolkning
+      med vatten.
+    t: Por cierto, se acaba de <a>romper</a> una balsa con cianuro en Rumania amenazando
+      acuíferos que abastecen a la población de Yugoslavia.
+  - s: Ni använde metaforen med en termometer och sade att den inte får <v>gå</v>
+      <p>sönder</p>.
+    t: Señor Barnier, usted acaba de recurrir a la metáfora de un termómetro y ha
+      dicho que no debemos <a>romperlo</a>.
+- c: 1
+  r: 2
+  v: ser infrahumano
+  x:
+  - s: I källaren har avloppsrören <v>gått</v> <p>sönder</p>.
+    t: La situación <a>era</a> <a>infrahumana</a>.
+- c: 1
+  r: 2
+  v: poder romperse
+  x:
+  - s: Vi måste påminna våra medborgare om att dessa instrument kan utgöra en hälsorisk
+      och ett hot mot miljön eftersom de lätt <v>går</v> <p>sönder</p> och ofta slängs.
+    t: Es necesario recordar a nuestros ciudadanos que estos aparatos pueden suponer
+      un peligro para la salud y el medio ambiente, ya que <a>pueden</a> <a>romperse</a>
+      con facilidad y acabar en los vertederos, o, peor aún, al incinerarse, se dispersa
+      el mercurio en la atmósfera, contaminando el aire, el suelo, el agua.
+- c: 1
+  r: 2
+  v: permanecer
+  x:
+  - s: Alla vi i Europaparlamentet och rådet måste verkligen bemöda oss om att den
+      här kuben inte ska <v>gå</v> <p>sönder</p>.
+    t: Todos nosotros en el Parlamento Europeo y en el Consejo debemos vigilar para
+      que el cubo <a>permanezca</a> unido.
+- c: 1
+  r: 2
+  v: haber ser
+  x:
+  - s: Emellertid är det som har hänt i Melilla denna måndag, efter att en vattenreservoar
+      med 20 000 kubikmeter <v>gått</v> <p>sönder</p>, historien om en förebådad katastrof.
+    t: Sin embargo, lo acontecido en Melilla —este lunes— tras la ruptura de un depósito
+      de agua de 20.000 m3 <a>ha</a> <a>sido</a> la historia de una tragedia anunciada.
+- c: 1
+  r: 2
+  v: haber romper
+  x:
+  - s: Det finns de i parlamentet som anser att det skulle vara lämpligt att först
+      återställa enigheten, att reparera det som har <v>gått</v> <p>sönder</p>, innan
+      vi genomför utvidgningen.
+    t: En esta casa hay quien piensa que sería conveniente recuperar la unidad, rehacer
+      lo que se <a>ha</a> <a>roto</a> antes de ampliarnos.
+- c: 1
+  r: 2
+  v: haber estropear
+  x:
+  - s: Innan vi går över till nästa fråga och med anledning av det som bekymrade herr
+      Rübig, vill jag klart och tydligt förklara att frågorna inte syns på skärmen,
+      eftersom systemet har <v>gått</v> <p>sönder</p>.
+    t: Antes de pasar a la siguiente pregunta, y siguiendo la inquietud del Sr. Rübig,
+      tengo que manifestar en voz alta, que no aparecen en la pantalla las preguntas
+      correspondientes porque se <a>ha</a> <a>estropeado</a> el sistema.
+- c: 1
+  r: 2
+  v: avería
+  x:
+  - s: Olyckligtvis <v>gick</v> deras buss <p>sönder</p> och de var tvungna att hyra
+      en lokal fransk buss, som inte hade bälten.
+    t: Lamentablemente, su autocar tuvo una <a>avería</a> y se vieron obligados a
+      alquilar un autocar local francés que no estaba equipado con cinturones de seguridad.
+- c: 1
+  r: 2
+  v: averíar
+  x:
+  - s: På maskinen finns en massa kontrollampor som varnar oss och talar om att i
+      fall en lampa lyser rött är det något fel och då måste man genast ingripa för
+      att inte maskinen skall <v>gå</v> <p>sönder</p>.
+    t: Para la máquina empleamos un montón de pilotos que nos avisan con una luz roja
+      de que algo va mal y de que hay que intervenir inmediatamente para que la máquina
+      no se <a>averíe</a>.
+- c: 1
+  r: 2
+  v: delante
+  x:
+  - s: Detta är en generation av ansvariga som är oansvariga och som avsiktligt förgiftar
+      folk med smittat blod, bygger kärnkraftverk samtidigt som de mycket väl vet
+      att dessa en dag kommer att <v>gå</v> <p>sönder</p> mitt framför näsan på oss
+      samt slutligen föredrar att skicka bombplan på oskyldiga folkmassor i syfte
+      att avleda uppmärksamheten och få folk att glömma deras sexuella eskapader.
+    t: La generación de responsables irresponsables, que dejan envenenar a la población
+      a sabiendas, con sangre contaminada, que construyen centrales nucleares sabiendo
+      muy bien que algún día terminarán por explotarnos <a>delante</a> de las narices,
+      que al fin y al cabo prefieren enviar a los bombarderos contra muchedumbres
+      inocentes para divertirse y conseguir que se olviden sus extravagancias sexuales.
+- c: 1
+  r: 2
+  v: ser destrozar
+  x:
+  - s: Av denna sortens politiska och moraliska skenhelighet <v>går</v> den internationella
+      gemenskapen <p>sönder</p>.
+    t: Este tipo de hipocresía política y moral <a>es</a> lo que <a>destroza</a> a
+      la comunidad internacional.
+- c: 1
+  r: 2
+  v: puntura
+  x:
+  - s: De skulle kunna föra med sig en höjd bakterienivå om de <v>går</v> <p>sönder</p>,
+      och öka kostnaderna för transportörerna.
+    t: Podrían conducir a niveles más altos de bacterias en caso de <a>punturas</a>,
+      e incrementaría los costes para los transportistas.
+- c: 1
+  r: 2
+  v: averiar
+  x:
+  - s: Här ser man ju i realiteten, i såväl små som stora affärer i vilken grad det
+      Europa från Nice, som skapats för att vara en dynamik, har <v>gått</v> <p>sönder</p>,
+      varaktigt, av skäl som Bourlanges mycket väl beskrev dagen efter toppmötet i
+      Nice.
+    t: En realidad, aquí se ve, en los pequeños asuntos como en los grandes, hasta
+      qué punto la Europa de Niza, concebida como si debiera ser una dinámica, está
+      <a>averiada</a>, averiada por un buen tiempo, por las razones que el Sr. Bourlanges
+      describió muy bien al día siguiente de la Cumbre de Niza.
+fr:
+- c: 2
+  r: 1
+  v: casser
+  x:
+  - s: Om den skulle <v>gå</v> <p>sönder</p> har man inga fler.
+    t: Quand elle <a>casse</a>, on n’a plus rien.
+  - s: varför utrustning som skulle kunna vara användbar och effektiv längre <v>går</v>
+      <p>sönder</p> på ett sätt som förutsätts och planeras efter en viss tid.
+    t: pourquoi des équipements qui pourraient rester plus longtemps utiles et efficaces
+      <a>cassent</a>-ils au bout d’un certain temps d’une façon prévue et planifiée
+      ?
+- c: 1
+  r: 2
+  v: être anéantir
+  x:
+  - s: Jag vill fråga min kollega hur många kärnkraftverk som måste <v>gå</v> <p>sönder</p>
+      innan hon tycker att det räcker?
+    t: Monsieur le Président, je voudrais demander à ma consœur combien de centrales
+      nucléaires devront <a>être</a> <a>anéanties</a> pour qu’elle considère que c’est
+      suffisant.
+- c: 1
+  r: 2
+  v: dégât
+  x:
+  - s: På maskinen finns en massa kontrollampor som varnar oss och talar om att i
+      fall en lampa lyser rött är det något fel och då måste man genast ingripa för
+      att inte maskinen skall <v>gå</v> <p>sönder</p>.
+    t: Dans le cas des machines, plusieurs lampes sont destinées à lancer un signal
+      d’alarme et si une lampe devient rouge, cela signifie qu’il y a un problème
+      et qu’il y a lieu d’intervenir afin d’éviter tout <a>dégât</a>.
+- c: 1
+  r: 2
+  v: être
+  x:
+  - s: De skulle kunna föra med sig en höjd bakterienivå om de <v>går</v> <p>sönder</p>,
+      och öka kostnaderna för transportörerna.
+    t: Il risque d’augmenter la contamination bactérienne si le métal <a>est</a> piqué
+      et il entraînerait un surcoût pour les transporteurs.
+- c: 1
+  r: 2
+  v: être casser
+  x:
+  - s: Det finns de i parlamentet som anser att det skulle vara lämpligt att först
+      återställa enigheten, att reparera det som har <v>gått</v> <p>sönder</p>, innan
+      vi genomför utvidgningen.
+    t: Dans cette Assemblée, certains pensent qu’il conviendrait de retrouver l’unité,
+      de reconstruire ce qui <a>était</a> <a>cassé</a> avant de nous élargir.
+- c: 1
+  r: 2
+  v: être inhumain
+  x:
+  - s: I källaren har avloppsrören <v>gått</v> <p>sönder</p>.
+    t: La situation y <a>est</a> <a>inhumaine</a>.
+- c: 1
+  r: 2
+  v: être panne
+  x:
+  - s: Olyckligtvis <v>gick</v> deras buss <p>sönder</p> och de var tvungna att hyra
+      en lokal fransk buss, som inte hade bälten.
+    t: Leur car <a>est</a> malheureusement tombé en <a>panne</a>, les mettant dans
+      l’obligation de louer un car français local non équipé de ceintures.
+- c: 1
+  r: 2
+  v: guérir
+  x:
+  - s: Detta är extremt klokt eftersom förebyggande åtgärder alltid är bättre - mycket
+      bättre - än att laga något som har <v>gått</v> <p>sönder</p>.
+    t: Cela est extrêmement judicieux puisqu’il vaut toujours mieux prévenir que <a>guérir</a>.
+- c: 1
+  r: 2
+  v: panne
+  x:
+  - s: Innan vi går över till nästa fråga och med anledning av det som bekymrade herr
+      Rübig, vill jag klart och tydligt förklara att frågorna inte syns på skärmen,
+      eftersom systemet har <v>gått</v> <p>sönder</p>.
+    t: Avant de passer à la question suivante, et pour répondre à la préoccupation
+      de M. Rübig, je dois annoncer à haute voix que les questions correspondantes
+      n’apparaissent pas sur l’écran à cause d’une <a>panne</a> du système.
+- c: 1
+  r: 2
+  v: panne panne
+  x:
+  - s: Här ser man ju i realiteten, i såväl små som stora affärer i vilken grad det
+      Europa från Nice, som skapats för att vara en dynamik, har <v>gått</v> <p>sönder</p>,
+      varaktigt, av skäl som Bourlanges mycket väl beskrev dagen efter toppmötet i
+      Nice.
+    t: En réalité, on voit ici, dans les petites affaires comme dans les grandes,
+      à quel point l’Europe de Nice, conçue comme devant être une dynamique, est en
+      <a>panne</a>, durablement en <a>panne</a>, pour les raisons que M. Bourlanges
+      a fort bien décrites au lendemain du Sommet de Nice.
+- c: 1
+  r: 2
+  v: pas casser
+  x:
+  - s: Ni använde metaforen med en termometer och sade att den inte får <v>gå</v>
+      <p>sönder</p>.
+    t: Monsieur Barnier, vous venez d’utiliser l’image du thermomètre en disant que
+      l’on ne doit <a>pas</a> le <a>casser</a>.
+- c: 1
+  r: 2
+  v: rupture être
+  x:
+  - s: Emellertid är det som har hänt i Melilla denna måndag, efter att en vattenreservoar
+      med 20 000 kubikmeter <v>gått</v> <p>sönder</p>, historien om en förebådad katastrof.
+    t: Néanmoins, ce qui est arrivé à Melilla ce lundi, après la <a>rupture</a> d’un
+      réservoir d’eau de 20.000 m3 <a>est</a> l’histoire d’une tragédie annoncée.
+- c: 1
+  r: 2
+  v: rupture avoir
+  x:
+  - s: I går inträffade en fruktansvärd katastrof i den spanska staden Melilla där
+      några vattenreservoarer <v>gick</v> <p>sönder</p> och dränkte viktiga delar
+      av staden med det tragiska resultatet av nio döda, många skadade och betydande
+      materiella skador.
+    t: Monsieur le Président, une terrible tragédie s’est abattue hier sur une ville
+      espagnole, Melilla, où la <a>rupture</a> de réservoirs d’eau <a>a</a> entraîné
+      l’inondation d’importants quartiers de la ville, provoquant la mort de neuf
+      personnes, en blessant de nombreuses autres et occasionnant des dégâts matériels
+      considérables.
+it:
+- c: 2
+  r: 1
+  v: rottura
+  x:
+  - s: För övrigt har en behållare med cyanid just <v>gått</v> <p>sönder</p> i Rumänien,
+      något som utgör ett hot mot grundvattenakviferer som förser Jugoslaviens befolkning
+      med vatten.
+    t: A ciò bisognerebbe aggiungere i problemi relativi all’inquinamento idrico nei
+      potenziali nuovi Stati membri dell’Europa orientale, nonché la recente <a>rottura</a>,
+      in Romania, di un bacino di decantazione contenente cianuro, disastro che ora
+      potrebbe coinvolgere le condotte di acqua che approvvigionano la popolazione
+      iugoslava.
+  - s: Som resultat av förbudet mot glödlampan har jag tvingats evakuera ett rum efter
+      att en lågenergilampa innehållande kvicksilver <v>gått</v> <p>sönder</p>, för
+      att undvika att människors hälsa skulle ta skada.
+    t: A causa del divieto sulle lampade, ho dovuto evacuare una stanza per evitare
+      danni alla salute delle persone in seguito alla <a>rottura</a> di una lampadina
+      a risparmio energetico che conteneva mercurio.
+- c: 2
+  r: 1
+  v: rompere
+  x:
+  - s: Om den skulle <v>gå</v> <p>sönder</p> har man inga fler.
+    t: So che i corsi si potranno influenzare sempre più attraverso le variazioni
+      dei tassi d’interesse, ma so anche che è meglio avere molte frecce al proprio
+      arco piuttosto che una sola, perché se questa si <a>rompe</a> non si ha più
+      niente.
+  - s: Barometrar kan <v>gå</v> <p>sönder</p> och läcka så att kvicksilvret ändå hamnar
+      i naturen.
+    t: I barometri possono <a>rompersi</a> o avere delle perdite, quindi il mercurio
+      finisce inesorabilmente nell’ambiente.
+- c: 1
+  r: 2
+  v: guasto
+  x:
+  - s: Olyckligtvis <v>gick</v> deras buss <p>sönder</p> och de var tvungna att hyra
+      en lokal fransk buss, som inte hade bälten.
+    t: La scuola St James aveva adottato la prassi di utilizzare sempre pullman dotati
+      di cinture di sicurezza ma purtroppo il suo pullman ha avuto un <a>guasto</a>
+      e la scuola era stata costretta a noleggiare un pullman locale francese che
+      non ne era dotato.
+- c: 1
+  r: 2
+  v: rottura essere essere
+  x:
+  - s: Emellertid är det som har hänt i Melilla denna måndag, efter att en vattenreservoar
+      med 20 000 kubikmeter <v>gått</v> <p>sönder</p>, historien om en förebådad katastrof.
+    t: Tuttavia, gli avvenimenti di Melilla di lunedì scorso, verificatisi in seguito
+      alla <a>rottura</a> di un bacino idrico di 20.000 m3 <a>sono</a> <a>stati</a>
+      il risultato di una tragedia annunciata.
+- c: 1
+  r: 2
+  v: andare tilt
+  x:
+  - s: Innan vi går över till nästa fråga och med anledning av det som bekymrade herr
+      Rübig, vill jag klart och tydligt förklara att frågorna inte syns på skärmen,
+      eftersom systemet har <v>gått</v> <p>sönder</p>.
+    t: Prima di passare alla prossima interrogazione, e sulla scia della preoccupazione
+      dell’onorevole Rübig, devo annunciare che sullo schermo non compaiono le interrogazioni
+      complementari perché il sistema è <a>andato</a> in <a>tilt</a>.
+- c: 1
+  r: 2
+  v: cubo
+  x:
+  - s: Alla vi i Europaparlamentet och rådet måste verkligen bemöda oss om att den
+      här kuben inte ska <v>gå</v> <p>sönder</p>.
+    t: Tutti noi nel Parlamento europeo e nel Consiglio dobbiamo prestare grande attenzione
+      a tenere insieme questo <a>cubo</a>.
+- c: 1
+  r: 2
+  v: essere incrinare
+  x:
+  - s: Det finns de i parlamentet som anser att det skulle vara lämpligt att först
+      återställa enigheten, att reparera det som har <v>gått</v> <p>sönder</p>, innan
+      vi genomför utvidgningen.
+    t: In quest’Aula vi è chi ritiene che si dovrebbe ripristinare l’unità e ricuperare
+      ciò che si <a>è</a> <a>incrinato</a> prima dell’ampliamento.
+- c: 1
+  r: 2
+  v: essere rompere
+  x:
+  - s: Ni använde metaforen med en termometer och sade att den inte får <v>gå</v>
+      <p>sönder</p>.
+    t: Commissario Barnier, lei ha utilizzato la metafora di un termometro che non
+      deve <a>essere</a> <a>rotto</a>.
+- c: 1
+  r: 2
+  v: curare
+  x:
+  - s: Detta är extremt klokt eftersom förebyggande åtgärder alltid är bättre - mycket
+      bättre - än att laga något som har <v>gått</v> <p>sönder</p>.
+    t: Ciò è molto saggio, dal momento che è sempre meglio - molto meglio - prevenire
+      che <a>curare</a>.
+pt:
+- c: 2
+  r: 1
+  v: avariar
+  x:
+  - s: Innan vi går över till nästa fråga och med anledning av det som bekymrade herr
+      Rübig, vill jag klart och tydligt förklara att frågorna inte syns på skärmen,
+      eftersom systemet har <v>gått</v> <p>sönder</p>.
+    t: Antes de passar à pergunta seguinte, e respondendo à preocupação do senhor
+      deputado Paul Rübig, devo dizer, em voz alta, que as perguntas não aparecem
+      no ecrã porque o sistema está <a>avariado</a>.
+  - s: På maskinen finns en massa kontrollampor som varnar oss och talar om att i
+      fall en lampa lyser rött är det något fel och då måste man genast ingripa för
+      att inte maskinen skall <v>gå</v> <p>sönder</p>.
+    t: Munimos a máquina de um conjunto de lâmpadas de controlo que nos avisa e nos
+      diz que, se uma das lâmpadas emite uma luz vermelha, é porque algo está mal
+      e é preciso intervir imediatamente, para que a máquina não <a>avarie</a>.
+- c: 1
+  r: 2
+  v: ir abaixo atar
+  x:
+  - s: Jag vill fråga min kollega hur många kärnkraftverk som måste <v>gå</v> <p>sönder</p>
+      innan hon tycker att det räcker?
+    t: Senhor Presidente, gostaria de perguntar à minha colega quantas centrais nucleares
+      terão de <a>ir</a> <a>abaixo</a> <a>ate</a> que ela diga que chega.
+- c: 1
+  r: 2
+  v: ir furar
+  x:
+  - s: De skulle kunna föra med sig en höjd bakterienivå om de <v>går</v> <p>sönder</p>,
+      och öka kostnaderna för transportörerna.
+    t: podem dar origem ao aumento dos níveis de bactérias, se a parede <a>for</a>
+      <a>furada</a>, e aumentarão os custos para os transportadores.
+- c: 1
+  r: 2
+  v: mina
+  x:
+  - s: För övrigt har en behållare med cyanid just <v>gått</v> <p>sönder</p> i Rumänien,
+      något som utgör ett hot mot grundvattenakviferer som förser Jugoslaviens befolkning
+      med vatten.
+    t: Refira-se, aliás, o derrame de cianeto de uma <a>mina</a> de ouro na Roménia
+      que constitui uma ameaça para os aquíferos que abastecem a população da Jugoslávia.
+- c: 1
+  r: 2
+  v: minar
+  x:
+  - s: Av denna sortens politiska och moraliska skenhelighet <v>går</v> den internationella
+      gemenskapen <p>sönder</p>.
+    t: Esta hipocrisia política e moral <a>mina</a> a comunidade internacional.
+- c: 1
+  r: 2
+  v: montar
+  x:
+  - s: Alla vi i Europaparlamentet och rådet måste verkligen bemöda oss om att den
+      här kuben inte ska <v>gå</v> <p>sönder</p>.
+    t: Todos nós, no Parlamento Europeu e no Conselho, devemos ter o cuidado de manter
+      este cubo <a>montado</a>.
+- c: 1
+  r: 2
+  v: partir
+  x:
+  - s: Om den skulle <v>gå</v> <p>sönder</p> har man inga fler.
+    t: Quando se <a>parte</a>, não temos mais nada.
+  - s: Barometrar kan <v>gå</v> <p>sönder</p> och läcka så att kvicksilvret ändå hamnar
+      i naturen.
+    t: Os barómetros podem <a>partir</a><a>-se</a> ou apresentar fugas, pelo que o
+      mercúrio acaba por passar para o ambiente.
+- c: 1
+  r: 2
+  v: partir
+  x:
+  - s: Om den skulle <v>gå</v> <p>sönder</p> har man inga fler.
+    t: Quando se <a>parte</a>, não temos mais nada.
+  - s: Barometrar kan <v>gå</v> <p>sönder</p> och läcka så att kvicksilvret ändå hamnar
+      i naturen.
+    t: Os barómetros podem <a>partir</a><a>-se</a> ou apresentar fugas, pelo que o
+      mercúrio acaba por passar para o ambiente.
+- c: 1
+  r: 2
+  v: poder quebrar
+  x:
+  - s: Vi måste påminna våra medborgare om att dessa instrument kan utgöra en hälsorisk
+      och ett hot mot miljön eftersom de lätt <v>går</v> <p>sönder</p> och ofta slängs.
+    t: Devemos recordar aos nossos cidadãos que estes instrumentos podem constituir
+      um risco para a saúde e para o ambiente, pois <a>podem</a> <a>quebrar</a><a>-se</a>
+      com facilidade e acabar em aterros sanitários, ou, pior ainda, se incinerado,
+      o mercúrio dispersa-se na atmosfera, poluindo o ar, o solo e a água.
+- c: 1
+  r: 2
+  v: quebrar
+  x:
+  - s: Produkter kan <v>gå</v> <p>sönder</p> eller läcka så att kvicksilver kommer
+      ut i naturen ändå.
+    t: Esses produtos podem <a>quebrar</a><a>-se</a> ou derramar o mercúrio neles
+      contido, pelo que essa substância acaba por penetrar no ambiente.
+- c: 1
+  r: 2
+  v: remediar
+  x:
+  - s: Detta är extremt klokt eftersom förebyggande åtgärder alltid är bättre - mycket
+      bättre - än att laga något som har <v>gått</v> <p>sönder</p>.
+    t: Isto é muito sensato, uma vez que é sempre melhor - muito melhor - prevenir
+      do que <a>remediar</a>.
+- c: 1
+  r: 2
+  v: ruptura
+  x:
+  - s: I går inträffade en fruktansvärd katastrof i den spanska staden Melilla där
+      några vattenreservoarer <v>gick</v> <p>sönder</p> och dränkte viktiga delar
+      av staden med det tragiska resultatet av nio döda, många skadade och betydande
+      materiella skador.
+    t: a <a>ruptura</a> de depósitos de água provocaram inundações de certa gravidade
+      em vários bairros da cidade, conduzindo ao trágico resultado de nove mortos,
+      numerosos feridos e perdas materiais avultadas.
+- c: 1
+  r: 2
+  v: ruptura ir
+  x:
+  - s: Emellertid är det som har hänt i Melilla denna måndag, efter att en vattenreservoar
+      med 20 000 kubikmeter <v>gått</v> <p>sönder</p>, historien om en förebådad katastrof.
+    t: No entanto, o que aconteceu em Melilha na segunda-feira passada, na sequência
+      da <a>ruptura</a> de um depósito de água de 20 000 m³, <a>foi</a> a história
+      de uma tragédia anunciada.
+- c: 1
+  r: 2
+  v: estragar
+  x:
+  - s: Här ser man ju i realiteten, i såväl små som stora affärer i vilken grad det
+      Europa från Nice, som skapats för att vara en dynamik, har <v>gått</v> <p>sönder</p>,
+      varaktigt, av skäl som Bourlanges mycket väl beskrev dagen efter toppmötet i
+      Nice.
+    t: Na realidade, verificamos aqui, nos casos pequenos como nos grandes, a que
+      ponto a Europa de Nice, concebida como uma dinâmica, está <a>estragada</a>,
+      francamente avariada, pelas razões que o senhor deputado Bourlanges descreveu
+      muito bem no rescaldo da Cimeira de Nice.
+- c: 1
+  r: 2
+  v: degradante
+  x:
+  - s: I källaren har avloppsrören <v>gått</v> <p>sönder</p>.
+    t: A situação é <a>degradante</a>.

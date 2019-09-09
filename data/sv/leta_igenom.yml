@@ -1,0 +1,27 @@
+---
+en:
+- c: 1
+  r: 1
+  v: ransack
+  x:
+  - s: Jag ber er att notera i protokollet att jag i dag upptäckt att någon har <v>letat</v>
+      <p>igenom</p> mitt kontor och att rutorna var sönderslagna samt att en radioapparat
+      har stulits, trots att jag lämnat kontoret låst efter det senaste sammanträdet,
+      och även i dag intressant nog påträffat det låst.
+    t: Mr President, would you please have it recorded in the Minutes that today I
+      found my office <a>ransacked</a> and full of broken glasses and a radio missing,
+      even though I had locked the office doors after the last part-session and, interestingly
+      enough, found them locked again today.
+pt:
+- c: 1
+  r: 1
+  v: encontrar
+  x:
+  - s: Jag ber er att notera i protokollet att jag i dag upptäckt att någon har <v>letat</v>
+      <p>igenom</p> mitt kontor och att rutorna var sönderslagna samt att en radioapparat
+      har stulits, trots att jag lämnat kontoret låst efter det senaste sammanträdet,
+      och även i dag intressant nog påträffat det låst.
+    t: Senhor Presidente, solicito que fique registado em acta que hoje <a>encontrei</a>
+      o meu gabinete remexido e com vidros partidos, e que foi roubado um aparelho
+      de rádio, embora eu tenha deixado o gabinete fechado depois da última sessão
+      e curiosamente também hoje o encontrei fechado.

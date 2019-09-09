@@ -1,0 +1,279 @@
+---
+de:
+- c: 1
+  r: 1
+  v: haben
+  x:
+  - s: När jag <v>läste</v> <p>in</p> mig på den här historien måste jag säga att
+      jag stötte på den ena katastrofen efter den andra.
+    t: Als ich mich in diese Geschichte hineingelesen <a>habe</a>, muss ich sagen,
+      bin ich von einer Katastrophe in die andere gefallen.
+- c: 1
+  r: 1
+  v: entnehmen
+  x:
+  - s: I betänkandet <v>läser</v> jag emellertid också <p>in</p> en omsorg om barnet
+      som sådant och dess rättigheter och det är just i ljuset av detta värde som
+      jag tolkar punkt 27, som för mig är den punkt som behandlar det politiska ansvaret
+      betydligt bättre än punkt 29.
+    t: Dem Bericht <a>entnehme</a> ich jedoch auch ein Augenmerk auf den Wert des
+      Kindes an sich und seine Rechte.
+- c: 1
+  r: 1
+  v: nachlesen
+  x:
+  - s: Jag är övertygad om att allmänheten och parlamenten kommer att få egna kopior
+      av den konsoliderade texten och kan <v>läsa</v> <p>in</p> sig på vad fördraget
+      i själva verket går ut på.
+    t: Ich bin sicher, dass die Bürger und die Parlamente sich einen Text besorgen
+      werden und dann wirklich <a>nachlesen</a>, worum es hier geht.
+- c: 1
+  r: 1
+  v: überinterpretieren
+  x:
+  - s: Jag anser att de som uttalar sig i den offentliga debatten <v>läser</v> <p>in</p>
+      alltför mycket i den rapport som kommissionen nu har lagt fram om uppköpsdirektivets
+      genomförande, för i rapporten sägs i själva verket varken mer eller mindre än
+      att direktivet på det hela taget har genomförts riktigt av medlemsstaterna,
+      som har begagnat sig av den möjlighet som direktivet erbjuder, vilket precis
+      är avsikten med lagstiftningen.
+    t: Der Bericht, den die Kommission jetzt zur Umsetzung der Übernahmerichtlinie
+      vorgelegt hat, wird meines Erachtens in der öffentlichen Debatte <a>überinterpretiert</a>.
+en:
+- c: 2
+  r: 1
+  v: read
+  x:
+  - s: I betänkandet <v>läser</v> jag emellertid också <p>in</p> en omsorg om barnet
+      som sådant och dess rättigheter och det är just i ljuset av detta värde som
+      jag tolkar punkt 27, som för mig är den punkt som behandlar det politiska ansvaret
+      betydligt bättre än punkt 29.
+    t: However, in the report I also <a>read</a> of attention to the value of children
+      in themselves, in their rights, and it is in light of this value that I interpret
+      paragraph 27, which as far as I am concerned deals with political responsibility,
+      as being much better than paragraph 29.
+  - s: Jag skall försöka att inte <v>läsa</v> <p>in</p> något lömskt politiskt motiv
+      i det.
+    t: Mr President, I will try not to <a>read</a> any sinister political motivation
+      into that.
+- c: 1
+  r: 2
+  v: attribute
+  x:
+  - s: Jag vet inte hur många här i kammaren som har läst avtalet eller vet vad det
+      innehåller, men det innehåller inte en del av de saker som en del talare <v>läst</v>
+      <p>in</p> i det i dag.
+    t: I do not know how many people in this House today have read the Agreement or
+      know what it contains but it does not contain some of the things that have been
+      <a>attributed</a> to it by some speakers today.
+- c: 1
+  r: 2
+  v: be
+  x:
+  - s: Det <v>lästes</v> <p>in</p> en sorts legalisering i det och läkare skulle även
+      få möjlighet att ordinera heroin.
+    t: A kind of legalisation <a>was</a> mooted together, with the possibility of
+      obtaining heroin on a doctor’s prescription.
+- c: 1
+  r: 2
+  v: be read up
+  x:
+  - s: När jag <v>läste</v> <p>in</p> mig på den här historien måste jag säga att
+      jag stötte på den ena katastrofen efter den andra.
+    t: When I <a>was</a> <a>reading</a> <a>up</a> on this matter, I have to say it
+      was like going from one disaster to another.
+- c: 1
+  r: 2
+  v: immerse
+  x:
+  - s: När jag hade <v>läst</v> <p>in</p> mig något mer på materialet, var jag mycket
+      förvånad över innehållet.
+    t: Once I had <a>immersed</a> myself more deeply in the subject, I was amazed
+      to learn what this was all about.
+- c: 1
+  r: 2
+  v: read up
+  x:
+  - s: Jag är övertygad om att allmänheten och parlamenten kommer att få egna kopior
+      av den konsoliderade texten och kan <v>läsa</v> <p>in</p> sig på vad fördraget
+      i själva verket går ut på.
+    t: I am sure that the public and the parliaments will obtain copies of the consolidated
+      text for themselves and <a>read</a> <a>up</a> on what the Treaty is really all
+      about.
+es:
+- c: 1
+  r: 1
+  v: ver
+  x:
+  - s: Jag skall försöka att inte <v>läsa</v> <p>in</p> något lömskt politiskt motiv
+      i det.
+    t: Señor Presidente, trataré de no <a>ver</a> ninguna siniestra motivación política
+      en ello.
+- c: 1
+  r: 1
+  v: atribuir
+  x:
+  - s: Jag vet inte hur många här i kammaren som har läst avtalet eller vet vad det
+      innehåller, men det innehåller inte en del av de saker som en del talare <v>läst</v>
+      <p>in</p> i det i dag.
+    t: No sé cuántas personas de los aquí presentes han leído el Acuerdo o conocen
+      su contenido, pero no contiene algunas de las cosas que le han <a>atribuido</a>
+      hoy algunos oradores.
+- c: 1
+  r: 1
+  v: enterarse
+  x:
+  - s: Jag är övertygad om att allmänheten och parlamenten kommer att få egna kopior
+      av den konsoliderade texten och kan <v>läsa</v> <p>in</p> sig på vad fördraget
+      i själva verket går ut på.
+    t: Estoy seguro de que el público en general y los parlamentos obtendrán copias
+      del texto consolidado para si, y podrán <a>enterarse</a> de lo que va realmente
+      el Tratado.
+- c: 1
+  r: 1
+  v: interpretar
+  x:
+  - s: Jag anser att de som uttalar sig i den offentliga debatten <v>läser</v> <p>in</p>
+      alltför mycket i den rapport som kommissionen nu har lagt fram om uppköpsdirektivets
+      genomförande, för i rapporten sägs i själva verket varken mer eller mindre än
+      att direktivet på det hela taget har genomförts riktigt av medlemsstaterna,
+      som har begagnat sig av den möjlighet som direktivet erbjuder, vilket precis
+      är avsikten med lagstiftningen.
+    t: Creo que aquellos que hablan en debates públicos <a>interpretan</a> demasiadas
+      cosas del informe que la Comisión ha presentado ahora sobre la aplicación de
+      la Directiva relativa a las ofertas públicas de adquisición, porque de hecho
+      el informe simplemente dice que la Directiva ha sido aplicada, en gran medida,
+      de manera satisfactoria por los Estados miembros, que se han acogido a la opción
+      que ofrece la misma, que es precisamente la intención que subyace a la legislación.
+- c: 1
+  r: 1
+  v: profundizar
+  x:
+  - s: När jag hade <v>läst</v> <p>in</p> mig något mer på materialet, var jag mycket
+      förvånad över innehållet.
+    t: Luego, cuando <a>profundicé</a> un poco más en el asunto, me quedé muy asombrado
+      al descubrir de qué se trataba.
+fr:
+- c: 2
+  r: 1
+  v: lire
+  x:
+  - s: Jag är övertygad om att allmänheten och parlamenten kommer att få egna kopior
+      av den konsoliderade texten och kan <v>läsa</v> <p>in</p> sig på vad fördraget
+      i själva verket går ut på.
+    t: Je suis sûr que le public et les parlements obtiendront des copies du texte
+      consolidé et <a>liront</a> ce que renferme le traité.
+  - s: Det <v>lästes</v> <p>in</p> en sorts legalisering i det och läkare skulle även
+      få möjlighet att ordinera heroin.
+    t: On y <a>lisait</a> une sorte de légalisation et d’après le rapport, la prescription
+      médicale d’héroïne devait être rendue possible.
+- c: 1
+  r: 2
+  v: donner
+  x:
+  - s: Vi beklagar att det framlagda resolutionsförslaget i slutändan har försvagats
+      jämfört med den motivering han skrev, och det är anledningen till att vi ansåg
+      det lämpligt att lägga fram några ändringsförslag för att förstärka det politiska
+      budskap som man kan <v>läsa</v> <p>in</p> i betänkandet.
+    t: Nous regrettons que la proposition de résolution qui nous est soumise soit
+      finalement en retrait par rapport à l’exposé des motifs qu’il avait rédigé,
+      et c’est la raison pour laquelle nous avons cru opportun d’introduire quelques
+      amendements afin de renforcer le message politique que l’on pourrait <a>donner</a>
+      au rapport.
+- c: 1
+  r: 2
+  v: accorder
+  x:
+  - s: Jag anser att de som uttalar sig i den offentliga debatten <v>läser</v> <p>in</p>
+      alltför mycket i den rapport som kommissionen nu har lagt fram om uppköpsdirektivets
+      genomförande, för i rapporten sägs i själva verket varken mer eller mindre än
+      att direktivet på det hela taget har genomförts riktigt av medlemsstaterna,
+      som har begagnat sig av den möjlighet som direktivet erbjuder, vilket precis
+      är avsikten med lagstiftningen.
+    t: J’ai l’impression que les intervenants dans les débats publics <a>accordent</a>
+      trop d’importance au rapport à présent rendu disponible par la Commission sur
+      la mise en œuvre de la directive relative aux OPA, car en réalité ce rapport
+      dit, ni plus ni moins, que, de manière générale, la directive a été correctement
+      mise en œuvre par les États membres, lesquels ont tiré profit de la possibilité
+      qu’offrait cette législation, ce pour quoi celle-ci avait précisément été conçue.
+it:
+- c: 1
+  r: 1
+  v: documentare
+  x:
+  - s: Jag är övertygad om att allmänheten och parlamenten kommer att få egna kopior
+      av den konsoliderade texten och kan <v>läsa</v> <p>in</p> sig på vad fördraget
+      i själva verket går ut på.
+    t: Sono sicuro che il pubblicoe i parlamentiriceveranno copiedel testo consolidatoper
+      sée si <a>documenteranno</a> sui contenuti effettivi del trattato.
+- c: 1
+  r: 1
+  v: interpretare
+  x:
+  - s: Jag skall försöka att inte <v>läsa</v> <p>in</p> något lömskt politiskt motiv
+      i det.
+    t: Signor Presidente, cercherò di non <a>interpretare</a> tutto ciò come una sinistra
+      macchinazione politica.
+- c: 1
+  r: 1
+  v: leggere
+  x:
+  - s: Jag vet inte hur många här i kammaren som har läst avtalet eller vet vad det
+      innehåller, men det innehåller inte en del av de saker som en del talare <v>läst</v>
+      <p>in</p> i det i dag.
+    t: Non so quanti di coloro che sono oggi presenti in quest’Aula abbiano letto
+      il testo dell’accordo o ne conoscano il contenuto, ma quei colleghi che oggi,
+      nel loro intervento, hanno attribuito all’accordo cose che esso non prevede
+      non possono certo averlo <a>letto</a>.
+pt:
+- c: 1
+  r: 1
+  v: debruçar
+  x:
+  - s: När jag hade <v>läst</v> <p>in</p> mig något mer på materialet, var jag mycket
+      förvånad över innehållet.
+    t: Quando me <a>debrucei</a> sobre o assunto, fiquei muito admirado com a matéria.
+- c: 1
+  r: 1
+  v: atribuir
+  x:
+  - s: Jag vet inte hur många här i kammaren som har läst avtalet eller vet vad det
+      innehåller, men det innehåller inte en del av de saker som en del talare <v>läst</v>
+      <p>in</p> i det i dag.
+    t: Não sei quantas pessoas que hoje se encontram nesta assembleia leram o acordo
+      ou sabem o que ele contém, mas não contém algumas das coisas que lhe foram <a>atribuídas</a>
+      por alguns dos oradores que hoje ouvimos.
+- c: 1
+  r: 1
+  v: começar familiarizar
+  x:
+  - s: När jag <v>läste</v> <p>in</p> mig på den här historien måste jag säga att
+      jag stötte på den ena katastrofen efter den andra.
+    t: Quando me <a>comecei</a> a <a>familiarizar</a> com este assunto, tenho de dizer
+      que passei de catástrofe em catástrofe.
+- c: 1
+  r: 1
+  v: ler
+  x:
+  - s: Jag anser därför att vi bör vidta stor försiktighet och undvika att <v>läsa</v>
+      <p>in</p> alltför mycket i dessa fakta, vilket vissa personer har gjort.
+    t: Creio, portanto, que devíamos usar de grande precaução e evitar <a>ler</a>
+      demasiado nos factos, como fizeram certas pessoas.
+- c: 1
+  r: 1
+  v: inteirar
+  x:
+  - s: Jag är övertygad om att allmänheten och parlamenten kommer att få egna kopior
+      av den konsoliderade texten och kan <v>läsa</v> <p>in</p> sig på vad fördraget
+      i själva verket går ut på.
+    t: Estou certo de que o público em geral e os parlamentos obterão cópias do texto
+      consolidado para poderem <a>inteirar</a>-se do que se encontra realmente no
+      Tratado.
+- c: 1
+  r: 1
+  v: descortinar
+  x:
+  - s: Det <v>lästes</v> <p>in</p> en sorts legalisering i det och läkare skulle även
+      få möjlighet att ordinera heroin.
+    t: Nele se <a>descortinava</a> uma espécie de legalização, além da defesa de que
+      deveria tornar-se possível a prescrição médica de heroína.

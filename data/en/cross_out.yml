@@ -1,0 +1,63 @@
+---
+de:
+- c: 1
+  r: 1
+  v: streichen
+  x:
+  - s: I should like to ask the Council to be a little more circumspect in its announcements
+      and promises in the future unless, at the same time, it intends to tell us what
+      we should <v>cross</v> <p>out</p> elsewhere.
+    t: Den Rat darf ich bitten, in Zukunft mit seinen Ankündigungen und Versprechungen
+      etwas zurückhaltender zu sein, wenn er nicht gleichzeitig sagt, an welcher anderen
+      Stelle wir <a>streichen</a> sollen.
+es:
+- c: 1
+  r: 1
+  v: realizar
+  x:
+  - s: I should like to ask the Council to be a little more circumspect in its announcements
+      and promises in the future unless, at the same time, it intends to tell us what
+      we should <v>cross</v> <p>out</p> elsewhere.
+    t: Me permito rogar al Consejo que en el futuro sea algo más precavido con sus
+      anuncios y promesas si no dice al mismo tiempo en qué posiciones debemos <a>realizar</a>
+      recortes.
+it:
+- c: 1
+  r: 1
+  v: cancellare
+  x:
+  - s: and we must <v>cross</v> <p>out</p> heading I concerning the integration of
+      objectives that are assigned to it, and harness minimum income as a means to
+      assist financially, at a given time, a person or family experiencing hardship.
+    t: e dobbiamo <a>cancellare</a> la rubrica I concernente l’integrazione degli
+      obiettivi ad essa assegnati, e sfruttare il reddito minimo quale mezzo per assistere
+      finanziariamente, in un dato momento, un individuo o famiglia in difficoltà.
+pt:
+- c: 1
+  r: 1
+  v: eliminar
+  x:
+  - s: and we must <v>cross</v> <p>out</p> heading I concerning the integration of
+      objectives that are assigned to it, and harness minimum income as a means to
+      assist financially, at a given time, a person or family experiencing hardship.
+    t: <a>eliminar</a> o título I, relativo à integração dos objectivos que lhe são
+      atribuídos, e activar o rendimento mínimo como meio de, em dado momento, ajudar
+      financeiramente uma pessoa, ou uma família, em dificuldades.
+sv:
+- c: 2
+  r: 1
+  v: stryka
+  x:
+  - s: and we must <v>cross</v> <p>out</p> heading I concerning the integration of
+      objectives that are assigned to it, and harness minimum income as a means to
+      assist financially, at a given time, a person or family experiencing hardship.
+    t: Vi måste integrera minimiinkomsten i en samordnad och omfattande politik för
+      att hjälpa utsatta människor (tillgång till bostäder, hälso- och sjukvård, barnomsorg
+      och hemtjänst) och vi måste <a>stryka</a> rubrik I angående integration av de
+      dithörande målen och använda minimiinkomsten som en form av ekonomiskt stöd
+      under en viss tid till en person eller familj som har drabbats av svårigheter.
+  - s: I should like to ask the Council to be a little more circumspect in its announcements
+      and promises in the future unless, at the same time, it intends to tell us what
+      we should <v>cross</v> <p>out</p> elsewhere.
+    t: Jag vill be att rådet i framtiden är lite mer återhållsam i sina uttalanden
+      och löften, om det inte samtidigt kan tala om vad vi skall <a>stryka</a>.

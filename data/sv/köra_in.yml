@@ -1,0 +1,481 @@
+---
+de:
+- c: 1
+  r: 1
+  v: dort ineinander fahren
+  x:
+  - s: fartyg <v>körde</v> <p>in</p> i varandra.
+    t: Schiffe sind <a>dort</a> <a>ineinander</a> <a>gefahren</a>.
+- c: 1
+  r: 1
+  v: fahren
+  x:
+  - s: ett självmordskommando <v>körde</v> <p>in</p> i en regeringsbyggnad med en
+      lastbil.
+    t: Heute höre ich, dass es am Morgen erneut zu einem Anschlag im Norden von Tschetschenien
+      gekommen ist, bei dem ein Selbstmordkommando mit einem LKW in ein Regierungsgebäude
+      <a>gefahren</a> ist.
+- c: 1
+  r: 1
+  v: hineinlassen
+  x:
+  - s: De låter inga tjänstebilar <v>köra</v> <p>in</p>.
+    t: Die offiziellen Fahrzeuge werden nicht <a>hineingelassen</a>.
+- c: 1
+  r: 1
+  v: hineinlassen werden
+  x:
+  - s: 88 procent av befolkningen är beroende av livsmedelsbistånd, sjukhusen saknar
+      nödvändig utrustning och tusentals ton av biståndet går till spillo, eftersom
+      inte tillräckligt med lastbilar tillåts att <v>köra</v> <p>in</p> i Gaza.
+    t: Achtundachtzig Prozent der Bevölkerung benötigt Lebensmittelhilfe, es fehlt
+      an der grundlegenden medizinischen Versorgung der Krankenhäuser und Tausende
+      Tonnen Hilfsgüter können nicht nach Gaza gebracht werden, weil nicht ausreichende
+      Lkws <a>hineingelassen</a> <a>werden</a>.
+- c: 1
+  r: 1
+  v: Keil
+  x:
+  - s: Det vi lär av historien är att vi, som institutioner, bör ha förtroende för
+      att vi kan samarbeta bra tillsammans, och inte låta dem som har andra intressen
+      <v>köra</v> <p>in</p> en kil mellan oss.
+    t: Wir sollten als Institutionen untereinander darauf vertrauen, dass wir gut
+      zusammenarbeiten, und nicht von denen, die andere Interessen vertreten, einen
+      <a>Keil</a> zwischen uns treiben lassen.
+en:
+- c: 4
+  r: 1
+  v: enter
+  x:
+  - s: Fortfarande har ingen velat säga var de kassetter som registrerade trafiken
+      i tunneln har tagit vägen, och som det i dag inte går att få tag i. Ingen har
+      sagt om den lastbil som kom in från den franska sidan verkligen stod i brand
+      redan när den <v>körde</v> <p>in</p> i tunneln, och vi slösar tid på att försöka
+      förklara en liten skillnad på ett par minuter, en eller två, mellan det franska
+      och det italienska ingripandet.
+    t: No one has been able to tell us whether it is true that the lorry that entered
+      the tunnel from the French side was already on fire as it <a>entered</a> the
+      tunnel, and we waste time trying to establish a tiny difference of a minute
+      or two between the time it took the French and Italians to intervene.
+  - s: Hade militärstridsvagnar hindrat tåget eller lastbilen från att <v>köra</v>
+      <p>in</p> på portugisiskt territorium, för att förvissa sig om att inga lagar
+      skulle brytas och att ingen information skulle kunna nå fram till det portugisiska
+      folket?
+    t: Would army tanks be stopping the train or the TIR from <a>entering</a> Portuguese
+      territory, so as to make sure that there was no chance of the law being broken
+      and so that the Portuguese people were not informed?
+  - s: En lokal åkare i Danmark eller i Förenade kungariket får valuta för sina pengar
+      365 dagar om året, men en utländsk åkare från någon annan medlemsstat som <v>kör</v>
+      <p>in</p> i landet - kanske för att stanna en eller två eller tio eller till
+      och med hundra dagar - får det inte.
+    t: The local haulier in Denmark or in the UK will get his full money’s worth 365
+      days a year, but the foreign haulier from another Member State <a>entering</a>
+      that country - maybe for one or two days or ten days or even 100 days - will
+      not.
+  - s: Exempelvis skulle nya fordon, som från och med år 2000 utrustats med det digitala
+      systemet, inte längre kunna <v>köra</v> <p>in</p> i länderna i Central- och
+      Östeuropa, eftersom man där inte har någon lämplig avläsningsapparatur och polisen
+      där inte är utrustad med erforderliga instrument.
+    t: for example, new vehicles fitted with the digital system from 2000 onwards
+      might no longer be able to <a>enter</a> the countries of central and eastern
+      Europe because the appropriate reading equipment is not available there and
+      their police are not equipped with the necessary apparatus.
+- c: 1
+  r: 2
+  v: enter car
+  x:
+  - s: Mitt önskemål är att mittenfilen halveras, så att vi utan att behöva backa
+      kan <v>köra</v> <p>in</p> i huset.
+    t: My heartfelt request is that this central reservation is halved in size so
+      that we can <a>enter</a> the <a>car</a> park without having to reverse.
+- c: 1
+  r: 2
+  v: drive
+  x:
+  - s: Det vi lär av historien är att vi, som institutioner, bör ha förtroende för
+      att vi kan samarbeta bra tillsammans, och inte låta dem som har andra intressen
+      <v>köra</v> <p>in</p> en kil mellan oss.
+    t: The lesson from history is that, as institutions, we should have faith in the
+      fact that we can cooperate well together, and should not let those who have
+      other interests <a>drive</a> a wedge between us.
+- c: 1
+  r: 2
+  v: embark
+  x:
+  - s: De senare skulle beröra de stater, som är lierade med Europeiska unionen och
+      som skulle <v>köra</v> <p>in</p> på en sådan väg, som är överströdd med risker
+      och fallgropar.
+    t: These would be imposed on any states linked to the European Union that <a>embark</a>
+      on this road, which is a minefield of risks and traps.
+es:
+- c: 2
+  r: 1
+  v: entrada
+  x:
+  - s: Fortfarande har ingen velat säga var de kassetter som registrerade trafiken
+      i tunneln har tagit vägen, och som det i dag inte går att få tag i. Ingen har
+      sagt om den lastbil som kom in från den franska sidan verkligen stod i brand
+      redan när den <v>körde</v> <p>in</p> i tunneln, och vi slösar tid på att försöka
+      förklara en liten skillnad på ett par minuter, en eller två, mellan det franska
+      och det italienska ingripandet.
+    t: Nadie nos ha dicho si es verdad que el camión que entró por la boca francesa
+      ya estaba en llamas a la <a>entrada</a> del túnel, y nos entretenemos en calcular
+      una pequeña diferencia de minutos, uno o dos, entre la intervención francesa
+      y la italiana.
+  - s: Andra som använder brittiska vägar kommer att tvingas betala en särskild skatt
+      vid gränsen när de <v>kör</v> <p>in</p> i Förenade kungariket.
+    t: Otros usuarios de las carreteras británicas tendrán que pagar una tasa especial
+      en la frontera a la <a>entrada</a> en el Reino Unido.
+- c: 1
+  r: 2
+  v: circular
+  x:
+  - s: Exempelvis skulle nya fordon, som från och med år 2000 utrustats med det digitala
+      systemet, inte längre kunna <v>köra</v> <p>in</p> i länderna i Central- och
+      Östeuropa, eftersom man där inte har någon lämplig avläsningsapparatur och polisen
+      där inte är utrustad med erforderliga instrument.
+    t: por ejemplo, vehículos nuevos, equipados con el sistema digital a partir del
+      año 2000, no podrían <a>circular</a> en los países de la Europa central y oriental,
+      porque en tales países no se dispone de los correspondientes aparatos de lectura
+      y la policía no se encuentra equipada con los instrumentos pertinentes.
+- c: 1
+  r: 2
+  v: conductor
+  x:
+  - s: Jag ser t.ex. att i Frankrike behöver taxiförarna inte använda säkerhetsbälte,
+      men om de <v>kör</v> <p>in</p> i Tyskland är det obligatoriskt.
+    t: Por otra parte, había un problema con los <a>conductores</a> de motocicletas,
+      pero pienso que todos esos problemas se están resolviendo.
+- c: 1
+  r: 2
+  v: distraer haber vehículo
+  x:
+  - s: Ouppmärksamma förare <v>kör</v> <p>in</p> i bilköer för att deras reaktionsförmåga
+      är för långsam.
+    t: Algunos camioneros <a>distraídos</a> <a>han</a> chocado contra otros <a>vehículos</a>
+      retenidos en algún atasco por reaccionar con excesiva lentitud.
+- c: 1
+  r: 2
+  v: entrada vehículo
+  x:
+  - s: De låter inga tjänstebilar <v>köra</v> <p>in</p>.
+    t: No permiten la <a>entrada</a> de los <a>vehículos</a> oficiales.
+- c: 1
+  r: 2
+  v: haber entrar
+  x:
+  - s: Tröskelvärdet skulle ha överskridits med 0,6 procent, 10 000 transitresor,
+      men enligt en studie från kommissionen har 92 000 fordon <v>körts</v> <p>in</p>
+      i Österrike utan att komma ut igen.
+    t: el sistema de comprobación no es fiable, el techo crítico resultaría superado
+      en un 0,6%, 10.000 tránsitos, pero según un estudio de la Comisión hay 92.000
+      vehículos que <a>han</a> <a>entrado</a> en Austria y no han salido.
+- c: 1
+  r: 2
+  v: chocar
+  x:
+  - s: fartyg <v>körde</v> <p>in</p> i varandra.
+    t: barcos que <a>chocaron</a> contra otros.
+- c: 1
+  r: 2
+  v: acceder
+  x:
+  - s: Mitt önskemål är att mittenfilen halveras, så att vi utan att behöva backa
+      kan <v>köra</v> <p>in</p> i huset.
+    t: Pido, cordialmente, que se reduzca a la mitad esta franja central para podamos
+      <a>acceder</a> sin tener que retroceder.
+- c: 1
+  r: 2
+  v: caer
+  x:
+  - s: Men för det transatlantiska ekonomiska partnerskapet har man valt en förhandlingsmetod,
+      som tydligt visar att medlemsstaterna riskerar att <v>köra</v> <p>in</p> i samma
+      gamla hjulspår som tidigare, om inte Amsterdamfördraget stoppas nu.
+    t: Sin embargo, el método de negociación aprobado por la Asociación Económica
+      Trasatlántica muestra bien que, si no se detiene el Tratado de Amsterdam hoy,
+      los Estados miembros corren el riesgo de <a>caer</a> en el mismo hábito que
+      en el pasado.
+fr:
+- c: 1
+  r: 1
+  v: conducteur voie
+  x:
+  - s: Jag ser t.ex. att i Frankrike behöver taxiförarna inte använda säkerhetsbälte,
+      men om de <v>kör</v> <p>in</p> i Tyskland är det obligatoriskt.
+    t: Il y avait par ailleurs un problème avec les <a>conducteurs</a> de motos, mais
+      je pense que tous ces problèmes sont en <a>voie</a> de règlement.
+- c: 1
+  r: 1
+  v: camion
+  x:
+  - s: Ouppmärksamma förare <v>kör</v> <p>in</p> i bilköer för att deras reaktionsförmåga
+      är för långsam.
+    t: Certains conducteurs de <a>camion</a> inattentifs emboutissent des files parce
+      que leur temps de réaction est trop long.
+- c: 1
+  r: 1
+  v: commando
+  x:
+  - s: ett självmordskommando <v>körde</v> <p>in</p> i en regeringsbyggnad med en
+      lastbil.
+    t: un <a>commando</a> suicide est rentré dans un bâtiment officiel avec un camion.
+- c: 1
+  r: 1
+  v: entrée
+  x:
+  - s: Fortfarande har ingen velat säga var de kassetter som registrerade trafiken
+      i tunneln har tagit vägen, och som det i dag inte går att få tag i. Ingen har
+      sagt om den lastbil som kom in från den franska sidan verkligen stod i brand
+      redan när den <v>körde</v> <p>in</p> i tunneln, och vi slösar tid på att försöka
+      förklara en liten skillnad på ett par minuter, en eller två, mellan det franska
+      och det italienska ingripandet.
+    t: Personne ne nous a dit s’il est vrai que le camion venu du côté français était
+      déjà en feu au moment de son <a>entrée</a> dans le tunnel, et nous nous perdons
+      dans la détermination d’une petite différence de minutes entre l’intervention
+      française et l’intervention italienne.
+- c: 1
+  r: 1
+  v: entrer
+  x:
+  - s: De låter inga tjänstebilar <v>köra</v> <p>in</p>.
+    t: Ils ne laissent pas <a>entrer</a> les voitures officielles.
+- c: 1
+  r: 1
+  v: introduire
+  x:
+  - s: I federalisternas ögon skulle den huvudsakliga fördelen med en europeisk åklagare
+      vara att hon eller han <v>kör</v> <p>in</p> en kil i de nationella rättssystemen
+      och dra med sig reformer i en kedjereaktion, till dess att de införlivats fullständigt.
+    t: Aux yeux des fédéralistes, le procureur européen aurait le mérite principal
+      d’<a>introduire</a> un coin dans les systèmes judiciaires nationaux, et d’entraîner
+      des réformes en chaîne jusqu’à l’intégration complète.
+- c: 1
+  r: 1
+  v: occuper
+  x:
+  - s: Hade militärstridsvagnar hindrat tåget eller lastbilen från att <v>köra</v>
+      <p>in</p> på portugisiskt territorium, för att förvissa sig om att inga lagar
+      skulle brytas och att ingen information skulle kunna nå fram till det portugisiska
+      folket?
+    t: Les États ont différentes manières de décider comment la loi doit s’<a>occuper</a>
+      de cette question ou, pour être plus précis, dans une démocratie, ce sont les
+      peuples qui prennent cette décision, et leurs décisions diffèrent.
+- c: 1
+  r: 1
+  v: rentrer
+  x:
+  - s: Mitt önskemål är att mittenfilen halveras, så att vi utan att behöva backa
+      kan <v>köra</v> <p>in</p> i huset.
+    t: Je demande vivement que ces bandes médianes soient réduites de moitié de manière
+      à ce que nous puissions <a>rentrer</a> sans faire marche arrière.
+- c: 1
+  r: 1
+  v: voiture
+  x:
+  - s: I lördags miste nio finska turister livet och nitton blev allvarligt skadade
+      på Spaniens soliga stränder när en berusad förare <v>körde</v> <p>in</p> i deras
+      buss med sin stadsjeep.
+    t: Dans la soirée de samedi dernier, sur les côtes ensoleillées d’Espagne, neuf
+      touristes finlandais ont perdu la vie et 19 ont été gravement blessés, lorsque
+      la <a>voiture</a> de sport d’un conducteur ivre, ayant un pour mille d’alcool
+      dans le sang, a percuté le bus qui transportait ces touristes.
+it:
+- c: 4
+  r: 1
+  v: entrare
+  x:
+  - s: Vi vill också ha ett system där man, under idealiska förhållanden, elektroniskt
+      kan kontrollera varje får i en fullastad lastbil som <v>kör</v> <p>in</p> på
+      en marknad.
+    t: Voi volete anche unsistema in cui, quando un autocarro caricodi ovini <a>entra</a>
+      in un mercato, in circostanze ideali, sia possibile controllare elettronicamenteogni
+      pecora sull’autocarro.
+  - s: Andra som använder brittiska vägar kommer att tvingas betala en särskild skatt
+      vid gränsen när de <v>kör</v> <p>in</p> i Förenade kungariket.
+    t: Gli altri utenti delle strade britanniche dovranno pagare un’imposta speciale
+      <a>entrando</a> nel Regno Unito.
+  - s: 88 procent av befolkningen är beroende av livsmedelsbistånd, sjukhusen saknar
+      nödvändig utrustning och tusentals ton av biståndet går till spillo, eftersom
+      inte tillräckligt med lastbilar tillåts att <v>köra</v> <p>in</p> i Gaza.
+    t: L’88 per cento della popolazione necessita di cibo, mancano i presidi medici
+      essenziali negli ospedali e migliaia di tonnellate di aiuti non possono <a>entrare</a>
+      a Gaza perché solo a un numero insufficiente di camion viene concesso il permesso
+      di passare.
+  - s: Mitt önskemål är att mittenfilen halveras, så att vi utan att behöva backa
+      kan <v>köra</v> <p>in</p> i huset.
+    t: La prego caldamente di dimezzare questo spartitraffico in modo che possiamo
+      <a>entrare</a> senza dover mettere la retromarcia.
+- c: 2
+  r: 2
+  v: ingresso
+  x:
+  - s: Fortfarande har ingen velat säga var de kassetter som registrerade trafiken
+      i tunneln har tagit vägen, och som det i dag inte går att få tag i. Ingen har
+      sagt om den lastbil som kom in från den franska sidan verkligen stod i brand
+      redan när den <v>körde</v> <p>in</p> i tunneln, och vi slösar tid på att försöka
+      förklara en liten skillnad på ett par minuter, en eller två, mellan det franska
+      och det italienska ingripandet.
+    t: Nessuno ci ha detto se è vero che il camion entrato dal versante francese fosse
+      veramente già in stato di incendio all’<a>ingresso</a> e ci perdiamo a determinare
+      una piccola differenza di minuti, uno o due, tra l’intervento francese e quello
+      italiano.
+  - s: Hade militärstridsvagnar hindrat tåget eller lastbilen från att <v>köra</v>
+      <p>in</p> på portugisiskt territorium, för att förvissa sig om att inga lagar
+      skulle brytas och att ingen information skulle kunna nå fram till det portugisiska
+      folket?
+    t: Avremmo spedito i carri armati dell’esercito e impedito al treno o al TIR l’<a>ingresso</a>
+      in territorio portoghese, per scongiurare una potenziale violazione della legge
+      e per evitare che i portoghesi potessero informarsi?
+- c: 2
+  r: 2
+  v: conducente
+  x:
+  - s: Jag ser t.ex. att i Frankrike behöver taxiförarna inte använda säkerhetsbälte,
+      men om de <v>kör</v> <p>in</p> i Tyskland är det obligatoriskt.
+    t: Volendo, vi sono numerose aree in cui la Commissione potrebbe intervenire per
+      migliorare la sicurezza, ad esempio ho notato che in Francia per i <a>conducenti</a>
+      di taxi non vige l’obbligo di allacciare le cinture di sicurezza, mentre in
+      Germania sì.
+  - s: Ouppmärksamma förare <v>kör</v> <p>in</p> i bilköer för att deras reaktionsförmåga
+      är för långsam.
+    t: In caso di code, l’imprudenza di tali <a>conducenti</a> può provocare dei tamponamenti
+      per la lentezza delle loro reazioni.
+- c: 1
+  r: 3
+  v: potere
+  x:
+  - s: WTO-cykeln får inte <v>köra</v> <p>in</p> i väggen 2007 när förhandlingsmandatet
+      som Bush fått från kongressen löper ut.
+    t: La bicicletta dell’OMC non <a>può</a> schiantarsi contro un muro nel 2007,
+      una volta scaduto il mandato negoziale affidato all’amministrazione Bush dal
+      Congresso.
+- c: 1
+  r: 3
+  v: entrata
+  x:
+  - s: fartyg <v>körde</v> <p>in</p> i varandra.
+    t: nell’inverno scorso alcune navi sono <a>entrate</a> in collisione.
+- c: 1
+  r: 3
+  v: entrata automobile
+  x:
+  - s: De låter inga tjänstebilar <v>köra</v> <p>in</p>.
+    t: Signora Presidente, in quanto questore del Parlamento europeo, vorrei richiamare
+      la sua attenzione sul fatto che le vie di accesso al Parlamento sono bloccate
+      da un lato da una gran quantità di forze di polizia, che non consentono l’<a>entrata</a>
+      delle <a>automobili</a> ufficiali.
+pt:
+- c: 4
+  r: 1
+  v: entrar
+  x:
+  - s: En lokal åkare i Danmark eller i Förenade kungariket får valuta för sina pengar
+      365 dagar om året, men en utländsk åkare från någon annan medlemsstat som <v>kör</v>
+      <p>in</p> i landet - kanske för att stanna en eller två eller tio eller till
+      och med hundra dagar - får det inte.
+    t: O transportador rodoviário local na Dinamarca ou no Reino Unido verá todo o
+      seu dinheiro bem empregue 365 dias por ano, mas o mesmo não se passará com o
+      transportador rodoviário de outro Estado-Membro que <a>entre</a> nesses países
+      - talvez por um ou dois dias ou por dez dias, ou mesmo por 100 dias.
+  - s: I federalisternas ögon skulle den huvudsakliga fördelen med en europeisk åklagare
+      vara att hon eller han <v>kör</v> <p>in</p> en kil i de nationella rättssystemen
+      och dra med sig reformer i en kedjereaktion, till dess att de införlivats fullständigt.
+    t: Aos olhos dos federalistas, o Procurador Europeu teria o mérito principal de
+      <a>entrar</a> nos sistemas judiciais nacionais e de introduzir reformas em cadeia
+      até à integração total.
+  - s: Exempelvis skulle nya fordon, som från och med år 2000 utrustats med det digitala
+      systemet, inte längre kunna <v>köra</v> <p>in</p> i länderna i Central- och
+      Östeuropa, eftersom man där inte har någon lämplig avläsningsapparatur och polisen
+      där inte är utrustad med erforderliga instrument.
+    t: por exemplo, a partir do ano 2000, os veículos novos equipados com o sistema
+      digital, não poderiam <a>entrar</a> nos países da Europa Central e Oriental,
+      pelo simples facto de nestes países não se possuir os respectivos aparelhos
+      de leitura e a polícia não estar equipada com os instrumentos necessários.
+  - s: Mitt önskemål är att mittenfilen halveras, så att vi utan att behöva backa
+      kan <v>köra</v> <p>in</p> i huset.
+    t: Peço encarecidamente que se divida ao meio esta faixa central, a fim de que
+      possamos <a>entrar</a> sem ter de fazer marcha atrás.
+- c: 3
+  r: 2
+  v: entrada
+  x:
+  - s: Fortfarande har ingen velat säga var de kassetter som registrerade trafiken
+      i tunneln har tagit vägen, och som det i dag inte går att få tag i. Ingen har
+      sagt om den lastbil som kom in från den franska sidan verkligen stod i brand
+      redan när den <v>körde</v> <p>in</p> i tunneln, och vi slösar tid på att försöka
+      förklara en liten skillnad på ett par minuter, en eller två, mellan det franska
+      och det italienska ingripandet.
+    t: Ninguém nos disse se é verdade que o camião que entrou pelo lado francês já
+      estava realmente em estado de incêndio no momento da sua <a>entrada</a> e perdemo-nos
+      a determinar uma pequena diferença de minutos, um ou dois, entre a intervenção
+      francesa e a intervenção italiana.
+  - s: Andra som använder brittiska vägar kommer att tvingas betala en särskild skatt
+      vid gränsen när de <v>kör</v> <p>in</p> i Förenade kungariket.
+    t: Os outros utilizadores das estradas britânicas terão de pagar uma taxa especial
+      na fronteira, aquando da sua <a>entrada</a> no Reino Unido.
+  - s: 88 procent av befolkningen är beroende av livsmedelsbistånd, sjukhusen saknar
+      nödvändig utrustning och tusentals ton av biståndet går till spillo, eftersom
+      inte tillräckligt med lastbilar tillåts att <v>köra</v> <p>in</p> i Gaza.
+    t: Oitenta e oito por cento da população tem necessidade de ajuda alimentar, há
+      falta de suprimentos médicos essenciais nos hospitais, e milhares de toneladas
+      de ajuda não podem ser transportadas para Gaza porque não é permitida a <a>entrada</a>
+      do número de camiões suficientes.
+- c: 1
+  r: 3
+  v: embriagar
+  x:
+  - s: I lördags miste nio finska turister livet och nitton blev allvarligt skadade
+      på Spaniens soliga stränder när en berusad förare <v>körde</v> <p>in</p> i deras
+      buss med sin stadsjeep.
+    t: Na noite do último sábado, na costa ensolarada de Espanha, pelo menos nove
+      turistas finlandeses perderam a vida e 19 ficaram gravemente feridos quando
+      um condutor <a>embriagado</a> com uma taxa de alcoolemia de 1 g/l embateu violentamente
+      com o seu veículo utilitário desportivo contra o autocarro que os transportava.
+- c: 1
+  r: 3
+  v: enveredar
+  x:
+  - s: De senare skulle beröra de stater, som är lierade med Europeiska unionen och
+      som skulle <v>köra</v> <p>in</p> på en sådan väg, som är överströdd med risker
+      och fallgropar.
+    t: Estas últimas afectarão os Estados ligados à União Europeia que tenham <a>enveredado</a>
+      por essa via, juncada de perigos e armadilhas.
+- c: 1
+  r: 3
+  v: entrada veículo
+  x:
+  - s: De låter inga tjänstebilar <v>köra</v> <p>in</p>.
+    t: Não permite a <a>entrada</a> de <a>veículos</a> oficiais.
+- c: 1
+  r: 3
+  v: voltar
+  x:
+  - s: Men för det transatlantiska ekonomiska partnerskapet har man valt en förhandlingsmetod,
+      som tydligt visar att medlemsstaterna riskerar att <v>köra</v> <p>in</p> i samma
+      gamla hjulspår som tidigare, om inte Amsterdamfördraget stoppas nu.
+    t: No entanto, o método de negociação aceite pela parceria económica transatlântica
+      mostra bem que, devido à ausência de disposições no Tratado de Amesterdão, hoje,
+      os Estados arriscam-se a <a>voltar</a> à mesma rotina de antes.
+- c: 1
+  r: 3
+  v: dar
+  x:
+  - s: Landet har <v>kört</v> <p>in</p> i en tegelvägg och vet inte hur det ska ta
+      sig framåt, det kan inte erbjuda något längre.
+    t: Foi <a>dar</a> a um beco sem saída e não sabe como avançar;
+- c: 1
+  r: 3
+  v: criar
+  x:
+  - s: Det vi lär av historien är att vi, som institutioner, bör ha förtroende för
+      att vi kan samarbeta bra tillsammans, och inte låta dem som har andra intressen
+      <v>köra</v> <p>in</p> en kil mellan oss.
+    t: O ensinamento a retirar da história é que, enquanto instituições, devemos ter
+      fé no facto de podermos cooperar bem em conjunto e não devemos deixar que as
+      partes com outros interesses <a>criem</a> uma divisão entre nós.
+- c: 1
+  r: 3
+  v: haver chocar
+  x:
+  - s: fartyg <v>körde</v> <p>in</p> i varandra.
+    t: <a>houve</a> navios que <a>chocaram</a> entre si.

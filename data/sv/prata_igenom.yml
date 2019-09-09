@@ -1,0 +1,110 @@
+---
+de:
+- c: 1
+  r: 1
+  v: sprechen
+  x:
+  - s: Självfallet förbereder vi omsorgsfullt våra förslag och det gör vi genom att
+      vi <v>pratar</v> <p>igenom</p> dem med sakkunniga från alla medlemsländer, vilka
+      sedan också kan komma in med sina synpunkter i de olika arbetsgrupperna.
+    t: Selbstverständlich bereiten wir unseren Vorschlag sorgfältig vor, und wir tun
+      das, indem wir mit Experten aus allen Mitgliedsländern darüber <a>sprechen</a>,
+      die dann in Arbeitsgruppen jeweils auch ihre Standpunkte einbringen können.
+en:
+- c: 2
+  r: 1
+  v: discuss
+  x:
+  - s: Självfallet förbereder vi omsorgsfullt våra förslag och det gör vi genom att
+      vi <v>pratar</v> <p>igenom</p> dem med sakkunniga från alla medlemsländer, vilka
+      sedan också kan komma in med sina synpunkter i de olika arbetsgrupperna.
+    t: Of course we prepare our proposals carefully and we do so by <a>discussing</a>
+      them with experts from all the Member States who can then put their own points
+      of view in working parties.
+  - s: Den 7 januari i år besökte den fulltaliga kommissionen Haag för att där <v>prata</v>
+      <p>igenom</p> det nederländska ordförandeskapets planer och det var glädjande
+      att, vid dessa intensiva och mycket fruktbara överläggningar, kunna konstatera
+      att prioriteterna ligger fullkomligt parallellt med varandra.
+    t: On 7 January this year, the entire Commission visited The Hague to <a>discuss</a>
+      the Dutch presidency’s plans, and it was encouraging to learn from these intensive
+      and very useful talks that we share just the same priorities.
+es:
+- c: 2
+  r: 1
+  v: hablar
+  x:
+  - s: Självfallet förbereder vi omsorgsfullt våra förslag och det gör vi genom att
+      vi <v>pratar</v> <p>igenom</p> dem med sakkunniga från alla medlemsländer, vilka
+      sedan också kan komma in med sina synpunkter i de olika arbetsgrupperna.
+    t: Naturalmente, preparamos con cuidado nuestra propuesta, <a>hablando</a> con
+      expertos de todos los países miembros, quienes pueden exponer sus posiciones
+      en grupos de trabajo.
+  - s: Den 7 januari i år besökte den fulltaliga kommissionen Haag för att där <v>prata</v>
+      <p>igenom</p> det nederländska ordförandeskapets planer och det var glädjande
+      att, vid dessa intensiva och mycket fruktbara överläggningar, kunna konstatera
+      att prioriteterna ligger fullkomligt parallellt med varandra.
+    t: El pasado 7 de enero, la Comisión en pleno realizó una visita a La Haya para
+      <a>hablar</a> con la Presidencia neerlandesa de sus planes y se complació de
+      constatar que en esta consulta intensa y fructífera las prioridades coinciden
+      plenamente.
+fr:
+- c: 1
+  r: 1
+  v: entretenir
+  x:
+  - s: Självfallet förbereder vi omsorgsfullt våra förslag och det gör vi genom att
+      vi <v>pratar</v> <p>igenom</p> dem med sakkunniga från alla medlemsländer, vilka
+      sedan också kan komma in med sina synpunkter i de olika arbetsgrupperna.
+    t: Il est inutile de dire que nous préparons notre proposition avec soin, en nous
+      <a>entretenant</a> avec des experts de tous les Etats membres, qui peuvent également
+      donner leur point de vue au sein de groupes de travail.
+- c: 1
+  r: 1
+  v: discuter
+  x:
+  - s: Den 7 januari i år besökte den fulltaliga kommissionen Haag för att där <v>prata</v>
+      <p>igenom</p> det nederländska ordförandeskapets planer och det var glädjande
+      att, vid dessa intensiva och mycket fruktbara överläggningar, kunna konstatera
+      att prioriteterna ligger fullkomligt parallellt med varandra.
+    t: Le 7 janvier dernier, la Commission au grand complet s’est rendue à La Haye
+      pour y <a>discuter</a> des projets de la présidence néerlandaise.
+it:
+- c: 1
+  r: 1
+  v: discutere
+  x:
+  - s: Den 7 januari i år besökte den fulltaliga kommissionen Haag för att där <v>prata</v>
+      <p>igenom</p> det nederländska ordförandeskapets planer och det var glädjande
+      att, vid dessa intensiva och mycket fruktbara överläggningar, kunna konstatera
+      att prioriteterna ligger fullkomligt parallellt med varandra.
+    t: Il 7 gennaio scorso la Commissione al completo si è recata in visita a L’Aja
+      per <a>discutere</a> dei programmi della Presidenza olandese.
+- c: 1
+  r: 1
+  v: parlare
+  x:
+  - s: Självfallet förbereder vi omsorgsfullt våra förslag och det gör vi genom att
+      vi <v>pratar</v> <p>igenom</p> dem med sakkunniga från alla medlemsländer, vilka
+      sedan också kan komma in med sina synpunkter i de olika arbetsgrupperna.
+    t: Ovviamente le nostre proposte vengono preparate accuratamente, <a>parlando</a>
+      con esperti di tutti gli Stati membri che poi hanno la possibilità di esprimere
+      le proprie valutazioni nei gruppi di lavoro.
+- c: 1
+  r: 1
+  v: riflettere
+  x:
+  - s: Det hade gjort det lättare att <v>prata</v> <p>igenom</p> det här med alla
+      parlamentsgrupperna i lugn och ro.
+    t: Sarebbe stato più facile <a>riflettere</a> con calma sul problema con tutti
+      i gruppi parlamentari.
+pt:
+- c: 1
+  r: 1
+  v: contactar
+  x:
+  - s: Självfallet förbereder vi omsorgsfullt våra förslag och det gör vi genom att
+      vi <v>pratar</v> <p>igenom</p> dem med sakkunniga från alla medlemsländer, vilka
+      sedan också kan komma in med sina synpunkter i de olika arbetsgrupperna.
+    t: É evidente que as nossas propostas são cuidadosamente preparadas, sendo <a>contactados</a>
+      peritos de todos os Estados-membros que têm a possibilidade de defender os seus
+      pontos de vista em grupos de trabalho.

@@ -1,0 +1,53 @@
+---
+es:
+- c: 1
+  r: 1
+  v: haber salir
+  x:
+  - s: I hope that all MEPs will join me in condemning those who send 16-year old
+      children, strapped with explosives, to blow themselves up together with innocent
+      shoppers who have just <v>popped</v> <p>out</p> to buy something from the local
+      cheese shop.
+    t: Espero que los diputados al Parlamento Europeo se me unan en la condena de
+      aquellos que enviaron a niños de 16 años, forrados de explosivos, a volarse
+      junto con personas inocentes que solamente <a>habían</a> <a>salido</a> para
+      comprar algo de la tienda de quesos.
+fr:
+- c: 1
+  r: 1
+  v: faire
+  x:
+  - s: I hope that all MEPs will join me in condemning those who send 16-year old
+      children, strapped with explosives, to blow themselves up together with innocent
+      shoppers who have just <v>popped</v> <p>out</p> to buy something from the local
+      cheese shop.
+    t: J’espère que tous les députés européens se joindront à moi pour condamner ceux
+      qui envoient des enfants de 16 ans, bardés d’explosifs, se faire exploser au
+      milieu de clients innocents qui faisaient un saut au marché pour <a>faire</a>
+      quelques emplettes chez le marchand de fromage local.
+it:
+- c: 1
+  r: 1
+  v: uscire
+  x:
+  - s: I hope that all MEPs will join me in condemning those who send 16-year old
+      children, strapped with explosives, to blow themselves up together with innocent
+      shoppers who have just <v>popped</v> <p>out</p> to buy something from the local
+      cheese shop.
+    t: Spero che tutti i deputati al Parlamento europeo si uniscano a me nel condannare
+      chi manda ragazzini imbottiti di esplosivo a far saltare in aria persone innocenti,
+      appena <a>uscite</a> per fare la spesa al negozio di alimentari sotto casa.
+pt:
+- c: 1
+  r: 1
+  v: acabar sair
+  x:
+  - s: I hope that all MEPs will join me in condemning those who send 16-year old
+      children, strapped with explosives, to blow themselves up together with innocent
+      shoppers who have just <v>popped</v> <p>out</p> to buy something from the local
+      cheese shop.
+    t: Espero que todos os membros desta Assembleia se juntem a mim na condenação
+      daqueles que enviam crianças com 16 anos de idade, atadas com explosivos, para
+      se fazerem explodir juntamente com pessoas inocentes que andam às compras e
+      que <a>acabaram</a> de <a>sair</a> para comprar alguma coisa na queijaria do
+      lugar.

@@ -1,0 +1,376 @@
+---
+de:
+- c: 1
+  r: 1
+  v: handeln
+  x:
+  - s: Let us take forceful and aggressive action, if that should be necessary, but
+      we must not <v>act</v> <p>out</p> of panic.
+    t: Lassen Sie uns energisch und aggressiv handeln, falls dies nötig sein sollte,
+      aber wir dürfen nicht panisch <a>handeln</a>.
+- c: 1
+  r: 1
+  v: Regel
+  x:
+  - s: I fear that this is what happens when groups do not coordinate and start <v>acting</v>
+      <p>out</p> of order.
+    t: Ich fürchte, so etwas passiert, wenn Fraktionen nicht koordiniert vorgehen
+      und sich nicht an <a>Regeln</a> halten.
+- c: 1
+  r: 1
+  v: Rindfleisch
+  x:
+  - s: Over 50 of them, from six European countries, took part in a workshop at a
+      college of higher education in my electoral district in which they <v>acted</v>
+      <p>out</p> their own ‘European Parliament’, the object being to make the EU
+      more attractive to the public.
+    t: In den Sommermonaten bekamen wir in Irland die Auswirkungen der Einfuhr von
+      billigem brasilianischem <a>Rindfleisch</a> hautnah zu spüren.
+es:
+- c: 2
+  r: 1
+  v: actuar
+  x:
+  - s: We want our friends to know that we are not interfering, not <v>acting</v>
+      <p>out</p> of a notion of superiority, nor a wish to preach, but we are in fact
+      acting out of duty, a duty to denounce and condemn violations of freedom wherever
+      they occur.
+    t: Queremos hacer saber a nuestros amigos que no es nuestra intención interferir
+      ni <a>actuar</a> con superioridad ni con afán de amonestar, sino que en realidad
+      nos impulsa un deber, el deber de denunciar y condenar las violaciones de la
+      libertad allá donde éstas se produzcan.
+  - s: To conclude, Mr President, I am disappointed that the draft resolution does
+      not recognise that France <v>acted</v> <p>out</p> of duty and general interest,
+      that it gave assistance to a population in danger - to avoid the worst - and
+      that France defended the sovereignty of the Haitian people and that furthermore,
+      France endeavoured to protect the legitimacy of a process of political restoration.
+    t: Para concluir, lamento, señor Presidente, que el proyecto de resolución no
+      reconozca que Francia ha <a>actuado</a> al servicio del Derecho y del interés
+      general, que ha prestado ayuda a un pueblo en peligro —para evitar lo peor—,
+      que defiende la soberanía del pueblo haitiano y que se ocupa de defender la
+      legitimidad del proceso de restauración política.
+- c: 1
+  r: 2
+  v: producir también
+  x:
+  - s: Furthermore, this conflict is being <v>acted</v> <p>out</p> in a sadly familiar
+      context, scarred by poverty, limited educational facilities, health care and
+      other public services.
+    t: Ese conflicto se <a>produce</a> <a>también</a> en un marco tristemente familiar,
+      marcado por la pobreza, por un mínimo acceso a la educación, a la atención de
+      salud y a los demás servicios públicos.
+- c: 1
+  r: 2
+  v: haber
+  x:
+  - s: I was saying, Mr President, that it is very distressing to hear what we have
+      just heard when we still have in our minds the pictures shown on French television
+      last night of a demonstration by Mr Blot’s party that was no more than a sordid
+      exploitation of a human tragedy being <v>acted</v> <p>out</p> in France.
+    t: Decía que era sumamente penoso, Señor Presidente, escuchar lo que acabamos
+      de oír cuando aún se tienen presentes las imágenes vistas en la televisión francesa,
+      ayer por la noche, de una manifestación, de una explotación innoble de un drama
+      humano que <a>ha</a> golpeado a Francia, por parte del partido al que pertenece
+      el Sr. Blot…
+- c: 1
+  r: 2
+  v: desarrollar
+  x:
+  - s: The European Union cannot close its eyes to the drama that is being <v>acted</v>
+      <p>out</p> so close to it.
+    t: La Unión Europea no puede cerrar los ojos al drama que se está <a>desarrollando</a>
+      tan cerca.
+- c: 1
+  r: 2
+  v: actuar fuera
+  x:
+  - s: After all, in an age in which we are increasingly having to <v>act</v> <p>out</p>
+      of area, what we surely need is an aircraft capable of operating from rough
+      local airfields with low technological requirements for spare parts, capable
+      of buddy refuelling and with a long loiter time.
+    t: Después de todo, en una época en la que cada vez tenemos que <a>actuar</a>
+      más <a>fuera</a> de zona, lo que sin duda necesitamos es un avión capaz de operar
+      desde toscos aeropuertos locales, con pocas necesidades tecnológicas en cuanto
+      a piezas de recambio, con reabastecimiento en vuelo y con una larga permanencia
+      en área.
+- c: 1
+  r: 2
+  v: ser
+  x:
+  - s: Over 50 of them, from six European countries, took part in a workshop at a
+      college of higher education in my electoral district in which they <v>acted</v>
+      <p>out</p> their own ‘European Parliament’, the object being to make the EU
+      more attractive to the public.
+    t: Durante los meses de verano hemos <a>sido</a> testigos en Irlanda del impacto
+      directo de la importación de carne de vacuno brasileña barata en el mercado.
+- c: 1
+  r: 2
+  v: fingir
+  x:
+  - s: Let us stop <v>acting</v> <p>out</p> humanitarian indignation.
+    t: Dejemos de <a>fingir</a> indignación humanitaria.
+- c: 1
+  r: 2
+  v: impulsar
+  x:
+  - s: We want our friends to know that we are not interfering, not acting out of
+      a notion of superiority, nor a wish to preach, but we are in fact <v>acting</v>
+      <p>out</p> of duty, a duty to denounce and condemn violations of freedom wherever
+      they occur.
+    t: Queremos hacer saber a nuestros amigos que no es nuestra intención interferir
+      ni actuar con superioridad ni con afán de amonestar, sino que en realidad nos
+      <a>impulsa</a> un deber, el deber de denunciar y condenar las violaciones de
+      la libertad allá donde éstas se produzcan.
+fr:
+- c: 2
+  r: 1
+  v: avoir
+  x:
+  - s: Checks have been made, and have established that the newspaper certainly did
+      not <v>act</v> <p>out</p> of malice.
+    t: il n’y a pas <a>eu</a> d’intention de nuire de la part du journal.
+  - s: I was saying, Mr President, that it is very distressing to hear what we have
+      just heard when we still have in our minds the pictures shown on French television
+      last night of a demonstration by Mr Blot’s party that was no more than a sordid
+      exploitation of a human tragedy being <v>acted</v> <p>out</p> in France.
+    t: Je disais que c’était très pénible, Monsieur le Président, d’entendre ce que
+      l’on vient d’entendre quand on a encore en tête les images vues à la télévision
+      française, hier soir, d’une manifestation, d’une exploitation ignoble d’un drame
+      humain qui <a>a</a> touché la France, par le parti auquel appartient M. Blot…
+- c: 1
+  r: 2
+  v: agir
+  x:
+  - s: We want our friends to know that we are not interfering, not <v>acting</v>
+      <p>out</p> of a notion of superiority, nor a wish to preach, but we are in fact
+      acting out of duty, a duty to denounce and condemn violations of freedom wherever
+      they occur.
+    t: il ne s’<a>agit</a> ni d’ingérence, ni d’esprit de supériorité, ni de volonté
+      de donner des leçons, mais bien d’un devoir, celui de dénoncer et de condamner
+      partout les violations de liberté.
+- c: 1
+  r: 2
+  v: intervenir dehors
+  x:
+  - s: After all, in an age in which we are increasingly having to <v>act</v> <p>out</p>
+      of area, what we surely need is an aircraft capable of operating from rough
+      local airfields with low technological requirements for spare parts, capable
+      of buddy refuelling and with a long loiter time.
+    t: À une époque où nous devons de plus en plus <a>intervenir</a> en <a>dehors</a>
+      de notre territoire, ce qu’il nous faut sans doute est un avion capable de mener
+      des opérations à partir de terrains d’aviation locaux, disposant de peu d’équipement
+      technologique en pièces détachées, capable de ravitaillements faciles et dotés
+      d’une longue autonomie de vol.
+- c: 1
+  r: 2
+  v: avoir accompagner
+  x:
+  - s: Mr President, no great drama has been <v>acted</v> <p>out</p> around the debate
+      on the budget this year.
+    t: Monsieur le Président, aucun événement dramatique n’<a>a</a> <a>accompagné</a>
+      la lecture du budget cette année.
+- c: 1
+  r: 2
+  v: bien
+  x:
+  - s: Too often, unfortunately, the big matches - and especially the big international
+      matches - are also the stage on which unacceptable aggression, rioting and violence
+      are <v>acted</v> <p>out</p> with scant regard for sporting principles or the
+      respect due to persons and property.
+    t: Mais, malheureusement, les grands matches - et surtout les grands matches internationaux
+      - sont aussi trop souvent le théâtre de scènes d’agressivité, de troubles, d’actes
+      de violence inacceptables aussi <a>bien</a> au regard de l’éthique du sport
+      qu’au regard du respect dû aux personnes et aux biens.
+it:
+- c: 2
+  r: 1
+  v: avere
+  x:
+  - s: Over 50 of them, from six European countries, took part in a workshop at a
+      college of higher education in my electoral district in which they <v>acted</v>
+      <p>out</p> their own ‘European Parliament’, the object being to make the EU
+      more attractive to the public.
+    t: Nell’ambito di un organizzato presso un istituto superiore di formazione professionale
+      del mio collegio elettorale, più di 50 ragazze e ragazzi di sei paesi d’Europa
+      <a>hanno</a> riprodotto l’attività del Parlamento, allo scopo di rendere l’Unione
+      europea più accattivante per i cittadini.
+  - s: I was saying, Mr President, that it is very distressing to hear what we have
+      just heard when we still have in our minds the pictures shown on French television
+      last night of a demonstration by Mr Blot’s party that was no more than a sordid
+      exploitation of a human tragedy being <v>acted</v> <p>out</p> in France.
+    t: Dicevo che è molto duro, Signor Presidente, ascoltare quanto abbiamo appena
+      ascoltato, quando abbiamo ancora in testa le immagini viste alla televisione
+      francese, ieri sera, di una manifestazione, della strumentalizzazione ignobile
+      di un dramma umano che <a>ha</a> colpito la Francia da parte del partito al
+      quale appartiene l’onorevole Blot…
+- c: 1
+  r: 2
+  v: agire
+  x:
+  - s: We want our friends to know that we are not interfering, not <v>acting</v>
+      <p>out</p> of a notion of superiority, nor a wish to preach, but we are in fact
+      acting out of duty, a duty to denounce and condemn violations of freedom wherever
+      they occur.
+    t: Noi vogliamo che i nostri amici sappiano che non stiamo interferendo negli
+      affari interni di un paese, che non <a>agiamo</a> nella presunzione di essere
+      superiori, né che vogliamo far loro la predica;
+- c: 1
+  r: 2
+  v: sviluppare
+  x:
+  - s: Furthermore, this conflict is being <v>acted</v> <p>out</p> in a sadly familiar
+      context, scarred by poverty, limited educational facilities, health care and
+      other public services.
+    t: Un conflitto che si <a>sviluppa</a> in un contesto tristemente familiare, segnato
+      dalla povertà, da uno scarso accesso all’istruzione, alle cure mediche e agli
+      altri servizi pubblici.
+- c: 1
+  r: 2
+  v: consumere
+  x:
+  - s: The European Union cannot close its eyes to the drama that is being <v>acted</v>
+      <p>out</p> so close to it.
+    t: L’Unione europea non può chiudere gli occhi davanti al dramma che si <a>consuma</a>
+      così vicino a noi.
+- c: 1
+  r: 2
+  v: agire fuori
+  x:
+  - s: After all, in an age in which we are increasingly having to <v>act</v> <p>out</p>
+      of area, what we surely need is an aircraft capable of operating from rough
+      local airfields with low technological requirements for spare parts, capable
+      of buddy refuelling and with a long loiter time.
+    t: Dopo tutto, in un’epoca in cui siamo sempre più chiamati ad <a>agire</a> <a>fuori</a>
+      dai nostri confini, ciò di cui abbiamo veramente bisogno è un aereo in grado
+      di operare da modesti campi di aviazione locali con ridotte esigenze tecnologiche
+      di pezzi di ricambio, di effettuare rifornimenti in volo e con una lunga autonomia.
+- c: 1
+  r: 2
+  v: agire base
+  x:
+  - s: <v>Acting</v> <p>out</p> of self-interest, the richest, most democratic countries
+      tend to prioritise support to regimes that guarantee supplies of gas and oil
+      and attempt at domestic level to destroy the movements that conflict most with
+      Western interests.
+    t: I paesi più ricchi e democratici, <a>agendo</a> sulla <a>base</a> dei propri
+      interessi particolari, tendono a sostenere soprattutto regimi che possono garantire
+      forniture di gas e petrolio e in politica interna cercano di distruggere i movimenti
+      che sono in conflitto con gli interessi occidentali.
+- c: 1
+  r: 2
+  v: finire commedia
+  x:
+  - s: Let us stop <v>acting</v> <p>out</p> humanitarian indignation.
+    t: <a>Finiamola</a> con questa <a>commedia</a> dell’indignazione umanitaria.
+pt:
+- c: 1
+  r: 1
+  v: intervir
+  x:
+  - s: After all, in an age in which we are increasingly having to <v>act</v> <p>out</p>
+      of area, what we surely need is an aircraft capable of operating from rough
+      local airfields with low technological requirements for spare parts, capable
+      of buddy refuelling and with a long loiter time.
+    t: Ao fim e ao cabo, numa época em que temos de <a>intervir</a> com uma frequência
+      crescente em locais longínquos, aquilo de que precisamos é certamente de uma
+      aeronave que possa operar a partir de aeroportos locais primitivos, com requisitos
+      de baixa tecnologia no que se refere às peças sobresselentes, que possa ser
+      reabastecida no ar e com grande autonomia de voo.
+- c: 1
+  r: 1
+  v: ir
+  x:
+  - s: Mr President, no great drama has been <v>acted</v> <p>out</p> around the debate
+      on the budget this year.
+    t: Senhor Presidente, o debate orçamental deste ano não <a>foi</a> muito dramático.
+sv:
+- c: 2
+  r: 1
+  v: agera
+  x:
+  - s: Let us take forceful and aggressive action, if that should be necessary, but
+      we must not <v>act</v> <p>out</p> of panic.
+    t: Låt oss agera kraftfullt och aggressivt, om så behövs, men vi får inte <a>agera</a>
+      i panik utan måste hålla huvudet så kallt som det går, så att vi inte ytterligare
+      skadar den ekonomiska uppgång som trots allt och trots Grekland kan skönjas.
+  - s: The Council is seeking an acceptable text which makes a clear difference between
+      trafficking in human beings which exploits vulnerable people on the one hand
+      and the work of known voluntary organisations and others <v>acting</v> <p>out</p>
+      of humanitarian or non-profit making motives on the other.
+    t: Rådet söker en godtagbar text som gör en tydlig åtskillnad mellan å ena sidan
+      människosmugglare som utnyttjar utsatta människor, och å andra sidan kyrkor,
+      kända frivilligorganisationer och andra som <a>agerar</a> med humanitära eller
+      ideella motiv.
+- c: 2
+  r: 1
+  v: handla
+  x:
+  - s: <v>Acting</v> <p>out</p> of self-interest, the richest, most democratic countries
+      tend to prioritise support to regimes that guarantee supplies of gas and oil
+      and attempt at domestic level to destroy the movements that conflict most with
+      Western interests.
+    t: De rikaste och mest demokratiska länderna <a>handlar</a> i eget intresse och
+      tenderar att prioritera stöd till regimer som garanterar gas- och oljeleveranser
+      och de försöker på nationell nivå krossa de rörelser som är mest i strid med
+      västerländska intressen.
+  - s: We want our friends to know that we are not interfering, not <v>acting</v>
+      <p>out</p> of a notion of superiority, nor a wish to preach, but we are in fact
+      acting out of duty, a duty to denounce and condemn violations of freedom wherever
+      they occur.
+    t: Våra vänner bör veta att det inte <a>handlar</a> om inblandning eller överlägsenhet
+      och inte heller om en vilja att komma med lärdomar, utan väl om en skyldighet,
+      dvs. skyldigheten att påtala och fördöma brott mot friheten, var de än begås.
+- c: 1
+  r: 2
+  v: utspelas
+  x:
+  - s: The European Union cannot close its eyes to the drama that is being <v>acted</v>
+      <p>out</p> so close to it.
+    t: Europeiska unionen kan inte blunda för det drama som <a>utspelas</a> så nära
+      dess gränser.
+- c: 1
+  r: 2
+  v: vara
+  x:
+  - s: Mr President, no great drama has been <v>acted</v> <p>out</p> around the debate
+      on the budget this year.
+    t: Budgetberedningen detta år <a>var</a> inte speciellt dramatisk.
+- c: 1
+  r: 2
+  v: agera hur
+  x:
+  - s: I fear that this is what happens when groups do not coordinate and start <v>acting</v>
+      <p>out</p> of order.
+    t: Jag är rädd för att det här är vad som händer när grupper inte har någon samordning,
+      utan börjar <a>agera</a> <a>hur</a> som helst.
+- c: 1
+  r: 2
+  v: agera utifrån
+  x:
+  - s: It would be better if we <v>acted</v> <p>out</p> of solidarity.
+    t: Det vore bättre om vi <a>agerade</a> <a>utifrån</a> solidaritet.
+- c: 1
+  r: 2
+  v: handlägga utifrån
+  x:
+  - s: To conclude, Mr President, I am disappointed that the draft resolution does
+      not recognise that France <v>acted</v> <p>out</p> of duty and general interest,
+      that it gave assistance to a population in danger - to avoid the worst - and
+      that France defended the sovereignty of the Haitian people and that furthermore,
+      France endeavoured to protect the legitimacy of a process of political restoration.
+    t: Jag är kort sagt, herr talman, besviken över att resolutionsförslaget inte
+      erkänner att Frankrike <a>handlade</a> <a>utifrån</a> pliktkänsla och i det
+      allmänna intresset, att det gav bistånd till en befolkning i fara - för att
+      undvika det värsta - och att Frankrike försvarade det haitiska folkets suveränitet
+      och att Frankrike dessutom bemödade sig om att skydda legitimiteten i en process
+      av politisk normalisering.
+- c: 1
+  r: 2
+  v: rollspelade
+  x:
+  - s: Over 50 of them, from six European countries, took part in a workshop at a
+      college of higher education in my electoral district in which they <v>acted</v>
+      <p>out</p> their own ‘European Parliament’, the object being to make the EU
+      more attractive to the public.
+    t: Över 50 av dem, från sex olika medlemsstater, deltog i ett seminarium anordnat
+      av en högskola i mitt valdistrikt där de <a>rollspelade</a> sitt eget ”Europaparlament”.

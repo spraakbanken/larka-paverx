@@ -1,0 +1,46 @@
+---
+de:
+- c: 1
+  r: 1
+  v: abheften
+  x:
+  - s: Det får ju inte vara på så vis att en granskning genomförs och resultatet <v>häftas</v>
+      <p>ihop</p> och försvinner i pärmarna!
+    t: Es kann doch nicht sein, dass eine Prüfung durchgeführt und das Ergebnis <a>abgeheftet</a>
+      wird und in den Aktenordnern verschwindet!
+en:
+- c: 1
+  r: 1
+  v: file
+  x:
+  - s: Det får ju inte vara på så vis att en granskning genomförs och resultatet <v>häftas</v>
+      <p>ihop</p> och försvinner i pärmarna!
+    t: We certainly cannot have a situation where an assessment is carried out and
+      the findings are then <a>filed</a> away, never to be seen again.
+fr:
+- c: 1
+  r: 1
+  v: classer
+  x:
+  - s: Det får ju inte vara på så vis att en granskning genomförs och resultatet <v>häftas</v>
+      <p>ihop</p> och försvinner i pärmarna!
+    t: Il est inacceptable qu’on procède à un examen et que le résultat soit <a>classé</a>
+      et disparaisse dans les dossiers.
+it:
+- c: 1
+  r: 1
+  v: stralciare
+  x:
+  - s: Det får ju inte vara på så vis att en granskning genomförs och resultatet <v>häftas</v>
+      <p>ihop</p> och försvinner i pärmarna!
+    t: Infatti, non è possibile che si effettui una verifica e se ne <a>stralci</a>
+      il risultato, per poi archiviarlo!
+pt:
+- c: 1
+  r: 1
+  v: arquivar
+  x:
+  - s: Det får ju inte vara på så vis att en granskning genomförs och resultatet <v>häftas</v>
+      <p>ihop</p> och försvinner i pärmarna!
+    t: Não pode acontecer que, depois de se proceder a uma avaliação, o resultado
+      seja <a>arquivado</a> e desapareça nas pastas!

@@ -1,0 +1,82 @@
+---
+en:
+- c: 1
+  r: 1
+  v: hour away
+  x:
+  - s: Och hur väl jag än förstår de problem som alla öbor erfar kan vi helt klart
+      inte tillämpa samma undantag och samma bestämmelser för öar som endast ligger
+      ett fåtal timmars <v>resa</v> <p>bort</p> med båt eller några få minuter med
+      flygplan från fastlandet.
+    t: And however well I understand the problems experienced by all island dwellers,
+      we clearly cannot apply the same derogations and the same rules to islands that
+      are only a few <a>hours</a> <a>away</a> by boat or a few minutes by plane.
+- c: 1
+  r: 1
+  v: go away
+  x:
+  - s: Vi kan verkligen vara glada att vi lever i Europa - ”Europa” som i ”Europaparlamentet”
+      - där vi till och med kan diskutera hur vi ska göra när vi <v>reser</v> <p>bort</p>
+      med våra illrar och övriga sällskapsdjur.
+    t: We can indeed be glad that we live in Europe, as in Europe in the European
+      Parliament, we can even discuss how we can <a>go</a> <a>away</a> on trips with
+      ferrets and other pets.
+- c: 1
+  r: 1
+  v: journey away
+  x:
+  - s: I mitt land har vi precis haft en fasansfull påsk där folk har <v>rest</v>
+      <p>bort</p> och hem igen.
+    t: In my country we have just had an horrendous Easter holiday of <a>journeys</a>
+      <a>away</a> and journeys back home.
+es:
+- c: 1
+  r: 1
+  v: salir viaje
+  x:
+  - s: Vi kan verkligen vara glada att vi lever i Europa - ”Europa” som i ”Europaparlamentet”
+      - där vi till och med kan diskutera hur vi ska göra när vi <v>reser</v> <p>bort</p>
+      med våra illrar och övriga sällskapsdjur.
+    t: Realmente podemos estar contentos de vivir en Europa, ya que aquí, en el Parlamento
+      Europeo, podemos incluso debatir cómo podemos <a>salir</a> de <a>viaje</a> con
+      hurones y otros animales de compañía.
+fr:
+- c: 1
+  r: 1
+  v: voyage
+  x:
+  - s: Vi kan verkligen vara glada att vi lever i Europa - ”Europa” som i ”Europaparlamentet”
+      - där vi till och med kan diskutera hur vi ska göra när vi <v>reser</v> <p>bort</p>
+      med våra illrar och övriga sällskapsdjur.
+    t: En effet, en Europe, au Parlement européen, nous pouvons aller jusqu’à discuter
+      des conditions de <a>voyage</a> de nos furets et autres animaux de compagnie.
+it:
+- c: 1
+  r: 1
+  v: vacanza
+  x:
+  - s: Vi kan verkligen vara glada att vi lever i Europa - ”Europa” som i ”Europaparlamentet”
+      - där vi till och med kan diskutera hur vi ska göra när vi <v>reser</v> <p>bort</p>
+      med våra illrar och övriga sällskapsdjur.
+    t: Possiamo invero essere contenti di vivere in Europa, dato che qui in Europa,
+      al Parlamento europeo, possiamo discutere perfino di come andare in <a>vacanza</a>
+      portando con noi furetti e altri animali da compagnia.
+pt:
+- c: 1
+  r: 1
+  v: partida
+  x:
+  - s: I mitt land har vi precis haft en fasansfull påsk där folk har <v>rest</v>
+      <p>bort</p> och hem igen.
+    t: No meu país, acabámos de viver um período de férias da Páscoa, com <a>partidas</a>
+      e regressos, verdadeiramente medonho.
+- c: 1
+  r: 1
+  v: viajar
+  x:
+  - s: Vi kan verkligen vara glada att vi lever i Europa - ”Europa” som i ”Europaparlamentet”
+      - där vi till och med kan diskutera hur vi ska göra när vi <v>reser</v> <p>bort</p>
+      med våra illrar och övriga sällskapsdjur.
+    t: Podemos, com efeito, sentir-nos satisfeitos por viver na Europa, uma vez que
+      na Europa, no Parlamento Europeu, até podemos discutir de que modo podemos <a>viajar</a>
+      com furões e outros animais de companhia.

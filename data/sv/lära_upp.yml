@@ -1,0 +1,206 @@
+---
+de:
+- c: 1
+  r: 1
+  v: schulen
+  x:
+  - s: Det bör även införas ett förbud mot att konsumenter använder ämnet, eftersom
+      de i allmänhet inte har den personliga skyddsutrustning som behövs och inte
+      kan <v>läras</v> <p>upp</p> eller övervakas för att se till att de använder
+      ämnet på ett säkert sätt.
+    t: Es soll auch verboten werden, dass Verbraucher diesen Stoff verwenden, und
+      zwar deshalb, weil Verbraucher in der Regel nicht über die erforderliche persönliche
+      Schutzausrüstung verfügen und auch nicht <a>geschult</a> oder überwacht werden
+      können, um die sichere Anwendung zu gewährleisten.
+- c: 1
+  r: 1
+  v: erziehen
+  x:
+  - s: vi måste försöka hitta ett snabbt sätt att <v>lära</v> <p>upp</p> dem som inte
+      respekterar de förbud som vi själva har beslutat om.
+    t: Ich glaube nicht, daß ich das tun kann, doch stimme ich Ihnen zu, daß schnellstens
+      eine Form gefunden werden muß, um auch diejenigen zu <a>erziehen</a>, die sich
+      nicht an die von uns selbst beschlossenen Verbote halten.
+- c: 1
+  r: 1
+  v: umerziehen werden
+  x:
+  - s: Vi måste således <v>lära</v> <p>upp</p> dem.
+    t: Ergo müssen sie <a>umerzogen</a> <a>werden</a>.
+- c: 1
+  r: 1
+  v: werden
+  x:
+  - s: Finns det någon chans att en del av övergångsersättningen för spelare under
+      23 år kan gå direkt till den amatörklubb som <v>lärde</v> <p>upp</p> dom?
+    t: Besteht die Möglichkeit, dass ein Teil der Ablösesumme für Spieler unter 23
+      Jahren direkt an den Amateurclub gezahlt <a>werden</a> kann, der sein Talent
+      gefördert hat?
+- c: 1
+  r: 1
+  v: Lehrmeister aufspielen
+  x:
+  - s: Det handlar inte om att vara den som <v>lär</v> <p>upp</p> andra, utan om att
+      visa att Europa uttalar sig för och agerar till allas fördel, och att det försöker
+      ge ett svar till kommande generationer.
+    t: Es geht nicht darum, sich als <a>Lehrmeister</a> <a>aufzuspielen</a>, sondern
+      zu zeigen, daß Europa zum Nutzen aller Vorschläge macht und handelt und versucht,
+      Antworten für die kommenden Generationen zu finden.
+en:
+- c: 1
+  r: 1
+  v: educate include
+  x:
+  - s: vi måste försöka hitta ett snabbt sätt att <v>lära</v> <p>upp</p> dem som inte
+      respekterar de förbud som vi själva har beslutat om.
+    t: We need a quick way of <a>educating</a> people, <a>including</a> those who
+      do not obey the rules decided upon in this House.
+- c: 1
+  r: 1
+  v: up tutor
+  x:
+  - s: Det handlar inte om att vara den som <v>lär</v> <p>upp</p> andra, utan om att
+      visa att Europa uttalar sig för och agerar till allas fördel, och att det försöker
+      ge ett svar till kommande generationer.
+    t: This does not mean setting itself <a>up</a> as a <a>tutor</a>, but rather showing
+      that Europe states its resolve and acts for the benefit of all, and seeks to
+      find solutions for future generations.
+- c: 1
+  r: 1
+  v: train
+  x:
+  - s: Det bör även införas ett förbud mot att konsumenter använder ämnet, eftersom
+      de i allmänhet inte har den personliga skyddsutrustning som behövs och inte
+      kan <v>läras</v> <p>upp</p> eller övervakas för att se till att de använder
+      ämnet på ett säkert sätt.
+    t: There should also be a ban on consumers using this substance, because they
+      do not generally have the necessary personal protective equipment and cannot
+      be <a>trained</a> or supervised to ensure that they use the substance safely.
+- c: 1
+  r: 1
+  v: cradle
+  x:
+  - s: Många av de mindre klubbarna i min region som <v>lär</v> <p>upp</p> spelare
+      till att bli självskrivna talanger i de nordvästra klubbarna i Förenade kungariket
+      är särskilt oroade över detta.
+    t: Many of the smaller clubs in my region, who <a>cradle</a> players for the obvious
+      talents of the north-west clubs in the UK, are particularly worried about this.
+es:
+- c: 1
+  r: 1
+  v: formar
+  x:
+  - s: Det bör även införas ett förbud mot att konsumenter använder ämnet, eftersom
+      de i allmänhet inte har den personliga skyddsutrustning som behövs och inte
+      kan <v>läras</v> <p>upp</p> eller övervakas för att se till att de använder
+      ämnet på ett säkert sätt.
+    t: También debería prohibirse a los particulares que usaran esta sustancia porque
+      generalmente no disponen del equipo de protección personal necesario y no se
+      les puede <a>formar</a> ni pueden ser supervisados para asegurarse de que usan
+      la sustancia de forma segura.
+- c: 1
+  r: 1
+  v: educación también
+  x:
+  - s: vi måste försöka hitta ett snabbt sätt att <v>lära</v> <p>upp</p> dem som inte
+      respekterar de förbud som vi själva har beslutat om.
+    t: se debería encontrar una forma rápida de <a>educación</a> <a>también</a> para
+      los que no respetan las prohibiciones que nosotros mismos hemos decidido.
+- c: 1
+  r: 1
+  v: lección
+  x:
+  - s: Det handlar inte om att vara den som <v>lär</v> <p>upp</p> andra, utan om att
+      visa att Europa uttalar sig för och agerar till allas fördel, och att det försöker
+      ge ett svar till kommande generationer.
+    t: No se trata de dar <a>lecciones</a>, sino de mostrar que Europa se expresa
+      y actúa en provecho de todos e intenta aportar respuestas para las generaciones
+      futuras.
+- c: 1
+  r: 1
+  v: reeducar
+  x:
+  - s: Vi måste således <v>lära</v> <p>upp</p> dem.
+    t: Así, pues, hay que <a>reeducarlas</a>.
+fr:
+- c: 1
+  r: 1
+  v: poser leçon
+  x:
+  - s: Det handlar inte om att vara den som <v>lär</v> <p>upp</p> andra, utan om att
+      visa att Europa uttalar sig för och agerar till allas fördel, och att det försöker
+      ge ett svar till kommande generationer.
+    t: Il ne s’agit pas de se <a>poser</a> en donneur de <a>leçons</a>, mais bien
+      de montrer que l’Europe s’exprime et agit pour le bénéfice de tous et tente
+      d’apporter des réponses pour les générations futures.
+- c: 1
+  r: 1
+  v: être former
+  x:
+  - s: Det bör även införas ett förbud mot att konsumenter använder ämnet, eftersom
+      de i allmänhet inte har den personliga skyddsutrustning som behövs och inte
+      kan <v>läras</v> <p>upp</p> eller övervakas för att se till att de använder
+      ämnet på ett säkert sätt.
+    t: L’usage de cette substance par le grand public devrait également être interdit,
+      étant donné que ce dernier ne dispose en général pas de l’équipement de protection
+      individuelle nécessaire et ne peut <a>être</a> <a>formé</a> ou supervisé afin
+      de garantir une utilisation sûre de cette substance.
+- c: 1
+  r: 1
+  v: éducation également
+  x:
+  - s: vi måste försöka hitta ett snabbt sätt att <v>lära</v> <p>upp</p> dem som inte
+      respekterar de förbud som vi själva har beslutat om.
+    t: il faudrait trouver une forme rapide d’<a>éducation</a> <a>également</a> pour
+      ceux qui ne respectent pas les interdits que nous avons nous-mêmes mis en place.
+- c: 1
+  r: 1
+  v: avoir
+  x:
+  - s: Många av de mindre klubbarna i min region som <v>lär</v> <p>upp</p> spelare
+      till att bli självskrivna talanger i de nordvästra klubbarna i Förenade kungariket
+      är särskilt oroade över detta.
+    t: De nombreux petits clubs de ma région, qui <a>ont</a> formé les incontestables
+      talents des clubs du nord-ouest du Royaume-Uni, sont particulièrement inquiets.
+it:
+- c: 1
+  r: 1
+  v: salire
+  x:
+  - s: Det handlar inte om att vara den som <v>lär</v> <p>upp</p> andra, utan om att
+      visa att Europa uttalar sig för och agerar till allas fördel, och att det försöker
+      ge ett svar till kommande generationer.
+    t: La questione non è quella di voler <a>salire</a> in cattedra, ma di dimostrare
+      che l’Europa si esprime ed agisce a beneficio di tutti e cerca di dare delle
+      risposte per le generazioni future.
+- c: 1
+  r: 1
+  v: educazione anche
+  x:
+  - s: vi måste försöka hitta ett snabbt sätt att <v>lära</v> <p>upp</p> dem som inte
+      respekterar de förbud som vi själva har beslutat om.
+    t: bisognerebbe trovare una forma rapida di <a>educazione</a> <a>anche</a> per
+      coloro che non rispettano i divieti che noi stessi abbiamo deciso.
+- c: 1
+  r: 1
+  v: rieducare
+  x:
+  - s: Vi måste således <v>lära</v> <p>upp</p> dem.
+    t: Esse vanno <a>rieducate</a>.
+pt:
+- c: 1
+  r: 1
+  v: lição
+  x:
+  - s: Det handlar inte om att vara den som <v>lär</v> <p>upp</p> andra, utan om att
+      visa att Europa uttalar sig för och agerar till allas fördel, och att det försöker
+      ge ett svar till kommande generationer.
+    t: Não se trata de pretender dar <a>lições</a>, mas de mostrar que a Europa se
+      exprime e age para o benefício de todos e tenta dar respostas para as gerações
+      futuras.
+- c: 1
+  r: 1
+  v: reeducar
+  x:
+  - s: Vi måste således <v>lära</v> <p>upp</p> dem.
+    t: Há que tratar de as <a>reeducar</a>.

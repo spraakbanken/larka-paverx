@@ -1,0 +1,48 @@
+---
+de:
+- c: 1
+  r: 1
+  v: verweisen
+  x:
+  - s: The person is, of course, <v>shown</v> <p>out</p> and probably apprehended
+      by the police, and is not welcome in the restaurant on future occasions.
+    t: Diese Person wird natürlich des Restaurants <a>verwiesen</a>, höchstwahrscheinlich
+      von der Polizei abgeholt und darf das Restaurant zukünftig nicht mehr betreten.
+es:
+- c: 1
+  r: 1
+  v: sacar
+  x:
+  - s: The person is, of course, <v>shown</v> <p>out</p> and probably apprehended
+      by the police, and is not welcome in the restaurant on future occasions.
+    t: Por supuesto, <a>sacarían</a> a la persona por la puerta y posiblemente fuese
+      detenida por la policía, además de no dejarla entrar en el restaurante en ocasiones
+      futuras.
+fr:
+- c: 1
+  r: 1
+  v: porte
+  x:
+  - s: The person is, of course, <v>shown</v> <p>out</p> and probably apprehended
+      by the police, and is not welcome in the restaurant on future occasions.
+    t: une personne entre dans un restaurant et commence à frapper les clients, elle
+      sera évidemment mise à la <a>porte</a> et probablement appréhendée par la police.
+it:
+- c: 1
+  r: 1
+  v: buttare fuori
+  x:
+  - s: The person is, of course, <v>shown</v> <p>out</p> and probably apprehended
+      by the police, and is not welcome in the restaurant on future occasions.
+    t: La persona viene naturalmente <a>buttata</a> <a>fuori</a> e probabilmente arrestata
+      dalla polizia, e in futuro non verrà più accettata nel ristorante.
+pt:
+- c: 1
+  r: 1
+  v: fora
+  x:
+  - s: The person is, of course, <v>shown</v> <p>out</p> and probably apprehended
+      by the police, and is not welcome in the restaurant on future occasions.
+    t: A pessoa é, obviamente, posta <a>fora</a> do estabelecimento e provavelmente
+      será detida pela polícia, não sendo admitida a sua presença no restaurante em
+      ocasiões futuras.

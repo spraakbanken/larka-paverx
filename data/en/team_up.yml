@@ -1,0 +1,151 @@
+---
+de:
+- c: 1
+  r: 1
+  v: Zusammenschluß
+  x:
+  - s: The fastest way for us to solve it will be to <v>team</v> <p>up</p> with other
+      European countries and take coordinated, timely and decisive action.
+    t: Die schnellste Lösung ist ein <a>Zusammenschluss</a> mit anderen europäischen
+      Ländern, um rechtzeitig koordinierte, durchgreifende Maßnahmen zu ergreifen.
+es:
+- c: 1
+  r: 1
+  v: colaborar
+  x:
+  - s: I should also like to thank the 7 Council presidencies with whom I have <v>teamed</v>
+      <p>up</p>, the European Commission and Eurostat, for their excellent cooperation.
+    t: Por lo demás, doy también las gracias a las 7 presidencias de consejo con las
+      que he <a>colaborado</a>, a la Comisión europea y a Eurostat por su magnífica
+      colaboración.
+- c: 1
+  r: 1
+  v: agrupar
+  x:
+  - s: Four of the major manufacturers of electrical goods, including our chief lobbyist,
+      Electrolux, have <v>teamed</v> <p>up</p> to develop a common approach to waste
+      management which aims to be both innovative and cost efficient.
+    t: Cuatro de los principales fabricantes de productos eléctricos, incluyendo al
+      principal grupo de presión, Electrolux, se han <a>agrupado</a> para desarrollar
+      un enfoque común de la gestión de residuos que intenta ser innovador y rentable.
+fr:
+- c: 2
+  r: 1
+  v: rassembler
+  x:
+  - s: Four of the major manufacturers of electrical goods, including our chief lobbyist,
+      Electrolux, have <v>teamed</v> <p>up</p> to develop a common approach to waste
+      management which aims to be both innovative and cost efficient.
+    t: Quatre des plus importants fabricants de produits électriques, y compris notre
+      principal lobby, Electrolux, se sont <a>rassemblés</a> pour développer une approche
+      commune de la gestion des déchets, qui se veut à la fois innovatrice et rentable.
+  - s: From what I have heard from the Czech Republic, the government will remain
+      in office and at the helm, because the majority which <v>teamed</v> <p>up</p>
+      together yesterday does not suffice to support a new government.
+    t: D’après les informations qui me parviennent de République tchèque, le gouvernement
+      va rester en place parce que la majorité <a>rassemblée</a> hier ne suffit pas
+      pour soutenir un nouveau gouvernement.
+- c: 1
+  r: 2
+  v: face
+  x:
+  - s: The obvious danger if we do not achieve this is that we end up having spats
+      with precisely the people we should be <v>teaming</v> <p>up</p> with against
+      this American behaviour.
+    t: Le danger évident que nous courrons si nous ne le faisons pas est d’avoir une
+      prise de bec avec les personnes avec qui nous devrions précisément faire équipe
+      pour faire <a>face</a> à ce geste américain.
+it:
+- c: 1
+  r: 1
+  v: collaborare
+  x:
+  - s: I should also like to thank the 7 Council presidencies with whom I have <v>teamed</v>
+      <p>up</p>, the European Commission and Eurostat, for their excellent cooperation.
+    t: I miei ringraziamenti vanno, inoltre, alle sette Presidenze del Consiglio con
+      le quali ho <a>collaborato</a>, alla Commissione europea e a Eurostat per la
+      preziosa cooperazione.
+- c: 1
+  r: 1
+  v: causa
+  x:
+  - s: From what I have heard from the Czech Republic, the government will remain
+      in office and at the helm, because the majority which <v>teamed</v> <p>up</p>
+      together yesterday does not suffice to support a new government.
+    t: Da quanto ho sentito dalla Repubblica ceca, il governo rimarrà in carica e
+      alla guida, perché la maggioranza che ha fatto <a>causa</a> comune ieri non
+      basta per sostenere un nuovo governo.
+- c: 1
+  r: 1
+  v: squadra
+  x:
+  - s: The fastest way for us to solve it will be to <v>team</v> <p>up</p> with other
+      European countries and take coordinated, timely and decisive action.
+    t: Il modo più rapido per uscirne sarà quello di fare <a>squadra</a> con gli altri
+      paesi europei e agire in maniera coordinata, puntuale e decisiva.
+- c: 1
+  r: 1
+  v: avviare elaborare
+  x:
+  - s: Four of the major manufacturers of electrical goods, including our chief lobbyist,
+      Electrolux, have <v>teamed</v> <p>up</p> to develop a common approach to waste
+      management which aims to be both innovative and cost efficient.
+    t: Quattro dei principali produttori di apparecchiature elettriche, compreso il
+      nostro principale lobbista, Electrolux, hanno <a>avviato</a> una collaborazione
+      per <a>elaborare</a> un approccio comune alla gestione dei rifiuti che intende
+      essere sia innovativo sia basato sull’efficienza in termini di costi.
+- c: 1
+  r: 1
+  v: alleare
+  x:
+  - s: The obvious danger if we do not achieve this is that we end up having spats
+      with precisely the people we should be <v>teaming</v> <p>up</p> with against
+      this American behaviour.
+    t: Se non riusciremo in questo intento, l’ovvio pericolo è di finire col litigare
+      proprio con i paesi con i quali vorremmo <a>allearci</a> per contrastare il
+      comportamento degli Stati Uniti.
+pt:
+- c: 1
+  r: 1
+  v: associar
+  x:
+  - s: From what I have heard from the Czech Republic, the government will remain
+      in office and at the helm, because the majority which <v>teamed</v> <p>up</p>
+      together yesterday does not suffice to support a new government.
+    t: Segundo percebi, pelas informações da República Checa, o Governo irá manter
+      as funções e continuará a governar, dado que a maioria que ontem se <a>associou</a>
+      não é suficiente para apoiar a formação de um novo governo.
+- c: 1
+  r: 1
+  v: conjunto
+  x:
+  - s: The fastest way for us to solve it will be to <v>team</v> <p>up</p> with other
+      European countries and take coordinated, timely and decisive action.
+    t: A maneira mais rápida que temos de a resolver será trabalhar em <a>conjunto</a>
+      com outros países europeus e tomar medidas coordenadas, atempadas e decisivas.
+- c: 1
+  r: 1
+  v: colaborar
+  x:
+  - s: I should also like to thank the 7 Council presidencies with whom I have <v>teamed</v>
+      <p>up</p>, the European Commission and Eurostat, for their excellent cooperation.
+    t: Queria ainda agradecer às sete presidências do Conselho com que <a>colaborei</a>,
+      à Comissão Europeia e ao Eurostat, pela excelente cooperação que tivemos.
+sv:
+- c: 1
+  r: 1
+  v: ihop
+  x:
+  - s: The fastest way for us to solve it will be to <v>team</v> <p>up</p> with other
+      European countries and take coordinated, timely and decisive action.
+    t: Vi löser den snabbast genom att slå oss <a>ihop</a> med andra europeiska länder
+      och vid rätt tidpunkt vidta samordnade och kraftfulla åtgärder.
+- c: 1
+  r: 1
+  v: samarbeta
+  x:
+  - s: The obvious danger if we do not achieve this is that we end up having spats
+      with precisely the people we should be <v>teaming</v> <p>up</p> with against
+      this American behaviour.
+    t: Om vi inte får till stånd detta, finns en uppenbar risk för att vi får dispyter
+      med just de länder som vi borde <a>samarbeta</a> med mot detta amerikanska beteende.

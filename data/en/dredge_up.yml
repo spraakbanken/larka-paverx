@@ -1,0 +1,59 @@
+---
+es:
+- c: 1
+  r: 1
+  v: mano
+  x:
+  - s: Those who, before 1989, spoke in this House in defence of the Communist dictatorships
+      must be ashamed when their words are <v>dredged</v> <p>up</p> from the Minutes.
+    t: Por grande que sea su ataque a la Cuba socialista, mis queridos colegas diputados,
+      no pueden negar el hecho de que Cuba es el único país libre del continente americano,
+      el único país donde la gente tiene autoridad en sus propias <a>manos</a>.
+fr:
+- c: 1
+  r: 1
+  v: détenir
+  x:
+  - s: Those who, before 1989, spoke in this House in defence of the Communist dictatorships
+      must be ashamed when their words are <v>dredged</v> <p>up</p> from the Minutes.
+    t: Mes chers collègues, vous pouvez attaquer le Cuba socialiste avec autant de
+      vigueur que vous voulez, mais vous ne pouvez nier que Cuba est le seul pays
+      libre du continent américain, le seul pays où le peuple <a>détient</a> l’autorité.
+- c: 1
+  r: 1
+  v: appartenir
+  x:
+  - s: This should mean that the dossier is in the best hands within the Commission,
+      and I fail to see the point of forever <v>dredging</v> <p>up</p> this discussion
+      on alleged differences that do not even exist.
+    t: Il <a>appartient</a> à présent aux États membres de faire preuve de l’esprit
+      de réforme proposé par la Commission en prenant des mesures politiques concrètes.
+it:
+- c: 1
+  r: 1
+  v: dragare
+  x:
+  - s: I feel it is wrong that there has not been a detailed analysis of the precise
+      environmental impact that <v>dredging</v> <p>up</p> 1 200 km of the seabed may
+      have.
+    t: Ho la sensazione che è sbagliato che non vi sia stata un’analisi dettagliata
+      del preciso impatto ambientale che potrebbe avere <a>dragare</a> 1 200 km di
+      fondo marino.
+- c: 1
+  r: 1
+  v: riemergere
+  x:
+  - s: Those who, before 1989, spoke in this House in defence of the Communist dictatorships
+      must be ashamed when their words are <v>dredged</v> <p>up</p> from the Minutes.
+    t: Coloro che qui hanno difeso le dittature comuniste prima del 1989, oggi devono
+      vergognarsi quando le loro parole <a>riemergono</a> dai processi verbali.
+pt:
+- c: 1
+  r: 1
+  v: recuperar
+  x:
+  - s: Those who, before 1989, spoke in this House in defence of the Communist dictatorships
+      must be ashamed when their words are <v>dredged</v> <p>up</p> from the Minutes.
+    t: Aqueles que, antes de 1989, falavam nesta Assembleia em defesa das ditaduras
+      comunistas devem ter vergonha quando as suas palavras são <a>recuperadas</a>
+      das Actas.

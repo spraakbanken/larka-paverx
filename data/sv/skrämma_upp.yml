@@ -1,0 +1,325 @@
+---
+de:
+- c: 2
+  r: 1
+  v: aufschrecken werden
+  x:
+  - s: epidemier som kommer att drabba städerna, folkströmmar som kommer att <v>skrämma</v>
+      <p>upp</p> grannländerna, regional instabilitet, vars återverkningar bara kan
+      ge anledning till oro.
+    t: Epidemien, die die Städte heimsuchen werden, Volksbewegungen, die die Nachbarstaaten
+      <a>aufschrecken</a> <a>werden</a>, und regionale Instabilität, deren weitere
+      Entwicklung nur Anlaß zur Besorgnis sein kann.
+  - s: Vi kommer att få nya vetenskapliga propåer, med den ena eller den andra inriktningen,
+      som kommer att <v>skrämma</v> <p>upp</p> befolkningen, med rätt eller orätt.
+    t: Es wird neue wissenschaftliche Veröffentlichungen geben, die in die eine oder
+      andere Richtung gehen und die Bürger <a>aufschrecken</a> <a>werden</a>, sei
+      es zu Recht oder zu Unrecht.
+- c: 1
+  r: 2
+  v: Hysterie
+  x:
+  - s: Vi har <v>skrämts</v> <p>upp</p> av skandaler som resulterat i oro, panik och
+      offentliga utredningar.
+    t: Wir haben <a>Hysterie</a> und Skandale erlebt, die Angst und Panik ausgelöst
+      und zu amtlichen Untersuchungen geführt haben.
+- c: 1
+  r: 2
+  v: einschüchtern werden
+  x:
+  - s: Det var ju en väldig utmaning eftersom människorna <v>skrämdes</v> <p>upp</p>
+      och terrorn var sedan april verkligen upprörande.
+    t: Das war ja eine gewaltige Herausforderung, weil die Menschen <a>eingeschüchtert</a>
+      <a>wurden</a> und der Terror, der seit April anhält, wirklich entsetzlich war.
+- c: 1
+  r: 2
+  v: einschüchtern
+  x:
+  - s: Om det inte finns några fall kommer pressen att säga att vi har <v>skrämt</v>
+      <p>upp</p> tjänstemännen så att ingen längre vågar.
+    t: Gibt es keine, wird es heißen, sie haben ihre Beamten so <a>eingeschüchtert</a>,
+      daß niemand sich mehr traut.
+- c: 1
+  r: 2
+  v: aufschrecken
+  x:
+  - s: De alarmerande siffrorna borde <v>skrämma</v> <p>upp</p> oss.
+    t: Die alarmierenden Zahlen sollten uns <a>aufschrecken</a>.
+- c: 1
+  r: 2
+  v: Angst schüren
+  x:
+  - s: Vi måste öka medvetenheten och informera allmänheten, men det tjänar ingenting
+      till att <v>skrämma</v> <p>upp</p> folk.
+    t: Nötig sind Aufklärung und Information, aber es nützt nichts, <a>Angst</a> zu
+      <a>schüren</a>, denn das wäre nicht konstruktiv.
+- c: 1
+  r: 2
+  v: Panik
+  x:
+  - s: Vad man där gjorde var att på ett verkligt skandalöst sätt desinformera, <v>skrämma</v>
+      <p>upp</p> och manipulera befolkningen.
+    t: Die Bevölkerung wurde wirklich in skandalöser Weise desinformiert, in <a>Panik</a>
+      versetzt und manipuliert.
+en:
+- c: 2
+  r: 1
+  v: frighten
+  x:
+  - s: epidemier som kommer att drabba städerna, folkströmmar som kommer att <v>skrämma</v>
+      <p>upp</p> grannländerna, regional instabilitet, vars återverkningar bara kan
+      ge anledning till oro.
+    t: epidemics raging through the towns, population movements that <a>frighten</a>
+      neighbouring countries and regional instability that gets more worrying in the
+      course of time.
+  - s: Vi kommer att få nya vetenskapliga propåer, med den ena eller den andra inriktningen,
+      som kommer att <v>skrämma</v> <p>upp</p> befolkningen, med rätt eller orätt.
+    t: We are going to be presented with new scientific proposals which point in one
+      direction or another and which, rightly or wrongly, will <a>frighten</a> people.
+- c: 1
+  r: 2
+  v: be intimidate
+  x:
+  - s: Det var ju en väldig utmaning eftersom människorna <v>skrämdes</v> <p>upp</p>
+      och terrorn var sedan april verkligen upprörande.
+    t: That was the great challenge, as people <a>were</a> being <a>intimidated</a>
+      and, since April, the terror had been really appalling.
+- c: 1
+  r: 2
+  v: alarmist
+  x:
+  - s: På den andra sidan har vi de ansvariga, ansiktena som försvinner eller blir
+      otydliga bakom bekvämlighetsflaggade fartyg och juridiska intriger som har kokats
+      ihop för att slippa undan ansvar med målet att bedrägligt kringgå bestämmelserna
+      för den inre marknaden, utan att bry sig om de möjliga miljöskador som detta
+      kan leda till - vilket nu har blivit verklighet - och de sociala och ekonomiska
+      skador som även kan bli följden och - utan att vilja <v>skrämma</v> <p>upp</p>
+      någon - de skador som kan uppstå i kustområdena till följd av dominoeffekten.
+    t: On the other side are the people responsible, whose faces are obscured behind
+      flags of convenience and legal procedures distorted to this end, and with a
+      view to fraudulently avoiding the rules of the internal market, without caring
+      about possible ecological damage - which is now real - and social and economic
+      harm, and, without wanting to be <a>alarmist</a>, the damage which may also
+      be in store for other coastal areas as the result of a domino effect.
+- c: 1
+  r: 2
+  v: cover up
+  x:
+  - s: De <v>skrämde</v> sedan <p>upp</p> de 70 vittnen som fanns till brottet, liksom
+      deras familjer.
+    t: This killing was ruthlessly supervised and forensically <a>covered</a> <a>up</a>
+      by men announcing that their activities were IRA business, by men who proceeded
+      to intimidate the 70 witnesses to the crime and their families, first forbidding
+      them from calling an ambulance on the night in question, as Robert McCartney
+      bled to death before their eyes and his colleague lay seriously injured.
+- c: 1
+  r: 2
+  v: disinformation
+  x:
+  - s: Vad man där gjorde var att på ett verkligt skandalöst sätt desinformera, <v>skrämma</v>
+      <p>upp</p> och manipulera befolkningen.
+    t: This was a truly scandalous piece of <a>disinformation</a>, of <a>panicspreading</a>,
+      of manipulation of people.
+- c: 1
+  r: 2
+  v: intimidate
+  x:
+  - s: Om det inte finns några fall kommer pressen att säga att vi har <v>skrämt</v>
+      <p>upp</p> tjänstemännen så att ingen längre vågar.
+    t: If there are none, they will say that they have <a>intimidated</a> their officials
+      to such an extent that nobody trusts himself or herself any more.
+- c: 1
+  r: 2
+  v: scare
+  x:
+  - s: Vi har <v>skrämts</v> <p>upp</p> av skandaler som resulterat i oro, panik och
+      offentliga utredningar.
+    t: We have had <a>scare</a> and scandal leading to fear, panic and public enquiry.
+- c: 1
+  r: 2
+  v: set alarm bell
+  x:
+  - s: De alarmerande siffrorna borde <v>skrämma</v> <p>upp</p> oss.
+    t: The numbers alone should <a>set</a> our <a>alarm</a> <a>bells</a> ringing.
+- c: 1
+  r: 2
+  v: afraid
+  x:
+  - s: Vi måste öka medvetenheten och informera allmänheten, men det tjänar ingenting
+      till att <v>skrämma</v> <p>upp</p> folk.
+    t: We must raise awareness and inform the public, but making people <a>afraid</a>
+      serves no purpose.
+- c: 1
+  r: 2
+  v: alarm
+  x:
+  - s: Vi måste utan att <v>skrämma</v> <p>upp</p> människor ändå erkänna dess faktiska
+      skala och omfattning.
+    t: without causing <a>alarm</a>, we must acknowledge its real scale and extent.
+es:
+- c: 1
+  r: 1
+  v: faltar susto
+  x:
+  - s: Vi har <v>skrämts</v> <p>upp</p> av skandaler som resulterat i oro, panik och
+      offentliga utredningar.
+    t: No nos han <a>faltado</a> <a>sustos</a> y escándalos que han provocado el miedo,
+      el pánico y han dado lugar a investigaciones públicas.
+- c: 1
+  r: 1
+  v: alarmista
+  x:
+  - s: På den andra sidan har vi de ansvariga, ansiktena som försvinner eller blir
+      otydliga bakom bekvämlighetsflaggade fartyg och juridiska intriger som har kokats
+      ihop för att slippa undan ansvar med målet att bedrägligt kringgå bestämmelserna
+      för den inre marknaden, utan att bry sig om de möjliga miljöskador som detta
+      kan leda till - vilket nu har blivit verklighet - och de sociala och ekonomiska
+      skador som även kan bli följden och - utan att vilja <v>skrämma</v> <p>upp</p>
+      någon - de skador som kan uppstå i kustområdena till följd av dominoeffekten.
+    t: En el otro lado están los responsables, el rostro de los cuales se pierde o
+      se oscurece a través de abanderamientos de conveniencia y de tramas jurídicamente
+      urdidas a ese efecto, y al objeto de burlar fraudulentamente las normas del
+      mercado interior, sin preocuparles el posible daño ecológico - ahora real -
+      y el perjuicio social y económico, y - sin ánimo de ser <a>alarmista</a> - el
+      que pudiera seguir produciéndose también, por el efecto dominó, para las comarcas
+      costeras.
+- c: 1
+  r: 1
+  v: miedo
+  x:
+  - s: Vad är det som får oss att underblåsa föreställningen om ett byråkratiskt och
+      obegripligt EU, som till råga på allt <v>skrämmer</v> <p>upp</p> människor och
+      ger så outgrundliga besked som möjligt?
+    t: ¿Por qué tenemos que mantener viva la idea de una Europa burocrática, opaca
+      y, peor aún, que incita al <a>miedo</a> y evita la claridad?
+- c: 1
+  r: 1
+  v: estremecer
+  x:
+  - s: De alarmerande siffrorna borde <v>skrämma</v> <p>upp</p> oss.
+    t: Las alarmantes cifras nos deben <a>estremecer</a>.
+fr:
+- c: 1
+  r: 1
+  v: effrayer
+  x:
+  - s: De alarmerande siffrorna borde <v>skrämma</v> <p>upp</p> oss.
+    t: Les chiffres alarmants devraient nous <a>effrayer</a>.
+- c: 1
+  r: 1
+  v: listeria connaître préoccupation
+  x:
+  - s: Vi har <v>skrämts</v> <p>upp</p> av skandaler som resulterat i oro, panik och
+      offentliga utredningar.
+    t: Coli, salmonelle, <a>listeria</a>, etc. Nous avons <a>connu</a> des <a>préoccupations</a>
+      et des scandales débouchant sur de la peur, de la panique et des enquêtes publiques.
+it:
+- c: 2
+  r: 1
+  v: allarmismo
+  x:
+  - s: På den andra sidan har vi de ansvariga, ansiktena som försvinner eller blir
+      otydliga bakom bekvämlighetsflaggade fartyg och juridiska intriger som har kokats
+      ihop för att slippa undan ansvar med målet att bedrägligt kringgå bestämmelserna
+      för den inre marknaden, utan att bry sig om de möjliga miljöskador som detta
+      kan leda till - vilket nu har blivit verklighet - och de sociala och ekonomiska
+      skador som även kan bli följden och - utan att vilja <v>skrämma</v> <p>upp</p>
+      någon - de skador som kan uppstå i kustområdena till följd av dominoeffekten.
+    t: Dall’altro lato, vi sono i responsabili, i cui volti si celano dietro bandiere
+      di comodo e procedure legali distorte a loro vantaggio, il cui intento è quello
+      di eludere fraudolentemente le regole del mercato interno senza curarsi del
+      possibile danno ecologico - ora reale -, oltreché sociale ed economico, oppure
+      (lungi da me l’idea di fare dell’<a>allarmismo</a>) del danno forse in serbo
+      per altre zone costiere a causa dell’effetto domino.
+  - s: Vi måste utan att <v>skrämma</v> <p>upp</p> människor ändå erkänna dess faktiska
+      skala och omfattning.
+    t: senza causare <a>allarmismi</a>, dobbiamo riconoscere la sua dimensioneed estensione
+      effettive.
+- c: 1
+  r: 2
+  v: esercitare
+  x:
+  - s: De <v>skrämde</v> sedan <p>upp</p> de 70 vittnen som fanns till brottet, liksom
+      deras familjer.
+    t: queste persone hanno poi <a>esercitato</a> un’opera di intimidazione nei confronti
+      dei 70 testimoni presenti sulla scena del crimine, minacciando anche le loro
+      famiglie.
+- c: 1
+  r: 2
+  v: diffondere timore
+  x:
+  - s: Vi måste öka medvetenheten och informera allmänheten, men det tjänar ingenting
+      till att <v>skrämma</v> <p>upp</p> folk.
+    t: Sono necessarie campagne di sensibilizzazione e informazione, non ha alcun
+      senso <a>diffondere</a> <a>timori</a>.
+- c: 1
+  r: 2
+  v: intimidire
+  x:
+  - s: Om det inte finns några fall kommer pressen att säga att vi har <v>skrämt</v>
+      <p>upp</p> tjänstemännen så att ingen längre vågar.
+    t: se non ve ne saranno, si dirà che i funzionari sono stati <a>intimiditi</a>
+      al punto da privarli di ogni coraggio;
+- c: 1
+  r: 2
+  v: paura
+  x:
+  - s: Vad är det som får oss att underblåsa föreställningen om ett byråkratiskt och
+      obegripligt EU, som till råga på allt <v>skrämmer</v> <p>upp</p> människor och
+      ger så outgrundliga besked som möjligt?
+    t: Perché dobbiamo ancora animare l’idea di un’Europa della burocrazia, della
+      scarsa chiarezza e, ancor peggio, della <a>paura</a>, che non deve fare chiarezza?
+- c: 1
+  r: 2
+  v: sobbalzare
+  x:
+  - s: De alarmerande siffrorna borde <v>skrämma</v> <p>upp</p> oss.
+    t: I dati allarmanti dovrebbero farci <a>sobbalzare</a>.
+pt:
+- c: 1
+  r: 1
+  v: alarme
+  x:
+  - s: Vi måste utan att <v>skrämma</v> <p>upp</p> människor ändå erkänna dess faktiska
+      skala och omfattning.
+    t: sem causar <a>alarme</a>, temos de reconhecer a sua verdadeira escala, a sua
+      verdadeira dimensão.
+- c: 1
+  r: 1
+  v: assustar
+  x:
+  - s: Just tidigare skandaler, t.ex. den lindanförorenade barnmaten, har <v>skrämt</v>
+      <p>upp</p> konsumenterna.
+    t: Os consumidores <a>assustaram</a><a>-se</a> muito, precisamente com os escândalos
+      do passado, por exemplo o escândalo relacionado com alimentos para bebés contaminados
+      com lindano.
+  - s: De alarmerande siffrorna borde <v>skrämma</v> <p>upp</p> oss.
+    t: Os números alarmantes deveriam <a>assustar</a>-nos.
+- c: 1
+  r: 1
+  v: apanhar susto
+  x:
+  - s: Vi har <v>skrämts</v> <p>upp</p> av skandaler som resulterat i oro, panik och
+      offentliga utredningar.
+    t: <a>Apanhámos</a> <a>sustos</a> e assistimos a escândalos que conduziram ao
+      medo, ao pânico e a inquéritos públicos.
+- c: 1
+  r: 1
+  v: assustar
+  x:
+  - s: Just tidigare skandaler, t.ex. den lindanförorenade barnmaten, har <v>skrämt</v>
+      <p>upp</p> konsumenterna.
+    t: Os consumidores <a>assustaram</a><a>-se</a> muito, precisamente com os escândalos
+      do passado, por exemplo o escândalo relacionado com alimentos para bebés contaminados
+      com lindano.
+  - s: De alarmerande siffrorna borde <v>skrämma</v> <p>upp</p> oss.
+    t: Os números alarmantes deveriam <a>assustar</a>-nos.
+- c: 1
+  r: 1
+  v: medo
+  x:
+  - s: Vad är det som får oss att underblåsa föreställningen om ett byråkratiskt och
+      obegripligt EU, som till råga på allt <v>skrämmer</v> <p>upp</p> människor och
+      ger så outgrundliga besked som möjligt?
+    t: Porque é que ainda necessitamos de manter viva a ideia de uma Europa burocrática,
+      obscura e - pior ainda - que incita ao <a>medo</a> e evita a clareza?

@@ -1,0 +1,39 @@
+---
+es:
+- c: 1
+  r: 1
+  v: meter
+  x:
+  - s: Ibland när jag kommer till denna kammare för att tala om telekommunikationsfrågor
+      känner jag att jag skulle kunna <v>sticka</v> <p>ner</p> handen i en påse och
+      dra upp nästan vilket anförande som helst, och det skulle passa det förslag
+      det handlade om.
+    t: A veces, cuando vengo a esta Cámara a hablar de asuntos de telecomunicaciones,
+      tengo la sensación de que podría <a>meter</a> la mano en un saco, sacar casi
+      cualquier discurso y que éste valdría para la propuesta en cuestión.
+fr:
+- c: 1
+  r: 1
+  v: plonger
+  x:
+  - s: Ibland när jag kommer till denna kammare för att tala om telekommunikationsfrågor
+      känner jag att jag skulle kunna <v>sticka</v> <p>ner</p> handen i en påse och
+      dra upp nästan vilket anförande som helst, och det skulle passa det förslag
+      det handlade om.
+    t: J’ai parfois le sentiment, quand je me présente dans cet hémicycle pour intervenir
+      sur une question liée aux télécommunications, que je pourrais <a>plonger</a>
+      la main dans un sac et en retirer n’importe quelle intervention ou presque,
+      elle conviendrait à la proposition à l’examen.
+pt:
+- c: 1
+  r: 1
+  v: meter
+  x:
+  - s: Ibland när jag kommer till denna kammare för att tala om telekommunikationsfrågor
+      känner jag att jag skulle kunna <v>sticka</v> <p>ner</p> handen i en påse och
+      dra upp nästan vilket anförande som helst, och det skulle passa det förslag
+      det handlade om.
+    t: Por vezes, quando aqui venho falar sobre assuntos relacionados com as telecomunicações,
+      tenho a sensação de que poderia <a>meter</a> a mão num saco, tirar de lá praticamente
+      qualquer discurso e esse discurso seria apropriado para a proposta específica
+      em debate.

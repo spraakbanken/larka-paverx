@@ -1,0 +1,156 @@
+---
+de:
+- c: 1
+  r: 1
+  v: sparen
+  x:
+  - s: Människor jobbar hårt för att <v>spara</v> <p>ihop</p> till sin semester, och
+      vi måste se till att de kan känna sig trygga.
+    t: Da die Menschen sehr hart für Ihren Urlaub <a>sparen</a>, müssen wir ihnen
+      das Gefühl der Sicherheit vermitteln.
+en:
+- c: 1
+  r: 1
+  v: accumulate
+  x:
+  - s: Jag vill också tacka föredraganden, Karas, och kommissionsledamoten och hans
+      personal för vad jag anser vara en mycket god kompromiss mellan Europaparlamentet,
+      ministerrådet och kommissionen, som kommer att göra det möjligt för miljoner
+      européer att <v>spara</v> <p>ihop</p> bättre pensionsrättigheter oavsett var
+      i unionen de arbetar.
+    t: Mr President, I too should like to thank the rapporteur, Mr Karas, and the
+      Commissioner and his staff for what I believe is a very good compromise reached
+      between the European Parliament, the Council of Ministers and the Commission,
+      which will allow millions of Europeans to <a>accumulate</a> better pension rights
+      wherever they work in the Union.
+- c: 1
+  r: 1
+  v: save
+  x:
+  - s: Människor jobbar hårt för att <v>spara</v> <p>ihop</p> till sin semester, och
+      vi måste se till att de kan känna sig trygga.
+    t: As people work very hard to <a>save</a> for holidays, we must make them feel
+      secure.
+es:
+- c: 1
+  r: 1
+  v: ahorrar
+  x:
+  - s: Människor jobbar hårt för att <v>spara</v> <p>ihop</p> till sin semester, och
+      vi måste se till att de kan känna sig trygga.
+    t: Queremos que la gente se sienta segura, ya que trabajan mucho para <a>ahorrar</a>
+      para sus vacaciones.
+- c: 1
+  r: 1
+  v: acumular
+  x:
+  - s: Jag vill också tacka föredraganden, Karas, och kommissionsledamoten och hans
+      personal för vad jag anser vara en mycket god kompromiss mellan Europaparlamentet,
+      ministerrådet och kommissionen, som kommer att göra det möjligt för miljoner
+      européer att <v>spara</v> <p>ihop</p> bättre pensionsrättigheter oavsett var
+      i unionen de arbetar.
+    t: Señor Presidente, yo también quisiera dar las gracias al ponente, el Sr. Karas,
+      y al Comisario y a su plantilla por lo que me parece es un buen compromiso entre
+      el Parlamento Europeo, el Consejo de Ministros y la Comisión, que permitirá
+      a millones de europeos <a>acumular</a> mejores derechos de pensiones dondequiera
+      que trabajen dentro de la Unión.
+- c: 1
+  r: 1
+  v: gasto
+  x:
+  - s: Firman Rover i Storbritannien skulle, om man blev ansvarig för alla uttjänta
+      fordon, bli ansvarig för 5,8 miljoner bilar i Europeiska unionen och omgående
+      tvingas öronmärka 250 miljoner euro för att <v>spara</v> <p>ihop</p> till återvinningskostnaderna,
+      medan en tillverkare av liknande bilar från Korea behöver lägga undan ett peanuts-belopp
+      - som en företrädare för Deutsche Bank en gång uttryckte det.
+    t: en Gran Bretaña, la empresa Rover, si fuera responsable de todos los vehículos
+      para desguace, respondería de 5,8 millones de vehículos en la Unión Europea
+      y debería constituir inmediatamente reservas por 250 millones de euros para
+      hacer frente a los <a>gastos</a> de reciclaje, mientras que un fabricante de
+      Corea que construye vehículos similares, tiene que reservar, como dijo un representante
+      del Deutsche Bank, una cantidad irrisoria.
+fr:
+- c: 1
+  r: 1
+  v: accumuler
+  x:
+  - s: Jag vill också tacka föredraganden, Karas, och kommissionsledamoten och hans
+      personal för vad jag anser vara en mycket god kompromiss mellan Europaparlamentet,
+      ministerrådet och kommissionen, som kommer att göra det möjligt för miljoner
+      européer att <v>spara</v> <p>ihop</p> bättre pensionsrättigheter oavsett var
+      i unionen de arbetar.
+    t: Monsieur le Président, je voudrais à mon tour remercier le rapporteur, M. Karas,
+      ainsi que le commissaire et son personnel pour ce que je crois être un excellent
+      compromis entre le Parlement, le Conseil et la Commission, qui permettra à des
+      millions d’Européens d’<a>accumuler</a> de meilleurs droits à la retraite où
+      qu’ils travaillent dans l’Union.
+- c: 1
+  r: 1
+  v: sueur
+  x:
+  - s: Människor jobbar hårt för att <v>spara</v> <p>ihop</p> till sin semester, och
+      vi måste se till att de kan känna sig trygga.
+    t: Les gens économisent pour leurs vacances à la <a>sueur</a> de leur front.
+- c: 1
+  r: 1
+  v: faire coût
+  x:
+  - s: Firman Rover i Storbritannien skulle, om man blev ansvarig för alla uttjänta
+      fordon, bli ansvarig för 5,8 miljoner bilar i Europeiska unionen och omgående
+      tvingas öronmärka 250 miljoner euro för att <v>spara</v> <p>ihop</p> till återvinningskostnaderna,
+      medan en tillverkare av liknande bilar från Korea behöver lägga undan ett peanuts-belopp
+      - som en företrädare för Deutsche Bank en gång uttryckte det.
+    t: si la firme britannique Rover était responsable de tous les véhicules hors
+      d’usage, elle aurait la charge de 5,8 millions de véhicules dans l’Union européenne
+      et devrait immédiatement mettre 250 millions d’euros de côté pour <a>faire</a>
+      face aux <a>coûts</a> de recyclage, alors qu’un constructeur coréen qui construit
+      des voitures similaires devrait mettre en réserve - comme l’a dit un jour un
+      représentant de la Deutsche Bank - des cacahuètes.
+it:
+- c: 1
+  r: 1
+  v: risparmiare
+  x:
+  - s: Människor jobbar hårt för att <v>spara</v> <p>ihop</p> till sin semester, och
+      vi måste se till att de kan känna sig trygga.
+    t: Dato che la gente deve lavorare sodo per <a>risparmiare</a> e potersi permetterr
+      una vacanza, dobbiamo garantirle sicurezza.
+pt:
+- c: 1
+  r: 1
+  v: poupar
+  x:
+  - s: Människor jobbar hårt för att <v>spara</v> <p>ihop</p> till sin semester, och
+      vi måste se till att de kan känna sig trygga.
+    t: Uma vez que as pessoas trabalham arduamente para <a>poupar</a> para as férias,
+      cumpre-nos fazê-las sentir em segurança.
+- c: 1
+  r: 1
+  v: poupança
+  x:
+  - s: Firman Rover i Storbritannien skulle, om man blev ansvarig för alla uttjänta
+      fordon, bli ansvarig för 5,8 miljoner bilar i Europeiska unionen och omgående
+      tvingas öronmärka 250 miljoner euro för att <v>spara</v> <p>ihop</p> till återvinningskostnaderna,
+      medan en tillverkare av liknande bilar från Korea behöver lägga undan ett peanuts-belopp
+      - som en företrädare för Deutsche Bank en gång uttryckte det.
+    t: se a Rover, na Grã-Bretanha, fosse responsável por todos os seus veículos fora
+      de uso, seria responsável por 5,8 milhões de automóveis na União Europeia e
+      teria, desde já, de colocar 250 milhões de euros de parte como <a>poupança</a>
+      para fazer face aos custos de reciclagem, ao passo que um fabricante da Coreia,
+      a construir automóvel semelhantes apenas tem de efectuar a reserva de uma quantia
+      ridícula, peanuts foi o que uma vez lhe chamou um representante do Deutsche
+      Bank.
+- c: 1
+  r: 1
+  v: acumular
+  x:
+  - s: Jag vill också tacka föredraganden, Karas, och kommissionsledamoten och hans
+      personal för vad jag anser vara en mycket god kompromiss mellan Europaparlamentet,
+      ministerrådet och kommissionen, som kommer att göra det möjligt för miljoner
+      européer att <v>spara</v> <p>ihop</p> bättre pensionsrättigheter oavsett var
+      i unionen de arbetar.
+    t: Senhor Presidente, também eu gostaria de agradecer ao relator, senhor deputado
+      Karas, bem como ao senhor Comissário e aos seus funcionários, aquilo que considero
+      ser um excelente compromisso entre o Parlamento Europeu, o Conselho de Ministros
+      e a Comissão, e que irá permitir que milhões de europeus <a>acumulem</a> direitos
+      de pensões melhores, onde quer que trabalhem na União.

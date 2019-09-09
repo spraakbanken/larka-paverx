@@ -1,0 +1,18 @@
+---
+en:
+- c: 1
+  r: 1
+  v: shoot
+  x:
+  - s: Sydafrika, Botswana, Namibia och Zambia vill nu <v>skjuta</v> <p>av</p> ännu
+      fler elefanter.
+    t: South Africa, Botswana, Namibia and Zambia want to <a>shoot</a> even more elephants
+      now.
+es:
+- c: 1
+  r: 1
+  v: seguir
+  x:
+  - s: Sydafrika, Botswana, Namibia och Zambia vill nu <v>skjuta</v> <p>av</p> ännu
+      fler elefanter.
+    t: Sudáfrica, Namibia y Zambia quieren <a>seguir</a> abatiendo elefantes.

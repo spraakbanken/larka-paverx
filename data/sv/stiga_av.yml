@@ -1,0 +1,203 @@
+---
+de:
+- c: 1
+  r: 1
+  v: verschwinden
+  x:
+  - s: Det skulle vara allvarligt om alla utomeuropeiska företag skulle lära sig att
+      utnyttja Europa som en buss, där man slipper betala biljetten, slipper betala
+      för att vara med, får betalt för att ha använt fordonet och sedan kan <v>stiga</v>
+      <p>av</p> utan att säga något till någon.
+    t: Es wäre schlimm, wenn dieses Beispiel Schule machen und jedes außereuropäische
+      Unternehmen Europa wie einen Autobus benützen würde, ohne für den Fahrschein,
+      für die Mitarbeit zu bezahlen, und nur für die Benutzung zu kassieren und dann
+      zu <a>verschwinden</a>, ohne sich um irgend jemanden zu kümmern.
+en:
+- c: 2
+  r: 1
+  v: get out
+  x:
+  - s: Den här veckan har jag fem gånger stigit in i en hiss utan att kunna <v>stiga</v>
+      <p>av</p> på min våning.
+    t: Fourthly, this week I have got into a lift five times and not been able to
+      <a>get</a> <a>out</a> at my own floor.
+  - s: Jag skulle <v>stiga</v> <p>av</p> på tionde våningen.
+    t: I wanted to <a>get</a> <a>out</a> on the tenth floor.
+- c: 2
+  r: 1
+  v: get off
+  x:
+  - s: 'När man kommer till Storbritannien med Eurostartåget möts man av en stor skylt
+      där det står att Électricité de France förser miljoner av Londonbor med el.
+      Jag drömmer om den dag när man kan <v>stiga</v> <p>av</p> tåget i Paris och
+      läsa en skylt där det står: ”Centrica - ännu inte i ryska händer - förser miljoner
+      av parisare med el.” Jag är rädd att denna dag är långt bort.'
+    t: 'I dream of the day when I can <a>get</a> <a>off</a> the train in Paris and
+      read a sign that says: ’Centrica - still not in Russian hands - providing power
+      to millions of Parisians’.'
+  - s: De har dock upphört med arbetet på en av de två tunnlarna och fortfarande finns
+      det ingen möjlighet att stiga på tåget i Basel och <v>stiga</v> <p>av</p> i
+      Chiasso.
+    t: They have stopped the work on one of the tunnels in the meantime, and it is
+      still not possible to get on the train in Basel and to <a>get</a> <a>off</a>
+      again at Chiasso.
+- c: 1
+  r: 2
+  v: disembark
+  x:
+  - s: Den stora majoriteten av invandrare till Kanarieöarna anländer med flyg och
+      inte med båt, på samma sätt som de flesta olagliga invandrare till Italien inte
+      <v>stiger</v> <p>av</p> i Lampedusa utan också anländer med flyg.
+    t: The vast majority of migrants to the Canaries arrive by plane, not by sea,
+      just as the vast majority of irregular immigrants to Italy do not <a>disembark</a>
+      at Lampedusa but also arrive by plane.
+- c: 1
+  r: 2
+  v: leave
+  x:
+  - s: Det skulle vara allvarligt om alla utomeuropeiska företag skulle lära sig att
+      utnyttja Europa som en buss, där man slipper betala biljetten, slipper betala
+      för att vara med, får betalt för att ha använt fordonet och sedan kan <v>stiga</v>
+      <p>av</p> utan att säga något till någon.
+    t: It would be a serious matter if every non-European company were to learn to
+      use Europe as a bus where you do not have to pay for the ticket, you do not
+      have to pay for cooperation, you benefit from using the facility and you <a>leave</a>
+      without being accountable to anyone.
+- c: 1
+  r: 2
+  v: 'on'
+  x:
+  - s: Jag hoppas dessutom att vi i parlamentet i fortsättningen skall fästa mer uppmärksamhet
+      på just personskyddet och att passagerarlistor inte förvaras för länge, vilket
+      jag hoppas att vi kan återkomma till. Jag hoppas också att kommissionen på ett
+      positivt sätt kan se behovet av att ha undantag i farvatten, där vågorna verkligen
+      är låga, där man gör kortare resor och <v>stiger</v> <p>av</p> och på;
+    t: I also hope that the Commission can indeed see the need for exceptions in certain
+      waters where the sea is really not rough, where the trips are shorter with people
+      continuously getting <a>on</a> and off;
+es:
+- c: 1
+  r: 1
+  v: bajarse
+  x:
+  - s: De har dock upphört med arbetet på en av de två tunnlarna och fortfarande finns
+      det ingen möjlighet att stiga på tåget i Basel och <v>stiga</v> <p>av</p> i
+      Chiasso.
+    t: Sin embargo, han parado mientras tanto las obras en uno de esos dos túneles
+      y no existe todavía la posibilidad de subirse al tren en Basilea y <a>bajarse</a>
+      en Chiasso.
+- c: 1
+  r: 1
+  v: bajar
+  x:
+  - s: Jag skulle <v>stiga</v> <p>av</p> på tionde våningen.
+    t: Quería <a>bajarme</a> en el décimo piso.
+- c: 1
+  r: 1
+  v: subir
+  x:
+  - s: Jag hoppas att vi också i parlamentet kan återkomma till bättre personskydd
+      och vissa undantag för trafik med passagerare som <v>stiger</v> <p>av</p> och
+      på (motsvarande stadsbornas spårvagnstrafik), t.ex. den trafik som vi har i
+      vår skärgård utanför Finland.
+    t: Espero que también el Parlamento logre llegar a una mejor protección de las
+      personas, y a ciertas excepciones para el tráfico de pasajeros que <a>suben</a>
+      y bajan frecuentemente del transbordador (que corresponda al tráfico ferroviario
+      de pasajeros), por ejemplo con respecto al tráfico que tenemos en el archipiélago
+      en aguas finlandesas.
+- c: 1
+  r: 1
+  v: desembarcar
+  x:
+  - s: Den stora majoriteten av invandrare till Kanarieöarna anländer med flyg och
+      inte med båt, på samma sätt som de flesta olagliga invandrare till Italien inte
+      <v>stiger</v> <p>av</p> i Lampedusa utan också anländer med flyg.
+    t: La gran mayoría de inmigrantes que llegan a las Islas Canarias lo hacen por
+      vía aérea, no por mar, igual que la gran mayoría de inmigrantes irregulares
+      que llegan a Italia no <a>desembarcan</a> en Lampedusa, sino que viajan en avión.
+fr:
+- c: 1
+  r: 1
+  v: aller
+  x:
+  - s: Det skulle vara allvarligt om alla utomeuropeiska företag skulle lära sig att
+      utnyttja Europa som en buss, där man slipper betala biljetten, slipper betala
+      för att vara med, får betalt för att ha använt fordonet och sedan kan <v>stiga</v>
+      <p>av</p> utan att säga något till någon.
+    t: on paie le billet, on ne paie pas la collaboration, on encaisse pour avoir
+      utilisé ce moyen de transport et on s’en <a>va</a> sans rendre de comptes à
+      personne.
+- c: 1
+  r: 1
+  v: descendre
+  x:
+  - s: De har dock upphört med arbetet på en av de två tunnlarna och fortfarande finns
+      det ingen möjlighet att stiga på tåget i Basel och <v>stiga</v> <p>av</p> i
+      Chiasso.
+    t: À vrai dire, ils ont entre-temps interrompu les travaux pour l’un des deux
+      tunnels et il est toujours impossible d’embarquer à Bâle pour <a>descendre</a>
+      à Chiasso.
+- c: 1
+  r: 1
+  v: débarquer
+  x:
+  - s: Den stora majoriteten av invandrare till Kanarieöarna anländer med flyg och
+      inte med båt, på samma sätt som de flesta olagliga invandrare till Italien inte
+      <v>stiger</v> <p>av</p> i Lampedusa utan också anländer med flyg.
+    t: La grande majorité des immigrés qui atteignent les Canaries le font par avion,
+      et non par la mer, tout comme la grande majorité des immigrés clandestins vers
+      l’Italie ne <a>débarquent</a> pas à Lampedusa, mais arrivent aussi par avion.
+it:
+- c: 1
+  r: 1
+  v: scendere
+  x:
+  - s: Den här veckan har jag fem gånger stigit in i en hiss utan att kunna <v>stiga</v>
+      <p>av</p> på min våning.
+    t: questa settimana sono salita cinque volte in un ascensore da cui non sono mai
+      riuscita a <a>scendere</a> al mio piano.
+- c: 1
+  r: 1
+  v: sbarcare
+  x:
+  - s: Den stora majoriteten av invandrare till Kanarieöarna anländer med flyg och
+      inte med båt, på samma sätt som de flesta olagliga invandrare till Italien inte
+      <v>stiger</v> <p>av</p> i Lampedusa utan också anländer med flyg.
+    t: La stragrande maggioranza dei migranti nelle Canarie arriva in aereo e non
+      via mare, come pure la stragrande maggioranza degli immigrati irregolari in
+      Italia non <a>sbarca</a> a Lampedusa ma arriva anch’essa in aereo.
+- c: 1
+  r: 1
+  v: salire
+  x:
+  - s: Man går ombord på planet i A och <v>stiger</v> <p>av</p> planet i B, och om
+      både A och B ligger inom Europeiska gemenskapen, då uppstår inte problemet,
+      då kan ni inte göra några skattefria inköp.
+    t: Si <a>sale</a> ad A e si scende a B e se entrambi i luoghi si trovano all’interno
+      della Comunità europea, il problema non sussiste, poiché non si potranno fare
+      tali acquisti in esenzione da dazi.
+pt:
+- c: 2
+  r: 1
+  v: sair
+  x:
+  - s: De har dock upphört med arbetet på en av de två tunnlarna och fortfarande finns
+      det ingen möjlighet att stiga på tåget i Basel och <v>stiga</v> <p>av</p> i
+      Chiasso.
+    t: Porém, entretanto, eles suspenderam os trabalhos num deles e ainda não existe
+      a possibilidade de entrar no comboio em Basileia e <a>sair</a> em Chiasso, como
+      nos haviam prometido.
+  - s: Den här veckan har jag fem gånger stigit in i en hiss utan att kunna <v>stiga</v>
+      <p>av</p> på min våning.
+    t: esta semana aconteceu-me entrar cinco vezes num elevador, do qual nunca consegui
+      <a>sair</a> no meu andar.
+- c: 1
+  r: 2
+  v: desembarcar
+  x:
+  - s: Den stora majoriteten av invandrare till Kanarieöarna anländer med flyg och
+      inte med båt, på samma sätt som de flesta olagliga invandrare till Italien inte
+      <v>stiger</v> <p>av</p> i Lampedusa utan också anländer med flyg.
+    t: A grande maioria dos migrantes para as Canárias chega de avião, não por via
+      marítima, tal como a grande maioria dos imigrantes ilegais em Itália não <a>desembarca</a>
+      em Lampedusa, mas chega também de avião.

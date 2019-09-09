@@ -1,0 +1,353 @@
+---
+de:
+- c: 1
+  r: 1
+  v: entwurzeln
+  x:
+  - s: This would cause language to be <v>torn</v> <p>out</p> of the ground without
+      its roots.
+    t: Dadurch würde Sprache <a>entwurzelt</a>.
+- c: 1
+  r: 1
+  v: ausreißen
+  x:
+  - s: And we must change that heart, not <v>tear</v> it <p>out</p> but change it,
+      make it truly civilised so that it does not just pay lip-service to humanity,
+      human rights and other such mirages.
+    t: Und dieses Herz müssen wir verändern, nicht indem wir es <a>ausreißen</a>,
+      wir müssen es verändern, damit es wirklich zivilisiert wird und sich nicht nur
+      dem Schein nach auf den Humanismus, die Menschenrechte und ähnliche Märchen
+      beruft.
+- c: 1
+  r: 1
+  v: auskratzen
+  x:
+  - s: But before I get my eyes <v>torn</v> <p>out</p>, I want to make one conciliatory
+      remark.
+    t: Bevor ich mir jedoch die Augen <a>auskratzen</a> lasse, möchte ich etwas Versöhnliches
+      sagen.
+- c: 1
+  r: 1
+  v: Herausreißen
+  x:
+  - s: There is no doubt that, seen from Belgrade, both NATO, with its massacre in
+      the capital city, and the EU, with its barbaric support for <v>tearing</v> <p>out</p>
+      a key part of Serbia, namely Kosovo, from the country, are not particularly
+      appealing allies.
+    t: Es besteht kein Zweifel, dass für Belgrad weder die NATO, die für das Massaker
+      in der Hauptstadt verantwortlich war, noch die EU, die auf barbarische Weise
+      das <a>Herausreißen</a> eines wichtigen Teils von Serbien - des Kosovos - unterstützt
+      hat, als Verbündete besonders attraktiv sind.
+- c: 1
+  r: 1
+  v: Neonazi
+  x:
+  - s: This strange political behaviour, so detrimental to Russia itself, cannot <v>tear</v>
+      <p>out</p> the truth about deeds but continues to affect wrongly our European
+      standards and fairness of evaluations.
+    t: Wir sollten uns dessen bewusst sein, wie hilfreich solche Scheinheiligkeit
+      und zweierlei Maß für diverse <a>Neonazis</a> und andere sind.
+es:
+- c: 2
+  r: 1
+  v: arrancar
+  x:
+  - s: And we must change that heart, not <v>tear</v> it <p>out</p> but change it,
+      make it truly civilised so that it does not just pay lip-service to humanity,
+      human rights and other such mirages.
+    t: Y debemos cambiar ese corazón, no <a>arrancarlo</a>, cambiarlo para que sea,
+      de hecho, civilizado y no invoque a los humanismos, a los derechos humanos y
+      demás cuentos.
+  - s: This would cause language to be <v>torn</v> <p>out</p> of the ground without
+      its roots.
+    t: Eso supondría <a>arrancar</a> la lengua de la tierra sin sus raíces.
+- c: 1
+  r: 2
+  v: rasgar
+  x:
+  - s: For the second year running, producers are <v>tearing</v> their hair <p>out</p>
+      because the Greek government has arbitrarily set production at 275 kilograms
+      per decare, whereas output is much higher and no-one knows what will become
+      of it.
+    t: Por segundo año consecutivo, los productores se están <a>rasgando</a> las vestiduras
+      porque el Gobierno griego ha fijado arbitrariamente la producción en 275 kilogramos
+      por decárea, mientras que la producción es mucho más alta y nadie sabe qué será
+      de ella.
+- c: 1
+  r: 2
+  v: despojar
+  x:
+  - s: This strange political behaviour, so detrimental to Russia itself, cannot <v>tear</v>
+      <p>out</p> the truth about deeds but continues to affect wrongly our European
+      standards and fairness of evaluations.
+    t: Esta extraña conducta política, tan perjudicial para la propia Rusia, no puede
+      <a>despojar</a> la verdad de los hechos, pero sigue afectando negativamente
+      a nuestros estándares europeos y la equidad de las evaluaciones.
+- c: 1
+  r: 2
+  v: mesar
+  x:
+  - s: I usually see Commissioner Diamantopoulou desperately <v>tearing</v> her hair
+      <p>out</p>, bit by bit, because the elderly live too long, leading to problems
+      with pension payments.
+    t: Generalmente veo a la Comisaria Sra. Diamantopoulou <a>mesarse</a> el pelo,
+      desesperada porque los ancianos viven demasiado, circunstancia que causa problemas
+      a la hora de pagar las pensiones.
+- c: 1
+  r: 2
+  v: estremecer
+  x:
+  - s: In some countries of Africa and Asia the epidemic has already reached serious
+      proportions, since by decimating first and foremost the workforce, it is <v>tearing</v>
+      the very heart <p>out</p> of the socioeconomic fabric.
+    t: El impacto de la epidemia en algunos países de África y Asia es ya muy grave,
+      porque al eliminar en primer lugar la población activa, es el corazón mismo
+      del tejido socioeconómico el que se <a>estremece</a>.
+fr:
+- c: 3
+  r: 1
+  v: arracher
+  x:
+  - s: And we must change that heart, not <v>tear</v> it <p>out</p> but change it,
+      make it truly civilised so that it does not just pay lip-service to humanity,
+      human rights and other such mirages.
+    t: Et ce coeur, il nous faut le changer et non pas l’<a>arracher</a>, le changer
+      pour qu’il devienne vraiment civilisé, et ne pas invoquer à tout propos l’humanisme,
+      les droits de l’homme et autres fables.
+  - s: This would cause language to be <v>torn</v> <p>out</p> of the ground without
+      its roots.
+    t: Cela reviendrait à <a>arracher</a> la langue sans ses racines.
+  - s: For the second year running, producers are <v>tearing</v> their hair <p>out</p>
+      because the Greek government has arbitrarily set production at 275 kilograms
+      per decare, whereas output is much higher and no-one knows what will become
+      of it.
+    t: Pour la seconde année consécutive, les producteurs s’<a>arrachent</a> les cheveux
+      car le gouvernement grec a défini arbitrairement la production à 275 kilos par
+      hectare.
+- c: 1
+  r: 2
+  v: permettre découvrir groupuscule
+  x:
+  - s: This strange political behaviour, so detrimental to Russia itself, cannot <v>tear</v>
+      <p>out</p> the truth about deeds but continues to affect wrongly our European
+      standards and fairness of evaluations.
+    t: Ce surprenant comportement politique, si néfaste à la Russie, ne <a>permet</a>
+      pas de <a>découvrir</a> la vérité sur ces actes et continue donc à affecter
+      négativement nos normes européennes et l’équité de nos évaluations.
+- c: 1
+  r: 2
+  v: huer
+  x:
+  - s: But before I get my eyes <v>torn</v> <p>out</p>, I want to make one conciliatory
+      remark.
+    t: Mais avant de me faire <a>huer</a>, je voudrais faire une déclaration pour
+      ainsi dire conciliatoire.
+it:
+- c: 3
+  r: 1
+  v: strappare
+  x:
+  - s: Then there are the battery farms, the chickens in full overhead lighting day
+      and night, the hens treated in this way to produce hormonal reactions to serotonin
+      so that they lay continuously, hens that <v>tear</v> <p>out</p> their own feathers
+      almost as if they wanted to commit suicide.
+    t: Ci sono poi gli allevamenti simili a campi di concentramento nei quali i polli,
+      e le galline, vengono tenuti alla luce giorno e notte per provocare delle reazioni
+      ormonali a livello di serotonina, con il risultato che le galline depongono
+      uova in continuazione e si <a>strappano</a> le piume, quasi come se volessero
+      suicidarsi.
+  - s: But before I get my eyes <v>torn</v> <p>out</p>, I want to make one conciliatory
+      remark.
+    t: Prima, però, di farmi <a>strappare</a> gli occhi voglio fare una dichiarazione
+      di tipo conciliatorio.
+  - s: For the second year running, producers are <v>tearing</v> their hair <p>out</p>
+      because the Greek government has arbitrarily set production at 275 kilograms
+      per decare, whereas output is much higher and no-one knows what will become
+      of it.
+    t: I produttori si stanno <a>strappando</a> i capelli per il secondo anno consecutivo,
+      perché il governo greco ha arbitrariamente fissato la produzione a 275 chilogrammi
+      per decara, mentre essa è molto superiore e nessuno sa cosa come verrà utilizzato
+      il prodotto in eccesso.
+- c: 1
+  r: 2
+  v: cancellare
+  x:
+  - s: This strange political behaviour, so detrimental to Russia itself, cannot <v>tear</v>
+      <p>out</p> the truth about deeds but continues to affect wrongly our European
+      standards and fairness of evaluations.
+    t: Questo strano comportamento politico, così dannoso per la Russia stessa, non
+      può <a>cancellare</a> la verità sui fatti, ma continua a incidere scorrettamente
+      sugli standard europei e sull’equità delle valutazioni.
+- c: 1
+  r: 2
+  v: compromettere
+  x:
+  - s: In some countries of Africa and Asia the epidemic has already reached serious
+      proportions, since by decimating first and foremost the workforce, it is <v>tearing</v>
+      the very heart <p>out</p> of the socioeconomic fabric.
+    t: L’impatto dell’epidemia in alcuni paesi dell’Africa e dell’Asia è peraltro
+      già severissimo, poiché, eliminando in primo luogo la popolazione attiva, esso
+      <a>compromette</a> il cuore stesso del tessuto economico.
+- c: 1
+  r: 2
+  v: procedere
+  x:
+  - s: And we must change that heart, not <v>tear</v> it <p>out</p> but change it,
+      make it truly civilised so that it does not just pay lip-service to humanity,
+      human rights and other such mirages.
+    t: Se l’Europa non assolve ai propri doveri, se il Consiglio dei ministri non
+      <a>procede</a> in questo senso, vi saranno ancora altre Semira Adamu.
+- c: 1
+  r: 2
+  v: lacerazione
+  x:
+  - s: There is no doubt that, seen from Belgrade, both NATO, with its massacre in
+      the capital city, and the EU, with its barbaric support for <v>tearing</v> <p>out</p>
+      a key part of Serbia, namely Kosovo, from the country, are not particularly
+      appealing allies.
+    t: Indubbiamente, visti da Belgrado, né la NATO con il massacro compiuto nella
+      capitale, né l’Unione europea che ha appoggiato la <a>lacerazione</a> del paese
+      con la conseguente separazione di una sua regione chiave, il Kosovo, rappresentano
+      una prospettiva di alleanza allettante.
+- c: 1
+  r: 2
+  v: disperare
+  x:
+  - s: I <v>tear</v> my hair <p>out</p> when we have to deal with the day-to-day necessities,
+      when a mission is threatening to fail for want of six helicopters, when there
+      is no political will in the various capitals or when there are splits on technology
+      projects.
+    t: Mi <a>dispero</a> quando dobbiamo trattare delle necessità quotidiane, quando
+      una missione rischia di fallire perché mancano sei elicotteri, quando non c’è
+      volontà politica nelle diverse capitali o quando ci sono divisioni sui progetti
+      tecnologici.
+pt:
+- c: 4
+  r: 1
+  v: arrancar
+  x:
+  - s: But before I get my eyes <v>torn</v> <p>out</p>, I want to make one conciliatory
+      remark.
+    t: Mas antes que me <a>arranquem</a> os olhos, quero fazer uma declaração de tipo
+      conciliatório.
+  - s: I usually see Commissioner Diamantopoulou desperately <v>tearing</v> her hair
+      <p>out</p>, bit by bit, because the elderly live too long, leading to problems
+      with pension payments.
+    t: Vejo, habitualmente, a senhora Comissária Diamantopoulou a <a>arrancar</a>
+      os cabelos um a um, desesperada porque os idosos vivem demasiado tempo, o que
+      causa problemas no que se refere ao pagamento das pensões.
+  - s: This would cause language to be <v>torn</v> <p>out</p> of the ground without
+      its roots.
+    t: Isso implicaria que a língua fosse <a>arrancada</a> do solo sem as suas raízes.
+  - s: I <v>tear</v> my hair <p>out</p> when we have to deal with the day-to-day necessities,
+      when a mission is threatening to fail for want of six helicopters, when there
+      is no political will in the various capitals or when there are splits on technology
+      projects.
+    t: <a>Arranco</a> os cabelos quando temos que lidar com as necessidades do dia-a-dia,
+      quando uma missão ameaça falhar por falta de seis helicópteros, quando não existe
+      qualquer vontade política nas várias capitais ou quando há divergências sobre
+      projectos tecnológicos.
+- c: 1
+  r: 2
+  v: completamente
+  x:
+  - s: Mr President, Christmas has come early for the German chemicals industry because,
+      by supporting this incredibly watered-down compromise, Parliament will be giving
+      the industry an early and unexpectedly large Christmas present, rewarding them
+      for the relentless lobbying which has successfully <v>torn</v> the guts <p>out</p>
+      of this proposal.
+    t: Senhor Presidente, o Natal chegou mais cedo para a indústria química alemã,
+      já que, ao apoiar este compromisso incrivelmente mitigado, o Parlamento dará
+      à indústria uma prenda de Natal antecipada e inesperadamente generosa, recompensando-a
+      pela incansável acção de pressão que logrou esvaziar <a>completamente</a> esta
+      proposta.
+- c: 1
+  r: 2
+  v: desesperar
+  x:
+  - s: For the second year running, producers are <v>tearing</v> their hair <p>out</p>
+      because the Greek government has arbitrarily set production at 275 kilograms
+      per decare, whereas output is much higher and no-one knows what will become
+      of it.
+    t: Pelo segundo ano consecutivo, os produtores estão <a>desesperados</a> porque
+      o Governo grego fixou arbitrariamente a produção em 275 quilogramas por dez
+      ares, quando a produção é muito superior e ninguém sabe qual vai ser o seu destino.
+- c: 1
+  r: 2
+  v: conseguir retirar
+  x:
+  - s: This strange political behaviour, so detrimental to Russia itself, cannot <v>tear</v>
+      <p>out</p> the truth about deeds but continues to affect wrongly our European
+      standards and fairness of evaluations.
+    t: Este estranho comportamento político, tão prejudicial à própria Rússia, não
+      <a>consegue</a> <a>retirar</a> verdade aos factos, mas continua a afectar de
+      forma nefasta a nossa bitola e a justiça das nossas avaliações na Europa.
+- c: 1
+  r: 2
+  v: enfraquecer
+  x:
+  - s: In some countries of Africa and Asia the epidemic has already reached serious
+      proportions, since by decimating first and foremost the workforce, it is <v>tearing</v>
+      the very heart <p>out</p> of the socioeconomic fabric.
+    t: O impacte da epidemia em alguns países de África e da Ásia é já bastante grave,
+      dado que elimina prioritariamente a população activa, o que <a>enfraquece</a>
+      a própria força motora do tecido socio-económico.
+- c: 1
+  r: 2
+  v: destruir
+  x:
+  - s: the Irish Government is <v>tearing</v> the heart <p>out</p> of health services,
+      education, childcare and training.
+    t: o Governo irlandês está a <a>destruir</a> os serviços de saúde, o sistema de
+      ensino, as estruturas de acolhimento de crianças e os programas de formação.
+sv:
+- c: 1
+  r: 1
+  v: nedmontera
+  x:
+  - s: the Irish Government is <v>tearing</v> the heart <p>out</p> of health services,
+      education, childcare and training.
+    t: den irländska regeringen håller på att <a>nedmontera</a> sjukvården, utbildningssystemet,
+      barnomsorgen och yrkesutbildningen.
+- c: 1
+  r: 1
+  v: avgå
+  x:
+  - s: And we must change that heart, not <v>tear</v> it <p>out</p> but change it,
+      make it truly civilised so that it does not just pay lip-service to humanity,
+      human rights and other such mirages.
+    t: Jag påminner om att inte en enda minister avgick sommaren 1996 då fyra barnlik
+      i Dutroux-affären hittades, att ingen avgick då tio fallskärmsjägare slaktades
+      på ett fruktansvärt sätt i Rwanda och att ingen <a>avgår</a> när infödda personer
+      i mitt land regelbundet blir offer för våldtäkter, rån eller mord som begås
+      av till exempel illegala invandrare eller asylsökare.
+- c: 1
+  r: 1
+  v: slita
+  x:
+  - s: I <v>tear</v> my hair <p>out</p> when we have to deal with the day-to-day necessities,
+      when a mission is threatening to fail for want of six helicopters, when there
+      is no political will in the various capitals or when there are splits on technology
+      projects.
+    t: Jag vill <a>slita</a> mitt hår när vi måste ta itu med de dagliga behoven,
+      när ett uppdrag riskerar att misslyckas på grund av att det fattas sex helikoptrar,
+      när det inte finns någon politisk vilja i de olika huvudstäderna eller när det
+      uppstår splittringar i tekniska projekt.
+- c: 1
+  r: 1
+  v: slita stycken
+  x:
+  - s: But before I get my eyes <v>torn</v> <p>out</p>, I want to make one conciliatory
+      remark.
+    t: Men innan jag låter er <a>slita</a> mig i <a>stycken</a> skulle jag vilja göra
+      ett uttalande som kan ses som en försonande gest.
+- c: 1
+  r: 1
+  v: utplåna
+  x:
+  - s: This strange political behaviour, so detrimental to Russia itself, cannot <v>tear</v>
+      <p>out</p> the truth about deeds but continues to affect wrongly our European
+      standards and fairness of evaluations.
+    t: Detta märkliga politiska beteende, som är så skadligt för Ryssland självt,
+      kan inte <a>utplåna</a> sanningen om gärningarna, men fortsätter att påverka
+      våra europeiska normer för rättvisa och bedömning på fel sätt.

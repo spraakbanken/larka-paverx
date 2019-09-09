@@ -1,0 +1,36 @@
+---
+de:
+- c: 1
+  r: 1
+  v: nachlesen
+  x:
+  - s: Ni kan också enkelt <v>kolla</v> <p>upp</p> detta i lagstiftningen.
+    t: Das können Sie aber auch in der Gesetzgebung leicht <a>nachlesen</a>.
+en:
+- c: 1
+  r: 1
+  v: up easily
+  x:
+  - s: Ni kan också enkelt <v>kolla</v> <p>upp</p> detta i lagstiftningen.
+    t: You can also look that <a>up</a> <a>easily</a> in the legislation.
+es:
+- c: 1
+  r: 1
+  v: buscar
+  x:
+  - s: Ni kan också enkelt <v>kolla</v> <p>upp</p> detta i lagstiftningen.
+    t: También pueden <a>buscarlo</a> fácilmente en la legislación.
+fr:
+- c: 1
+  r: 1
+  v: vérifier
+  x:
+  - s: Ni kan också enkelt <v>kolla</v> <p>upp</p> detta i lagstiftningen.
+    t: Vous pouvez le <a>vérifier</a> facilement dans la législation.
+pt:
+- c: 1
+  r: 1
+  v: verificar facilmente
+  x:
+  - s: Ni kan också enkelt <v>kolla</v> <p>upp</p> detta i lagstiftningen.
+    t: Também podem <a>verificar</a> isso <a>facilmente</a> na legislação.

@@ -1,0 +1,308 @@
+---
+de:
+- c: 2
+  r: 1
+  v: vertreiben
+  x:
+  - s: Att <v>köra</v> <p>bort</p> denna befolkningsgrupp tycks tveklöst vara en målmedveten
+      strategi från vissa grupper, och vi, EU, kan inte bara stå och titta på.
+    t: Dies scheint ganz offensichtlich eine zielgerichtete Strategie einiger Gruppen
+      zu sein, diese Bevölkerungsgruppe zu <a>vertreiben</a>.
+  - s: Jag vill in i denna kammare föra med mig den starka protesten och upprördheten
+      från Greklands jordbrukare vilka åter med ett massivt deltagande genomför kraftfulla
+      meningsyttringar mot Europeiska unionens politik, en politik som är riktad emot
+      jordbrukarna, <v>kör</v> <p>bort</p> dem från deras åkrar, utplånar dem och
+      ödelägger vår landsbygd.
+    t: Ich möchte dem Hohen Haus den heftigen Protest und die Empörung der Bauern
+      Griechenlands zur Kenntnis bringen, die erneut energische Massenaktionen gegen
+      die landwirtschaftsfeindliche Politik der Europäischen Union unternehmen, die
+      sie von ihren Feldern <a>vertreibt</a>, die Landwirtschaft vernichtet und das
+      flache Land entvölkert.
+- c: 1
+  r: 2
+  v: werden
+  x:
+  - s: De enda fackföreningar som motsatte sig avtalet var det italienska metallarbetarfacket
+      FIOM och den italienska arbetarfackföreningen CGIL, och de <v>kördes</v> <p>bort</p>
+      från fackföreningsrepresentationen.
+    t: Die einzigen Gewerkschaften, die sich der Einigung widersetzten, waren der
+      Italienische Verband von Metallarbeitern (FIOM) und der Italienische Allgemeine
+      Arbeitergewerkschaftsbund (CGIL), und beide <a>wurden</a> aus der Gewerkschaftsvertretung
+      verdrängt.
+- c: 1
+  r: 2
+  v: hingehen
+  x:
+  - s: Vi kan inte <v>köra</v> <p>bort</p> presidenter som drivs av kriminella intressen.
+    t: Wir können nicht <a>hingehen</a> und Präsidenten entmachten, die von Verbrechen
+      angetrieben werden.
+en:
+- c: 2
+  r: 1
+  v: oust
+  x:
+  - s: Jag vill också tacka Ingo Friedrich som med sin sedvanliga artighet avstår
+      från att uppröra nuvarande befattningsinnehavare genom att <v>köra</v> <p>bort</p>
+      dem från de befattningar som de innehar i parlamentet.
+    t: Mr President, I do not expect that I will take up six and a half minutes on
+      this matter, but I would like to thank Mr Corbett for nobly standing in to prosecute
+      a cause for which I think he personally lacks a certain degree of enthusiasm,
+      and to thank Mr Friedrich who, with his customary courtesy, is declining to
+      upset current postholders by <a>ousting</a> them from the positions that they
+      enjoy in Parliament.
+  - s: De enda fackföreningar som motsatte sig avtalet var det italienska metallarbetarfacket
+      FIOM och den italienska arbetarfackföreningen CGIL, och de <v>kördes</v> <p>bort</p>
+      från fackföreningsrepresentationen.
+    t: The only unions to oppose the agreement were the Italian Federation of Metalworkers
+      (FIOM) and the Italian General Confederation of Labour (CGIL), and they were
+      <a>ousted</a> from the union representation.
+- c: 1
+  r: 2
+  v: remove
+  x:
+  - s: Kommissionen vill <v>köra</v> <p>bort</p> dessa människor och kolonisera deras
+      land med engelska pensionärer.
+    t: It wants to <a>remove</a> them and plant their lands instead with colonies
+      of retired Brits.
+- c: 1
+  r: 2
+  v: go oust
+  x:
+  - s: Vi kan inte <v>köra</v> <p>bort</p> presidenter som drivs av kriminella intressen.
+    t: We cannot <a>go</a> and <a>oust</a> presidents who are driven by crime.
+- c: 1
+  r: 2
+  v: cart away
+  x:
+  - s: Det fanns cyniker som sade att när vi lyckas med förenklingen på nationell
+      nivå, så är det som att <v>köra</v> <p>bort</p> normer med en skottkärra - sedan
+      kommer det en lastbil från EU.
+    t: When we succeeded in simplifying things at National level there were cynics
+      who said that it was like <a>carting</a> <a>away</a> standards in a wheelbarrow
+      - then in comes a lorry from the EU.
+- c: 1
+  r: 2
+  v: drive away
+  x:
+  - s: Att <v>köra</v> <p>bort</p> denna befolkningsgrupp tycks tveklöst vara en målmedveten
+      strategi från vissa grupper, och vi, EU, kan inte bara stå och titta på.
+    t: This, surely, seems to be a targeted strategy by some groups to <a>drive</a>
+      <a>away</a> this population group.
+- c: 1
+  r: 2
+  v: 'off'
+  x:
+  - s: Jag vill in i denna kammare föra med mig den starka protesten och upprördheten
+      från Greklands jordbrukare vilka åter med ett massivt deltagande genomför kraftfulla
+      meningsyttringar mot Europeiska unionens politik, en politik som är riktad emot
+      jordbrukarna, <v>kör</v> <p>bort</p> dem från deras åkrar, utplånar dem och
+      ödelägger vår landsbygd.
+    t: Madam President, I wish to draw the House’s attention to the vigorous protests
+      and exasperation of Greek farmers, who are again involved in mass dynamic demonstrations
+      against the anti-farming policy of the European Union, which is turning them
+      <a>off</a> their land, ruining them and forcing them to abandon the countryside.
+es:
+- c: 2
+  r: 1
+  v: expulsar
+  x:
+  - s: Jag vill in i denna kammare föra med mig den starka protesten och upprördheten
+      från Greklands jordbrukare vilka åter med ett massivt deltagande genomför kraftfulla
+      meningsyttringar mot Europeiska unionens politik, en politik som är riktad emot
+      jordbrukarna, <v>kör</v> <p>bort</p> dem från deras åkrar, utplånar dem och
+      ödelägger vår landsbygd.
+    t: Señora Presidenta, quiero traer a esta sala la rotunda protesta y la indignación
+      del campesinado griego, que se encuentra de nuevo masiva y decididamente movilizado
+      en contra de la antiagraria política de la Unión Europea, que los <a>expulsa</a>
+      de sus tierras y los arruina, que lleva la desolación a nuestros campos.
+  - s: De enda fackföreningar som motsatte sig avtalet var det italienska metallarbetarfacket
+      FIOM och den italienska arbetarfackföreningen CGIL, och de <v>kördes</v> <p>bort</p>
+      från fackföreningsrepresentationen.
+    t: Los únicos sindicatos que se oponen al acuerdo son la Federación Italiana de
+      los Trabajadores del Metal (FIOM) y la Confederación General Italiana del Trabajo
+      (CGIL), que fueron <a>expulsados</a> de la representación sindical.
+- c: 1
+  r: 2
+  v: desplazándo
+  x:
+  - s: Jag vill också tacka Ingo Friedrich som med sin sedvanliga artighet avstår
+      från att uppröra nuvarande befattningsinnehavare genom att <v>köra</v> <p>bort</p>
+      dem från de befattningar som de innehar i parlamentet.
+    t: Señor Presidente, yo no creo que vaya a agotar mis seis minutos y medio en
+      este asunto, pero quisiera agradecer al señor Corbett que, noblemente, haga
+      de suplente para defender una causa que, según me parece, no le entusiasma demasiado,
+      y quiero dar las gracias también al señor Friedrich, el cual, con su habitual
+      cortesía, rehúsa enfadar a los actuales cargos <a>desplazándoles</a> de los
+      puestos que ocupan en el Parlamento.
+- c: 1
+  r: 2
+  v: acabar acabar
+  x:
+  - s: Kommissionen vill <v>köra</v> <p>bort</p> dessa människor och kolonisera deras
+      land med engelska pensionärer.
+    t: La Comisión quiere <a>acabar</a> con la población de viticultores de Languedoc-Roussillon,
+      la tierra de la cruz occitana sobre fondo rojo, símbolo de un siglo de revueltas
+      de 1907 a 1976, de Marcelin Albert a André Castéra, y que va del Ródano al Garona.
+- c: 1
+  r: 2
+  v: ir derrocar
+  x:
+  - s: Vi kan inte <v>köra</v> <p>bort</p> presidenter som drivs av kriminella intressen.
+    t: No podemos <a>ir</a> y <a>derrocar</a> a presidentes movidos por el crimen.
+fr:
+- c: 1
+  r: 1
+  v: chasse
+  x:
+  - s: Jag vill in i denna kammare föra med mig den starka protesten och upprördheten
+      från Greklands jordbrukare vilka åter med ett massivt deltagande genomför kraftfulla
+      meningsyttringar mot Europeiska unionens politik, en politik som är riktad emot
+      jordbrukarna, <v>kör</v> <p>bort</p> dem från deras åkrar, utplånar dem och
+      ödelägger vår landsbygd.
+    t: Madame la Présidente, je tiens à transmettre dans cette enceinte la vigoureuse
+      protestation et l’indignation de la paysannerie grecque, qui se trouve à nouveau
+      mobilisée en masse et avec force contre la politique anti-agricole de l’Union
+      européenne qui la <a>chasse</a> de ses champs, la décime, dépeuple nos campagnes.
+- c: 1
+  r: 1
+  v: être évincer
+  x:
+  - s: De enda fackföreningar som motsatte sig avtalet var det italienska metallarbetarfacket
+      FIOM och den italienska arbetarfackföreningen CGIL, och de <v>kördes</v> <p>bort</p>
+      från fackföreningsrepresentationen.
+    t: Les seuls syndicats à s’opposer à l’accord ont été la fédération italienne
+      des ouvriers de la métallurgie (FIOM) et la confédération générale italienne
+      du travail (CGIL), et ils ont <a>été</a> <a>évincés</a> de la représentation
+      syndicale.
+- c: 1
+  r: 1
+  v: aller déloger
+  x:
+  - s: Vi kan inte <v>köra</v> <p>bort</p> presidenter som drivs av kriminella intressen.
+    t: Nous ne pouvons pas y <a>aller</a> et <a>déloger</a> des présidents qui agissent
+      comme des criminels.
+- c: 1
+  r: 1
+  v: débarrasser
+  x:
+  - s: Det fanns cyniker som sade att när vi lyckas med förenklingen på nationell
+      nivå, så är det som att <v>köra</v> <p>bort</p> normer med en skottkärra - sedan
+      kommer det en lastbil från EU.
+    t: On a entendu des cyniques dire que si, pour réussir la simplification au niveau
+      national et nous <a>débarrasser</a> des normes superflues, il nous avait fallu
+      le chariot du ferrailleur, pour l’UE, il nous faudrait un camion.
+- c: 1
+  r: 1
+  v: chasser
+  x:
+  - s: Att <v>köra</v> <p>bort</p> denna befolkningsgrupp tycks tveklöst vara en målmedveten
+      strategi från vissa grupper, och vi, EU, kan inte bara stå och titta på.
+    t: Il semble, sûrement, que cela soit une stratégie ciblée de quelques groupes
+      visant à <a>chasser</a> ce groupe de population.
+- c: 1
+  r: 1
+  v: faire disparaître
+  x:
+  - s: Kommissionen vill <v>köra</v> <p>bort</p> dessa människor och kolonisera deras
+      land med engelska pensionärer.
+    t: Le peuple vigneron du Languedoc-Roussillon, de la Croix occitane sur fond rouge
+      d’un siècle de révolte de 1907 à 1976, de Marcelin Albert à André Castéra, ce
+      peuple qui va du Rhône à la Garonne, la Commission veut le <a>faire</a> <a>disparaître</a>
+      pour installer sur ces terres les retraités de l’Europe anglo-saxonne, les buveurs
+      de thé qui vont prendre la place des hommes des vendanges et du vin dans le
+      Minervois, les Corbières, les Costières ou les vignes du Picpoul.
+it:
+- c: 1
+  r: 1
+  v: andare
+  x:
+  - s: Vi kan inte <v>köra</v> <p>bort</p> presidenter som drivs av kriminella intressen.
+    t: Noi non riusciamo neanche all’ONU ad <a>andare</a> a prendere presidenti che
+      sono dettati dalla criminalità.
+- c: 1
+  r: 1
+  v: essere estromettere
+  x:
+  - s: De enda fackföreningar som motsatte sig avtalet var det italienska metallarbetarfacket
+      FIOM och den italienska arbetarfackföreningen CGIL, och de <v>kördes</v> <p>bort</p>
+      från fackföreningsrepresentationen.
+    t: Gli unici sindacati a opporsi sono stati la FIOM e la CGIL e sono <a>state</a>
+      <a>estromesse</a> dalla rappresentanza sindacale.
+- c: 1
+  r: 1
+  v: sbarazzare
+  x:
+  - s: Att <v>köra</v> <p>bort</p> denna befolkningsgrupp tycks tveklöst vara en målmedveten
+      strategi från vissa grupper, och vi, EU, kan inte bara stå och titta på.
+    t: Sembra trattarsi indubbiamente di una strategia mirata, da parte di qualcuno,
+      per <a>sbarazzarsi</a> di questa parte della popolazione.
+pt:
+- c: 1
+  r: 1
+  v: veículo
+  x:
+  - s: Det fanns cyniker som sade att när vi lyckas med förenklingen på nationell
+      nivå, så är det som att <v>köra</v> <p>bort</p> normer med en skottkärra - sedan
+      kommer det en lastbil från EU.
+    t: Alguns cínicos afirmam que, depois de termos conseguido recolher as normas
+      regulamentadoras com um pequeno <a>veículo</a> de mercadorias, chega um camião
+      pesado da UE.
+- c: 1
+  r: 1
+  v: ir expulso
+  x:
+  - s: De enda fackföreningar som motsatte sig avtalet var det italienska metallarbetarfacket
+      FIOM och den italienska arbetarfackföreningen CGIL, och de <v>kördes</v> <p>bort</p>
+      från fackföreningsrepresentationen.
+    t: Os únicos sindicatos que se opuseram ao acordo foram a Federação Italiana dos
+      Metalúrgicos (FIOM) e a Confederação Geral do Trabalho Italiana (CGIL), que
+      <a>foram</a> <a>expulsas</a> da representação sindical.
+- c: 1
+  r: 1
+  v: fazer desaparecer
+  x:
+  - s: Kommissionen vill <v>köra</v> <p>bort</p> dessa människor och kolonisera deras
+      land med engelska pensionärer.
+    t: O povo vinhateiro do Languedoc-Roussillon, da Cruz Occitana sobre fundo vermelho
+      de um século de revolta entre 1907 e 1976 de Marcelin Albert a André Castéra,
+      este povo que vai do Ródano até ao Garonne, a Comissão pretende <a>fazê</a>-lo
+      <a>desaparecer</a> para instalar nas suas terras os reformados da Europa anglo-saxónica,
+      os bebedores de chá que vão substituir homens das vindimas e do vinho no Minervois,
+      nas Corbières, nas Costières ou nas vinhas do Picpoul.
+- c: 1
+  r: 1
+  v: expulsar
+  x:
+  - s: Jag vill in i denna kammare föra med mig den starka protesten och upprördheten
+      från Greklands jordbrukare vilka åter med ett massivt deltagande genomför kraftfulla
+      meningsyttringar mot Europeiska unionens politik, en politik som är riktad emot
+      jordbrukarna, <v>kör</v> <p>bort</p> dem från deras åkrar, utplånar dem och
+      ödelägger vår landsbygd.
+    t: Senhora Presidente, quero trazer a esta sala o protesto vigoroso e a indignação
+      dos agricultores da Grécia, que mais uma vez se manifestam em massa e de forma
+      enérgica contra a política agrícola da União Europeia, que os <a>expulsa</a>
+      das suas terras, que os extermina, que desertifica o nosso mundo rural.
+- c: 1
+  r: 1
+  v: desapossar
+  x:
+  - s: Jag vill också tacka Ingo Friedrich som med sin sedvanliga artighet avstår
+      från att uppröra nuvarande befattningsinnehavare genom att <v>köra</v> <p>bort</p>
+      dem från de befattningar som de innehar i parlamentet.
+    t: Quero também agradecer ao senhor deputado Friedrich por, com a sua habitual
+      cortesia, estar a declinar causar aborrecimento aos actuais titulares dos cargos,
+      <a>desapossando</a>-os dos lugares de que usufruem no Parlamento.
+- c: 1
+  r: 1
+  v: abandonar
+  x:
+  - s: Att <v>köra</v> <p>bort</p> denna befolkningsgrupp tycks tveklöst vara en målmedveten
+      strategi från vissa grupper, och vi, EU, kan inte bara stå och titta på.
+    t: Isto parece ser, ao que tudo indica, uma estratégia adoptada por alguns grupos
+      para forçar a população cristã a <a>abandonar</a> o país.
+- c: 1
+  r: 1
+  v: derrubar
+  x:
+  - s: Vi kan inte <v>köra</v> <p>bort</p> presidenter som drivs av kriminella intressen.
+    t: Não podemos <a>derrubar</a> Presidentes movidos pelo crime.

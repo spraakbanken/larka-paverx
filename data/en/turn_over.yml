@@ -1,0 +1,147 @@
+---
+de:
+- c: 1
+  r: 1
+  v: umdrehen
+  x:
+  - s: How many of you, when you last had your gas or electricity bill, <v>turned</v>
+      it <p>over</p> to look at the small print - the conditions?
+    t: Wie viele von Ihnen haben das letzte Mal, als Sie Ihre Gas- oder Stromrechnung
+      bekamen, diese <a>umgedreht</a> und das Kleingedruckte, also die Bedingungen,
+      gelesen?
+- c: 1
+  r: 1
+  v: Kontrolle
+  x:
+  - s: In particular the way in which passengers are expected to <v>turn</v> <p>over</p>
+      their ’duty-free’ liquids purchased at an airport to the authorities checking
+      hand luggage.
+    t: Problematisch ist vor allem, dass von den Fluggästen bei der <a>Kontrolle</a>
+      ihres Handgepäcks verlangt wird, die Flüssigkeiten, die sie auf einem Flughaften
+      zollfrei eingekauft haben, den Sicherheitsbeamten auszuhändigen.
+- c: 1
+  r: 1
+  v: übertragen
+  x:
+  - s: This directive <v>turns</v> <p>over</p> to the Member States the administrative
+      necessity of organising the collection and subsequent processing of very different
+      and complex technical structures which are also very difficult to recycle.
+    t: Diese Richtlinie <a>überträgt</a> die verwaltungstechnische Notwendigkeit der
+      Organisation und anschließenden Verarbeitung von sehr unterschiedlichen und
+      komplexen technischen Elementen, die auch sehr schwer zu recyceln sind, an die
+      Mitgliedstaaten.
+es:
+- c: 1
+  r: 1
+  v: pata arriba
+  x:
+  - s: They have seen their country <v>turned</v> <p>over</p>, examined and criticised
+      at an accelerating pace.
+    t: Han visto su país puesto <a>patas</a> <a>arriba</a>, examinado y criticado
+      a marchas forzadas.
+- c: 1
+  r: 1
+  v: entregar
+  x:
+  - s: In particular the way in which passengers are expected to <v>turn</v> <p>over</p>
+      their ’duty-free’ liquids purchased at an airport to the authorities checking
+      hand luggage.
+    t: En particular, por la forma en que deben <a>entregar</a> los líquidos que han
+      comprado en tiendas «libres de impuestos» del aeropuerto a las autoridades que
+      inspeccionan el equipaje de mano.
+fr:
+- c: 1
+  r: 1
+  v: confier
+  x:
+  - s: This directive <v>turns</v> <p>over</p> to the Member States the administrative
+      necessity of organising the collection and subsequent processing of very different
+      and complex technical structures which are also very difficult to recycle.
+    t: Cette directive <a>confie</a> aux États membres l’aspect administratif de l’organisation
+      de la collecte et du traitement ultérieur de structures techniques complexes
+      très différentes qui sont également très difficiles à recycler.
+it:
+- c: 1
+  r: 1
+  v: rivoltare
+  x:
+  - s: I think Dante will <v>turn</v> <p>over</p> in his grave at hearing himself
+      compared to Mr Fatuzzo, but thank you in any case, Mr President.
+    t: Penso che Dante si <a>rivolterà</a> nella tomba sentendosi paragonato all’onorevole
+      Fatuzzo, ma comunque la ringrazio, signor Presidente.
+- c: 1
+  r: 1
+  v: rivoluzionare
+  x:
+  - s: They have seen their country <v>turned</v> <p>over</p>, examined and criticised
+      at an accelerating pace.
+    t: L’adesione alla NATO nel marzo 2004 e ora l’ingresso nell’Unione europea costituiscono
+      un tributo alla determinazione e al duro lavoro svolto a tutti i livelli da
+      tante persone appartenenti a ogni sfumatura di governo, e soprattutto un tributo
+      al popolo bulgaro, che ha visto il proprio paese <a>rivoluzionato</a>, esaminato
+      e giudicato a un ritmo sempre più incalzante.
+- c: 1
+  r: 1
+  v: consegnare
+  x:
+  - s: In particular the way in which passengers are expected to <v>turn</v> <p>over</p>
+      their ’duty-free’ liquids purchased at an airport to the authorities checking
+      hand luggage.
+    t: In particolare il modo in cui i passeggeri devono <a>consegnare</a> i liquidi
+      acquistati al duty free dell’aeroporto alle autorità incaricate di controllare
+      il bagaglio a mano.
+pt:
+- c: 1
+  r: 1
+  v: entregar
+  x:
+  - s: In particular the way in which passengers are expected to <v>turn</v> <p>over</p>
+      their ’duty-free’ liquids purchased at an airport to the authorities checking
+      hand luggage.
+    t: Os passageiros que viajam passando por aeroportos europeus como o de Gatwick,
+      na minha região, sentem-se muitas vezes confusos e perturbados com a aplicação
+      desta disposição, em especial quando lhes pedem que <a>entreguem</a> às autoridades
+      que verificam a bagagem de mão os líquidos que adquiriram em lojas duty-free
+      de um aeroporto.
+- c: 1
+  r: 1
+  v: devolver
+  x:
+  - s: This directive <v>turns</v> <p>over</p> to the Member States the administrative
+      necessity of organising the collection and subsequent processing of very different
+      and complex technical structures which are also very difficult to recycle.
+    t: Esta directiva <a>devolve</a> aos Estados-Membros a necessidade administrativa
+      da organização da recolha e posterior tratamento de estruturas técnicas muito
+      diferentes e complexas que também são muito difíceis de reciclar.
+sv:
+- c: 2
+  r: 1
+  v: vända
+  x:
+  - s: I think Dante will <v>turn</v> <p>over</p> in his grave at hearing himself
+      compared to Mr Fatuzzo, but thank you in any case, Mr President.
+    t: Jag misstänker att Dante skulle <a>vända</a> sig i sin grav om han fick höra
+      att han jämförts med Fatuzzo, men jag tackar ändå, herr talman.
+  - s: How many of you, when you last had your gas or electricity bill, <v>turned</v>
+      it <p>over</p> to look at the small print - the conditions?
+    t: Hur många av er <a>vände</a> på gas- eller elräkningen när ni senast fick den,
+      för att läsa det finstilta - villkoren?
+- c: 1
+  r: 2
+  v: vända ut
+  x:
+  - s: They have seen their country <v>turned</v> <p>over</p>, examined and criticised
+      at an accelerating pace.
+    t: De har upplevt hur man har <a>vänt</a> <a>ut</a> och in på deras land, undersökt
+      det och kritiserat det i allt snabbare takt.
+- c: 1
+  r: 2
+  v: förvandla
+  x:
+  - s: Near my own village, I have seen what used to be wonderful fields of wheat
+      and barley and dairy cattle being <v>turned</v> <p>over</p> to things like miscanthus
+      and all sorts of other biofuels, wrecking our environment and pushing up the
+      cost of food.
+    t: Nära min egen by har jag sett att det som en gång var underbara vete- och kornfält
+      eller ängar med betande mjölkkor har <a>förvandlats</a> till odlingar av olika
+      slags biogrödor, vilket har ödelagt vår miljö och pressat upp matpriserna.

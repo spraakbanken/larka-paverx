@@ -1,0 +1,68 @@
+---
+de:
+- c: 1
+  r: 1
+  v: Verbindung Fleischteil
+  x:
+  - s: Det utgör en hälsorisk eftersom processen med att <v>limma</v> <p>ihop</p>
+      olika köttrester medför en väsentlig ökning av livsmedlets ytområde, vilket
+      kan ha smittats av bakterier.
+    t: Es stellt ein Risiko für die Gesundheit dar, weil das Verfahren zur <a>Verbindung</a>
+      der verschiedenen <a>Fleischteile</a> die Oberfläche des Nahrungsmittels, die
+      mit Bakterien verunreinigt worden sein kann, erheblich vergrößert.
+en:
+- c: 1
+  r: 1
+  v: pick up piece
+  x:
+  - s: Det är inte genom att kasta glömskans slöja över orsakerna till den ensidiga
+      militära operationen eller över det sätt som den förberetts och beslutats som
+      man <v>limmar</v> <p>ihop</p> trasiga krukor och som man återupprättar den europeiska
+      enigheten om ett framtidsprojekt.
+    t: We will not <a>pick</a> <a>up</a> the <a>pieces</a> and re-establish European
+      unity as a future project by drawing a veil over the causes of the unilateral
+      military operation and the manner in which it was planned and decided.
+- c: 1
+  r: 1
+  v: bond together
+  x:
+  - s: Det utgör en hälsorisk eftersom processen med att <v>limma</v> <p>ihop</p>
+      olika köttrester medför en väsentlig ökning av livsmedlets ytområde, vilket
+      kan ha smittats av bakterier.
+    t: It poses a health risk because the process of <a>bonding</a> <a>together</a>
+      various scraps of meat significantly increases the surface area of the foodstuff,
+      which might have been contaminated by bacteria.
+es:
+- c: 1
+  r: 1
+  v: plato
+  x:
+  - s: Det är inte genom att kasta glömskans slöja över orsakerna till den ensidiga
+      militära operationen eller över det sätt som den förberetts och beslutats som
+      man <v>limmar</v> <p>ihop</p> trasiga krukor och som man återupprättar den europeiska
+      enigheten om ett framtidsprojekt.
+    t: Corriendo un tupido velo sobre las causas de la operación militar unilateral
+      o sobre la manera en que se preparó y se decidió, no recogeremos los <a>platos</a>
+      rotos ni restableceremos la unidad europea sobre la base de un proyecto de futuro.
+fr:
+- c: 1
+  r: 1
+  v: liaison morceau
+  x:
+  - s: Det utgör en hälsorisk eftersom processen med att <v>limma</v> <p>ihop</p>
+      olika köttrester medför en väsentlig ökning av livsmedlets ytområde, vilket
+      kan ha smittats av bakterier.
+    t: Elle présente un risque sanitaire car le processus de <a>liaison</a> de divers
+      <a>morceaux</a> de viande augmente de façon significative la surface de la denrée
+      alimentaire ayant pu être contaminée par une bactérie.
+pt:
+- c: 1
+  r: 1
+  v: ligação bocado
+  x:
+  - s: Det utgör en hälsorisk eftersom processen med att <v>limma</v> <p>ihop</p>
+      olika köttrester medför en väsentlig ökning av livsmedlets ytområde, vilket
+      kan ha smittats av bakterier.
+    t: Traz riscos para a saúde, porque o processo de <a>ligação</a> de diversos <a>bocados</a>
+      de carne aumenta significativamente a superfície que pode ser infectada por
+      bactérias.

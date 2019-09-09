@@ -1,0 +1,74 @@
+---
+de:
+- c: 1
+  r: 1
+  v: anrufen
+  x:
+  - s: you can <v>ring</v> me <p>up</p> whenever you like - but not at night, please.
+    t: Sie brauchen gar nichts zu bezahlen, Sie können mich jederzeit <a>anrufen</a>,
+      nicht nur nachts.
+es:
+- c: 1
+  r: 1
+  v: llamar
+  x:
+  - s: when the first man <v>rings</v> <p>up</p>, keep hold of the receiver and tell
+      your other colleagues - especially the British, Spanish and German ones, who
+      are still very hesitant on this issue - to give an answer as quickly as possible,
+      so that we can find a solution in the conciliation on this expenditure before
+      your second reading in the Council.
+    t: Por consiguiente, yo le ruego una vez más que permanezca al habla cuando le
+      <a>llame</a> uno de esos caballeros y les diga a sus demás colegas, sobre todo
+      a los británicos, los españoles y los alemanes, que todavía se muestran muy
+      reticentes en relación con este tema, que den una respuesta cuanto antes, a
+      fin de que sea posible alcanzar una solución en relación con estos gastos en
+      el marco de la concertación antes de la segunda lectura en el Consejo.
+- c: 1
+  r: 1
+  v: telefonear
+  x:
+  - s: On Sunday night I was <v>rung</v> <p>up</p> by the BBC World Service who wanted
+      me to give a quote on the position taken by the Turkish Government.
+    t: El domingo por la noche me <a>telefoneó</a> el Servicio Mundial de la BBC para
+      pedirme una declaración sobre la posición adoptada por el Gobierno de Turquía.
+fr:
+- c: 1
+  r: 1
+  v: téléphoner
+  x:
+  - s: On Sunday night I was <v>rung</v> <p>up</p> by the BBC World Service who wanted
+      me to give a quote on the position taken by the Turkish Government.
+    t: Dans la nuit de dimanche, le BBC World Service m’a <a>téléphoné</a> pour que
+      je dise mon avis quant à la position adoptée par la Turquie.
+- c: 1
+  r: 1
+  v: appeler
+  x:
+  - s: you can <v>ring</v> me <p>up</p> whenever you like - but not at night, please.
+    t: Vous n’avez rien à payer, vous pouvez m’<a>appeler</a> n’importe quand, et
+      pas seulement la nuit.
+it:
+- c: 1
+  r: 1
+  v: contattare
+  x:
+  - s: On Sunday night I was <v>rung</v> <p>up</p> by the BBC World Service who wanted
+      me to give a quote on the position taken by the Turkish Government.
+    t: Domenica sera sono stato <a>contattato</a> dal BBC World Service che voleva
+      un mio parere sulla posizione assunta dal governo turco.
+- c: 1
+  r: 1
+  v: telefonare
+  x:
+  - s: 'This is not about a client <v>ringing</v> <p>up</p> for a prospectus or something
+      like that:'
+    t: 'Qui non si sta parlando di un cliente che <a>telefona</a> per avere un prospetto
+      informativo o qualcosa del genere:'
+sv:
+- c: 1
+  r: 1
+  v: ringa
+  x:
+  - s: you can <v>ring</v> me <p>up</p> whenever you like - but not at night, please.
+    t: Ni behöver inte betala någonting alls, ni kan <a>ringa</a> mig när som helst,
+      bara inte på natten.

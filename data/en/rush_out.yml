@@ -1,0 +1,74 @@
+---
+de:
+- c: 1
+  r: 1
+  v: Ausführung
+  x:
+  - s: Is it ethically acceptable for Parliament to <v>rush</v> <p>out</p> its approval
+      of the Council’s 2008 accounts in exchange for the latter’s approval of Parliament’s
+      budget increases?
+    t: Kann es das Parlament denn moralisch vertreten, dem Rat für die <a>Ausführung</a>
+      des Haushaltsplans 2008 schnellstens Entlastung zu erteilen, um im Gegenzug
+      vom Rat die Aufstockung des Haushaltsplans genehmigt zu bekommen?
+es:
+- c: 1
+  r: 1
+  v: acelerar
+  x:
+  - s: Is it ethically acceptable for Parliament to <v>rush</v> <p>out</p> its approval
+      of the Council’s 2008 accounts in exchange for the latter’s approval of Parliament’s
+      budget increases?
+    t: ¿Resulta éticamente aceptable que el Parlamento <a>acelere</a> su aprobación
+      de las cuentas del Consejo en 2008 a cambio de la aprobación por parte de este
+      último de los incrementos presupuestarios del Parlamento?
+- c: 1
+  r: 1
+  v: precipitar
+  x:
+  - s: We know that when the announcement was made about the chicken ’with dioxin
+      in it’, consumers <v>rushed</v> <p>out</p> to buy fish, even though we know
+      that fish are fed with the same food.
+    t: Se sabe que al anunciarse el pollo «con dioxinas», los consumidores se <a>precipitaron</a>
+      sobre el pescado, cuando también sabemos que el pescado está cebado con los
+      mismos alimentos.
+- c: 1
+  r: 1
+  v: salir prisa
+  x:
+  - s: I was <v>rushing</v> <p>out</p> not to avoid answering your question but because
+      bananas is the next item and I cannot hear any more on the subject of bananas.
+    t: Me disponía a <a>salir</a> a toda <a>prisa</a> no para evitar responder a su
+      pregunta, sino debido a los plátanos, que es el tema siguiente y no soporto
+      oír nada más sobre el tema de los plátanos.
+fr:
+- c: 1
+  r: 1
+  v: précipiter
+  x:
+  - s: Is it ethically acceptable for Parliament to <v>rush</v> <p>out</p> its approval
+      of the Council’s 2008 accounts in exchange for the latter’s approval of Parliament’s
+      budget increases?
+    t: Est-il éthiquement acceptable que le Parlement <a>précipite</a> l’adoption
+      des comptes du Conseil 2008 en échange de l’adoption par ce dernier des augmentations
+      budgétaires du Parlement ?
+it:
+- c: 1
+  r: 1
+  v: precipitosamente
+  x:
+  - s: I <v>rushed</v> <p>out</p> of the Commission after we had concluded our discussion
+      of the twelve regular reports we have to send to Parliament and the Council.
+    t: Ho lasciato <a>precipitosamente</a> la Commissione dopo che si era conclusa
+      la discussione sulle dodici relazioni ordinarie che dobbiamo inviare al Parlamento
+      e al Consiglio.
+sv:
+- c: 1
+  r: 1
+  v: påskynda
+  x:
+  - s: Is it ethically acceptable for Parliament to <v>rush</v> <p>out</p> its approval
+      of the Council’s 2008 accounts in exchange for the latter’s approval of Parliament’s
+      budget increases?
+    t: Är det etiskt godtagbart för parlamentet att <a>påskynda</a> godkännandet av
+      rådets redovisning för 2008 i utbyte mot rådets godkännande av parlamentets
+      budgetökningar?

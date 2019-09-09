@@ -1,0 +1,34 @@
+---
+en:
+- c: 1
+  r: 1
+  v: pick up
+  x:
+  - s: Det är mycket bättre för det internationella samfundet att investera i fred
+      nu än att tvingas lägga ned pengar senare för att <v>plocka</v> <p>ihop</p>
+      de bitar som orsakas av fortsatt konflikt och fortsatt våld.
+    t: It is much better for the international community to invest in peace now rather
+      than having to spend money later <a>picking</a> <a>up</a> the pieces caused
+      by continued conflict and violence.
+es:
+- c: 1
+  r: 1
+  v: subsanar
+  x:
+  - s: Det är mycket bättre för det internationella samfundet att investera i fred
+      nu än att tvingas lägga ned pengar senare för att <v>plocka</v> <p>ihop</p>
+      de bitar som orsakas av fortsatt konflikt och fortsatt våld.
+    t: Para la comunidad internacional es mucho mejor invertir ahora en la paz, que
+      tener que destinar fondos más tarde para <a>subsanar</a> los daños ocasionados
+      por la continuación del conflicto y la violencia.
+fr:
+- c: 1
+  r: 1
+  v: réparer
+  x:
+  - s: Det är mycket bättre för det internationella samfundet att investera i fred
+      nu än att tvingas lägga ned pengar senare för att <v>plocka</v> <p>ihop</p>
+      de bitar som orsakas av fortsatt konflikt och fortsatt våld.
+    t: Il est de loin préférable pour la communauté internationale d’investir dans
+      la paix dès maintenant au lieu d’avoir à dépenser de l’argent plus tard pour
+      <a>réparer</a> les dégâts causés par la guerre et la violence.

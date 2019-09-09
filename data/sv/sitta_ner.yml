@@ -1,0 +1,388 @@
+---
+de:
+- c: 2
+  r: 1
+  v: setzen
+  x:
+  - s: Det har du helt rätt i. Vill ledamöterna vara så vänliga att <v>sitta</v> <p>ner</p>.
+    t: Würden sich die Abgeordneten bitte wieder <a>setzen</a>.
+  - s: Vill kollegerna omkring fru Mann vara vänliga att <v>sitta</v> <p>ner</p>.
+    t: Würden sich die um Frau Mann versammelten Kollegen bitte <a>setzen</a>.
+- c: 2
+  r: 1
+  v: zusammensetzen
+  x:
+  - s: Vi bör därför <v>sitta</v> <p>ner</p> tillsammans och se vad vi kan göra.
+    t: Daher sollten wir uns alle <a>zusammensetzen</a> und überlegen, was wir tun
+      können.
+  - s: Jag säger till ordföranden för Ekofin-rådet och kommissionär Solbes Mira att
+      det som vi sätter i gång i den makroekonomiska dialogen under de kommande dagarna
+      gäller inte bara det som sker just nu utan det gäller även att skapa en miljö,
+      så att om ett problem eller svårlösta frågor uppstår vi verkligen kan <v>sitta</v>
+      <p>ner</p> tillsammans med arbetsmarknadens parter och finna lösningar på våra
+      problem.
+    t: Dem Präsidenten des ECOFIN-Rates und zu Kommissar Solbes Mira sage ich, daß
+      das, was wir mit dem makroökonomischen Dialog in den nächsten Tagen beabsichtigen,
+      nicht nur dafür ist, was gegenwärtig geschieht, sondern damit soll eine Atmosphäre
+      geschaffen werden, so daß wir uns im Falle eines Problems oder schwieriger Fragen
+      wirklich mit den Sozialpartnern <a>zusammensetzen</a> und Lösungen für unsere
+      Probleme ausarbeiten können.
+- c: 1
+  r: 2
+  v: gemeinsam
+  x:
+  - s: Jag skulle åter vilja uppmana den irländska regeringen att acceptera Ekofin-rådets
+      beslut och <v>sitta</v> <p>ner</p> med kommissionen för att diskutera hur det
+      bäst kan genomföras.
+    t: Ich fordere die irische Regierung nochmals auf, die Ecofin-Entscheidung zu
+      akzeptieren und <a>gemeinsam</a> mit der Kommission zu beraten, wie sie am besten
+      umgesetzt werden kann.
+- c: 1
+  r: 2
+  v: Tisch setzen
+  x:
+  - s: Låt oss använda våra röster så att vi kan <v>sitta</v> <p>ner</p> och äta med
+      gott samvete.
+    t: Lassen Sie uns daher unsere Stimme nutzen, damit wir uns mit gutem Gewissen
+      an den <a>Tisch</a> <a>setzen</a> und essen können.
+- c: 1
+  r: 2
+  v: Platz sitzen
+  x:
+  - s: Självklart skulle det vara lättare att kunna uttrycka sig inför ett lugnare
+      auditorium där alla <v>sitter</v> <p>ner</p>.
+    t: Natürlich wäre es vorzuziehen, wenn man vor einem ruhigeren Auditorium sprechen
+      könnte, wo alle auf ihren <a>Plätzen</a> <a>sitzen</a>.
+- c: 1
+  r: 2
+  v: Platz nehmen
+  x:
+  - s: Om ni till dess skulle vilja vara så vänlig och <v>sitta</v> <p>ner</p>, det
+      skulle göra det hela mer avspänt och lugnt.
+    t: Wenn Sie inzwischen bitte freundlicherweise <a>Platz</a> <a>nehmen</a> würden,
+      das würde das Ganze etwas entspannen und beruhigen.
+- c: 1
+  r: 2
+  v: Mehrheit
+  x:
+  - s: Får jag be er se till att ledamöterna <v>sitter</v> <p>ner</p> vid omröstningen.
+    t: Ich möchte Sie bitten, die Kollegen doch einmal dazu zu bringen, sich zu setzen
+      und an der Abstimmung teilzunehmen, weil wir entsprechende <a>Mehrheiten</a>
+      benötigen.
+en:
+- c: 5
+  r: 1
+  v: sit down
+  x:
+  - s: Låt oss använda våra röster så att vi kan <v>sitta</v> <p>ner</p> och äta med
+      gott samvete.
+    t: Let us use our vote, then, to enable us to <a>sit</a> <a>down</a> to eat with
+      a good conscience.
+  - s: Jag skulle åter vilja uppmana den irländska regeringen att acceptera Ekofin-rådets
+      beslut och <v>sitta</v> <p>ner</p> med kommissionen för att diskutera hur det
+      bäst kan genomföras.
+    t: I would call again on the Irish Government to accept the Ecofin decision and
+      to <a>sit</a> <a>down</a> with the Commission to discuss how it can best be
+      implemented.
+  - s: Jag får be våra kolleger ta ner banderollerna och <v>sitta</v> <p>ner</p> och
+      lyssna på rådets uttalande.
+    t: Would the Members be so kind as to remove the banners and <a>sit</a> <a>down</a>
+      so that we can listen to the Council’s statement.
+  - s: Vi bör därför <v>sitta</v> <p>ner</p> tillsammans och se vad vi kan göra.
+    t: We should therefore all <a>sit</a> <a>down</a> together and see what we can
+      do.
+  - s: Med andra ord måste alla medicinska experter <v>sitta</v> <p>ner</p> tillsammans
+      och ekonomiskt stöd måste ges till de som utan egen förskyllan står inför en
+      ekonomisk katastrof.
+    t: In other words, all the medical experts must <a>sit</a> <a>down</a> together,
+      and economic assistance needs to be provided to those who innocently find themselves
+      facing financial disaster.
+- c: 2
+  r: 2
+  v: be seat
+  x:
+  - s: Får jag be er se till att ledamöterna <v>sitter</v> <p>ner</p> vid omröstningen.
+    t: Madam President, may I ask you to ensure that Members <a>are</a> <a>seated</a>
+      for the vote, because we need the prescribed majorities.
+  - s: Självklart skulle det vara lättare att kunna uttrycka sig inför ett lugnare
+      auditorium där alla <v>sitter</v> <p>ner</p>.
+    t: Of course, it would be better to speak in a quieter chamber, where everyone
+      <a>is</a> <a>seated</a>.
+- c: 1
+  r: 3
+  v: seat
+  x:
+  - s: Om ni till dess skulle vilja vara så vänlig och <v>sitta</v> <p>ner</p>, det
+      skulle göra det hela mer avspänt och lugnt.
+    t: Now if you would be so kind as to take your <a>seat</a>, that would ease the
+      tension somewhat.
+- c: 1
+  r: 3
+  v: sit
+  x:
+  - s: Jag säger till ordföranden för Ekofin-rådet och kommissionär Solbes Mira att
+      det som vi sätter i gång i den makroekonomiska dialogen under de kommande dagarna
+      gäller inte bara det som sker just nu utan det gäller även att skapa en miljö,
+      så att om ett problem eller svårlösta frågor uppstår vi verkligen kan <v>sitta</v>
+      <p>ner</p> tillsammans med arbetsmarknadens parter och finna lösningar på våra
+      problem.
+    t: I say to the president of the ECOFIN Council and to Commissioner Solbes Mira
+      that what we set out in the macroeconomic dialogue in the next few days is not
+      just for what is occurring at the present time, but to set the mood so that
+      in the event of a problem or difficult issues we can actually <a>sit</a> together
+      with the social partners and work out solutions to our problems.
+es:
+- c: 3
+  r: 1
+  v: sentarse
+  x:
+  - s: Jag skulle åter vilja uppmana den irländska regeringen att acceptera Ekofin-rådets
+      beslut och <v>sitta</v> <p>ner</p> med kommissionen för att diskutera hur det
+      bäst kan genomföras.
+    t: Invito una vez más al Gobierno irlandés a aceptar la decisión del Ecofin y
+      a <a>sentarse</a> con la Comisión para discutir el mejor modo de llevarla a
+      cabo.
+  - s: Om ni till dess skulle vilja vara så vänlig och <v>sitta</v> <p>ner</p>, det
+      skulle göra det hela mer avspänt och lugnt.
+    t: Mientras tanto, si tiene la amabilidad de <a>sentarse</a>, ello contribuiría
+      a reducir la tensión y a que se restablezca la calma.
+  - s: Med andra ord måste alla medicinska experter <v>sitta</v> <p>ner</p> tillsammans
+      och ekonomiskt stöd måste ges till de som utan egen förskyllan står inför en
+      ekonomisk katastrof.
+    t: En otras palabras, todos los expertos médicos han de <a>sentarse</a> juntos
+      y hay que proporcionar ayuda económica a aquellos que, sin tener culpa, están
+      afrontando un desastre económico.
+- c: 2
+  r: 2
+  v: sentar
+  x:
+  - s: Vi bör därför <v>sitta</v> <p>ner</p> tillsammans och se vad vi kan göra.
+    t: Por tanto, debemos <a>sentarnos</a> todos y ver lo que podemos hacer.
+  - s: Jag säger till ordföranden för Ekofin-rådet och kommissionär Solbes Mira att
+      det som vi sätter i gång i den makroekonomiska dialogen under de kommande dagarna
+      gäller inte bara det som sker just nu utan det gäller även att skapa en miljö,
+      så att om ett problem eller svårlösta frågor uppstår vi verkligen kan <v>sitta</v>
+      <p>ner</p> tillsammans med arbetsmarknadens parter och finna lösningar på våra
+      problem.
+    t: He de decir al Presidente del Consejo ECOFIN y al Comisario Solbes Mira que
+      lo que se inicie en el diálogo macroeconómico en los próximos días no se referirá
+      tan sólo a lo que está ocurriendo actualmente, sino que servirá para crear la
+      atmósfera idónea para que, en caso de que haya un problema o cuestiones difíciles,
+      podamos <a>sentarnos</a>, en realidad, con los interlocutores sociales e idear
+      soluciones para nuestros problemas.
+- c: 1
+  r: 3
+  v: sentado
+  x:
+  - s: Självklart skulle det vara lättare att kunna uttrycka sig inför ett lugnare
+      auditorium där alla <v>sitter</v> <p>ner</p>.
+    t: Naturalmente, sería mejor poder expresarse ante un auditorio donde hubiera
+      más calma y todo el mundo estuviese <a>sentado</a>.
+fr:
+- c: 2
+  r: 1
+  v: asseoir
+  x:
+  - s: Låt oss använda våra röster så att vi kan <v>sitta</v> <p>ner</p> och äta med
+      gott samvete.
+    t: Utilisons donc notre vote pour pouvoir ensuite nous <a>asseoir</a> et manger
+      en ayant bonne conscience.
+  - s: Om ni till dess skulle vilja vara så vänlig och <v>sitta</v> <p>ner</p>, det
+      skulle göra det hela mer avspänt och lugnt.
+    t: Si vous vouliez bien avoir l’amabilité de vous <a>asseoir</a> entre-temps,
+      cela détendrait quelque peu l’atmosphère.
+- c: 1
+  r: 2
+  v: être asseoir
+  x:
+  - s: Självklart skulle det vara lättare att kunna uttrycka sig inför ett lugnare
+      auditorium där alla <v>sitter</v> <p>ner</p>.
+    t: Naturellement, ce serait mieux de pouvoir s’exprimer devant un auditoire plus
+      calme et où tout le monde <a>soit</a> <a>assis</a>.
+- c: 1
+  r: 2
+  v: discuter
+  x:
+  - s: Jag skulle åter vilja uppmana den irländska regeringen att acceptera Ekofin-rådets
+      beslut och <v>sitta</v> <p>ner</p> med kommissionen för att diskutera hur det
+      bäst kan genomföras.
+    t: Je demande une fois de plus au gouvernement irlandais d’accepter la décision
+      du Conseil «écofin» et de <a>discuter</a> avec la Commission de la meilleure
+      manière de l’appliquer.
+- c: 1
+  r: 2
+  v: asseoir autour
+  x:
+  - s: Jag säger till ordföranden för Ekofin-rådet och kommissionär Solbes Mira att
+      det som vi sätter i gång i den makroekonomiska dialogen under de kommande dagarna
+      gäller inte bara det som sker just nu utan det gäller även att skapa en miljö,
+      så att om ett problem eller svårlösta frågor uppstår vi verkligen kan <v>sitta</v>
+      <p>ner</p> tillsammans med arbetsmarknadens parter och finna lösningar på våra
+      problem.
+    t: Le dialogue macro-économique des prochains jours ne concerne pas uniquement
+      la situation actuelle, mais vise à préparer le terrain pour l’avenir, de sorte
+      à ce qu’en cas de problèmes ou de difficultés, nous puissions réellement nous
+      <a>asseoir</a> <a>autour</a> d’une table avec les partenaires sociaux et trouver
+      des solutions à ces problèmes ou difficultés.
+- c: 1
+  r: 2
+  v: rassembler
+  x:
+  - s: Vi bör därför <v>sitta</v> <p>ner</p> tillsammans och se vad vi kan göra.
+    t: Nous devons donc tous nous <a>rassembler</a> et voir ce que nous pouvons faire.
+it:
+- c: 6
+  r: 1
+  v: sedere
+  x:
+  - s: Låt oss använda våra röster så att vi kan <v>sitta</v> <p>ner</p> och äta med
+      gott samvete.
+    t: Usiamo il nostro voto, poi, per poterci permettere di <a>sederci</a> a tavola
+      e di mangiare con la coscienza pulita.
+  - s: Det har du helt rätt i. Vill ledamöterna vara så vänliga att <v>sitta</v> <p>ner</p>.
+    t: Chiedo ai deputati di <a>sedersi</a>.
+  - s: Vill kollegerna omkring fru Mann vara vänliga att <v>sitta</v> <p>ner</p>.
+    t: Chiedo ai deputati vicini alla onorevole Mann di <a>sedersi</a>.
+  - s: Självklart skulle det vara lättare att kunna uttrycka sig inför ett lugnare
+      auditorium där alla <v>sitter</v> <p>ner</p>.
+    t: Naturalmente sarebbe meglio potersi esprimere davanti ad un uditorio più calmo
+      e in cui tutti stessero <a>seduti</a>.
+  - s: Jag får be våra kolleger ta ner banderollerna och <v>sitta</v> <p>ner</p> och
+      lyssna på rådets uttalande.
+    t: Invito gentilmente i deputati a ritirare le bandiere e tornare a <a>sedere</a>,
+      in modo da poter ascoltare la dichiarazione del Consiglio.
+  - s: Vi bör därför <v>sitta</v> <p>ner</p> tillsammans och se vad vi kan göra.
+    t: Pertanto dobbiamo <a>sederci</a> tutti assieme per esaminare le possibili azioni
+      da intraprendere.
+  - s: Om ni till dess skulle vilja vara så vänlig och <v>sitta</v> <p>ner</p>, det
+      skulle göra det hela mer avspänt och lugnt.
+    t: Se nel frattempo fosse così cortese da <a>sedersi</a>, ciò allenterebbe un
+      po’ la tensione e aiuterebbe a riportare la calma.
+- c: 1
+  r: 2
+  v: siedanoperre
+  x:
+  - s: Får jag be er se till att ledamöterna <v>sitter</v> <p>ner</p> vid omröstningen.
+    t: Signora Presidente, mi permetto di chiederledi assicurarsi che i membri si
+      <a>siedanoper</a> votare, perché abbiamo bisogno delle maggioranze prescritte.
+- c: 1
+  r: 2
+  v: dovere riunire
+  x:
+  - s: Med andra ord måste alla medicinska experter <v>sitta</v> <p>ner</p> tillsammans
+      och ekonomiskt stöd måste ges till de som utan egen förskyllan står inför en
+      ekonomisk katastrof.
+    t: In altre parole, tutti gli esperti in campo medico <a>dovrebbero</a> <a>riunirsi</a>
+      e dovremmo prestare assistenza economica a quanti sono ingiustificatamente rimasti
+      vittima di un disastro finanziario.
+- c: 1
+  r: 2
+  v: sedere
+  x:
+  - s: Låt oss använda våra röster så att vi kan <v>sitta</v> <p>ner</p> och äta med
+      gott samvete.
+    t: Usiamo il nostro voto, poi, per poterci permettere di <a>sederci</a> a tavola
+      e di mangiare con la coscienza pulita.
+  - s: Det har du helt rätt i. Vill ledamöterna vara så vänliga att <v>sitta</v> <p>ner</p>.
+    t: Chiedo ai deputati di <a>sedersi</a>.
+  - s: Vill kollegerna omkring fru Mann vara vänliga att <v>sitta</v> <p>ner</p>.
+    t: Chiedo ai deputati vicini alla onorevole Mann di <a>sedersi</a>.
+  - s: Självklart skulle det vara lättare att kunna uttrycka sig inför ett lugnare
+      auditorium där alla <v>sitter</v> <p>ner</p>.
+    t: Naturalmente sarebbe meglio potersi esprimere davanti ad un uditorio più calmo
+      e in cui tutti stessero <a>seduti</a>.
+  - s: Jag får be våra kolleger ta ner banderollerna och <v>sitta</v> <p>ner</p> och
+      lyssna på rådets uttalande.
+    t: Invito gentilmente i deputati a ritirare le bandiere e tornare a <a>sedere</a>,
+      in modo da poter ascoltare la dichiarazione del Consiglio.
+  - s: Vi bör därför <v>sitta</v> <p>ner</p> tillsammans och se vad vi kan göra.
+    t: Pertanto dobbiamo <a>sederci</a> tutti assieme per esaminare le possibili azioni
+      da intraprendere.
+  - s: Om ni till dess skulle vilja vara så vänlig och <v>sitta</v> <p>ner</p>, det
+      skulle göra det hela mer avspänt och lugnt.
+    t: Se nel frattempo fosse così cortese da <a>sedersi</a>, ciò allenterebbe un
+      po’ la tensione e aiuterebbe a riportare la calma.
+- c: 1
+  r: 2
+  v: discutere
+  x:
+  - s: Jag skulle åter vilja uppmana den irländska regeringen att acceptera Ekofin-rådets
+      beslut och <v>sitta</v> <p>ner</p> med kommissionen för att diskutera hur det
+      bäst kan genomföras.
+    t: Vorrei invitare il governo irlandese ad accettare la decisione del Consiglio
+      ECOFIN e a <a>discutere</a> insieme alla Commissione il modo migliore per applicarla;
+- c: 1
+  r: 2
+  v: sedere tavolo
+  x:
+  - s: Jag säger till ordföranden för Ekofin-rådet och kommissionär Solbes Mira att
+      det som vi sätter i gång i den makroekonomiska dialogen under de kommande dagarna
+      gäller inte bara det som sker just nu utan det gäller även att skapa en miljö,
+      så att om ett problem eller svårlösta frågor uppstår vi verkligen kan <v>sitta</v>
+      <p>ner</p> tillsammans med arbetsmarknadens parter och finna lösningar på våra
+      problem.
+    t: Vorrei dire al presidente del consiglio ECOFIN e al Commissario Solbes Mira
+      che non basta prepararsi al dialogo macroeconomico dei prossimi giorni pensando
+      unicamente a ciò che sta accadendo adesso, ma occorre anche sapere che, nel
+      caso si presenti un problema o una questione difficile, ci sarà la disponibilità
+      a <a>sedersi</a> attorno ad un <a>tavolo</a> assieme alle parti sociali per
+      cercare una soluzione.
+pt:
+- c: 4
+  r: 1
+  v: sentar
+  x:
+  - s: Låt oss använda våra röster så att vi kan <v>sitta</v> <p>ner</p> och äta med
+      gott samvete.
+    t: Utilizemos então o nosso voto de modo a que nos possamos <a>sentar</a> a comer
+      de consciência tranquila.
+  - s: Självklart skulle det vara lättare att kunna uttrycka sig inför ett lugnare
+      auditorium där alla <v>sitter</v> <p>ner</p>.
+    t: Seria, naturalmente, preferível poder falar diante de um auditório mais calmo
+      e onde todos estivessem <a>sentados</a>.
+  - s: Jag får be våra kolleger ta ner banderollerna och <v>sitta</v> <p>ner</p> och
+      lyssna på rådets uttalande.
+    t: Peço aos senhores deputados que tenham a amabilidade de retirar as bandeiras
+      e que se <a>sentem</a> para podermos ouvir a declaração do Conselho.
+  - s: Jag säger till ordföranden för Ekofin-rådet och kommissionär Solbes Mira att
+      det som vi sätter i gång i den makroekonomiska dialogen under de kommande dagarna
+      gäller inte bara det som sker just nu utan det gäller även att skapa en miljö,
+      så att om ett problem eller svårlösta frågor uppstår vi verkligen kan <v>sitta</v>
+      <p>ner</p> tillsammans med arbetsmarknadens parter och finna lösningar på våra
+      problem.
+    t: Gostaria de dizer ao Presidente do Conselho ECOFIN e ao senhor Comissário Solbes
+      Mira que o que ficar estabelecido no diálogo macroeconómico nos próximos dias
+      não se destina apenas a dar resposta ao que se passa na actualidade, mas também
+      a preparar as partes envolvidas no diálogo para, na eventualidade de surgir
+      um problema ou uma questão difícil, nos podermos <a>sentar</a> juntamente com
+      os parceiros sociais e encontrar soluções para fazer face à situação.
+- c: 1
+  r: 2
+  v: tomar lugar
+  x:
+  - s: Det har du helt rätt i. Vill ledamöterna vara så vänliga att <v>sitta</v> <p>ner</p>.
+    t: Peço aos senhores deputados que <a>tomem</a> os seus <a>lugares</a>.
+- c: 1
+  r: 2
+  v: sentar mesa
+  x:
+  - s: Med andra ord måste alla medicinska experter <v>sitta</v> <p>ner</p> tillsammans
+      och ekonomiskt stöd måste ges till de som utan egen förskyllan står inför en
+      ekonomisk katastrof.
+    t: Dito de outro modo, os peritos médicos têm de se <a>sentar</a> à <a>mesa</a>
+      e há que prestar ajuda económica aos que, sem qualquer culpa, enfrentam o desastre
+      financeiro.
+- c: 1
+  r: 2
+  v: lugar acalmar
+  x:
+  - s: Om ni till dess skulle vilja vara så vänlig och <v>sitta</v> <p>ner</p>, det
+      skulle göra det hela mer avspänt och lugnt.
+    t: Caso queira, entretanto, ter a amabilidade de tomar o seu <a>lugar</a>, isso
+      contribuiria para desanuviar e <a>acalmar</a> um pouco os ânimos.
+- c: 1
+  r: 2
+  v: reunir
+  x:
+  - s: Vi bör därför <v>sitta</v> <p>ner</p> tillsammans och se vad vi kan göra.
+    t: Por conseguinte, devemos <a>reunir</a>-nos e ver o que podemos fazer.

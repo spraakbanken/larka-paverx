@@ -1,0 +1,337 @@
+---
+de:
+- c: 1
+  r: 1
+  v: schauen sehen
+  x:
+  - s: Genom beslutet i morgon utfärdar vi också en inbjudan till Europeiska unionens
+      medborgare, en inbjudan att också dra nytta av vår öppenhet, att titta in hos
+      oss, och om ni så vill syna våra kort, ja, till och med <v>titta</v> <p>in</p>
+      bakom kulisserna.
+    t: Mit dem morgigen Beschluss sprechen wir aber auch eine Einladung an die Bürgerinnen
+      und Bürger der Europäischen Union aus, eine Einladung, sich unsere Offenheit
+      auch zunutze zu machen, bei uns hereinzuschauen, uns, wenn Sie so wollen, in
+      die Karten zu <a>schauen</a>, ja sogar hinter die Kulissen zu <a>sehen</a>.
+- c: 1
+  r: 1
+  v: vorbeischauen
+  x:
+  - s: Hur föreslår ni att man ska <v>titta</v> <p>in</p> hos egenföretagare och fråga
+      när, var och hur mycket de har arbetat?
+    t: Wollen Sie etwa bei den Selbstständigen <a>vorbeischauen</a> und fragen, wann,
+      wo und wie viel sie gearbeitet haben?
+- c: 1
+  r: 1
+  v: kommen einladen
+  x:
+  - s: Om ni är i London är ni mycket välkommen att <v>titta</v> <p>in</p> på en kopp
+      te.
+    t: Sollten Sie jemals nach London <a>kommen</a>, sind Sie herzlich <a>eingeladen</a>,
+      auf eine Tasse Tee vorbeizuschauen.
+- c: 1
+  r: 1
+  v: hineinschauen hereinkommen
+  x:
+  - s: Människor kan <v>titta</v> <p>in</p> och nu kan de även hälsa på och delta.
+    t: Die Menschen können <a>hineinschauen</a> und werden nun auch in der Lage sein,
+      <a>hereinzukommen</a> und sich zu beteiligen.
+- c: 1
+  r: 1
+  v: schauen
+  x:
+  - s: Genom beslutet i morgon utfärdar vi också en inbjudan till Europeiska unionens
+      medborgare, en inbjudan att också dra nytta av vår öppenhet, att <v>titta</v>
+      <p>in</p> hos oss, och om ni så vill syna våra kort, ja, till och med titta
+      in bakom kulisserna.
+    t: Mit dem morgigen Beschluss sprechen wir aber auch eine Einladung an die Bürgerinnen
+      und Bürger der Europäischen Union aus, eine Einladung, sich unsere Offenheit
+      auch zunutze zu machen, bei uns hereinzuschauen, uns, wenn Sie so wollen, in
+      die Karten zu <a>schauen</a>, ja sogar hinter die Kulissen zu sehen.
+en:
+- c: 1
+  r: 1
+  v: look straight
+  x:
+  - s: Även om pressens rapportering om detta Europa ibland är ofullständig, så kan
+      den intresserade medborgaren ändå <v>titta</v> <p>in</p> direkt hos oss med
+      hjälp av Internet.
+    t: Even if press reports on Europe are sometimes incomplete, the interested citizen
+      can nonetheless <a>look</a> <a>straight</a> in on us with the help of the Internet.
+- c: 1
+  r: 1
+  v: look
+  x:
+  - s: <v>Tittar</v> de <p>in</p> i huvudet på nötkreaturen, och om de kan det skulle
+      de kanske kunna vara snälla och förklara för oss hur det går till!
+    t: Do they <a>look</a> inside the animals’ head?
+- c: 1
+  r: 1
+  v: see
+  x:
+  - s: Genom beslutet i morgon utfärdar vi också en inbjudan till Europeiska unionens
+      medborgare, en inbjudan att också dra nytta av vår öppenhet, att titta in hos
+      oss, och om ni så vill syna våra kort, ja, till och med <v>titta</v> <p>in</p>
+      bakom kulisserna.
+    t: Tomorrow’s resolution will also be our invitation to the citizens of the European
+      Union to put our openness to good use, to look in on us, to, if you want to
+      put it that way, take a look at the cards we hold, even to <a>see</a> behind
+      the scenes.
+- c: 1
+  r: 1
+  v: drop in up
+  x:
+  - s: Vi vill försäkra oss om att de, trots att de verkar på avstånd från de centrala
+      arbetsplatserna, fortfarande är gemenskapsorgan, ansvarsskyldiga inför de demokratiskt
+      valda ledamöterna i parlamentet, kontrollerade men inte överväldigade av kraven
+      från vare sig olika grupper som <v>tittat</v> <p>in</p> för att kontrollera
+      dem och deras arbete, eller av byråkratiska krav från människor som på avstånd
+      försöker utvärdera vad som görs.
+    t: We want to make sure that, although they operate at a distance from the central
+      places of work, they are still part of Community bodies, still accountable to
+      the democratically elected Members of Parliament, controlled but not overwhelmed
+      either by lots of different groups which have <a>dropped</a> <a>in</a> to check
+      <a>up</a> on them and their work, or by the bureaucratic demands of people trying
+      to assess what is going on from a distance.
+es:
+- c: 1
+  r: 1
+  v: ver dentro entrar
+  x:
+  - s: Människor kan <v>titta</v> <p>in</p> och nu kan de även hälsa på och delta.
+    t: la gente puede <a>ver</a> lo que hay <a>dentro</a> y ahora también van a poder
+      <a>entrar</a> dentro y participar.
+- c: 1
+  r: 1
+  v: invitar
+  x:
+  - s: Om ni är i London är ni mycket välkommen att <v>titta</v> <p>in</p> på en kopp
+      te.
+    t: Si alguna vez van a Londres, están <a>invitados</a> a tomar una taza de té.
+- c: 1
+  r: 1
+  v: examinar
+  x:
+  - s: <v>Tittar</v> de <p>in</p> i huvudet på nötkreaturen, och om de kan det skulle
+      de kanske kunna vara snälla och förklara för oss hur det går till!
+    t: ¿Acaso <a>examinan</a> el interior del cráneo de los vacunos?
+- c: 1
+  r: 1
+  v: vistazo
+  x:
+  - s: Även om pressens rapportering om detta Europa ibland är ofullständig, så kan
+      den intresserade medborgaren ändå <v>titta</v> <p>in</p> direkt hos oss med
+      hjälp av Internet.
+    t: Igualmente, cuando la información de la prensa sobre esta Europa sea a veces
+      incompleta el ciudadano interesado nos podrá echar un <a>vistazo</a> con la
+      ayuda de Internet.
+- c: 1
+  r: 1
+  v: intervenir
+  x:
+  - s: Jag hoppas att någon av hans kolleger kan notera detta och berätta för honom
+      att vi normallt sett försöker stanna till slutet av de debatter vi deltar i,
+      snarare än att <v>titta</v> <p>in</p>, tala och sedan rusa iväg för att göra
+      sitt pressmeddelande.
+    t: Espero que se lo cuente alguno de sus compañeros, que le dirá que lo normal
+      es intentar quedarse hasta que se acaban los debates en los que se participa
+      en lugar de pedir la palabra, <a>intervenir</a> y luego marcharse corriendo
+      a sacar la nota de prensa.
+fr:
+- c: 1
+  r: 1
+  v: observer
+  x:
+  - s: Även om pressens rapportering om detta Europa ibland är ofullständig, så kan
+      den intresserade medborgaren ändå <v>titta</v> <p>in</p> direkt hos oss med
+      hjälp av Internet.
+    t: Même quand ce que la presse relate de cette Europe est parfois incomplet, le
+      citoyen intéressé peut <a>observer</a> directement ce que nous faisons avec
+      l’aide de l’Internet.
+- c: 1
+  r: 1
+  v: regard
+  x:
+  - s: Tyvärr är det så att ju mer vi öppnar våra glashus, desto färre människor <v>tittar</v>
+      <p>in</p> i dem. Även medierna måste hjälpa till med detta.
+    t: Il est très triste de voir que plus nous ouvrons nos maisons de verre, moins
+      les gens semblent y poser le <a>regard</a>.
+- c: 1
+  r: 1
+  v: venir
+  x:
+  - s: Jag hoppas att någon av hans kolleger kan notera detta och berätta för honom
+      att vi normallt sett försöker stanna till slutet av de debatter vi deltar i,
+      snarare än att <v>titta</v> <p>in</p>, tala och sedan rusa iväg för att göra
+      sitt pressmeddelande.
+    t: J’espère qu’un de ses collègues se chargera de lui transmettre et de lui dire
+      que, normalement nous essayons de rester jusqu’à la fin des débats auxquels
+      nous participons, au lieu de <a>venir</a>, de parler puis de se précipiter dehors
+      pour rédiger un communiqué de presse.
+- c: 1
+  r: 1
+  v: soumettre
+  x:
+  - s: Graham Watson formulerade det väldigt väl i går när han använde en flygmetafor
+      och sade att när vi <v>tittar</v> <p>in</p> i cockpit så vill vi inte upptäcka
+      att piloten är borta eller förvirrad, försvagad och desorienterad.
+    t: Monsieur le Président désigné, je voudrais vous <a>soumettre</a> deux questions,
+      auxquelles je souhaiterais obtenir des réponses, ou tout au moins des réponses
+      moins vagues.
+- c: 1
+  r: 1
+  v: passer
+  x:
+  - s: Jag talar inte om den vanliga blodgivarverksamheten som kommer till ditt församlingshus,
+      där du kan <v>titta</v> <p>in</p> en halvtimme, få en kopp te och sedan gå tillbaka
+      till jobb.
+    t: Je ne parle pas du simple service de transfusion sanguine qui vient dans votre
+      salle paroissiale et où vous <a>passez</a> une demi-heure et buvez un café avant
+      de retourner au travail.
+- c: 1
+  r: 1
+  v: prendre
+  x:
+  - s: Om ni är i London är ni mycket välkommen att <v>titta</v> <p>in</p> på en kopp
+      te.
+    t: Si vous venez à Londres, vous êtes le bienvenu pour <a>prendre</a> une tasse
+      de thé.
+it:
+- c: 2
+  r: 1
+  v: guardare dentro
+  x:
+  - s: Människor kan <v>titta</v> <p>in</p> och nu kan de även hälsa på och delta.
+    t: La gente può <a>guardare</a> <a>dentro</a> e ora potrà anche entrare e partecipare.
+  - s: <v>Tittar</v> de <p>in</p> i huvudet på nötkreaturen, och om de kan det skulle
+      de kanske kunna vara snälla och förklara för oss hur det går till!
+    t: <a>Guarda</a> <a>dentro</a> le teste dei bovini?
+- c: 1
+  r: 2
+  v: venire vedere
+  x:
+  - s: Genom beslutet i morgon utfärdar vi också en inbjudan till Europeiska unionens
+      medborgare, en inbjudan att också dra nytta av vår öppenhet, att titta in hos
+      oss, och om ni så vill syna våra kort, ja, till och med <v>titta</v> <p>in</p>
+      bakom kulisserna.
+    t: Con la decisione di domani invitiamo anche i cittadini dell’Unione europea
+      a fare uso di questa nostra trasparenza, a venire a vedere come vanno le cose
+      qui da noi, e se lo vogliono anche a guardare nelle nostre carte, addirittura
+      a <a>venire</a> a <a>vedere</a> dietro le quinte.
+- c: 1
+  r: 2
+  v: entrare
+  x:
+  - s: Även om pressens rapportering om detta Europa ibland är ofullständig, så kan
+      den intresserade medborgaren ändå <v>titta</v> <p>in</p> direkt hos oss med
+      hjälp av Internet.
+    t: Anche se a volte la stampa fa dei resoconti incompleti su questa Europa, il
+      cittadino interessato con l’ausilio di Internet può <a>entrare</a> direttamente
+      in casa nostra.
+- c: 1
+  r: 2
+  v: andare fare
+  x:
+  - s: Hur föreslår ni att man ska <v>titta</v> <p>in</p> hos egenföretagare och fråga
+      när, var och hur mycket de har arbetat?
+    t: Come vi proponete di <a>andare</a> a <a>far</a> visita ai lavoratori autonomi
+      e chiedere loro quando, dove e quanto hanno lavorato?
+- c: 1
+  r: 2
+  v: dentro
+  x:
+  - s: Tyvärr är det så att ju mer vi öppnar våra glashus, desto färre människor <v>tittar</v>
+      <p>in</p> i dem. Även medierna måste hjälpa till med detta.
+    t: È molto triste constatare che più apriamo le nostre serre, meno la gente vuole
+      guardarci <a>dentro</a>.
+- c: 1
+  r: 2
+  v: frotta
+  x:
+  - s: Vi vill försäkra oss om att de, trots att de verkar på avstånd från de centrala
+      arbetsplatserna, fortfarande är gemenskapsorgan, ansvarsskyldiga inför de demokratiskt
+      valda ledamöterna i parlamentet, kontrollerade men inte överväldigade av kraven
+      från vare sig olika grupper som <v>tittat</v> <p>in</p> för att kontrollera
+      dem och deras arbete, eller av byråkratiska krav från människor som på avstånd
+      försöker utvärdera vad som görs.
+    t: Vogliamo fare in modo che, per quanto distanti dalle sedi centrali di lavoro,
+      esse continuino a fare parte degli organi comunitari, continuino a rispondere
+      ai deputati del Parlamento eletti democraticamente, a essere controllate ma
+      non sopraffatte da una miriade di gruppi diversi giunti a <a>frotte</a> per
+      controllare il loro lavoro, né da richieste burocratiche formulate da chi cerca
+      di effettuare una valutazione a distanza.
+- c: 1
+  r: 2
+  v: passare prendere
+  x:
+  - s: Om ni är i London är ni mycket välkommen att <v>titta</v> <p>in</p> på en kopp
+      te.
+    t: Se caso mai le capitasse di passare da Londra, sarà più che gradito ospite
+      se vorrà <a>passare</a> a <a>prendere</a> un tè.
+- c: 1
+  r: 2
+  v: recare
+  x:
+  - s: Jag talar inte om den vanliga blodgivarverksamheten som kommer till ditt församlingshus,
+      där du kan <v>titta</v> <p>in</p> en halvtimme, få en kopp te och sedan gå tillbaka
+      till jobb.
+    t: Non mi riferisco soltanto al normale servizio ambulante di emotrasfusione,
+      in cui i donatori devono solo <a>recarsi</a> nella sala parrocchiale del loro
+      luogo di residenza, starci una mezz’oretta, prendere una tazza di tè e poi tornare
+      al lavoro.
+pt:
+- c: 1
+  r: 1
+  v: lá ver
+  x:
+  - s: Vi vill försäkra oss om att de, trots att de verkar på avstånd från de centrala
+      arbetsplatserna, fortfarande är gemenskapsorgan, ansvarsskyldiga inför de demokratiskt
+      valda ledamöterna i parlamentet, kontrollerade men inte överväldigade av kraven
+      från vare sig olika grupper som <v>tittat</v> <p>in</p> för att kontrollera
+      dem och deras arbete, eller av byråkratiska krav från människor som på avstånd
+      försöker utvärdera vad som görs.
+    t: sejam controladas, mas não dominadas por uma variedade de grupos que decidem
+      aparecer por <a>lá</a> para <a>ver</a> o que andam a fazer e fiscalizar o seu
+      trabalho, ou por exigências burocráticas de pessoas que querem avaliar à distância
+      o que se passa.
+- c: 1
+  r: 1
+  v: convidar ir lá
+  x:
+  - s: Om ni är i London är ni mycket välkommen att <v>titta</v> <p>in</p> på en kopp
+      te.
+    t: Se algum dia passar por Londres, está <a>convidado</a> a <a>ir</a> <a>lá</a>
+      tomar um chá comigo.
+- c: 1
+  r: 1
+  v: dentro
+  x:
+  - s: <v>Tittar</v> de <p>in</p> i huvudet på nötkreaturen, och om de kan det skulle
+      de kanske kunna vara snälla och förklara för oss hur det går till!
+    t: Será que espreitam para <a>dentro</a> da cabeça dos bovinos?
+- c: 1
+  r: 1
+  v: entrar
+  x:
+  - s: Även om pressens rapportering om detta Europa ibland är ofullständig, så kan
+      den intresserade medborgaren ändå <v>titta</v> <p>in</p> direkt hos oss med
+      hjälp av Internet.
+    t: Se por vezes a informação da imprensa sobre a Europa é incompleta, o cidadão
+      interessado pode <a>entrar</a> directamente cá dentro com a ajuda da Internet.
+- c: 1
+  r: 1
+  v: querer olhar cá
+  x:
+  - s: Tyvärr är det så att ju mer vi öppnar våra glashus, desto färre människor <v>tittar</v>
+      <p>in</p> i dem. Även medierna måste hjälpa till med detta.
+    t: É muito triste constatar que, quanto mais abrimos as nossas janelas, menos
+      gente parece <a>querer</a> <a>olhar</a> <a>cá</a> para dentro.
+- c: 1
+  r: 1
+  v: recolha
+  x:
+  - s: Jag talar inte om den vanliga blodgivarverksamheten som kommer till ditt församlingshus,
+      där du kan <v>titta</v> <p>in</p> en halvtimme, få en kopp te och sedan gå tillbaka
+      till jobb.
+    t: Não estou a falar do serviço normal de <a>recolha</a> de sangue, que aparece
+      de vez em quanto na igreja do nosso bairro, e nós vamos até lá durante meia
+      hora, tomamos uma chávena de chá e voltamos para o emprego.

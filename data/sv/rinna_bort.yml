@@ -1,0 +1,54 @@
+---
+de:
+- c: 1
+  r: 1
+  v: werden
+  x:
+  - s: Vi satsade då över 140 miljoner euro inom ramen för Interreg, vilket gjorde
+      det möjligt att utveckla system för övervakning och varning när det gäller vattennivån
+      samt fastställa riskområden och bygga dammar där vattnet hålls kvar och även
+      underlätta för vattnet att <v>rinna</v> <p>bort</p>.
+    t: Wir haben seinerzeit über 140 Mio. Euro im Rahmen von Interreg bereitgestellt,
+      und mit diesem Geld sind Flutüberwachungs- und Warnsysteme entwickelt, Risikozonen
+      ausgewiesen, Rückhaltebecken angelegt und günstigere Bedingungen für den Abfluss
+      des Wassers geschaffen <a>worden</a>.
+en:
+- c: 1
+  r: 1
+  v: run-off
+  x:
+  - s: Vi satsade då över 140 miljoner euro inom ramen för Interreg, vilket gjorde
+      det möjligt att utveckla system för övervakning och varning när det gäller vattennivån
+      samt fastställa riskområden och bygga dammar där vattnet hålls kvar och även
+      underlätta för vattnet att <v>rinna</v> <p>bort</p>.
+    t: We then mobilised over EUR 140 million under the Interreg programme, and that
+      money made it possible to develop flood-monitoring and warning systems, and
+      identify risk areas, build flood control reservoirs and facilitate water <a>run-off</a>.
+es:
+- c: 1
+  r: 1
+  v: desagüe
+  x:
+  - s: Vi satsade då över 140 miljoner euro inom ramen för Interreg, vilket gjorde
+      det möjligt att utveckla system för övervakning och varning när det gäller vattennivån
+      samt fastställa riskområden och bygga dammar där vattnet hålls kvar och även
+      underlätta för vattnet att <v>rinna</v> <p>bort</p>.
+    t: Muchos países se vieron afectados por las inundaciones del Rin y el Mosa durante
+      la primera mitad de los años noventa En aquella ocasión movilizamos más de 140
+      millones de euros en el marco del programa INTERREG y ese dinero hizo posible
+      el desarrollo de sistemas de control de inundaciones y de alerta, la identificación
+      de zonas de riesgo, la construcción de embalses de control de avenidas, así
+      como infraestructuras para facilitar el <a>desagüe</a>.
+fr:
+- c: 1
+  r: 1
+  v: écoulement
+  x:
+  - s: Vi satsade då över 140 miljoner euro inom ramen för Interreg, vilket gjorde
+      det möjligt att utveckla system för övervakning och varning när det gäller vattennivån
+      samt fastställa riskområden och bygga dammar där vattnet hålls kvar och även
+      underlätta för vattnet att <v>rinna</v> <p>bort</p>.
+    t: Nous avons alors mobilisé plus de 140 millions d’euros dans le cadre d’Interreg,
+      et cet argent a permis de développer des systèmes de surveillance des crues
+      et d’alerte, ainsi que d’identifier des zones à risques, d’aménager des bassins
+      de rétention, de faciliter l’<a>écoulement</a> des eaux.

@@ -1,0 +1,28 @@
+---
+de:
+- c: 1
+  r: 1
+  v: dann auspacken
+  x:
+  - s: De europeiska jultomterna öppnade sina säckar och <v>packade</v> <p>upp</p>
+      inför löpande kamera.
+    t: Die europäischen Weihnachtsmänner haben ihre Säcke geöffnet und <a>dann</a>
+      vor laufender Kamera <a>ausgepackt</a>.
+en:
+- c: 1
+  r: 1
+  v: distribute
+  x:
+  - s: De europeiska jultomterna öppnade sina säckar och <v>packade</v> <p>upp</p>
+      inför löpande kamera.
+    t: The Euro-Santas opened their sacks and <a>distributed</a> presents as the cameras
+      rolled.
+es:
+- c: 1
+  r: 1
+  v: desempaquetar
+  x:
+  - s: De europeiska jultomterna öppnade sina säckar och <v>packade</v> <p>upp</p>
+      inför löpande kamera.
+    t: Los Papás Noel europeos abrieron sus sacos y, luego, <a>desempaquetaron</a>
+      ante las cámaras.

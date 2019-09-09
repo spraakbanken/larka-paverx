@@ -1,0 +1,40 @@
+---
+en:
+- c: 1
+  r: 1
+  v: break
+  x:
+  - s: var den redan sönder eller har användaren <v>haft</v> <p>sönder</p> den?
+    t: was it already faulty or did the user <a>break</a> it?
+es:
+- c: 1
+  r: 1
+  v: hundir
+  x:
+  - s: Om deras hus brinner ner eller om is <v>har</v> <p>sönder</p> taket, så får
+      de endast ersättning från sitt försäkringsbolag, om de nu har tecknat en hemförsäkring.
+    t: si su casa se quema, por ejemplo, o si el hielo <a>hunde</a> el techo, sólo
+      reciben una compensación de sus compañías aseguradoras, en caso de que tengan
+      un seguro.
+- c: 1
+  r: 1
+  v: haber romper
+  x:
+  - s: var den redan sönder eller har användaren <v>haft</v> <p>sönder</p> den?
+    t: ¿ya estaba roto o lo <a>ha</a> <a>roto</a> el usuario?
+it:
+- c: 1
+  r: 1
+  v: rompere
+  x:
+  - s: var den redan sönder eller har användaren <v>haft</v> <p>sönder</p> den?
+    t: era già guasto oppure l’ha <a>rotto</a> l’utente?
+pt:
+- c: 1
+  r: 1
+  v: ser
+  x:
+  - s: var den redan sönder eller har användaren <v>haft</v> <p>sönder</p> den?
+    t: Quando são detectadas anomalias num produto, coloca-se sempre a questão de
+      saber se as mesmas já existiam aquando da sua aquisição, ou se terá <a>sido</a>
+      o consumidor a <a>provocá-las</a>.

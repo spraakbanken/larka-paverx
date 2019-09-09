@@ -1,0 +1,108 @@
+---
+de:
+- c: 1
+  r: 1
+  v: Fahrdienst Haus
+  x:
+  - s: Låt mig bara påminna er om att en marknad inte bara består av produktleverantörer
+      utan också av dem som efterfrågar dem. Vi hjälper själva till att skapa efterfrågan
+      också, och när vi snart <v>körs</v> <p>hem</p> av biltjänsten kommer vi att
+      åka i bilar som inte uppfyller de krav som biltillverkarna åtog sig att uppfylla.
+    t: Zu den Nachfragern gehören wir z.B. auch, und wenn wir jetzt gleich mit dem
+      <a>Fahrdienst</a> nach <a>Hause</a> fahren, fahren wir auch die Autos, die genau
+      diese Selbstverpflichtung nicht erfüllen.
+- c: 1
+  r: 1
+  v: Haus fahren wohlbehalten
+  x:
+  - s: När ni efter sammanträdet, som jag hoppas vid god hälsa, <v>kör</v> <p>hem</p>
+      med bilen så är ni fortfarande inte säker.
+    t: Herr Präsident, wenn Sie unmittelbar nach der Sitzung mit dem Auto nach <a>Hause</a>
+      <a>fahren</a> und dort, wie ich hoffe, gesund und <a>wohlbehalten</a> ankommen,
+      dann sind Sie unterwegs keineswegs sicher.
+en:
+- c: 1
+  r: 1
+  v: home
+  x:
+  - s: När ni efter sammanträdet, som jag hoppas vid god hälsa, <v>kör</v> <p>hem</p>
+      med bilen så är ni fortfarande inte säker.
+    t: Mr President, when you - in good health, I hope - make your way <a>home</a>
+      by car immediately after this session, then you will still not be safe.
+- c: 1
+  r: 1
+  v: drive home
+  x:
+  - s: Låt mig bara påminna er om att en marknad inte bara består av produktleverantörer
+      utan också av dem som efterfrågar dem. Vi hjälper själva till att skapa efterfrågan
+      också, och när vi snart <v>körs</v> <p>hem</p> av biltjänsten kommer vi att
+      åka i bilar som inte uppfyller de krav som biltillverkarna åtog sig att uppfylla.
+    t: We ourselves help to create demand too, and shortly, when we are <a>driven</a>
+      <a>home</a> by the car service, we shall be using those very cars that do not
+      meet the targets to which the car makers committed themselves.
+es:
+- c: 1
+  r: 1
+  v: casa
+  x:
+  - s: Låt mig bara påminna er om att en marknad inte bara består av produktleverantörer
+      utan också av dem som efterfrågar dem. Vi hjälper själva till att skapa efterfrågan
+      också, och när vi snart <v>körs</v> <p>hem</p> av biltjänsten kommer vi att
+      åka i bilar som inte uppfyller de krav som biltillverkarna åtog sig att uppfylla.
+    t: Nosotros también contribuimos a crear demanda, y pronto, cuando volvemos a
+      <a>casa</a> con el coche oficial, utilizaremos esos mismos automóviles que no
+      cumplen los objetivos a los que se comprometieron los fabricantes.
+fr:
+- c: 1
+  r: 1
+  v: domicile
+  x:
+  - s: När ni efter sammanträdet, som jag hoppas vid god hälsa, <v>kör</v> <p>hem</p>
+      med bilen så är ni fortfarande inte säker.
+    t: Monsieur le Président, si comme moi, vous espérez, après cette séance, regagner
+      sain et sauf votre <a>domicile</a> en voiture, mais vous ne serez pas en sécurité
+      pour autant.
+it:
+- c: 1
+  r: 1
+  v: casa
+  x:
+  - s: Låt mig bara påminna er om att en marknad inte bara består av produktleverantörer
+      utan också av dem som efterfrågar dem. Vi hjälper själva till att skapa efterfrågan
+      också, och när vi snart <v>körs</v> <p>hem</p> av biltjänsten kommer vi att
+      åka i bilar som inte uppfyller de krav som biltillverkarna åtog sig att uppfylla.
+    t: Noi stessi continuiamo a creare la domanda e, in breve, quando saremo riportati
+      a <a>casa</a> dal servizio autisti, useremo quelle stese automobili che non
+      soddisfano gli obiettivi ai quali si sono impegnati i costruttori.
+- c: 1
+  r: 1
+  v: tornare casa
+  x:
+  - s: När ni efter sammanträdet, som jag hoppas vid god hälsa, <v>kör</v> <p>hem</p>
+      med bilen så är ni fortfarande inte säker.
+    t: Signor Presidente, se, come spero, alla fine della riunione lei <a>tornerà</a>
+      a <a>casa</a> in auto in buona salute, ciò non significa che lei sia comunque
+      fuori pericolo.
+pt:
+- c: 1
+  r: 1
+  v: regressar casa
+  x:
+  - s: När ni efter sammanträdet, som jag hoppas vid god hälsa, <v>kör</v> <p>hem</p>
+      med bilen så är ni fortfarande inte säker.
+    t: Senhor Presidente, se, tal como espero, imediatamente após a sessão - e de
+      boa saúde - o Senhor Presidente <a>regressar</a> a <a>casa</a> no seu automóvel,
+      nem mesmo aí estará em segurança, pois irá partilhar a estrada com outros veículos
+      e, sobretudo, também com outros utentes da via, nomeadamente camionistas.
+- c: 1
+  r: 1
+  v: conduzir casa
+  x:
+  - s: Låt mig bara påminna er om att en marknad inte bara består av produktleverantörer
+      utan också av dem som efterfrågar dem. Vi hjälper själva till att skapa efterfrågan
+      också, och när vi snart <v>körs</v> <p>hem</p> av biltjänsten kommer vi att
+      åka i bilar som inte uppfyller de krav som biltillverkarna åtog sig att uppfylla.
+    t: Também nós contribuímos para criar a procura e, a esse título, diria apenas
+      que, quando somos <a>conduzidos</a> a <a>casa</a> pelas viaturas de serviço
+      do Parlamento, estamos a usar precisamente os automóveis que não cumprem os
+      objectivos a que se comprometeram os construtores.

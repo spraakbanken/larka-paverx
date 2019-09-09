@@ -1,0 +1,209 @@
+---
+de:
+- c: 1
+  r: 1
+  v: wiederwählen
+  x:
+  - s: Han kan sedan <v>väljas</v> <p>om</p> för en ny mandatperiod på sex år.
+    t: Nach seiner Ernennung wird H.G. Wessberg bis zum Ende des schwedischen Mandats,
+      also bis März 2012, im Amt sein und könnte dann für eine weitere Amtszeit von
+      sechs Jahren <a>wiedergewählt</a> werden.
+- c: 1
+  r: 1
+  v: werden
+  x:
+  - s: Därför är det ingen större överraskning att till exempel Nursultan Nazarbajev
+      nyligen <v>valdes</v> <p>om</p> i Kazakstan med fler än 95 procent av rösterna.
+    t: Demzufolge wird uns zum Beispiel nicht überraschen, dass Nursultan Nasarbajew
+      in Kasachstan kürzlich mit über 95 % der Stimmen wiedergewählt <a>wurde</a>.
+- c: 1
+  r: 1
+  v: wiederwählen werden
+  x:
+  - s: För det första är det inte lätt för någon ledamot av detta parlament som har
+      valts på en nationell lista, och som också vill <v>väljas</v> <p>om</p>, att
+      instämma i kritik mot sitt eget land.
+    t: Zum Ersten ist es für kein Mitglied dieses Parlaments, das über eine Landesliste
+      gewählt wurde, aber auch <a>wiedergewählt</a> <a>werden</a> will, einfach, sich
+      Kritik am eigenen Land anzuschließen.
+en:
+- c: 1
+  r: 1
+  v: be re-elect
+  x:
+  - s: För det första är det inte lätt för någon ledamot av detta parlament som har
+      valts på en nationell lista, och som också vill <v>väljas</v> <p>om</p>, att
+      instämma i kritik mot sitt eget land.
+    t: Firstly, it is not easy for any Member of this Parliament who has been elected
+      on a national list, but who wants to <a>be</a> <a>re-elected</a>, to agree with
+      criticism about his or her own country.
+- c: 1
+  r: 1
+  v: be
+  x:
+  - s: Därför är det ingen större överraskning att till exempel Nursultan Nazarbajev
+      nyligen <v>valdes</v> <p>om</p> i Kazakstan med fler än 95 procent av rösterna.
+    t: As a result, it will come as no surprise to us, for instance, that Nursultan
+      Nazarbayev <a>was</a> recently re-elected in Kazakhstan with more than 95% of
+      the votes.
+- c: 1
+  r: 1
+  v: re-election
+  x:
+  - s: Rådet känner även till Sri Lankas misslyckade försök att <v>väljas</v> <p>om</p>
+      till FN:s råd för mänskliga rättigheter, ett tydligt avvisande av FN:s medlemmar
+      av ett land som många anser har missbrukat sin ställning i rådet, inte för att
+      främja de mänskliga rättigheterna, utan för att skydda sig självt från internationell
+      granskning baserat på utbredda och dokumenterade bevis på brott mot de mänskliga
+      rättigheterna som har begåtts inte bara av LTTE utan också enligt påståenden
+      av regeringens egna säkerhetsstyrkor.
+    t: The Council will also be aware of Sri Lanka’s failed <a>re-election</a> bid
+      to the UN Human Rights Council, a clear rejection by UN Members of a country
+      which many consider to have abused its position on the Council, not to promote
+      human rights, but rather to protect itself from international scrutiny based
+      on widespread and documented evidence of human rights abuses perpetrated not
+      only by the LTTE but also allegedly by the Government’s own security forces.
+es:
+- c: 2
+  r: 1
+  v: ser reelegir
+  x:
+  - s: För det första är det inte lätt för någon ledamot av detta parlament som har
+      valts på en nationell lista, och som också vill <v>väljas</v> <p>om</p>, att
+      instämma i kritik mot sitt eget land.
+    t: En primer lugar, a ningún europarlamentario de esta Cámara que haya sido elegido
+      por una lista nacional y que desea <a>ser</a> <a>reelegido</a>, le resultará
+      fácil estar de acuerdo con las críticas realizadas contra su propio país.
+  - s: Han kan sedan <v>väljas</v> <p>om</p> för en ny mandatperiod på sex år.
+    t: Una vez nombrado, H.G. Wessberg desempeñará su cargo hasta el final del mandato
+      sueco, es decir, hasta marzo de 2012 y entonces podría <a>ser</a> <a>reelegido</a>
+      por otro mandato de seis años.
+- c: 1
+  r: 2
+  v: ser
+  x:
+  - s: Därför är det ingen större överraskning att till exempel Nursultan Nazarbajev
+      nyligen <v>valdes</v> <p>om</p> i Kazakstan med fler än 95 procent av rösterna.
+    t: Teniendo en cuenta esta afirmación, no nos sorprenderá, por ejemplo, que Nursultán
+      Nazarbáyev haya <a>sido</a> reelegido recientemente en Kazajstán por más del
+      95 % de los votos.
+fr:
+- c: 1
+  r: 1
+  v: être réélire
+  x:
+  - s: Han kan sedan <v>väljas</v> <p>om</p> för en ny mandatperiod på sex år.
+    t: Une fois nommé, H.G. Wessberg officiera jusqu’à la fin du mandat suédois, à
+      savoir jusqu’en mars 2012, et il pourra ensuite <a>être</a> <a>réélu</a> pour
+      un autre mandat de six ans.
+- c: 1
+  r: 1
+  v: réélection
+  x:
+  - s: Rådet känner även till Sri Lankas misslyckade försök att <v>väljas</v> <p>om</p>
+      till FN:s råd för mänskliga rättigheter, ett tydligt avvisande av FN:s medlemmar
+      av ett land som många anser har missbrukat sin ställning i rådet, inte för att
+      främja de mänskliga rättigheterna, utan för att skydda sig självt från internationell
+      granskning baserat på utbredda och dokumenterade bevis på brott mot de mänskliga
+      rättigheterna som har begåtts inte bara av LTTE utan också enligt påståenden
+      av regeringens egna säkerhetsstyrkor.
+    t: Le Conseil n’ignore pas non plus que la <a>réélection</a> du Sri Lanka au Conseil
+      des droits de l’homme des Nations unies a échoué, les membres des Nations unies
+      ayant ainsi clairement rejeté un pays qui, bien souvent, est jugé avoir abusé
+      de la place qu’il occupait au Conseil non pour promouvoir les droits de l’homme,
+      mais plutôt pour se protéger lui-même d’un contrôle international basé sur des
+      preuves nombreuses et bien étayées de violations des droits de l’homme commises
+      non seulement par les LTTE mais, semble-t-il également, par les propres forces
+      de sécurité du gouvernement.
+- c: 1
+  r: 1
+  v: reconduire
+  x:
+  - s: Det är naturligtvis rådet som utser domarna, men även vad viktigare är, <v>väljer</v>
+      <p>om</p> domarna.
+    t: Évidemment, c’est le Conseil qui nomme les juges et qui, surtout, <a>reconduit</a>
+      leurs mandats.
+- c: 1
+  r: 1
+  v: être être réélire
+  x:
+  - s: Därför är det ingen större överraskning att till exempel Nursultan Nazarbajev
+      nyligen <v>valdes</v> <p>om</p> i Kazakstan med fler än 95 procent av rösterna.
+    t: Il s’ensuit que, pour nous, il n’est pas surprenant par exemple que Nursultan
+      Nazarbayev ait <a>été</a> récemment <a>été</a> <a>réélu</a> au Kazakhstan avec
+      plus de 95 % des voix.
+it:
+- c: 3
+  r: 1
+  v: essere rieleggere
+  x:
+  - s: Därför är det ingen större överraskning att till exempel Nursultan Nazarbajev
+      nyligen <v>valdes</v> <p>om</p> i Kazakstan med fler än 95 procent av rösterna.
+    t: Non è stata una sorpresa, quindi che Nursultan Nazarbayer recentemente sia
+      <a>stato</a> <a>rieletto</a> in Kazakhstan con oltre il 95 per cento dei suffragi.
+  - s: För det första är det inte lätt för någon ledamot av detta parlament som har
+      valts på en nationell lista, och som också vill <v>väljas</v> <p>om</p>, att
+      instämma i kritik mot sitt eget land.
+    t: In primo luogo non è facile per un deputato, che è stato eletto su base nazionale
+      e che vuole <a>essere</a> <a>rieletto</a>, sottoscrivere le critiche mosse al
+      proprio paese.
+  - s: Han kan sedan <v>väljas</v> <p>om</p> för en ny mandatperiod på sex år.
+    t: Dopo la nomina, Hans Gustaf Wessberg presterà servizio fino alla fine del mandato
+      della Svezia, ovvero fino a marzo 2012, e potrà <a>essere</a> successivamente
+      <a>rieletto</a> per un altro mandato di sei anni.
+pt:
+- c: 2
+  r: 1
+  v: ser reeleito
+  x:
+  - s: Därför är det ingen större överraskning att till exempel Nursultan Nazarbajev
+      nyligen <v>valdes</v> <p>om</p> i Kazakstan med fler än 95 procent av rösterna.
+    t: Assim, não nos surpreenderá que, por exemplo, Nursultan Nazarbayev tenha recentemente
+      <a>sido</a> <a>reeleito</a> no Cazaquistão, com mais de 95% dos votos.
+  - s: För det första är det inte lätt för någon ledamot av detta parlament som har
+      valts på en nationell lista, och som också vill <v>väljas</v> <p>om</p>, att
+      instämma i kritik mot sitt eget land.
+    t: Em primeiro lugar, para nenhum dos deputados deste Parlamento que tenha sido
+      eleito numa lista nacional, e que deseje <a>ser</a> <a>reeleito</a>, é fácil
+      concordar com críticas dirigidas ao seu próprio país.
+  - s: Han kan sedan <v>väljas</v> <p>om</p> för en ny mandatperiod på sex år.
+    t: Uma vez nomeado, Hans Gustaf Wessberg exercerá o seu cargo até ao final do
+      mandato da Suécia, ou seja, até Março de 2012, e poderá então <a>ser</a> <a>reeleito</a>
+      para um outro mandato de seis anos.
+- c: 1
+  r: 2
+  v: ser reeleito
+  x:
+  - s: Därför är det ingen större överraskning att till exempel Nursultan Nazarbajev
+      nyligen <v>valdes</v> <p>om</p> i Kazakstan med fler än 95 procent av rösterna.
+    t: Assim, não nos surpreenderá que, por exemplo, Nursultan Nazarbayev tenha recentemente
+      <a>sido</a> <a>reeleito</a> no Cazaquistão, com mais de 95% dos votos.
+  - s: För det första är det inte lätt för någon ledamot av detta parlament som har
+      valts på en nationell lista, och som också vill <v>väljas</v> <p>om</p>, att
+      instämma i kritik mot sitt eget land.
+    t: Em primeiro lugar, para nenhum dos deputados deste Parlamento que tenha sido
+      eleito numa lista nacional, e que deseje <a>ser</a> <a>reeleito</a>, é fácil
+      concordar com críticas dirigidas ao seu próprio país.
+  - s: Han kan sedan <v>väljas</v> <p>om</p> för en ny mandatperiod på sex år.
+    t: Uma vez nomeado, Hans Gustaf Wessberg exercerá o seu cargo até ao final do
+      mandato da Suécia, ou seja, até Março de 2012, e poderá então <a>ser</a> <a>reeleito</a>
+      para um outro mandato de seis anos.
+- c: 1
+  r: 2
+  v: reeleição
+  x:
+  - s: Rådet känner även till Sri Lankas misslyckade försök att <v>väljas</v> <p>om</p>
+      till FN:s råd för mänskliga rättigheter, ett tydligt avvisande av FN:s medlemmar
+      av ett land som många anser har missbrukat sin ställning i rådet, inte för att
+      främja de mänskliga rättigheterna, utan för att skydda sig självt från internationell
+      granskning baserat på utbredda och dokumenterade bevis på brott mot de mänskliga
+      rättigheterna som har begåtts inte bara av LTTE utan också enligt påståenden
+      av regeringens egna säkerhetsstyrkor.
+    t: O Conselho tem igualmente conhecimento de que a candidatura do Sri Lanka à
+      <a>reeleição</a> para integrar o Conselho dos Direitos Humanos das Nações Unidas
+      foi rejeitada, o que mostra a clara rejeição pelos membros das Nações Unidas
+      de um país que muitos consideram ter abusado da sua posição no Conselho, não
+      para promover os direitos humanos, mas antes para se proteger a si próprio do
+      controlo internacional assente em abundantes provas documentadas de violações
+      dos direitos humanos cometidas não apenas pelos LTTE, mas também alegadamente
+      pelas próprias forças de segurança governamentais.

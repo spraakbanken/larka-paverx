@@ -1,0 +1,809 @@
+---
+de:
+- c: 3
+  r: 1
+  v: rufen
+  x:
+  - s: She says goodbye to her friend and <v>calls</v> <p>out</p> ’See you tomorrow’.
+    t: 'Sie verabschiedet sich von ihrem Freund und <a>ruft</a>:'
+  - s: A check is made that the Member is in fact in the Chamber at the beginning
+      of the explanations of vote and I therefore only <v>call</v> <p>out</p> the
+      oral explanations.
+    t: Es wird überprüft, ob der Kollege zu Beginn der Erklärungen zur Abstimmung
+      wirklich anwesend ist, und ich <a>rufe</a> dann nur noch die mündlichen Stimmerklärungen
+      auf.
+  - s: When President Pöttering was in the chair, Martin Schulz, the Socialist Group
+      chairman, <v>called</v> <p>out</p> so loudly and clearly to me from the front
+      row that he could be understood up here.
+    t: 'Unter dem Vorsitz des Präsidenten Pöttering hat der Vorsitzende der Sozialdemokratischen
+      Fraktion, Martin Schulz, von der ersten Reihe aus ganz laut und so deutlich
+      zu mir <a>gerufen</a>, dass man es auch hier hinten verstehen konnte:'
+- c: 2
+  r: 2
+  v: aufrufen
+  x:
+  - s: Mr President, the largest demonstration in Lisbon in the last 20 years took
+      place on 18 October last, when more than 200 000 people <v>called</v> <p>out</p>
+      by the General Confederation of Portuguese Workers condemned the European Union’s
+      neoliberal policies, said ’no’ to flexicurity, protested against unemployment,
+      social exclusion and the poverty in which over 20% of the Portuguese people
+      live, and demanded a social Europe.
+    t: Am 18. Oktober fand die größte Demonstration der letzten 20 Jahre in Portugal
+      statt, als 200.000 Menschen, die durch den Allgemeinen Verband portugiesischer
+      Arbeitnehmer <a>aufgerufen</a> worden waren, die neoliberalen Strategien der
+      Europäischen Union verurteilten.
+  - s: These are the names I will <v>call</v> <p>out</p>.
+    t: Ich werde die folgenden Namen <a>aufrufen</a>.
+- c: 2
+  r: 2
+  v: fordern
+  x:
+  - s: Mr President, Commissioner, if we are dealing with a positive report, it is
+      <v>calling</v> <p>out</p> to us.
+    t: Herr Präsident, Frau Kommissarin, ein positiver Bericht <a>fordert</a> uns
+      stets zu etwas auf.
+  - s: I know that the Commission and the Council have already earmarked a great deal
+      of money to support the elections, but I am amazed that, although Parliament
+      has been <v>calling</v> year in year <p>out</p> for democracy in Indonesia and
+      the opposition groups there are now asking for Parliament to send observers,
+      the Bureau has decided against doing so.
+    t: Obwohl dieses Parlament jahraus, jahrein Demokratie in Indonesien <a>fordert</a>
+      und die Oppositionsgruppen jetzt um die Entsendung von Wahlbeobachtern des Europäischen
+      Parlaments ersuchen, erstaunt mich jedoch, daß das Präsidium dieses Parlaments
+      beschlossen hat, keine Beobachter zu entsenden.
+- c: 1
+  r: 3
+  v: raus rufen
+  x:
+  - s: Mr President, like many others in my generation, when I walked through the
+      streets in my home town 25, 30, 35 years ago and <v>called</v> <p>out</p>, ‘USA
+      out of Vietnam!’, I would never have thought that a quarter of a century later
+      I would be forced to stand here in this House and criticise Free Vietnam partly
+      for the same type of violation of human rights that we criticised the USA for
+      then.
+    t: Als ich, wie viele andere aus meiner Generation, vor 25, 30, 35 Jahren in meiner
+      Heimatstadt auf die Straße ging und „USA, <a>raus</a> aus Vietnam!“ <a>rief</a>,
+      habe ich mir nicht vorstellen können, dass ich ein viertel Jahrhundert später
+      vor dieser Versammlung stehen und gezwungen sein würde, das freie Vietnam für
+      teilweise dieselben Menschenrechtsverletzungen zu kritisieren, die wir damals
+      den USA vorwarfen.
+- c: 1
+  r: 3
+  v: zurufen
+  x:
+  - s: Mr President, this is the Commission’s big moment that is what I would like
+      to <v>call</v> <p>out</p> to you.
+    t: Dies ist die Stunde der Kommission, möchte ich Ihnen <a>zurufen</a>.
+- c: 1
+  r: 3
+  v: bitten
+  x:
+  - s: Last February, I received 60 Copts here and they <v>called</v> <p>out</p> for
+      help.
+    t: Im vergangenen Februar empfing ich 60 koptische Christen hier, und sie <a>baten</a>
+      um Unterstützung.
+- c: 1
+  r: 3
+  v: brauchen
+  x:
+  - s: The whole of Africa is <v>calling</v> <p>out</p> to us.
+    t: Ganz Afrika <a>braucht</a> unsere Hilfe.
+- c: 1
+  r: 3
+  v: appellieren
+  x:
+  - s: In this resolution Parliament is <v>calling</v> <p>out</p> to the European
+      Union, demanding an international independent enquiry into the events and the
+      identification of the dead, missing and prisoners, demanding unrestricted access
+      to the international press, humanitarian organisations and observers, demanding
+      that the UN monitor human rights in Western Sahara and demanding the immediate
+      release of all Sahrawis detained in Morocco or in the occupied territory of
+      Western Sahara.
+    t: In dieser Entschließung <a>appelliert</a> das Parlament an die Europäische
+      Union und fordert eine unabhängige internationale Untersuchung der Vorfälle
+      sowie die Identifizierung der Toten, Vermissten und Gefangenen, den uneingeschränkten
+      Zugang für die internationale Presse, für humanitäre Organisationen und Beobachter,
+      die Überwachung der Achtung der Menschenrechte in der Westsahara durch die Vereinten
+      Nationen und die sofortige Freilassung der Saharauis, die in Marokko oder in
+      dem besetzten Gebiet der Westsahara festgehalten werden.
+- c: 1
+  r: 3
+  v: aufrufen werden
+  x:
+  - s: It was the first time I have heard the names being <v>called</v> <p>out</p>
+      in advance, when the number of speakers was limited, so that other Members who
+      would not be able to speak could go about their business.
+    t: Ich habe zum ersten Mal gehört, dass die Namen im Voraus <a>aufgerufen</a>
+      <a>wurden</a>, wenn die Zahl der Redner begrenzt war, sodass andere Abgeordnete,
+      die nicht das Wort ergreifen konnten, weiter ihrer Arbeit nachgehen konnten.
+es:
+- c: 2
+  r: 1
+  v: pedir
+  x:
+  - s: Last February, I received 60 Copts here and they <v>called</v> <p>out</p> for
+      help.
+    t: El pasado febrero, recibí a 60 coptos aquí y <a>pidieron</a> ayuda.
+  - s: 'Therefore, Mr President, I would like to <v>call</v> <p>out</p> to the Commission:'
+    t: Por ello, señor Presidente, <a>pedimos</a> a la Comisión que se muestre firme
+      en el transcurso de las negociaciones, señor Bolkestein.
+- c: 1
+  r: 2
+  v: decir
+  x:
+  - s: She says goodbye to her friend and <v>calls</v> <p>out</p> ’See you tomorrow’.
+    t: Se despide de su amiga y <a>dice</a> «mañana nos vemos».
+- c: 1
+  r: 2
+  v: hacer llamada
+  x:
+  - s: The whole of Africa is <v>calling</v> <p>out</p> to us.
+    t: África, en conjunto, nos <a>hace</a> una <a>llamada</a>.
+- c: 1
+  r: 2
+  v: hacer saber
+  x:
+  - s: Mr President, Mr President-in-Office of the Council, ladies and gentlemen,
+      let me just <v>call</v> <p>out</p> after Mr Brok, who is already fleeing to
+      the group meeting room, that the SPD also differs from the PPE and its German
+      members in that our party does not have a short memory.
+    t: Señor Presidente, señor Presidente del Consejo, estimados colegas, aún quisiera
+      <a>hacer</a> <a>saber</a> al colega Brok, que ya se ha dado a la fuga en dirección
+      a la sala de su Grupo, que el SPD también se diferencia del Grupo del Partido
+      Popular Europeo y de sus miembros en que nosotros no somos el partido que enseguida
+      olvida las cosas.
+- c: 1
+  r: 2
+  v: intervenir
+  x:
+  - s: It seems that in this House there is a claque supporting Mr Schulz in the public
+      gallery, although in this House, as in all parliaments, members of the public
+      are forbidden to applaud or <v>call</v> <p>out</p> in support of one argument
+      or another.
+    t: Me parece que en este Pleno, en la tribuna reservada al público, se ha organizado
+      una claque para apoyar al Sr. Schulz, aunque en este Parlamento, como en todos
+      los Parlamentos, está prohibido que el público aplauda e <a>intervenga</a> para
+      apoyar esta o aquella tesis.
+- c: 1
+  r: 2
+  v: llamada
+  x:
+  - s: I left the Chamber temporarily because I was <v>called</v> <p>out</p> urgently
+      and I had left my bag here;
+    t: Salí del hemiciclo por unos instantes, ya que fui <a>llamada</a> urgentemente,
+      y dejé aquí mi bolso por lo que estaba ausente en el momento en que sonó el
+      teléfono.
+- c: 1
+  r: 2
+  v: voz
+  x:
+  - s: When President Pöttering was in the chair, Martin Schulz, the Socialist Group
+      chairman, <v>called</v> <p>out</p> so loudly and clearly to me from the front
+      row that he could be understood up here.
+    t: Mientras presidía el señor Pöttering, el Presidente del Grupo Socialista, Martin
+      Schulz, me ha interpelado desde la primera fila en <a>voz</a> tan alta y clara
+      que le he podido entender perfectamente desde aquí.
+- c: 1
+  r: 2
+  v: cabo
+  x:
+  - s: A large group of young Italians with Lega Nord flags are <v>calling</v> <p>out</p>
+      insults to the effect that the Italian flag should be burnt and shouting ‘Down
+      with the Italians!’.
+    t: Ahora mismo en el patio de nuestro Parlamento se está llevando a <a>cabo</a>
+      una indigna manifestación de un numeroso grupo de jóvenes italianos con banderas
+      de la Lega Nord que está profiriendo consignas que dicen que hay que quemar
+      la bandera italiana, que dicen que «quien no salta es italiano» y que, entre
+      otras cosas, está profiriendo consignas irrepetibles contra el Presidente de
+      nuestra Comisión Europea.
+- c: 1
+  r: 2
+  v: abandonar
+  x:
+  - s: Madam President, I should like first to apologise to the Commissioner for having
+      been <v>called</v> <p>out</p> of the Chamber while he was speaking.
+    t: Señora Presidenta, en primer lugar quiero pedir disculpas al Sr. Comisario
+      por haber tenido que <a>abandonar</a> la Cámara durante su discurso.
+- c: 1
+  r: 2
+  v: insistir
+  x:
+  - s: I know that the Commission and the Council have already earmarked a great deal
+      of money to support the elections, but I am amazed that, although Parliament
+      has been <v>calling</v> year in year <p>out</p> for democracy in Indonesia and
+      the opposition groups there are now asking for Parliament to send observers,
+      the Bureau has decided against doing so.
+    t: Sin embargo, me asombra que, aunque el Parlamento <a>insiste</a> año tras año
+      en la cuestión de la democracia en Indonesia y los grupos de la oposición solicitan
+      ahora que se envíen observadores del Parlamento, la Mesa del Parlamento haya
+      decidido no enviar observadores.
+- c: 1
+  r: 2
+  v: convocar
+  x:
+  - s: Mr President, the largest demonstration in Lisbon in the last 20 years took
+      place on 18 October last, when more than 200 000 people <v>called</v> <p>out</p>
+      by the General Confederation of Portuguese Workers condemned the European Union’s
+      neoliberal policies, said ’no’ to flexicurity, protested against unemployment,
+      social exclusion and the poverty in which over 20% of the Portuguese people
+      live, and demanded a social Europe.
+    t: más de 200 000 personas <a>convocadas</a> por la Confederación General de los
+      Trabajadores Portugueses expresaron de esta forma su indignación con las políticas
+      neoliberales de la Unión Europea, dijeron «no» a la flexiguridad, protestaron
+      contra el desempleo, la exclusión social y la pobreza en que viven más del 20
+      % de los portugueses y exigieron una Europa social.
+fr:
+- c: 2
+  r: 1
+  v: crier
+  x:
+  - s: Mr President, this is the Commission’s big moment that is what I would like
+      to <v>call</v> <p>out</p> to you.
+    t: Monsieur le Président, je voudrais vous <a>crier</a> que c’est l’heure de la
+      Commission.
+  - s: I moved on to B and at that moment Mr Ferber and other Members <v>called</v>
+      <p>out</p> to me that there was some confusion and requested an electronic check.
+    t: Ensuite, nous sommes passé au vote sur le considérant B et, à ce moment, M.
+      Ferber et d’autres collègues m’ont <a>crié</a> qu’il y avait confusion et ont
+      demandé un vote électronique de contrôle.
+- c: 2
+  r: 1
+  v: appel
+  x:
+  - s: Mr President, the largest demonstration in Lisbon in the last 20 years took
+      place on 18 October last, when more than 200 000 people <v>called</v> <p>out</p>
+      by the General Confederation of Portuguese Workers condemned the European Union’s
+      neoliberal policies, said ’no’ to flexicurity, protested against unemployment,
+      social exclusion and the poverty in which over 20% of the Portuguese people
+      live, and demanded a social Europe.
+    t: Monsieur le Président, la plus grande manifestation de ces 20 dernières années
+      à Lisbonne a eu lieu le 18 octobre dernier, lorsque plus de 200 000 personnes
+      ayant répondu à l’<a>appel</a> de la Confédération générale des travailleurs
+      portugais ont condamné les politiques néolibérales de l’Union européenne, ont
+      dit «non» à la flexicurité, ont protesté contre le chômage, l’exclusion sociale
+      et la pauvreté dans laquelle vivent plus de 20 % des portugais.
+  - s: It therefore strikes me that Parliament is missing an opportunity by not explicitly
+      recognising the need for what is termed an open platform structure, which would,
+      among other things, enable every car driver to <v>call</v> <p>out</p> the breakdown
+      services using eCall technology.
+    t: Nous ne pouvons pas non plus négliger l’incitant naturel que les compagnies
+      d’assurance peuvent fournir à travers des primes d’assurance inférieures proposées
+      aux automobilistes qui installent ce système intelligent d’<a>appel</a> d’urgence
+      dans leur véhicule.
+- c: 2
+  r: 1
+  v: appeler
+  x:
+  - s: The whole of Africa is <v>calling</v> <p>out</p> to us.
+    t: C’est toute l’Afrique qui nous <a>appelle</a>.
+  - s: These are the names I will <v>call</v> <p>out</p>.
+    t: Voici les noms que je vais <a>appeler</a>.
+- c: 1
+  r: 2
+  v: donner
+  x:
+  - s: Madam President, could you at least put the results on the screens in front
+      of us if you are not going to <v>call</v> them <p>out</p>?
+    t: Madame la Présidente, pourriez-vous au moins afficher les résultats sur les
+      écrans face à nous si vous n’entendez pas les <a>donner</a> ?
+- c: 1
+  r: 2
+  v: demander
+  x:
+  - s: In this resolution Parliament is <v>calling</v> <p>out</p> to the European
+      Union, demanding an international independent enquiry into the events and the
+      identification of the dead, missing and prisoners, demanding unrestricted access
+      to the international press, humanitarian organisations and observers, demanding
+      that the UN monitor human rights in Western Sahara and demanding the immediate
+      release of all Sahrawis detained in Morocco or in the occupied territory of
+      Western Sahara.
+    t: il <a>demande</a> une enquête internationale indépendante concernant les événements
+      ainsi que l’identification des morts, des disparus et des prisonniers, il demande
+      un accès sans restriction pour la presse internationale, les organisations humanitaires
+      et les observateurs, il demande que l’ONU surveillent le respect des droits
+      de l’homme au Sahara occidental et la libération immédiate de tous les Sahraouis
+      détenus au Maroc ou dans le territoire occupé du Sahara occidental.
+- c: 1
+  r: 2
+  v: appeler dehors
+  x:
+  - s: I left the Chamber temporarily because I was <v>called</v> <p>out</p> urgently
+      and I had left my bag here;
+    t: J’étais momentanément sortie de l’hémicycle parce que j’avais été <a>appelée</a>
+      <a>dehors</a> d’urgence et j’avais laissé ici mon sac ;
+- c: 1
+  r: 2
+  v: insister
+  x:
+  - s: I know that the Commission and the Council have already earmarked a great deal
+      of money to support the elections, but I am amazed that, although Parliament
+      has been <v>calling</v> year in year <p>out</p> for democracy in Indonesia and
+      the opposition groups there are now asking for Parliament to send observers,
+      the Bureau has decided against doing so.
+    t: Mais je suis abasourdie d’apprendre, alors que ce Parlement <a>insiste</a>
+      depuis des années pour que la démocratie s’instaure en Indonésie et que les
+      groupes d’opposition demandent l’envoi d’observateurs du Parlement, que le Bureau
+      de ce Parlement a décidé de ne pas envoyer d’observateurs.
+- c: 1
+  r: 2
+  v: interpeller
+  x:
+  - s: When President Pöttering was in the chair, Martin Schulz, the Socialist Group
+      chairman, <v>called</v> <p>out</p> so loudly and clearly to me from the front
+      row that he could be understood up here.
+    t: Pendant que le président Pöttering assumait sa charge, Martin Schulz, le président
+      du Groupe socialiste, installé au premier rang, m’a <a>interpellé</a> si fort
+      qu’on a pu l’entendre jusqu’ici en haut.
+- c: 1
+  r: 2
+  v: lancer
+  x:
+  - s: She says goodbye to her friend and <v>calls</v> <p>out</p> ’See you tomorrow’.
+    t: Elle dit au revoir à son ami et lui <a>lance</a> «À demain !».
+- c: 1
+  r: 2
+  v: lancer appel
+  x:
+  - s: 'Therefore, Mr President, I would like to <v>call</v> <p>out</p> to the Commission:'
+    t: 'C’est pourquoi je tiens, Monsieur le Président, à <a>lancer</a> cet <a>appel</a>
+      à la Commission :'
+- c: 1
+  r: 2
+  v: rappeler
+  x:
+  - s: Mr President, Mr President-in-Office of the Council, ladies and gentlemen,
+      let me just <v>call</v> <p>out</p> after Mr Brok, who is already fleeing to
+      the group meeting room, that the SPD also differs from the PPE and its German
+      members in that our party does not have a short memory.
+    t: Monsieur le Président, Monsieur le Président du Conseil, chers collègues, je
+      voudrais <a>rappeler</a> brièvement à M. Brok, qui a déjà fui vers la réunion
+      de son groupe que le SPD se différencie du PPE et de ses membres allemands par
+      le fait qu’il n’est pas le parti de la mémoire courte.
+- c: 1
+  r: 2
+  v: suggérer
+  x:
+  - s: Perhaps, as someone in my Group has already <v>called</v> <p>out</p>, you would
+      have been a sparkling presence in the newly set up Convention.
+    t: C’est vrai, comme certaines interventions spontanées dans mon groupe et d’autres
+      le <a>suggéraient</a>, vous auriez été un visage idéal dans cette Convention
+      sur l’avenir de l’Europe.
+it:
+- c: 2
+  r: 1
+  v: alto voce
+  x:
+  - s: I would like to ask our friends in the galleries not to <v>call</v> <p>out</p>
+      during the debates.
+    t: Vorrei chiedere a coloro che si trovano in tribuna di non commentare ad <a>alta</a>
+      <a>voce</a> durante le discussioni.
+  - s: Madam President, could you at least put the results on the screens in front
+      of us if you are not going to <v>call</v> them <p>out</p>?
+    t: Signora Presidente, potrebbe almeno esporre i risultati sugli schermi che si
+      trovano davanti a noi se non li ripeterà ad <a>alta</a> <a>voce</a>?
+- c: 1
+  r: 2
+  v: via
+  x:
+  - s: Mr President, like many others in my generation, when I walked through the
+      streets in my home town 25, 30, 35 years ago and <v>called</v> <p>out</p>, ‘USA
+      out of Vietnam!’, I would never have thought that a quarter of a century later
+      I would be forced to stand here in this House and criticise Free Vietnam partly
+      for the same type of violation of human rights that we criticised the USA for
+      then.
+    t: Signor Presidente, quando io, come molti altri miei coetanei, marciavo 25,
+      30, 35 anni orsono per le strade della mia città scandendo «<a>Via</a> l’America
+      dal Vietnam», mai avrei immaginato che a distanza di un quarto di secolo sarei
+      stato costretto a criticare in questa Assemblea il libero Vietnam per pressappoco
+      le stesse violazioni dei diritti dell’uomo per le quali, a quel tempo, criticavamo
+      gli Stati Uniti.
+- c: 1
+  r: 2
+  v: rivolgere appello
+  x:
+  - s: The whole of Africa is <v>calling</v> <p>out</p> to us.
+    t: L’Africa intera ci sta <a>rivolgendo</a> un <a>appello</a>.
+- c: 1
+  r: 2
+  v: chiamare fuori
+  x:
+  - s: I left the Chamber temporarily because I was <v>called</v> <p>out</p> urgently
+      and I had left my bag here;
+    t: Ero uscita dall’Aula momentaneamente perché <a>chiamata</a> <a>fuori</a> d’urgenza
+      e avevo lasciato qui la borsa;
+- c: 1
+  r: 2
+  v: chiedere gran voce
+  x:
+  - s: In this resolution Parliament is <v>calling</v> <p>out</p> to the European
+      Union, demanding an international independent enquiry into the events and the
+      identification of the dead, missing and prisoners, demanding unrestricted access
+      to the international press, humanitarian organisations and observers, demanding
+      that the UN monitor human rights in Western Sahara and demanding the immediate
+      release of all Sahrawis detained in Morocco or in the occupied territory of
+      Western Sahara.
+    t: In questa risoluzione il Parlamento <a>chiede</a> a <a>gran</a> <a>voce</a>
+      all’Unione europea di sollecitare l’avvio di un’indagine internazionale indipendente
+      su quanto accaduto e l’identificazione dei morti, dei dispersi e dei detenuti,
+      domanda un accesso illimitato per la stampa internazionale, le organizzazioni
+      e gli osservatori umanitari, chiede che l’ONU vigili sul rispetto dei diritti
+      umani nel Sahara occidentale e sollecita l’immediato rilascio di tutti i saharawi
+      detenuti in Marocco o nel territorio occupato del Sahara occidentale.
+- c: 1
+  r: 2
+  v: comunicare
+  x:
+  - s: I moved on to B and at that moment Mr Ferber and other Members <v>called</v>
+      <p>out</p> to me that there was some confusion and requested an electronic check.
+    t: Ho proceduto con il considerando B e solo allora l’onorevole Ferber e altri
+      colleghi mi hanno <a>comunicato</a> che c’era stata un po’ di confusione e che
+      era necessaria una verifica.
+- c: 1
+  r: 2
+  v: dire
+  x:
+  - s: She says goodbye to her friend and <v>calls</v> <p>out</p> ’See you tomorrow’.
+    t: 'Saluta la sua amica <a>dicendole</a>: «Ci vediamo domani».'
+- c: 1
+  r: 2
+  v: esortazione
+  x:
+  - s: 'Therefore, Mr President, I would like to <v>call</v> <p>out</p> to the Commission:'
+    t: 'Per questo motivo desidero rivolgere un’<a>esortazione</a> alla Commissione:'
+- c: 1
+  r: 2
+  v: lanciare
+  x:
+  - s: A large group of young Italians with Lega Nord flags are <v>calling</v> <p>out</p>
+      insults to the effect that the Italian flag should be burnt and shouting ‘Down
+      with the Italians!’.
+    t: Nel cortile del nostro Parlamento è in corso - forse ancora - un’indegna manifestazione
+      di un folto gruppo di giovani italiani, con le bandiere della Lega Nord, che
+      sta <a>lanciando</a> slogan che dicono di bruciare la bandiera italiana, che
+      dicono che «chi non salta è italiano» e sta, tra l’altro, lanciando slogan irripetibili
+      nei confronti del Presidente della nostra Commissione europea.
+- c: 1
+  r: 2
+  v: mobilitare
+  x:
+  - s: I would ask MEPs to reflect upon how it would look in Europe if other European
+      governments were to ponder which groups of citizens did not share their own
+      views and were then to <v>call</v> <p>out</p> their navies to prevent these
+      groups from entering their ports.
+    t: Vorrei chiedere ai colleghi di riflettere su ciò che sarebbe dell’Europa, se
+      altri governi europei dovessero individuare dei gruppi di cittadini che non
+      condividono le loro idee, e poi <a>mobilitassero</a> la marina militare per
+      impedire a tali gruppi l’ingresso nei porti;
+- c: 1
+  r: 2
+  v: ricordare
+  x:
+  - s: Mr President, Mr President-in-Office of the Council, ladies and gentlemen,
+      let me just <v>call</v> <p>out</p> after Mr Brok, who is already fleeing to
+      the group meeting room, that the SPD also differs from the PPE and its German
+      members in that our party does not have a short memory.
+    t: Signor Presidente, signor Presidente del Consiglio, onorevoli colleghi, al
+      collega Brok, che si sta già dirigendo verso la sala di riunione dei gruppi
+      politici, vorrei <a>ricordare</a> brevemente che la SPD si differenzia dal Partito
+      popolare e dai suoi rappresentanti tedeschi anche perché è un partito che conserva
+      la memoria.
+- c: 1
+  r: 2
+  v: chiamare
+  x:
+  - s: It was the first time I have heard the names being <v>called</v> <p>out</p>
+      in advance, when the number of speakers was limited, so that other Members who
+      would not be able to speak could go about their business.
+    t: Oggi è stata la prima volta che i nomi sono stati <a>chiamati</a> in anticipo,
+      quando il numero degli oratori era limitato, cosicché quelli che non avrebbero
+      avuto la possibilità di intervenire si sono potuti dedicare alle loro faccende
+      personali.
+- c: 1
+  r: 2
+  v: avere voce
+  x:
+  - s: When President Pöttering was in the chair, Martin Schulz, the Socialist Group
+      chairman, <v>called</v> <p>out</p> so loudly and clearly to me from the front
+      row that he could be understood up here.
+    t: Quando alla Presidenza sedeva l’onorevole Pöttering, Martin Schulz, il capogruppo
+      dei socialisti, mi <a>ha</a> apostrofato con un tono di <a>voce</a> talmente
+      alto e chiaro che dalla parte opposta si poteva sentire fin qui.
+- c: 1
+  r: 2
+  v: appello
+  x:
+  - s: I know that the Commission and the Council have already earmarked a great deal
+      of money to support the elections, but I am amazed that, although Parliament
+      has been <v>calling</v> year in year <p>out</p> for democracy in Indonesia and
+      the opposition groups there are now asking for Parliament to send observers,
+      the Bureau has decided against doing so.
+    t: Signor Presidente, so che Commissione e Consiglio hanno già destinato ingenti
+      fondi per promuovere le elezioni, ma mi stupisce che, nonostante i ripetuti
+      <a>appelli</a> del Parlamento europeo a ripristinare la democrazia in Indonesia
+      e nonostante le richieste dei gruppi all’opposizione di inviare nostri osservatori,
+      l’Ufficio di presidenza abbia deciso di non mandarli.
+- c: 1
+  r: 2
+  v: annunciare
+  x:
+  - s: In fact, you <v>called</v> <p>out</p> to vote on the original paragraph.
+    t: Lei ha infatti <a>annunciato</a> la votazione sul paragrafo iniziale.
+- c: 1
+  r: 2
+  v: richiedere gran voce
+  x:
+  - s: The European Union’s 15 economies, on the verge of the most exciting and innovative
+      monetary venture of modern times - the launch of the euro - are <v>calling</v>
+      <p>out</p> for greater economic coordination to manage global economic turbulence
+      and to stimulate internal growth.
+    t: Le 15 economie dell’Unione europea, alle soglie della più esaltante e più innovativa
+      avventura monetaria dei tempi moderni - l’introduzione dell’euro - <a>richiedono</a>
+      a <a>gran</a> <a>voce</a> un maggiore coordinamento economico per gestire la
+      turbolenza economica globale e per stimolare la crescita interna.
+- c: 1
+  r: 2
+  v: volgere voce
+  x:
+  - s: Perhaps, as someone in my Group has already <v>called</v> <p>out</p>, you would
+      have been a sparkling presence in the newly set up Convention.
+    t: Credo anche che lei avrebbe saputo rappresentare molto bene il Parlamento nella
+      Convenzione e quest’ opinione viene senza dubbio condivisa dal mio gruppo politico
+      che l’ha acclamata più <a>volte</a> a gran <a>voce</a>.
+pt:
+- c: 3
+  r: 1
+  v: chamar
+  x:
+  - s: The whole of Africa is <v>calling</v> <p>out</p> to us.
+    t: É a África inteira que nos <a>chama</a>.
+  - s: A check is made that the Member is in fact in the Chamber at the beginning
+      of the explanations of vote and I therefore only <v>call</v> <p>out</p> the
+      oral explanations.
+    t: Verificase se o colega se encontra na sala no início das declarações de voto
+      e eu apenas <a>chamo</a> as declarações orais.
+  - s: These are the names I will <v>call</v> <p>out</p>.
+    t: Estes são os nomes que irei <a>chamar</a>.
+- c: 2
+  r: 2
+  v: convocar
+  x:
+  - s: Mr President, the largest demonstration in Lisbon in the last 20 years took
+      place on 18 October last, when more than 200 000 people <v>called</v> <p>out</p>
+      by the General Confederation of Portuguese Workers condemned the European Union’s
+      neoliberal policies, said ’no’ to flexicurity, protested against unemployment,
+      social exclusion and the poverty in which over 20% of the Portuguese people
+      live, and demanded a social Europe.
+    t: mais de duzentas mil pessoas <a>convocadas</a> pela Confederação Geral dos
+      Trabalhadores Portugueses manifestaram, desta forma, a sua indignação com as
+      políticas neo-liberais da União Europeia, disseram «não» à flexigurança, protestaram
+      contra o desemprego, a exclusão social e a pobreza em que vivem mais de vinte
+      por cento dos portugueses e exigiram uma Europa social.
+  - s: I would ask MEPs to reflect upon how it would look in Europe if other European
+      governments were to ponder which groups of citizens did not share their own
+      views and were then to <v>call</v> <p>out</p> their navies to prevent these
+      groups from entering their ports.
+    t: Pediria aos senhores deputados que reflectissem sobre o que transpareceria
+      da Europa se outros governos europeus viessem a ponderar sobre quais os grupos
+      de cidadãos que não partilham os seus pontos de vista e decidissem então <a>convocar</a>
+      a marinha para impedir esses grupos de acostar nos seus portos.
+- c: 2
+  r: 2
+  v: gritar
+  x:
+  - s: A large group of young Italians with Lega Nord flags are <v>calling</v> <p>out</p>
+      insults to the effect that the Italian flag should be burnt and shouting ‘Down
+      with the Italians!’.
+    t: No pátio do nosso Parlamento está em curso talvez ainda dure uma manifestação
+      indigna, de um grande grupo de jovens italianos, com as bandeiras da Liga Norte,
+      que estão a <a>gritar</a> slogans que incitam a queimar a bandeira italiana,
+      que dizem «quem não salta é italiano» e estão, entre outras coisas, a gritar
+      slogans irrepetíveis em relação ao Presidente da nossa Comissão Europeia.
+  - s: I moved on to B and at that moment Mr Ferber and other Members <v>called</v>
+      <p>out</p> to me that there was some confusion and requested an electronic check.
+    t: Passei ao considerando B e nesse momento o senhor deputado Ferber e outros
+      colegas <a>gritaram</a> que havia uma confusão e pediram a verificação electrónica.
+- c: 1
+  r: 3
+  v: grita
+  x:
+  - s: She says goodbye to her friend and <v>calls</v> <p>out</p> ’See you tomorrow’.
+    t: Despede-se da amiga e <a>grita</a> ’Até amanhã’.
+- c: 1
+  r: 3
+  v: exclamar
+  x:
+  - s: Mr President, this is the Commission’s big moment that is what I would like
+      to <v>call</v> <p>out</p> to you.
+    t: Senhor Presidente, apetece-me <a>exclamar</a> que esta é a hora da Comissão.
+- c: 1
+  r: 3
+  v: interpelar
+  x:
+  - s: Mr President, Commissioner, if we are dealing with a positive report, it is
+      <v>calling</v> <p>out</p> to us.
+    t: Senhor Presidente, Senhora Comissária, embora este seja um relatório positivo,
+      ele <a>interpela</a>-nos.
+- c: 1
+  r: 3
+  v: pedir
+  x:
+  - s: Last February, I received 60 Copts here and they <v>called</v> <p>out</p> for
+      help.
+    t: Em Fevereiro último, recebi aqui 60 coptas, que me <a>pediram</a> ajuda.
+- c: 1
+  r: 3
+  v: chamar abandonar
+  x:
+  - s: Madam President, I should like first to apologise to the Commissioner for having
+      been <v>called</v> <p>out</p> of the Chamber while he was speaking.
+    t: Senhora Presidente, começo por pedir desculpa ao senhor Comissário, já que
+      fui <a>chamado</a> e tive de <a>abandonar</a> o hemiciclo durante a sua intervenção.
+- c: 1
+  r: 3
+  v: chamar lá fora
+  x:
+  - s: I left the Chamber temporarily because I was <v>called</v> <p>out</p> urgently
+      and I had left my bag here;
+    t: Tive de sair da assembleia por momentos, por ter sido <a>chamada</a> <a>lá</a>
+      <a>fora</a> com urgência e deixei aqui a minha mala;
+- c: 1
+  r: 3
+  v: sair
+  x:
+  - s: Mr President, like many others in my generation, when I walked through the
+      streets in my home town 25, 30, 35 years ago and <v>called</v> <p>out</p>, ‘USA
+      out of Vietnam!’, I would never have thought that a quarter of a century later
+      I would be forced to stand here in this House and criticise Free Vietnam partly
+      for the same type of violation of human rights that we criticised the USA for
+      then.
+    t: Senhor Presidente, quando eu, como muitos outros da minha geração, há 20, 30,
+      35 anos, <a>saía</a> para as ruas na minha cidade natal a gritar «EUA fora do
+      Vietname», não podia imaginar que, um quarto de século mais tarde, me veria
+      forçado a vir a esta assembleia criticar o Vietname livre por violações dos
+      direitos humanos, em parte do mesmo tipo dos que imputávamos aos EUA.
+- c: 1
+  r: 3
+  v: voz
+  x:
+  - s: Madam President, could you at least put the results on the screens in front
+      of us if you are not going to <v>call</v> them <p>out</p>?
+    t: Senhora Presidente, será que, uma vez que não vai anunciar os resultados em
+      <a>voz</a> alta, não poderia, pelo menos, afixá-los nos monitores que temos
+      diante de nós?
+- c: 1
+  r: 3
+  v: referir
+  x:
+  - s: It was the first time I have heard the names being <v>called</v> <p>out</p>
+      in advance, when the number of speakers was limited, so that other Members who
+      would not be able to speak could go about their business.
+    t: Foi a primeira vez que ouvi os nomes do oradores serem <a>referidos</a> antecipadamente,
+      numa ocasião em que o número de oradores estava limitado, podendo os outros
+      deputados, a quem não seria dada a palavra, ir tratar dos seus assuntos.
+- c: 1
+  r: 3
+  v: pôr
+  x:
+  - s: In fact, you <v>called</v> <p>out</p> to vote on the original paragraph.
+    t: Na verdade, o Senhor Presidente <a>pôs</a> à votação o parágrafo original.
+sv:
+- c: 3
+  r: 1
+  v: ropa
+  x:
+  - s: Mr President, like many others in my generation, when I walked through the
+      streets in my home town 25, 30, 35 years ago and <v>called</v> <p>out</p>, ‘USA
+      out of Vietnam!’, I would never have thought that a quarter of a century later
+      I would be forced to stand here in this House and criticise Free Vietnam partly
+      for the same type of violation of human rights that we criticised the USA for
+      then.
+    t: När jag, som många andra i min generation, för 25, 30, 35 år sedan gick på
+      gatorna i min hemstad och <a>ropade</a> ”USA ut ur Vietnam!”, hade jag inte
+      tänkt mig att jag ett kvarts sekel senare skulle tvingas stå i den här församlingen
+      och kritisera det fria Vietnam för delvis samma typ av brott mot de mänskliga
+      rättigheterna, som vi då kritiserade USA för.
+  - s: When President Pöttering was in the chair, Martin Schulz, the Socialist Group
+      chairman, <v>called</v> <p>out</p> so loudly and clearly to me from the front
+      row that he could be understood up here.
+    t: Under talmannen Hans-Gert Pötterings ordförandeskap <a>ropade</a> socialdemokratiska
+      gruppens ordförande Martin Schulz så högt och tydligt till mig från första raden
+      att hans ord kunde höras ända hit.
+  - s: Mr President, Mr President-in-Office of the Council, ladies and gentlemen,
+      let me just <v>call</v> <p>out</p> after Mr Brok, who is already fleeing to
+      the group meeting room, that the SPD also differs from the PPE and its German
+      members in that our party does not have a short memory.
+    t: 'Jag vill bara som hastigast <a>ropa</a> efter kollegan Brok som redan är på
+      flykt ut till gruppsalen:'
+- c: 2
+  r: 2
+  v: utropa
+  x:
+  - s: Mr President, this is the Commission’s big moment that is what I would like
+      to <v>call</v> <p>out</p> to you.
+    t: Detta är kommissionens stund, skulle jag vilja <a>utropa</a>.
+  - s: Perhaps, as someone in my Group has already <v>called</v> <p>out</p>, you would
+      have been a sparkling presence in the newly set up Convention.
+    t: Kanske skulle ni verkligen - såsom man redan från min grupps sida har <a>utropat</a>
+      - vara ett strålande ansikte i detta framtidskonvent.
+- c: 2
+  r: 2
+  v: kalla
+  x:
+  - s: Mr President, the largest demonstration in Lisbon in the last 20 years took
+      place on 18 October last, when more than 200 000 people <v>called</v> <p>out</p>
+      by the General Confederation of Portuguese Workers condemned the European Union’s
+      neoliberal policies, said ’no’ to flexicurity, protested against unemployment,
+      social exclusion and the poverty in which over 20% of the Portuguese people
+      live, and demanded a social Europe.
+    t: Den största demonstrationen i Lissabon på 20 år ägde rum den 18 oktober när
+      över 200 000 personer som <a>kallats</a> av den portugisiska fackliga centralorganisationen
+      CGTP-IN fördömde EU:s nyliberala politik, sa ”nej” till flexibel trygghet, protesterade
+      mot arbetslöshet, socialt utanförskap och den fattigdom som över 20 procent
+      av den portugisiska befolkningen lever i och krävde ett socialt Europa.
+  - s: A check is made that the Member is in fact in the Chamber at the beginning
+      of the explanations of vote and I therefore only <v>call</v> <p>out</p> the
+      oral explanations.
+    t: Våra tjänsteenheter kontrollerar om kollegerna verkligen är här och vi registrerar
+      alla skriftliga förklaringar utan att behöva avisera dem. Vid röstförklaringarnas
+      början kontrolleras att kollegerna verkligen är här, och då <a>kallar</a> jag
+      endast de muntliga röstförklaringarna.
+- c: 1
+  r: 3
+  v: lämna oberörd
+  x:
+  - s: Mr President, Commissioner, if we are dealing with a positive report, it is
+      <v>calling</v> <p>out</p> to us.
+    t: Herr ordförande, herr kommissionsledamot, om betänkandet i fråga är positivt
+      <a>lämnar</a> det oss inte <a>oberörda</a>.
+- c: 1
+  r: 3
+  v: ropa uppmana
+  x:
+  - s: A large group of young Italians with Lega Nord flags are <v>calling</v> <p>out</p>
+      insults to the effect that the Italian flag should be burnt and shouting ‘Down
+      with the Italians!’.
+    t: På gården till parlamentet pågår - kanske fortfarande - en skamlös demonstration
+      av en talrik grupp unga italienare med Lega Nords flagga, som <a>ropar</a> slagord
+      som <a>uppmanar</a> till att bränna den italienska flaggan, som säger att ”den
+      som inte hoppar är italienare” och som, bland annat, ropar slagord som jag inte
+      vill upprepa om Europeiska kommissionens ordförande.
+- c: 1
+  r: 3
+  v: ut insistera
+  x:
+  - s: I know that the Commission and the Council have already earmarked a great deal
+      of money to support the elections, but I am amazed that, although Parliament
+      has been <v>calling</v> year in year <p>out</p> for democracy in Indonesia and
+      the opposition groups there are now asking for Parliament to send observers,
+      the Bureau has decided against doing so.
+    t: Men det förvånar mig, trots att parlamentet år in och år <a>ut</a> har <a>insisterat</a>
+      på demokrati i Indonesien, och oppositionsgrupperna nu ber om att observatörer
+      skall skickas härifrån parlamentet, att parlamentets presidium har beslutat
+      om att inte skicka några observatörer.
+- c: 1
+  r: 3
+  v: be
+  x:
+  - s: Last February, I received 60 Copts here and they <v>called</v> <p>out</p> for
+      help.
+    t: I februari tog jag emot 60 kopter här, och de <a>bad</a> om hjälp.
+- c: 1
+  r: 3
+  v: göra utrop
+  x:
+  - s: I would like to ask our friends in the galleries not to <v>call</v> <p>out</p>
+      during the debates.
+    t: Jag skulle vilja be våra vänner på läktarna att inte <a>göra</a> <a>utrop</a>
+      under diskussionerna.
+- c: 1
+  r: 3
+  v: kontakta
+  x:
+  - s: It therefore strikes me that Parliament is missing an opportunity by not explicitly
+      recognising the need for what is termed an open platform structure, which would,
+      among other things, enable every car driver to <v>call</v> <p>out</p> the breakdown
+      services using eCall technology.
+    t: Det verkar därför som att parlamentet missar ett tillfälle genom att inte uttryckligen
+      erkänna behovet av det som kallas en öppen plattformsstruktur, som bl.a. skulle
+      göra det möjligt för alla bilförare att <a>kontakta</a> räddningstjänster genom
+      att använda eCall-teknik.

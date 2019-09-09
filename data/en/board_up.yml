@@ -1,0 +1,29 @@
+---
+es:
+- c: 1
+  r: 1
+  v: blindar
+  x:
+  - s: <v>Boarding</v> <p>up</p> the legislation actually has an undesirable effect.
+    t: <a>Blindar</a> la legislación tiene de hecho un efecto negativo.
+fr:
+- c: 1
+  r: 1
+  v: barricader
+  x:
+  - s: <v>Boarding</v> <p>up</p> the legislation actually has an undesirable effect.
+    t: <a>Barricader</a> la législation ne produira pas l’effet souhaité.
+it:
+- c: 1
+  r: 1
+  v: approccio
+  x:
+  - s: <v>Boarding</v> <p>up</p> the legislation actually has an undesirable effect.
+    t: 'Questo <a>approccio</a> legislativo ha un effetto collaterale:'
+pt:
+- c: 1
+  r: 1
+  v: emparedar
+  x:
+  - s: <v>Boarding</v> <p>up</p> the legislation actually has an undesirable effect.
+    t: O <a>emparedar</a> da legislação acaba na realidade por gerar um efeito indesejável.

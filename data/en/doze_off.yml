@@ -1,0 +1,163 @@
+---
+de:
+- c: 2
+  r: 1
+  v: einschlafen
+  x:
+  - s: I myself <v>dozed</v> <p>off</p> at the wheel of a lorry in Finnish Lapland.
+    t: Ich selbst bin schon am Steuer eines LKW im finnischen Lappland <a>eingeschlafen</a>
+      - Finnland ist so groß wie Deutschland und das am dünnsten besiedelte Land der
+      Europäischen Union.
+  - s: But I believe we have the privilege and benefit of having with us today Emma
+      Bonino, whose voice has awakened consciences which had, perhaps, <v>dozed</v>
+      <p>off</p> somewhat both in Europe and in the rest of the world.
+    t: Ich glaube aber, daß wir nun die Ehre und das Vergnügen haben, Emma Bonino
+      bei uns zu begrüßen, die mit ihrer Stimme das Gewissen aufgerüttelt hat, das
+      in Europa und der übrigen Welt ein wenig <a>eingeschlafen</a> war.
+- c: 1
+  r: 2
+  v: einnicken
+  x:
+  - s: Mr President, I am ashamed to say so but I could not stop myself <v>dozing</v>
+      <p>off</p> a couple of times during the votes which have just taken place and
+      only managed to wake up and cast my vote at the last minute.
+    t: Herr Präsident, ich schäme mich ein bißchen, es auszusprechen, aber bei den
+      soeben durchgeführten Abstimmungen bin ich ab und zu <a>eingenickt</a>, und
+      erst in der letzten Sekunde kam ich wieder zu mir, um abzustimmen.
+es:
+- c: 2
+  r: 1
+  v: dormir
+  x:
+  - s: I myself <v>dozed</v> <p>off</p> at the wheel of a lorry in Finnish Lapland.
+    t: Yo mismo me he <a>dormido</a> al volante de un camión en la Laponia finlandesa.
+  - s: But I believe we have the privilege and benefit of having with us today Emma
+      Bonino, whose voice has awakened consciences which had, perhaps, <v>dozed</v>
+      <p>off</p> somewhat both in Europe and in the rest of the world.
+    t: Sin embargo, creo que tenemos el honor y la ventaja de tener entre nosotros
+      a Emma Bonino que, con su propia voz, ha apelado a conciencias que estaban un
+      poco <a>dormidas</a> tanto en Europa como en el resto del mundo.
+- c: 1
+  r: 2
+  v: cabezado
+  x:
+  - s: Mr President, I am ashamed to say so but I could not stop myself <v>dozing</v>
+      <p>off</p> a couple of times during the votes which have just taken place and
+      only managed to wake up and cast my vote at the last minute.
+    t: Señor Presidente, me da vergüenza decirlo, pero he dado alguna <a>cabezada</a>
+      durante las votaciones que acabamos de realizar y sólo en el último momento
+      he conseguido tomar conciencia y votar.
+fr:
+- c: 1
+  r: 1
+  v: endormir
+  x:
+  - s: But I believe we have the privilege and benefit of having with us today Emma
+      Bonino, whose voice has awakened consciences which had, perhaps, <v>dozed</v>
+      <p>off</p> somewhat both in Europe and in the rest of the world.
+    t: Mais je crois que nous avons l’honneur et l’avantage d’avoir parmi nous Emma
+      Bonino qui, par sa voix, a rappelé des consciences qui étaient quelque peu <a>endormies</a>
+      en Europe et dans le reste du monde.
+- c: 1
+  r: 1
+  v: endormir jour
+  x:
+  - s: I myself <v>dozed</v> <p>off</p> at the wheel of a lorry in Finnish Lapland.
+    t: Moi-même, je me suis <a>endormi</a> un <a>jour</a> au volant d’un poids lourd
+      en Laponie - la Finlande est un pays de la taille de l’Allemagne, le moins densément
+      peuplé de toute l’Union européenne - et le long trajet, la fatigue du conducteur,
+      la nuit, tout cela forme une combinaison qui faillit m’être fatale.
+- c: 1
+  r: 1
+  v: assoupir
+  x:
+  - s: Mr President, I am ashamed to say so but I could not stop myself <v>dozing</v>
+      <p>off</p> a couple of times during the votes which have just taken place and
+      only managed to wake up and cast my vote at the last minute.
+    t: Monsieur le Président, j’ai un peu honte de l’avouer, mais au cours des derniers
+      votes, je me suis parfois <a>assoupi</a> et n’ai repris conscience qu’à la dernière
+      seconde, juste à temps pour voter.
+it:
+- c: 1
+  r: 1
+  v: addormentare
+  x:
+  - s: I myself <v>dozed</v> <p>off</p> at the wheel of a lorry in Finnish Lapland.
+    t: Anche a me è capitato di <a>addormentarmi</a> a bordo di un camion nella Lapponia
+      finlandese - si tenga conto che la Finlandia è estesa quanto la Germania ed
+      è il paese europeo a minor densità di popolazione - e la strada lunga, un conducente
+      stanco e la notte possono costituire un insieme di fattori che, nel mio caso,
+      avrebbe potuto sortire conseguenze fatali.
+  - s: Mr President, I am ashamed to say so but I could not stop myself <v>dozing</v>
+      <p>off</p> a couple of times during the votes which have just taken place and
+      only managed to wake up and cast my vote at the last minute.
+    t: Signor Presidente, mi vergogno un po’ a dirlo, ma durante le votazioni che
+      abbiamo appena terminato qualche volta mi sono <a>addormentato</a> e solo all’ultimo
+      secondo sono riuscito a riprendere coscienza e a votare.
+- c: 1
+  r: 1
+  v: addormentare
+  x:
+  - s: I myself <v>dozed</v> <p>off</p> at the wheel of a lorry in Finnish Lapland.
+    t: Anche a me è capitato di <a>addormentarmi</a> a bordo di un camion nella Lapponia
+      finlandese - si tenga conto che la Finlandia è estesa quanto la Germania ed
+      è il paese europeo a minor densità di popolazione - e la strada lunga, un conducente
+      stanco e la notte possono costituire un insieme di fattori che, nel mio caso,
+      avrebbe potuto sortire conseguenze fatali.
+  - s: Mr President, I am ashamed to say so but I could not stop myself <v>dozing</v>
+      <p>off</p> a couple of times during the votes which have just taken place and
+      only managed to wake up and cast my vote at the last minute.
+    t: Signor Presidente, mi vergogno un po’ a dirlo, ma durante le votazioni che
+      abbiamo appena terminato qualche volta mi sono <a>addormentato</a> e solo all’ultimo
+      secondo sono riuscito a riprendere coscienza e a votare.
+- c: 1
+  r: 1
+  v: assopire
+  x:
+  - s: But I believe we have the privilege and benefit of having with us today Emma
+      Bonino, whose voice has awakened consciences which had, perhaps, <v>dozed</v>
+      <p>off</p> somewhat both in Europe and in the rest of the world.
+    t: Ma credo che abbiamo l’onore e il beneficio di avere fra noi Emma Bonino che,
+      con la sua voce, ha richiamato le coscienze un po’ <a>assopite</a> in Europa
+      e nel resto del mondo.
+pt:
+- c: 3
+  r: 1
+  v: adormecer
+  x:
+  - s: I myself <v>dozed</v> <p>off</p> at the wheel of a lorry in Finnish Lapland.
+    t: 'Eu próprio <a>adormeci</a> uma vez ao conduzir numa estrada na Lapónia finlandesa
+      - a Finlândia é um país do tamanho da Alemanha e o que apresenta a maior dispersão
+      demográfica da Europa:'
+  - s: But I believe we have the privilege and benefit of having with us today Emma
+      Bonino, whose voice has awakened consciences which had, perhaps, <v>dozed</v>
+      <p>off</p> somewhat both in Europe and in the rest of the world.
+    t: Creio, todavia, que temos a honra e o prazer de ter entre nós a senhora comissária
+      Emma Bonino que, com a sua voz, despertou consciências que estavam algo <a>adormecidas</a>
+      na Europa e no resto do mundo.
+  - s: Mr President, I am ashamed to say so but I could not stop myself <v>dozing</v>
+      <p>off</p> a couple of times during the votes which have just taken place and
+      only managed to wake up and cast my vote at the last minute.
+    t: Senhor Presidente, confesso, um pouco envergonhado, que, durante as votações
+      que acabámos de fazer, <a>adormeci</a> algumas vezes e só no último momento
+      consegui retomar consciência e votar.
+sv:
+- c: 1
+  r: 1
+  v: somna
+  x:
+  - s: I myself <v>dozed</v> <p>off</p> at the wheel of a lorry in Finnish Lapland.
+    t: Jag har även själv <a>somnat</a> bakom en lastbilsratt i det finska Lappland
+      - Finland är till ytan lika stort som Tyskland, det mest glesbefolkade landet
+      inom Europeiska unionen -, och en lång väg, trött förare och natt var den kombination
+      som höll på att bli ödesdiger för mig.
+- c: 1
+  r: 1
+  v: nicka
+  x:
+  - s: Mr President, I am ashamed to say so but I could not stop myself <v>dozing</v>
+      <p>off</p> a couple of times during the votes which have just taken place and
+      only managed to wake up and cast my vote at the last minute.
+    t: Jag skäms litet över att säga det, men under de omröstningar som vi just har
+      avslutat <a>nickade</a> jag till några gånger och vaknade bara upp i sista sekunden
+      för att rösta.

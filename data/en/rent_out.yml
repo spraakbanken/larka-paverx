@@ -1,0 +1,176 @@
+---
+de:
+- c: 1
+  r: 1
+  v: Verpachtung
+  x:
+  - s: In the last case, the city of Vaasa which owns the area could content itself
+      with <v>renting</v> <p>out</p> the island for the kingdom’s use, or could even
+      set conditions for its use, e.g. by prohibiting tax-haven activities.
+    t: Im letztgenannten Fall könnte die Stadt Vaasa als Eigentümerin der Insel sich
+      lediglich mit deren <a>Verpachtung</a> und Nutzung als Königreich einverstanden
+      erklären und sie könnte sogar bestimmte Bedingungen für die Nutzung des Gebietes
+      stellen, beispielsweise indem sie die Entwicklung eines Steuerparadieses untersagt.
+- c: 1
+  r: 1
+  v: Vermieter
+  x:
+  - s: Do you share my opinion that there are no clear standards for determining whether
+      discrimination has occurred, an example being a situation where a landlord <v>rents</v>
+      <p>out</p> a flat and an applicant claims that he had been discriminated against
+      because he did not get the flat?
+    t: Teilen Sie meine Auffassung, dass es keine klaren Maßstäbe gibt, an denen man
+      solche Diskriminierungen festmachen kann, wenn z.B. ein <a>Vermieter</a> eine
+      Wohnung vermietet und ein Bewerber klagt, er wäre diskriminiert worden, weil
+      er diese Wohnung nicht bekommen hat.
+- c: 1
+  r: 1
+  v: verpachten
+  x:
+  - s: There may still be a plant that is <v>rented</v> <p>out</p> to one brand or
+      another as a subcontractor, but of course, that is a particularly uncertain
+      future.
+    t: Das Werk an sich kann möglicherweise an die eine oder andere Marke als Subunternehmen
+      <a>verpachtet</a> werden, aber es sieht damit einer extrem unsicheren Zukunft
+      entgegen.
+es:
+- c: 3
+  r: 1
+  v: alquilar
+  x:
+  - s: Do you share my opinion that there are no clear standards for determining whether
+      discrimination has occurred, an example being a situation where a landlord <v>rents</v>
+      <p>out</p> a flat and an applicant claims that he had been discriminated against
+      because he did not get the flat?
+    t: Por ejemplo, en el caso de un inquilino que <a>alquila</a> un piso y el solicitante
+      afirma que ha sido discriminado porque no consiguió el piso.
+  - s: and victims of European businessmen and slum landlords who prosper by enslaving
+      a cheap workforce, in the former case, and by <v>renting</v> <p>out</p> insalubrious
+      accommodation at exorbitant prices, in the latter case.
+    t: y víctimas de empresarios y arrendadores abusivos europeos, que prosperan los
+      unos esclavizando a una mano de obra barata y los otros <a>alquilando</a> viviendas
+      insalubres a precios desorbitados.
+  - s: In the last case, the city of Vaasa which owns the area could content itself
+      with <v>renting</v> <p>out</p> the island for the kingdom’s use, or could even
+      set conditions for its use, e.g. by prohibiting tax-haven activities.
+    t: En este último caso la ciudad de Vaasa, propietaria de la isla, podría limitarse
+      a <a>alquilar</a> la isla al reino y podría incluso establecer ciertas condiciones
+      para su utilización, prohibiendo, por ejemplo, su funcionamiento como paraíso
+      fiscal.
+- c: 1
+  r: 2
+  v: arrender
+  x:
+  - s: There may still be a plant that is <v>rented</v> <p>out</p> to one brand or
+      another as a subcontractor, but of course, that is a particularly uncertain
+      future.
+    t: Todavía podría ser una planta que se <a>arriende</a> a alguna marca como subcontrata,
+      pero, por supuesto, es un futuro especialmente incierto.
+- c: 1
+  r: 2
+  v: exponer
+  x:
+  - s: You will perhaps remember that a few years ago one of the best museums in the
+      world, the property of one of our Member States, was <v>renting</v> <p>out</p>
+      its rooms when the museum was closed - rooms exhibiting humanity’s greatest
+      works - for weddings and other social events.
+    t: Quizá recuerden ustedes que hace unos años uno de los mejores museos del mundo,
+      propiedad de uno de nuestros Estados miembros, a partir de la hora de cierre,
+      alquilaba salas —en las que se <a>exponen</a> obras cumbre de la humanidad—
+      para la celebración de bodas y otras fiestas sociales, el ejemplo fue deprimente
+      y alarmante.
+fr:
+- c: 1
+  r: 1
+  v: faire
+  x:
+  - s: In the last case, the city of Vaasa which owns the area could content itself
+      with <v>renting</v> <p>out</p> the island for the kingdom’s use, or could even
+      set conditions for its use, e.g. by prohibiting tax-haven activities.
+    t: Dans ce dernier cas, la ville de Vaasa, dont dépend cette région, pourrait
+      se contenter de louer l’île pour en <a>faire</a> un royaume, voire soumettre
+      son utilisation à certaines conditions, comme l’interdiction de la transformer
+      en paradis fiscal.
+- c: 1
+  r: 1
+  v: loue
+  x:
+  - s: Do you share my opinion that there are no clear standards for determining whether
+      discrimination has occurred, an example being a situation where a landlord <v>rents</v>
+      <p>out</p> a flat and an applicant claims that he had been discriminated against
+      because he did not get the flat?
+    t: Êtes-vous d’accord avec moi pour dire qu’il n’existe actuellement aucune norme
+      claire permettant de définir les cas de discriminations comme par exemple lorsqu’un
+      propriétaire <a>loue</a> un appartement et qu’un candidat se plaint d’être victime
+      de discrimination parce que l’appartement a été attribué à autrui ?
+- c: 1
+  r: 1
+  v: louer
+  x:
+  - s: and victims of European businessmen and slum landlords who prosper by enslaving
+      a cheap workforce, in the former case, and by <v>renting</v> <p>out</p> insalubrious
+      accommodation at exorbitant prices, in the latter case.
+    t: victimes d’entrepreneurs et de marchands de sommeil européens qui prospèrent,
+      les uns, en asservissant une main-d’œuvre bon marché et, les autres, en <a>louant</a>
+      à des prix exorbitants des logements insalubres.
+- c: 1
+  r: 1
+  v: louer exposer
+  x:
+  - s: You will perhaps remember that a few years ago one of the best museums in the
+      world, the property of one of our Member States, was <v>renting</v> <p>out</p>
+      its rooms when the museum was closed - rooms exhibiting humanity’s greatest
+      works - for weddings and other social events.
+    t: Vous vous souviendrez peut-être qu’il y a quelques années, l’un des plus beaux
+      musées du monde, propriété de l’un de nos États membres, <a>louait</a> ses salles
+      - où étaient <a>exposées</a> les plus grandes ?uvres de l’humanité - pour des
+      mariages et autres réceptions lorsqu’il était fermé.
+it:
+- c: 2
+  r: 1
+  v: affittare
+  x:
+  - s: In the last case, the city of Vaasa which owns the area could content itself
+      with <v>renting</v> <p>out</p> the island for the kingdom’s use, or could even
+      set conditions for its use, e.g. by prohibiting tax-haven activities.
+    t: In questo ultimo caso la città Vaasa, che possiede tale isola, potrebbe in
+      realtà limitarsi ad <a>affittarla</a> al regno e addirittura porre precise condizioni
+      per il suo utilizzo, fra l’altro vietandone l’uso in qualità di paradiso fiscale.
+  - s: You will perhaps remember that a few years ago one of the best museums in the
+      world, the property of one of our Member States, was <v>renting</v> <p>out</p>
+      its rooms when the museum was closed - rooms exhibiting humanity’s greatest
+      works - for weddings and other social events.
+    t: Forse ricorderete che alcuni anni fa uno dei musei più rinomati del mondo,
+      di proprietà di uno degli Stati membri, nei giorni di chiusura <a>affittava</a>
+      le sale per matrimoni e per altre manifestazioni culturali.
+- c: 1
+  r: 2
+  v: locazione
+  x:
+  - s: Do you share my opinion that there are no clear standards for determining whether
+      discrimination has occurred, an example being a situation where a landlord <v>rents</v>
+      <p>out</p> a flat and an applicant claims that he had been discriminated against
+      because he did not get the flat?
+    t: Un esempio potrebbe essere il caso di un proprietario che dà in <a>locazione</a>
+      un appartamento mentre uno degli interessati si lamenta di essere stato discriminato
+      perché non ha ottenuto quell’appartamento.
+pt:
+- c: 2
+  r: 1
+  v: arrendar
+  x:
+  - s: Do you share my opinion that there are no clear standards for determining whether
+      discrimination has occurred, an example being a situation where a landlord <v>rents</v>
+      <p>out</p> a flat and an applicant claims that he had been discriminated against
+      because he did not get the flat?
+    t: A Senhora Ministra não é da minha opinião que não existem critérios bem definidos
+      para determinar se se verificou um caso de discriminação, como, por exemplo,
+      numa situação em que um senhorio <a>arrenda</a> um apartamento e um candidato
+      preterido reclama que foi discriminado porque não lhe não arrendaram o apartamento?
+  - s: In the last case, the city of Vaasa which owns the area could content itself
+      with <v>renting</v> <p>out</p> the island for the kingdom’s use, or could even
+      set conditions for its use, e.g. by prohibiting tax-haven activities.
+    t: Neste último caso, a cidade de Vaasa, proprietária da região, poderia contentarse
+      em <a>arrendar</a> a ilha para utilização do reinado, estabelecendo inclusivamente
+      as condições de utilização para o efeito, proibindo nomeadamente a sua utilização
+      como paraíso fiscal.

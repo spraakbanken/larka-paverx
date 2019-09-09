@@ -1,0 +1,98 @@
+---
+de:
+- c: 1
+  r: 1
+  v: Himmel fallen
+  x:
+  - s: Som om detta påstådda ”klimat” skulle ha <v>ramlat</v> <p>ner</p> från himlen!
+    t: Als ob dieses angebliche „Klima “ vom <a>Himmel</a> <a>gefallen</a> sei!
+- c: 1
+  r: 1
+  v: herauskommen
+  x:
+  - s: Ja, vi måste ta oss ur den afghanska fällan som vi <v>ramlade</v> <p>ner</p>
+      i på grund av den politik som bedrevs av George Bush.
+    t: Ja, wir müssen aus der afghanischen Falle <a>herauskommen</a>, in die wir aufgrund
+      der von George Bush verfolgten Politik geraten sind.
+- c: 1
+  r: 1
+  v: abstürzen
+  x:
+  - s: Till den nivå då flygplanen börjar <v>ramla</v> <p>ner</p>?
+    t: Etwa bis die Flugzeuge beginnen <a>abzustürzen</a>?
+en:
+- c: 1
+  r: 1
+  v: fall
+  x:
+  - s: Ja, vi måste ta oss ur den afghanska fällan som vi <v>ramlade</v> <p>ner</p>
+      i på grund av den politik som bedrevs av George Bush.
+    t: Madam President, yes, we will have to emerge from the Afghan trap into which
+      we <a>fell</a> because of the policy pursued by George Bush.
+- c: 1
+  r: 1
+  v: fall out sky
+  x:
+  - s: Till den nivå då flygplanen börjar <v>ramla</v> <p>ner</p>?
+    t: To the point at which the planes start to <a>fall</a> <a>out</a> of the <a>sky</a>?
+es:
+- c: 1
+  r: 1
+  v: caír
+  x:
+  - s: Ja, vi måste ta oss ur den afghanska fällan som vi <v>ramlade</v> <p>ner</p>
+      i på grund av den politik som bedrevs av George Bush.
+    t: Señora Presidenta, sí, tendremos que salir de la trampa afgana en la que <a>caímos</a>
+      por la política de George Bush.
+- c: 1
+  r: 1
+  v: conductor
+  x:
+  - s: Som om detta påstådda ”klimat” skulle ha <v>ramlat</v> <p>ner</p> från himlen!
+    t: 'Por lo tanto, es importante que se establezca este tipo de examen para que
+      los pensionistas y las personas mayores que viajan en autobús puedan gozar del
+      máximo confort y puedan decir siempre: «¡Qué bueno es el <a>conductor</a> que
+      nos ha llevado hoy!»'
+- c: 1
+  r: 1
+  v: empezar caer
+  x:
+  - s: Till den nivå då flygplanen börjar <v>ramla</v> <p>ner</p>?
+    t: ¿Hasta que <a>empiecen</a> a <a>caer</a> los aviones?
+fr:
+- c: 1
+  r: 1
+  v: avoir enfermer
+  x:
+  - s: Ja, vi måste ta oss ur den afghanska fällan som vi <v>ramlade</v> <p>ner</p>
+      i på grund av den politik som bedrevs av George Bush.
+    t: Madame la Présidente, oui, il nous faudra sortir du piège afghan dans lequel
+      nous <a>a</a> <a>enfermés</a> la politique de Georges Bush.
+- c: 1
+  r: 1
+  v: tomber
+  x:
+  - s: Som om detta påstådda ”klimat” skulle ha <v>ramlat</v> <p>ner</p> från himlen!
+    t: Comme si ce prétendu «climat» <a>tombait</a> du ciel !
+it:
+- c: 1
+  r: 1
+  v: cadere
+  x:
+  - s: Ja, vi måste ta oss ur den afghanska fällan som vi <v>ramlade</v> <p>ner</p>
+      i på grund av den politik som bedrevs av George Bush.
+    t: Signora Presidente, indubbiamente dovremo riemergere dalla trappola afghana
+      in cui siamo <a>caduti</a> a causa della politica perseguita da Bush.
+pt:
+- c: 3
+  r: 1
+  v: cair
+  x:
+  - s: Ja, vi måste ta oss ur den afghanska fällan som vi <v>ramlade</v> <p>ner</p>
+      i på grund av den politik som bedrevs av George Bush.
+    t: Senhora Presidente, sim, temos de sair da armadilha afegã em que <a>caímos</a>
+      devido à política seguida por George Bush.
+  - s: Till den nivå då flygplanen börjar <v>ramla</v> <p>ner</p>?
+    t: Até os aviões começarem a <a>cair</a>?
+  - s: Som om detta påstådda ”klimat” skulle ha <v>ramlat</v> <p>ner</p> från himlen!
+    t: Como se o pretenso «contexto» <a>caísse</a> do céu!

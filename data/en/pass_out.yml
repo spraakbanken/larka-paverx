@@ -1,0 +1,80 @@
+---
+de:
+- c: 1
+  r: 1
+  v: herausgeben
+  x:
+  - s: Those who are criticising the progress made in the negotiations are basing
+      what they say on information which is <v>passed</v> <p>out</p> from confidential
+      discussions and channelled to interested parties.
+    t: Diejenigen, die jetzt den Verhandlungsstand kritisieren, stützen sich auf Informationen,
+      die aus vertraulichen Beratungen <a>herausgegeben</a> werden, interessengeleitete
+      Informationen.
+es:
+- c: 1
+  r: 1
+  v: salar
+  x:
+  - s: since the Helms-Burton law applies only to cases involving property formerly
+      owned by American subjects which was confiscated by the Castro government without
+      payment of compensation, and is now <v>passing</v> <p>out</p> of the Cuban government’s
+      control to be handed over to a foreign entrepreneur who likewise receives it
+      without paying compensation to its rightful owners, can the Commission tell
+      me whether or not any specific cases have so far arisen of European Union companies
+      or individuals being referred to US courts because they come within the scope
+      of the prohibitions contained in this law, or are we still confronting a theoretical
+      situation in which no actual cases have occurred?
+    t: puesto que la ley Helms-Burton se aplica sólo en los casos en que se trata
+      de propiedades que eran de súbditos norteamericanos que fueron confiscadas por
+      el gobierno castrista sin pagar ninguna indemnización, y que ahora <a>salen</a>
+      de las manos del Estado cubano para ser entregadas a un empresario extranjero
+      que las recibe sin pagar tampoco la indemnización a los propietarios legítimos
+      de esas empresas, ¿puede la Comisión decirme si existen ya, o todavía no, casos
+      concretos de empresas o empresarios de la Unión Europea que hayan sido denunciados
+      ante tribunales norteamericanos por estar incursos en las prohibiciones de esta
+      ley, o si bien estamos todavía ante una hipótesis teórica en la que no se han
+      manifestado casos concretos en este sentido?
+- c: 1
+  r: 1
+  v: información
+  x:
+  - s: Those who are criticising the progress made in the negotiations are basing
+      what they say on information which is <v>passed</v> <p>out</p> from confidential
+      discussions and channelled to interested parties.
+    t: Los que critican ahora el estado de las negociaciones se apoyan en informaciones
+      obtenidas de deliberaciones confidenciales, <a>informaciones</a> condicionadas
+      por intereses.
+it:
+- c: 1
+  r: 1
+  v: emergere
+  x:
+  - s: Those who are criticising the progress made in the negotiations are basing
+      what they say on information which is <v>passed</v> <p>out</p> from confidential
+      discussions and channelled to interested parties.
+    t: Coloro che adesso criticano lo stato dei negoziati si basano su informazioni
+      che <a>emergono</a> da consultazioni riservate e su informazioni condizionate
+      da interessi particolari.
+pt:
+- c: 1
+  r: 1
+  v: passar
+  x:
+  - s: since the Helms-Burton law applies only to cases involving property formerly
+      owned by American subjects which was confiscated by the Castro government without
+      payment of compensation, and is now <v>passing</v> <p>out</p> of the Cuban government’s
+      control to be handed over to a foreign entrepreneur who likewise receives it
+      without paying compensation to its rightful owners, can the Commission tell
+      me whether or not any specific cases have so far arisen of European Union companies
+      or individuals being referred to US courts because they come within the scope
+      of the prohibitions contained in this law, or are we still confronting a theoretical
+      situation in which no actual cases have occurred?
+    t: uma vez que a lei Helms-Burton se aplica apenas a casos de propriedades que
+      pertenceram a cidadãos norte-americanos e que foram confiscadas pelo governo
+      de Fidel Castro sem direito a qualquer indemnização, e que agora <a>passam</a>
+      das mãos do Estado cubano para um empresário estrangeiro que as recebe sem que
+      este também pague qualquer indemnização aos legítimos proprietários dessas empresas,
+      pode a Comissão dizer-me se existem, ou ainda não, casos concretos de empresas
+      ou empresários da União Europeia que tenham sido demandados em tribunais norte-americanos
+      por violar as proibições desta lei, ou se ainda estamos perante uma hipótese
+      teórica na qual não se registaram casos concretos desta natureza?

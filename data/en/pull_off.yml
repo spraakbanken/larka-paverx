@@ -1,0 +1,471 @@
+---
+de:
+- c: 1
+  r: 1
+  v: Weg
+  x:
+  - s: You have <v>pulled</v> <p>off</p> the biggest theft in the history of mankind
+      - the theft of our national sovereignties!
+    t: 'Dann gehen Sie bitte auch diesen <a>Weg</a> konsequent zu Ende:'
+- c: 1
+  r: 1
+  v: abstellen
+  x:
+  - s: Just think of the road accidents which have occurred over recent years, for
+      example in Belgium, the Netherlands and a number of other countries where lorries
+      carrying dangerous goods continued to drive in foggy conditions when really
+      they should have <v>pulled</v> <p>off</p> the road instead.
+    t: Beispielsweise in Belgien, den Niederlanden und weiteren Ländern fuhren Gefahrguttransporter
+      trotz Nebels weiter und wurden nicht, wie es angesichts der Umstände eigentlich
+      erforderlich gewesen wäre, am Straßenrand <a>abgestellt</a>.
+- c: 1
+  r: 1
+  v: anstiften
+  x:
+  - s: in the name of human rights, it <v>pulls</v> <p>off</p> the amazing feat of
+      violating democracy, the Treaties and the rights of the European Parliament
+      itself!
+    t: Dieser Text gibt wirklich Anlass zur Sorge, denn ihm gelingt im Namen der Menschenrechte
+      das Kunststück, in einem Zuge zur Verletzung der Demokratie, der europäischen
+      Verträge und der Rechte des Europäischen Parlaments selbst <a>anzustiften</a>!
+- c: 1
+  r: 1
+  v: bringen
+  x:
+  - s: Mr President, may I thank Mr Azzolini most sincerely for his input, which <v>pulled</v>
+      <p>off</p> the trick of incorporating the various amendments and which is still
+      here!
+    t: Herr Präsident, ich darf mich ganz herzlich für den Beitrag von Herrn Azzolini
+      bedanken, der das Kunststück fertig <a>gebracht</a> hat, die verschiedenen Änderungsanträge
+      einzuarbeiten, und der vor allen Dingen noch hier ist!
+- c: 1
+  r: 1
+  v: Drahtseilakt
+  x:
+  - s: Madam President, I feel that Commissioner Liikanen and Mr Haarder have <v>pulled</v>
+      <p>off</p> a difficult operation successfully, achieving a result that we were
+      unable to achieve even during the work in committee - namely, unanimity in Parliament.
+    t: Frau Präsidentin, ich glaube, Kommissar Liikanen und dem Herrn Minister Haarder
+      ist ein schwieriger <a>Drahtseilakt</a> gelungen, indem sie ein Ergebnis erzielten,
+      das wir nicht einmal während der Ausschussarbeit zu erreichen vermochten, nämlich
+      die Einvernehmlichkeit des Europäischen Parlaments.
+- c: 1
+  r: 1
+  v: haben
+  x:
+  - s: After the formidable stunt that the Taliban <v>pulled</v> <p>off</p> yesterday
+      in Afghanistan, where, lest we forget, we have 100 000 troops fighting for freedom,
+      and the failed terrorist attack in Detroit this Christmas, I believe, Baroness
+      Ashton, that it is legitimate to wonder whether terrorism is stronger now than
+      when freedom was attacked by the barbarous toppling of the twin towers in New
+      York.
+    t: Nach dem eindrucksvollen Stunt, den die Taliban gestern in Afghanistan dargeboten
+      <a>haben</a>, wo, damit wir das nicht vergessen, derzeit 100 000 Truppen für
+      den Frieden kämpfen, und dem vereitelten Terroranschlag in Detroit zu Weihnachten,
+      glaube ich, Baronin Ashton, dass es berechtigt ist, sich zu fragen, ob der Terrorismus
+      heute stärker ist als noch zu Zeiten, als der Frieden durch den barbarischen
+      Akt der einstürzenden Twin Towers in New York angegriffen wurde.
+- c: 1
+  r: 1
+  v: zügig rechnen
+  x:
+  - s: In short, I consider that this regulation <v>pulls</v> <p>off</p> the difficult
+      trick of ensuring that disabled people get the legal right to an acceptable
+      standard of service when travelling by air, without placing undue and onerous
+      burdens on the industry that has to provide these services.
+    t: Dank des konstruktiven Beitrags des Parlaments können wir mit der <a>zügigen</a>
+      Annahme dieses wichtigen Dokuments <a>rechnen</a>, das für behinderte Menschen
+      und Personen mit eingeschränkter Mobilität überall in Europa reale Möglichkeiten
+      der Hilfe bieten wird.
+- c: 1
+  r: 1
+  v: schaffen haben
+  x:
+  - s: But we will shortly hear whether we have <v>pulled</v> it <p>off</p>.
+    t: Aber wir werden gleich hören, ob wir es <a>geschafft</a> <a>haben</a>.
+- c: 1
+  r: 1
+  v: klappen
+  x:
+  - s: what do we do if we cannot <v>pull</v> it <p>off</p> with the Americans?
+    t: Was aber machen wir, wenn es mit den Amerikanern nicht <a>klappt</a>?
+es:
+- c: 2
+  r: 1
+  v: lograr
+  x:
+  - s: If we manage to <v>pull</v> it <p>off</p>, then we can make progress;
+    t: Si lo <a>logramos</a>, entonces podremos avanzar;
+  - s: in the name of human rights, it <v>pulls</v> <p>off</p> the amazing feat of
+      violating democracy, the Treaties and the rights of the European Parliament
+      itself!
+    t: en nombre de los derechos humanos, <a>logra</a> la proeza de violar tanto la
+      democracia como los Tratados y los derechos del mismísimo Parlamento Europeo.
+- c: 1
+  r: 2
+  v: salir
+  x:
+  - s: But we will shortly hear whether we have <v>pulled</v> it <p>off</p>.
+    t: Pero muy pronto sabremos si nos hemos <a>salido</a> con la nuestra.
+- c: 1
+  r: 2
+  v: conseguir
+  x:
+  - s: Mr Bourlanges then <v>pulls</v> <p>off</p> a second achievement - but for this,
+      he receives less hearty congratulations - which is to mislead us by skimming
+      over the main points of his intentions.
+    t: El Sr. Bourlanges <a>consigue</a> un segundo objetivo - pero por éste ya no
+      va a recibir felicitaciones tan entusiastas - que consiste en despistarnos haciendo
+      un repaso muy superficial de los principales aspectos de sus intenciones.
+- c: 1
+  r: 2
+  v: funcionar
+  x:
+  - s: what do we do if we cannot <v>pull</v> it <p>off</p> with the Americans?
+    t: ¿qué haremos si con los americanos no <a>funciona</a>?
+- c: 1
+  r: 2
+  v: haber
+  x:
+  - s: The British Presidency has <v>pulled</v> <p>off</p> the historical feat of
+      achieving unanimity in terms of the criticisms levelled at it.
+    t: Señor Presidente, nos <a>hemos</a> abstenido sobre la resolución común relativa
+      a los traslados ocultos de presos sospechosos de terrorismo islámico por agentes
+      de la CIA.
+- c: 1
+  r: 2
+  v: parar
+  x:
+  - s: Just think of the road accidents which have occurred over recent years, for
+      example in Belgium, the Netherlands and a number of other countries where lorries
+      carrying dangerous goods continued to drive in foggy conditions when really
+      they should have <v>pulled</v> <p>off</p> the road instead.
+    t: Por ejemplo en Bélgica, los Países Bajos y algunos otros países donde, habiendo
+      niebla, los camiones con mercancías peligrosas seguían en ruta cuando deberían
+      haber <a>parado</a> en esos momentos.
+fr:
+- c: 4
+  r: 1
+  v: réussir
+  x:
+  - s: But we will shortly hear whether we have <v>pulled</v> it <p>off</p>.
+    t: Mais nous verrons bien si nous y avons <a>réussi</a>.
+  - s: After the formidable stunt that the Taliban <v>pulled</v> <p>off</p> yesterday
+      in Afghanistan, where, lest we forget, we have 100 000 troops fighting for freedom,
+      and the failed terrorist attack in Detroit this Christmas, I believe, Baroness
+      Ashton, that it is legitimate to wonder whether terrorism is stronger now than
+      when freedom was attacked by the barbarous toppling of the twin towers in New
+      York.
+    t: ' http ://www.gstatic.com/translate/sound_player.swf" Après le formidable coup
+      d’éclat <a>réussi</a> hier par les talibans en Afghanistan, où, ne l’oublions
+      pas, 100 000 de nos hommes se battent pour la liberté, et l’attentat terroriste
+      manqué de Detroit à Noël dernier, je crois, Madame la Baronne Ashton, qu’il
+      est légitime de se demander si le terrorisme n’est pas plus fort aujourd’hui
+      qu’au moment où la liberté s’est vue attaquée par la destruction barbare des
+      tours jumelles de New York.'
+  - s: in the name of human rights, it <v>pulls</v> <p>off</p> the amazing feat of
+      violating democracy, the Treaties and the rights of the European Parliament
+      itself!
+    t: au nom des droits de l’homme, il <a>réussit</a> le tour de force d’organiser
+      le viol à la fois de la démocratie, des traités et des droits du Parlement européen
+      lui-même !
+  - s: Madam President, I feel that Commissioner Liikanen and Mr Haarder have <v>pulled</v>
+      <p>off</p> a difficult operation successfully, achieving a result that we were
+      unable to achieve even during the work in committee - namely, unanimity in Parliament.
+    t: Madame la Présidente, je pense que le Commissaire Liikanen et le ministre Haarder
+      ont <a>réussi</a> une opération difficile en obtenant un résultat que nous n’avons
+      pas été capables d’atteindre, même lors de nos travaux en commission, à savoir
+      l’unanimité du Parlement.
+- c: 1
+  r: 2
+  v: offrir
+  x:
+  - s: In short, I consider that this regulation <v>pulls</v> <p>off</p> the difficult
+      trick of ensuring that disabled people get the legal right to an acceptable
+      standard of service when travelling by air, without placing undue and onerous
+      burdens on the industry that has to provide these services.
+    t: Grâce à la contribution constructive du Parlement, nous pouvons espérer une
+      adoption rapide de ce texte important, qui <a>offrira</a> des possibilités réelles
+      d’assistance aux personnes handicapées ou à mobilité réduite, partout en Europe.
+- c: 1
+  r: 2
+  v: faire
+  x:
+  - s: The British government, doubtless believing it was <v>pulling</v> <p>off</p>
+      a ‘big deal’ in media and ecological terms, confined itself to claiming the
+      credit for the half-baked obsessions of the Commission and the conspiratorial
+      strategies of manipulative and highly-organized pseudo-environmental lobbies.
+    t: Le gouvernement britannique, croyant sans doute <a>faire</a> un «joli coup»
+      médiatico-écologique, s’est borné à reprendre à son compte les obsessions recuites
+      de la Commission et les affabulations de lobbies pseudo-environnementaux, manipulateurs
+      et puissamment organisés.
+- c: 1
+  r: 2
+  v: chef-
+  x:
+  - s: I would like to ask the Council how it proposes to <v>pull</v> <p>off</p> the
+      stroke of excluding a certain Member State from taking part in discussions without
+      any legal basis, when it needs this State’s support in order to achieve unanimity
+      in the Council on Treaty amendments.
+    t: Je souhaiterais demander au Conseil comment il entend présenter ce <a>chef-</a>d’uvre
+      qu’est l’exclusion d’un État membre de la participation aux délibérations sans
+      fondement juridique tandis que, d’autre part, il a besoin de cet État au Conseil
+      lors du vote à l’unanimité des propositions de modification du Traité.
+- c: 1
+  r: 2
+  v: prouesse
+  x:
+  - s: Mr President, may I thank Mr Azzolini most sincerely for his input, which <v>pulled</v>
+      <p>off</p> the trick of incorporating the various amendments and which is still
+      here!
+    t: Monsieur le Président, je voudrais remercier très cordialement M. Azzolini
+      pour sa contribution, pour la <a>prouesse</a> qu’il a accomplie en intégrant
+      les différents amendements, et, avant toutes choses, d’être encore parmi nous
+      !
+it:
+- c: 4
+  r: 1
+  v: riuscire
+  x:
+  - s: In short, I consider that this regulation <v>pulls</v> <p>off</p> the difficult
+      trick of ensuring that disabled people get the legal right to an acceptable
+      standard of service when travelling by air, without placing undue and onerous
+      burdens on the industry that has to provide these services.
+    t: In sintesi, ritengo che questo regolamento <a>riesca</a> ad adempiere al difficile
+      compito di garantire alle persone disabili il diritto legittimo di godere di
+      servizi adeguati nel trasporto aereo senza far gravare oneri elevati e superflui
+      sull’industria che li deve erogare.
+  - s: Mr President, may I thank Mr Azzolini most sincerely for his input, which <v>pulled</v>
+      <p>off</p> the trick of incorporating the various amendments and which is still
+      here!
+    t: Signor Presidente, vorrei ringraziare sentitamente l’onorevole Azzolini per
+      essere <a>riuscito</a> nel difficile compito di inserire nella relazione le
+      diverse richieste di emendamento e ancor di più per essere ancora presente.
+  - s: in the name of human rights, it <v>pulls</v> <p>off</p> the amazing feat of
+      violating democracy, the Treaties and the rights of the European Parliament
+      itself!
+    t: in nome dei diritti umani <a>riesce</a> nella straordinaria impresa di violare
+      la democrazia, i Trattati e i diritti dello stesso Parlamento europeo!
+  - s: Madam President, I feel that Commissioner Liikanen and Mr Haarder have <v>pulled</v>
+      <p>off</p> a difficult operation successfully, achieving a result that we were
+      unable to achieve even during the work in committee - namely, unanimity in Parliament.
+    t: Signora Presidente, penso che il Commissario Liikanen e il Ministro Haarder
+      siano <a>riusciti</a> in un’operazione difficile, cogliendo un risultato che
+      non siamo riusciti a raggiungere nemmeno durante i lavori in commissione, cioè
+      l’unanimità del Parlamento.
+- c: 1
+  r: 2
+  v: portare
+  x:
+  - s: If you can <v>pull</v> them <p>off</p> at the end of the Presidency, I think
+      you have done it.
+    t: Se riesce a <a>portarli</a> a termini alla fine della sua Presidenza, ce l’avrà
+      fatta.
+- c: 1
+  r: 2
+  v: termine
+  x:
+  - s: I would like to ask the Council how it proposes to <v>pull</v> <p>off</p> the
+      stroke of excluding a certain Member State from taking part in discussions without
+      any legal basis, when it needs this State’s support in order to achieve unanimity
+      in the Council on Treaty amendments.
+    t: Vorrei sapere come intende portare a <a>termine</a> l’acrobazia di escludere,
+      senza base giuridica, un paese membro dalla partecipazione alle deliberazioni,
+      avendo nel contempo bisogno del suo voto per conseguire l’unanimità nelle modifiche
+      ai Trattati.
+- c: 1
+  r: 2
+  v: trovare
+  x:
+  - s: Just think of the road accidents which have occurred over recent years, for
+      example in Belgium, the Netherlands and a number of other countries where lorries
+      carrying dangerous goods continued to drive in foggy conditions when really
+      they should have <v>pulled</v> <p>off</p> the road instead.
+    t: Tanti sono gli incidenti in cui sono rimasti coinvolti camion che trasportavano
+      merci pericolose e che in tali condizioni meteorologiche non avrebbero dovuto
+      viaggiare invece di <a>trovarsi</a> tranquillamente sulle strade.
+- c: 1
+  r: 2
+  v: compiere
+  x:
+  - s: The British Presidency has <v>pulled</v> <p>off</p> the historical feat of
+      achieving unanimity in terms of the criticisms levelled at it.
+    t: 'Attirandosi critiche unanimi da ogni parte, la Presidenza britannica ha <a>compiuto</a>
+      un’impresa veramente storica:'
+- c: 1
+  r: 2
+  v: perpetrare
+  x:
+  - s: You have <v>pulled</v> <p>off</p> the biggest theft in the history of mankind
+      - the theft of our national sovereignties!
+    t: Avete <a>perpetrato</a> il più grande furto della storia dell’umanità, che
+      è il furto delle sovranità nazionali!
+- c: 1
+  r: 2
+  v: ottenere
+  x:
+  - s: Mr Bourlanges then <v>pulls</v> <p>off</p> a second achievement - but for this,
+      he receives less hearty congratulations - which is to mislead us by skimming
+      over the main points of his intentions.
+    t: 'L’onorevole Bourlanges ha <a>ottenuto</a> poi un secondo successo - di cui
+      tuttavia mi rallegro meno:'
+- c: 1
+  r: 2
+  v: intento
+  x:
+  - s: I remember well, a year and a half ago when we talked about the Africa summit,
+      no one really believed we could <v>pull</v> it <p>off</p>.
+    t: Ricordo bene che quando un anno e mezzo fa parlavamo del vertice con l’Africa
+      nessuno credeva davvero che saremmo riusciti nel nostro <a>intento</a>.
+- c: 1
+  r: 2
+  v: fare colpo
+  x:
+  - s: The British government, doubtless believing it was <v>pulling</v> <p>off</p>
+      a ‘big deal’ in media and ecological terms, confined itself to claiming the
+      credit for the half-baked obsessions of the Commission and the conspiratorial
+      strategies of manipulative and highly-organized pseudo-environmental lobbies.
+    t: Il governo britannico, credendo probabilmente di <a>fare</a> un bel <a>colpo</a>
+      mediadico-ecologico, si è limitato a riesumare le ossessioni trite e ritrite
+      della Commissione e le affabulazioni delle lobby pseudoambientali, manipolatrici
+      e potentemente organizzate.
+- c: 1
+  r: 2
+  v: fare
+  x:
+  - s: But we will shortly hear whether we have <v>pulled</v> it <p>off</p>.
+    t: Presto sapremo, comunque, se ce l’abbiamo <a>fatta</a>.
+pt:
+- c: 4
+  r: 1
+  v: conseguir
+  x:
+  - s: In short, I consider that this regulation <v>pulls</v> <p>off</p> the difficult
+      trick of ensuring that disabled people get the legal right to an acceptable
+      standard of service when travelling by air, without placing undue and onerous
+      burdens on the industry that has to provide these services.
+    t: Em suma, considero que este regulamento <a>consegue</a> resolver o problema
+      difícil de garantir às pessoas portadoras de deficiência o direito legal a um
+      serviço de uma qualidade aceitável ao viajarem de avião, sem impor encargos
+      excessivos e onerosos ao sector que tem de assegurar esses serviços.
+  - s: Mr President, may I thank Mr Azzolini most sincerely for his input, which <v>pulled</v>
+      <p>off</p> the trick of incorporating the various amendments and which is still
+      here!
+    t: Senhor Presidente, quero agradecer muito sinceramente o contributo dado pelo
+      senhor deputado Azzolini, que <a>conseguiu</a> a proeza de introduzir as várias
+      alterações e que, principalmente, ainda está aqui presente!
+  - s: Mr Bourlanges then <v>pulls</v> <p>off</p> a second achievement - but for this,
+      he receives less hearty congratulations - which is to mislead us by skimming
+      over the main points of his intentions.
+    t: O senhor deputado Jean-Louis Bourlanges <a>consegue</a> entretanto uma segunda
+      proeza, em meu entender, menos digna de louvor, ao tentar iludir-nos sem revelar
+      os seus verdadeiros desígnios.
+  - s: in the name of human rights, it <v>pulls</v> <p>off</p> the amazing feat of
+      violating democracy, the Treaties and the rights of the European Parliament
+      itself!
+    t: em nome dos direitos do Homem, <a>consegue</a> a proeza espantosa de violar
+      a democracia, os Tratados e os direitos do próprio Parlamento Europeu!
+- c: 1
+  r: 2
+  v: exercer
+  x:
+  - s: The draft report shows clearly that the Commissioner has <v>pulled</v> <p>off</p>
+      a real master stroke here.
+    t: O projecto de relatório mostra claramente que a Comissária <a>exerceu</a> aqui
+      um verdadeiro golpe de mestre.
+- c: 1
+  r: 2
+  v: engendrar
+  x:
+  - s: What the Greek Government has <v>pulled</v> <p>off</p>, with the more or less
+      active collaboration, or in any case, negligence, of Eurostat, could perhaps
+      become a problem in other countries.
+    t: A situação <a>engendrada</a> pelo Governo grego, com maior ou menor colaboração
+      activa, ou em todo o caso, com negligência do Eurostat, poderia eventualmente
+      tornar-se um problema em outros países.
+- c: 1
+  r: 2
+  v: até
+  x:
+  - s: If you can <v>pull</v> them <p>off</p> at the end of the Presidency, I think
+      you have done it.
+    t: Se conseguir <a>realizá-las</a> <a>até</a> ao final da sua Presidência, terá
+      feito um trabalho digno de nota.
+- c: 1
+  r: 2
+  v: fazer
+  x:
+  - s: If we manage to <v>pull</v> it <p>off</p>, then we can make progress;
+    t: Se conseguirmos <a>fazê</a>-lo, então poderemos progredir;
+sv:
+- c: 4
+  r: 1
+  v: klara
+  x:
+  - s: In short, I consider that this regulation <v>pulls</v> <p>off</p> the difficult
+      trick of ensuring that disabled people get the legal right to an acceptable
+      standard of service when travelling by air, without placing undue and onerous
+      burdens on the industry that has to provide these services.
+    t: Jag anser sammanfattningsvis att man genom denna förordning <a>klarar</a> den
+      svåra uppgiften att se till att funktionshindrade personer får laglig rätt till
+      en acceptabel servicenivå när de reser med flyg, utan att lägga olämpliga och
+      betungande bördor på den bransch som måste tillhandahålla denna service.
+  - s: Mr President, may I thank Mr Azzolini most sincerely for his input, which <v>pulled</v>
+      <p>off</p> the trick of incorporating the various amendments and which is still
+      here!
+    t: Jag vill gärna tacka för bidraget från Azzolini som har <a>klarat</a> av konststycket
+      att arbeta in de olika ändringsförslagen och som framför allt även är här!
+  - s: I remember well, a year and a half ago when we talked about the Africa summit,
+      no one really believed we could <v>pull</v> it <p>off</p>.
+    t: Jag kommer väl ihåg när vi för ett och ett halvt år sedan talade om Afrika-toppmötet
+      och ingen riktigt trodde att vi skulle <a>klara</a> det.
+  - s: If you can <v>pull</v> them <p>off</p> at the end of the Presidency, I think
+      you have done it.
+    t: Om ni har <a>klarat</a> av dem vid ordförandeskapets slut anser jag att ni
+      har lyckats.
+- c: 4
+  r: 1
+  v: lyckas
+  x:
+  - s: I would like to ask the Council how it proposes to <v>pull</v> <p>off</p> the
+      stroke of excluding a certain Member State from taking part in discussions without
+      any legal basis, when it needs this State’s support in order to achieve unanimity
+      in the Council on Treaty amendments.
+    t: Jag vill fråga rådet hur det skall <a>lyckas</a> med konststycket att utan
+      rättslig grund utestänga en medlemsstat från deltagande i överläggningarna samtidigt
+      som det behöver denna stat vid fördragsändringar för att nå enhällighet i rådet.
+  - s: in the name of human rights, it <v>pulls</v> <p>off</p> the amazing feat of
+      violating democracy, the Treaties and the rights of the European Parliament
+      itself!
+    t: På de mänskliga rättigheternas vägnar <a>lyckas</a> den med den häpnadsväckande
+      bedriften att kränka demokratin, fördragen och Europaparlamentets rättigheter!
+  - s: The first big state to make it into the list of wealthy countries is the United
+      States because it <v>pulls</v> <p>off</p> the extraordinary trick of governing
+      itself like a confederation of statehoods, devolving enormous legislative and
+      fiscal autonomy to its constituent parts.
+    t: Den första stora staten att ta sig in på listan över rika länder är Förenta
+      staterna, eftersom landet <a>lyckas</a> med det anmärkningsvärda tricket att
+      styra sig självt som en konfederation av självständiga stater och delegera mycket
+      stor självbestämmanderätt på lagstiftnings- och skatteområdet till varje delstat.
+  - s: Madam President, I feel that Commissioner Liikanen and Mr Haarder have <v>pulled</v>
+      <p>off</p> a difficult operation successfully, achieving a result that we were
+      unable to achieve even during the work in committee - namely, unanimity in Parliament.
+    t: Kommissionär Liikanen och minister Haarder har <a>lyckats</a> med en svår operation,
+      och de har uppnått ett resultat som vi inte ens lyckades uppnå under arbetet
+      i utskottet, dvs. enighet i parlamentet.
+- c: 1
+  r: 2
+  v: konststycke lyckas
+  x:
+  - s: What the Greek Government has <v>pulled</v> <p>off</p>, with the more or less
+      active collaboration, or in any case, negligence, of Eurostat, could perhaps
+      become a problem in other countries.
+    t: Det <a>konststycke</a> som den grekiska regeringen <a>lyckades</a> genomföra
+      med mer eller mindre aktivt stöd eller åtminstone försumlighet från Eurostats
+      sida, kan kanske komma att bli ett problem i andra länder.
+- c: 1
+  r: 2
+  v: gå
+  x:
+  - s: what do we do if we cannot <v>pull</v> it <p>off</p> with the Americans?
+    t: vad gör vi om det inte <a>går</a> med amerikanerna?

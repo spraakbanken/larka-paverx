@@ -1,0 +1,187 @@
+---
+de:
+- c: 1
+  r: 1
+  v: durchhalten haben
+  x:
+  - s: Mr President, thank you for <v>staying</v> <p>up</p> so late.
+    t: Ich danke Ihnen, dass Sie so lange <a>durchgehalten</a> <a>haben</a>.
+- c: 1
+  r: 1
+  v: neu
+  x:
+  - s: For this reason, the Commission regularly obtains information from the independent
+      scientific committees in order to <v>stay</v> <p>up</p> to date on the possible
+      risks of EMFs.
+    t: Die Kommission holt deshalb regelmäßig bei den unabhängigen wissenschaftlichen
+      Ausschüssen Informationen ein, um bei der Frage möglicher Gefahrenquellen bei
+      elektromagnetischen Feldern auf dem <a>neuesten</a> Stand zu sein.
+- c: 1
+  r: 1
+  v: lang aufbleiben
+  x:
+  - s: I grew up as a kid hoping I would be allowed to <v>stay</v> <p>up</p> on Saturday
+      evenings in order to see a television programme about a community policeman
+      called Dixon of Dock Green.
+    t: Als Kind hatte ich immer gehofft, sonnabends <a>länger</a> <a>aufbleiben</a>
+      zu dürfen, um eine Fernsehserie - „Dixon of Dock Green “ - über einen Gemeindepolizisten
+      zu sehen.
+- c: 1
+  r: 1
+  v: stehen Formulierung beibehalten
+  x:
+  - s: Mr Dunstan and his colleagues <v>stayed</v> <p>up</p> until 3 a.m. to prepare
+      that vote for us.
+    t: Es bleibt daher nur ein p.m.-Vermerk <a>stehen</a>, so dass wir die <a>Formulierung</a>
+      des Absatzes in ihrer gegenwärtigen Form nicht <a>beibehalten</a> können.
+es:
+- c: 1
+  r: 1
+  v: estar despierto
+  x:
+  - s: Mr President, thank you for <v>staying</v> <p>up</p> so late.
+    t: Señor Presidente, muchas gracias por <a>estar</a> <a>despierto</a> a estas
+      horas.
+- c: 1
+  r: 1
+  v: permanecer levantar
+  x:
+  - s: I grew up as a kid hoping I would be allowed to <v>stay</v> <p>up</p> on Saturday
+      evenings in order to see a television programme about a community policeman
+      called Dixon of Dock Green.
+    t: Cuando era niño crecí con la ilusión de que me dejaran <a>permanecer</a> <a>levantado</a>
+      los sábados por la noche para ver un programa de televisión sobre un policía
+      de barrio llamado Dixon de Dock Green.
+- c: 1
+  r: 1
+  v: mantenerse
+  x:
+  - s: For this reason, the Commission regularly obtains information from the independent
+      scientific committees in order to <v>stay</v> <p>up</p> to date on the possible
+      risks of EMFs.
+    t: Por este motivo, la Comisión obtiene periódicamente información de comités
+      científicos independientes con el fin de <a>mantenerse</a> al día de los posibles
+      riesgos de los CEM.
+fr:
+- c: 1
+  r: 1
+  v: conserver
+  x:
+  - s: Mr Dunstan and his colleagues <v>stayed</v> <p>up</p> until 3 a.m. to prepare
+      that vote for us.
+    t: Il ne nous reste qu’une mention, nous ne pouvons donc <a>conserver</a> la formulation
+      du paragraphe sous sa forme actuelle.
+- c: 1
+  r: 1
+  v: rester debout
+  x:
+  - s: I grew up as a kid hoping I would be allowed to <v>stay</v> <p>up</p> on Saturday
+      evenings in order to see a television programme about a community policeman
+      called Dixon of Dock Green.
+    t: Quand j’étais enfant, j’espérais qu’on me permette de <a>rester</a> <a>debout</a>
+      le samedi soir afin de voir une émission télévisée à propos d’un agent de police
+      de base nommé Dixon of Dock Green.
+- c: 1
+  r: 1
+  v: être rester
+  x:
+  - s: Mr President, thank you for <v>staying</v> <p>up</p> so late.
+    t: Monsieur le Président, merci d’<a>être</a> <a>resté</a> si tard.
+- c: 1
+  r: 1
+  v: rester
+  x:
+  - s: For this reason, the Commission regularly obtains information from the independent
+      scientific committees in order to <v>stay</v> <p>up</p> to date on the possible
+      risks of EMFs.
+    t: Pour cette raison, la Commission obtient régulièrement des renseignements auprès
+      de comités scientifiques indépendants afin de <a>rester</a> informée des risques
+      éventuels de champs électromagnétiques.
+it:
+- c: 1
+  r: 1
+  v: restare alzare
+  x:
+  - s: I grew up as a kid hoping I would be allowed to <v>stay</v> <p>up</p> on Saturday
+      evenings in order to see a television programme about a community policeman
+      called Dixon of Dock Green.
+    t: Quand’ero bambino speravo che mi permettessero di <a>restare</a> <a>alzato</a>
+      il sabato sera per guardare un programma televisivo il cui protagonista era
+      un poliziotto di quartiere, Dixon di Dock Green.
+- c: 1
+  r: 1
+  v: essere rimanere sveglio
+  x:
+  - s: Mr Dunstan and his colleagues <v>stayed</v> <p>up</p> until 3 a.m. to prepare
+      that vote for us.
+    t: Il signor Dunstan ed i suoi colleghi <a>sono</a> <a>rimasti</a> <a>svegli</a>
+      fino alle tre del mattino per preparare le votazioni.
+- c: 1
+  r: 1
+  v: mantenere
+  x:
+  - s: For this reason, the Commission regularly obtains information from the independent
+      scientific committees in order to <v>stay</v> <p>up</p> to date on the possible
+      risks of EMFs.
+    t: Per tale motivo, la Commissione riceve regolarmente informazioni dai comitati
+      scientifici indipendenti, così da <a>mantenersi</a> aggiornata sui possibili
+      rischi dei CEM.
+pt:
+- c: 1
+  r: 1
+  v: ficar levantar
+  x:
+  - s: I grew up as a kid hoping I would be allowed to <v>stay</v> <p>up</p> on Saturday
+      evenings in order to see a television programme about a community policeman
+      called Dixon of Dock Green.
+    t: Quando era miúdo, o que eu mais desejava era que me deixassem <a>ficar</a>
+      <a>levantado</a> ao sábado à noite para ver um programa de televisão sobre um
+      polícia ao serviço da comunidade chamado Dixon of Dock Green.
+- c: 1
+  r: 1
+  v: passar
+  x:
+  - s: How can the Union make constitutional decisions by <v>staying</v> <p>up</p>
+      for three nights?
+    t: Como pode a União tomar decisões de carácter constitucional <a>passando</a>
+      três noites em claro?
+- c: 1
+  r: 1
+  v: permanecer aqui até
+  x:
+  - s: Mr President, thank you for <v>staying</v> <p>up</p> so late.
+    t: Senhor Presidente, agradeço-lhe por <a>permanecer</a> <a>aqui</a> <a>até</a>
+      tão tarde.
+- c: 1
+  r: 1
+  v: manter actualizar
+  x:
+  - s: For this reason, the Commission regularly obtains information from the independent
+      scientific committees in order to <v>stay</v> <p>up</p> to date on the possible
+      risks of EMFs.
+    t: Por esta razão, a Comissão recebe regularmente informações de comités científicos
+      independentes, a fim de se <a>manter</a> <a>actualizada</a> sobre os possíveis
+      riscos dos CEM.
+sv:
+- c: 2
+  r: 1
+  v: stanna uppe
+  x:
+  - s: I grew up as a kid hoping I would be allowed to <v>stay</v> <p>up</p> on Saturday
+      evenings in order to see a television programme about a community policeman
+      called Dixon of Dock Green.
+    t: Jag växte upp som en ung grabb och hoppades att jag skulle få <a>stanna</a>
+      <a>uppe</a> på lördagskvällar för att se ett TV-program om en polis som hette
+      Dixon från Dock Green.
+  - s: Mr Dunstan and his colleagues <v>stayed</v> <p>up</p> until 3 a.m. to prepare
+      that vote for us.
+    t: Dunstan och hans kolleger <a>stannade</a> <a>uppe</a> till klockan tre i morse
+      för att förbereda omröstningen för oss.
+- c: 1
+  r: 2
+  v: sitta uppe
+  x:
+  - s: How can the Union make constitutional decisions by <v>staying</v> <p>up</p>
+      for three nights?
+    t: Hur skall unionen kunna fatta beslut i konstitutionella frågor när man <a>sitter</a>
+      <a>uppe</a> tre nätter i rad?

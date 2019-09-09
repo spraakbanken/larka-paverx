@@ -1,0 +1,82 @@
+---
+es:
+- c: 1
+  r: 1
+  v: salir
+  x:
+  - s: We are tired of <v>coming</v> <p>on</p> to stage when the main action has taken
+      place to lament or celebrate what has happened and to offer philosophical reflections
+      on the sad state of mankind - ‘Ïßìïé ç ôÜëáéíá’ indeed!
+    t: 'Estamos cansados de <a>salir</a> a escena, cuando ya se ha producido la acción
+      principal, para lamentar o celebrar lo que ha sucedido y ofrecer reflexiones
+      filosóficas sobre el lamentable estado de la Humanidad: «Ïßìïé ç ôÜëáéíá» ¡en
+      efecto!'
+fr:
+- c: 1
+  r: 1
+  v: arriver
+  x:
+  - s: We have the present generation of fuels and biomass available, but we are also
+      seeing new generations <v>coming</v> <p>on</p> and we will see bioplastics coming
+      into place.
+    t: La génération actuelle de carburants et de biomasse mise à part, nous voyons
+      aussi de nouvelles générations <a>arriver</a> et nous assisterons à l’émergence
+      des bioplastiques.
+it:
+- c: 1
+  r: 1
+  v: suvvia
+  x:
+  - s: <v>Come</v> <p>on</p>, it’s ridiculous.
+    t: <a>Suvvia</a>, vi pare serio?
+- c: 1
+  r: 1
+  v: stare realizzare
+  x:
+  - s: Parliament has been demanding exact and up-to-date information on how this
+      report is <v>coming</v> <p>on</p>, and rightly so.
+    t: Il Parlamento sollecita giustamente informazioni esatte e aggiornate su come
+      questo rapporto si <a>sta</a> <a>realizzando</a>.
+- c: 1
+  r: 1
+  v: arrivo
+  x:
+  - s: We have the present generation of fuels and biomass available, but we are also
+      seeing new generations <v>coming</v> <p>on</p> and we will see bioplastics coming
+      into place.
+    t: Abbiamo l’attuale generazione di combustibili e biomassa, ma sono in <a>arrivo</a>
+      anche nuove generazioni e la plastica biodegradabile farà anch’essa il suo ingresso.
+- c: 1
+  r: 1
+  v: come on
+  x:
+  - s: <v>Come</v> <p>on</p>, let’s SWIFT again!
+    t: <a>Come</a> <a>on</a>, let’s SWIFT again!
+pt:
+- c: 1
+  r: 1
+  v: subir
+  x:
+  - s: We are tired of <v>coming</v> <p>on</p> to stage when the main action has taken
+      place to lament or celebrate what has happened and to offer philosophical reflections
+      on the sad state of mankind - ‘Ïßìïé ç ôÜëáéíá’ indeed!
+    t: Estamos fartos de <a>subir</a> ao palco depois de a acção principal já ter
+      decorrido, para lamentar ou celebrar o que aconteceu e para apresentar reflexões
+      filosóficas sobre a triste condição da humanidade - deixemonos de «Ïßìïé ç ôÜëáéíá»!
+- c: 1
+  r: 1
+  v: estar
+  x:
+  - s: <v>Come</v> <p>on</p>, it’s ridiculous.
+    t: <a>Estamos</a> a brincar!
+sv:
+- c: 1
+  r: 1
+  v: antåga
+  x:
+  - s: We have the present generation of fuels and biomass available, but we are also
+      seeing new generations <v>coming</v> <p>on</p> and we will see bioplastics coming
+      into place.
+    t: Den befintliga generationen bränslen och biomassor finns tillgängliga, men
+      vi ser också nya generationer som är i <a>antågande</a>, och vi kommer att få
+      uppleva när bioplasten införs.

@@ -1,0 +1,53 @@
+---
+de:
+- c: 1
+  r: 1
+  v: erholen
+  x:
+  - s: Alldeles för många timmar går åt i stadstrafiken och de har för få timmar att
+      vara med sina barn, de arbetar under dåliga arbetsförhållanden och har inga
+      grön- eller rekreationsområden att <v>vila</v> <p>ut</p> i, de förlorar dagar
+      i köer på sjukhusen och diskuterar med statsbyråkratin i de administrativa organen.
+    t: Sie arbeiten ohne angemessene Bedingungen und haben keine Grün- und Freizeitanlagen,
+      um sich zu <a>erholen</a>.
+en:
+- c: 1
+  r: 1
+  v: rest
+  x:
+  - s: Alldeles för många timmar går åt i stadstrafiken och de har för få timmar att
+      vara med sina barn, de arbetar under dåliga arbetsförhållanden och har inga
+      grön- eller rekreationsområden att <v>vila</v> <p>ut</p> i, de förlorar dagar
+      i köer på sjukhusen och diskuterar med statsbyråkratin i de administrativa organen.
+    t: they work under terrible conditions and have no green spaces or leisure areas
+      to <a>rest</a> in;
+es:
+- c: 1
+  r: 1
+  v: descansar
+  x:
+  - s: Alldeles för många timmar går åt i stadstrafiken och de har för få timmar att
+      vara med sina barn, de arbetar under dåliga arbetsförhållanden och har inga
+      grön- eller rekreationsområden att <v>vila</v> <p>ut</p> i, de förlorar dagar
+      i köer på sjukhusen och diskuterar med statsbyråkratin i de administrativa organen.
+    t: trabajan sin condiciones y no tienen espacios verdes ni ocio para <a>descansar</a>;
+it:
+- c: 1
+  r: 1
+  v: rilassare
+  x:
+  - s: Alldeles för många timmar går åt i stadstrafiken och de har för få timmar att
+      vara med sina barn, de arbetar under dåliga arbetsförhållanden och har inga
+      grön- eller rekreationsområden att <v>vila</v> <p>ut</p> i, de förlorar dagar
+      i köer på sjukhusen och diskuterar med statsbyråkratin i de administrativa organen.
+    t: lavorano senza tregua e non hanno spazi verdi o tempo libero per <a>rilassarsi</a>;
+pt:
+- c: 1
+  r: 1
+  v: descansar
+  x:
+  - s: Alldeles för många timmar går åt i stadstrafiken och de har för få timmar att
+      vara med sina barn, de arbetar under dåliga arbetsförhållanden och har inga
+      grön- eller rekreationsområden att <v>vila</v> <p>ut</p> i, de förlorar dagar
+      i köer på sjukhusen och diskuterar med statsbyråkratin i de administrativa organen.
+    t: trabalham sem condições e não têm espaços verdes e de lazer para <a>descansar</a>;

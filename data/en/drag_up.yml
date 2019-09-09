@@ -1,0 +1,48 @@
+---
+es:
+- c: 1
+  r: 1
+  v: sacar
+  x:
+  - s: I do not want to <v>drag</v> <p>up</p> the issue of this building endlessly,
+      but this is a serious problem.
+    t: No quiero <a>sacar</a> a relucir sin cesar la cuestión de este edificio, pero
+      se trata de un problema grave.
+fr:
+- c: 1
+  r: 1
+  v: reprendre faire traîner
+  x:
+  - s: For goodness’ sake, spare us the embarrassment of being haunted by this scandal,
+      because if we must be haunted by a scandal - I assure you, Eluned - we can all
+      <v>drag</v> <p>up</p> past scandals all over again.
+    t: De grâce, épargnons-nous le spectacle de traîner ces casseroles, parce que
+      s’il faut traîner des casseroles - je le dis à Eluned - alors tous peuvent <a>reprendre</a>
+      les anciennes casseroles et les <a>faire</a> <a>traîner</a> à nouveau.
+- c: 1
+  r: 1
+  v: tapis
+  x:
+  - s: I do not want to <v>drag</v> <p>up</p> the issue of this building endlessly,
+      but this is a serious problem.
+    t: Je ne veux pas sans cesse remettre sur le <a>tapis</a> les problèmes de ce
+      bâtiment mais cela constitue un sujet de préoccupation sérieux.
+it:
+- c: 1
+  r: 1
+  v: riprendere
+  x:
+  - s: For goodness’ sake, spare us the embarrassment of being haunted by this scandal,
+      because if we must be haunted by a scandal - I assure you, Eluned - we can all
+      <v>drag</v> <p>up</p> past scandals all over again.
+    t: Di grazia, risparmiamoci lo spettacolo di fare tanto baccano, perché se dobbiamo
+      farlo, e lo dico a Eluned, tutti possono <a>riprendere</a> le vecchie grancasse
+      e riprenderlo questo baccano.
+- c: 1
+  r: 1
+  v: sproloquio
+  x:
+  - s: I do not want to <v>drag</v> <p>up</p> the issue of this building endlessly,
+      but this is a serious problem.
+    t: Non vorrei tenere uno <a>sproloquio</a> sulla questione degli immobili, ma
+      il problema è serio.

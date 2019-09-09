@@ -1,0 +1,42 @@
+---
+es:
+- c: 1
+  r: 1
+  v: ignorar
+  x:
+  - s: Om man fortsatte i enlighet med den nuvarande tendensen, skulle Europa snart
+      vara en centralistisk superstat som strävar efter likriktning och som <v>ser</v>
+      <p>ner</p> på de nationella demokratierna.
+    t: Si las cosas siguen como hasta ahora, pronto podríamos tener un superestado
+      que pretenda tenerlo todo centralizado y uniforme, que <a>ignore</a> las democracias
+      nacionales.
+it:
+- c: 1
+  r: 1
+  v: potere
+  x:
+  - s: Det fyller våra fängelser med människor som snarare behöver vårdas än fängslas,
+      och det diskriminerar etniska minoriteter, där vissa tillhör kulturer som <v>ser</v>
+      <p>ner</p> på drogmissbruk i mindre grad än andra, oproportionerligt mycket.
+    t: Non <a>possiamo</a> pensare di insinuare nell’Unione zone grigie di «non diritto»,
+      in cui uno Stato non possa applicare le proprie leggi.
+- c: 1
+  r: 1
+  v: non conto
+  x:
+  - s: Om man fortsatte i enlighet med den nuvarande tendensen, skulle Europa snart
+      vara en centralistisk superstat som strävar efter likriktning och som <v>ser</v>
+      <p>ner</p> på de nationella demokratierna.
+    t: Se si procede sulla linea attuale, potremmo ritrovarci ben presto davanti a
+      un super Stato centralizzatore e omologatore che <a>non</a> tiene <a>conto</a>
+      delle democrazie nazionali.
+pt:
+- c: 1
+  r: 1
+  v: desprezar
+  x:
+  - s: Om man fortsatte i enlighet med den nuvarande tendensen, skulle Europa snart
+      vara en centralistisk superstat som strävar efter likriktning och som <v>ser</v>
+      <p>ner</p> på de nationella demokratierna.
+    t: Se prosseguíssemos na via da actual tendência, seria em breve um super-Estado
+      centralizador, uniformizador, que <a>desprezaria</a> as democracias nacionais.

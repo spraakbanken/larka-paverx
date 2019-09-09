@@ -1,0 +1,112 @@
+---
+en:
+- c: 1
+  r: 1
+  v: out
+  x:
+  - s: Jag är övertygad om att detta kommer att få medborgarna i Europa att jublande
+      <v>rusa</v> <p>ut</p> på gatorna.
+    t: I am sure this will bring the citizens of Europe cheering <a>out</a> on to
+      the streets.
+- c: 1
+  r: 1
+  v: scuttle out
+  x:
+  - s: Jag är glad att han företrädde rådet och inte Solana som <v>rusade</v> <p>ut</p>
+      innan debatten hade börjat och som var en så dålig företrädare för EU vid mötet
+      i Madrid förra juli, då han gjorde ett föregripande uttalande till stöd för
+      Colombiaplanen.
+    t: I am very glad that he was representing the Council and not Mr Solana, who
+      <a>scuttled</a> <a>out</a> before the start of the debate, and who so badly
+      misrepresented the EU when at the Madrid meeting last July he made a pre-emptive
+      statement in support of Plan Colombia.
+es:
+- c: 1
+  r: 1
+  v: salir aclamar
+  x:
+  - s: Jag är övertygad om att detta kommer att få medborgarna i Europa att jublande
+      <v>rusa</v> <p>ut</p> på gatorna.
+    t: Estoy seguro de que esta medida hará que los ciudadanos europeos <a>salgan</a>
+      a las calles <a>aclamando</a>.
+- c: 1
+  r: 1
+  v: afuera
+  x:
+  - s: Jag hörde bruset av vågor och <v>rusade</v> <p>ut</p> och lade mig på den nyklippta
+      gräsmattan med ansiktet vänt mot kusten.
+    t: Oí el rumor de las olas, salí hacia <a>afuera</a> y me fuí a tumbar sobre la
+      hierba recién cortada, puesto mi rostro en dirección a la costa.
+fr:
+- c: 1
+  r: 1
+  v: sortir aller
+  x:
+  - s: Jag hörde bruset av vågor och <v>rusade</v> <p>ut</p> och lade mig på den nyklippta
+      gräsmattan med ansiktet vänt mot kusten.
+    t: J’entendis le bruissement des vagues, <a>sortis</a> et <a>allai</a> m’étendre,
+      le visage tourné vers la côte, sur la pelouse fraîchement tondue.
+- c: 1
+  r: 1
+  v: manifester
+  x:
+  - s: Jag är övertygad om att detta kommer att få medborgarna i Europa att jublande
+      <v>rusa</v> <p>ut</p> på gatorna.
+    t: Je suis sûr que les citoyens européens <a>manifesteront</a> leur joie dans
+      la rue.
+- c: 1
+  r: 1
+  v: esquiver
+  x:
+  - s: Jag är glad att han företrädde rådet och inte Solana som <v>rusade</v> <p>ut</p>
+      innan debatten hade börjat och som var en så dålig företrädare för EU vid mötet
+      i Madrid förra juli, då han gjorde ett föregripande uttalande till stöd för
+      Colombiaplanen.
+    t: Je suis très heureux que ce soit lui qui représente le Conseil et non M. Solana,
+      qui s’est <a>esquivé</a> avant l’entame du débat et qui a si mal représenté
+      l’UE en faisant une déclaration de soutien du plan Colombie lors de la réunion
+      de Madrid en juillet dernier.
+it:
+- c: 1
+  r: 1
+  v: uscire
+  x:
+  - s: Jag hörde bruset av vågor och <v>rusade</v> <p>ut</p> och lade mig på den nyklippta
+      gräsmattan med ansiktet vänt mot kusten.
+    t: Sentii il rumore delle onde, <a>uscii</a> e mi sdraiai, con il volto diretto
+      verso la costa, sul prato falciato.
+- c: 1
+  r: 1
+  v: dileguare
+  x:
+  - s: Jag är glad att han företrädde rådet och inte Solana som <v>rusade</v> <p>ut</p>
+      innan debatten hade börjat och som var en så dålig företrädare för EU vid mötet
+      i Madrid förra juli, då han gjorde ett föregripande uttalande till stöd för
+      Colombiaplanen.
+    t: Mi rallegro davvero che il Consiglio sia stato rappresentato dal Presidente
+      Danielsson e non dall’Alto rappresentante Solana, il quale, <a>dileguatosi</a>
+      oggi prima dell’inizio del dibattito, ha rappresentato così male l’Unione europea
+      alla riunione di Madrid del luglio scorso, quando si è lanciato in un’azzardata
+      dichiarazione di sostegno al Piano Colombia.
+pt:
+- c: 1
+  r: 1
+  v: sair
+  x:
+  - s: Jag är glad att han företrädde rådet och inte Solana som <v>rusade</v> <p>ut</p>
+      innan debatten hade börjat och som var en så dålig företrädare för EU vid mötet
+      i Madrid förra juli, då han gjorde ett föregripande uttalande till stöd för
+      Colombiaplanen.
+    t: Sintome satisfeito pelo facto de ser o senhor Presidente Danielsson o representante
+      do Conselho, e não o senhor Javier Solana, que tratou de <a>sair</a> rapidamente
+      antes do início do debate e que tão mal «representou» a UE quando, na reunião
+      de Madrid em Julho passado, fez uma declaração prematura em apoio do «Plano
+      Colômbia».
+- c: 1
+  r: 1
+  v: sair lá fora
+  x:
+  - s: Jag hörde bruset av vågor och <v>rusade</v> <p>ut</p> och lade mig på den nyklippta
+      gräsmattan med ansiktet vänt mot kusten.
+    t: Ouvi o murmúrio das ondas, <a>saí</a> e deitei-me <a>lá</a> <a>fora</a> no
+      relvado, o rosto virado para a costa.

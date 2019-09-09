@@ -1,0 +1,377 @@
+---
+de:
+- c: 1
+  r: 1
+  v: Rücktritt
+  x:
+  - s: Att ytterligare öka rätten till försvar, förfarandenas öppenhet, inklusive
+      utfrågningstjänstemannens stärkta ställning, är något som ligger mig varmt om
+      hjärtat och som jag tänker på, med beaktande av åtskilliga faktorer som t.ex.
+      de användbara idéer som uttrycktes av denna tjänsteman innan han <v>hoppade</v>
+      <p>av</p>.
+    t: Die Ausgestaltung des Rechtes auf Darlegung von Rechtfertigungsgründen, die
+      Transparenz der Verfahren, einschließlich der Stärkung der Rolle des Anhörungsbeauftragten,
+      sind Dinge, die mir sehr am Herzen liegen und über die ich mir Gedanken mache,
+      wobei ich verschiedene Überlegungen, einschließlich der von dem Bediensteten
+      vor seinem <a>Rücktritt</a> geäußerten nützlichen Hinweise, in Betracht ziehe.
+- c: 1
+  r: 1
+  v: ausfallen großzügiger umgehen
+  x:
+  - s: Vi kanske kan vara lite mer generösa med de två minuterna eftersom min föregångare
+      <v>hoppade</v> <p>av</p>.
+    t: Vielleicht können wir, da mein Vorredner <a>ausfällt</a>, mit diesen zwei Minuten
+      etwas <a>großzügiger</a> <a>umgehen</a>.
+- c: 1
+  r: 1
+  v: absetzen
+  x:
+  - s: Det stämmer att folkets mujaheddin inte längre är terroriststämplade med det
+      är fortfarande en dunkel sekt som använder sig av våld mot de medlemmar som
+      vill <v>hoppa</v> <p>av</p>.
+    t: Es stimmt schon, dass die Volksmujaheddin nicht mehr auf der Terroristenlisten
+      stehen, aber sie sind dennoch ein undurchsichtiger Kult, der Mitglieder brutal
+      behandelt, die sich <a>absetzen</a> möchten.
+en:
+- c: 3
+  r: 1
+  v: opt out
+  x:
+  - s: Får jag göra er uppmärksamma på ett viktigt ändringsförslag, nämligen ändringsförslag
+      3, som jag stöder och som uppmanar Storbritannien och Polen att fördubbla försöken
+      att tänka om och återkalla sitt beslut att <v>hoppa</v> <p>av</p>.
+    t: May I draw your attention to an important amendment, namely Amendment No 3,
+      which I support and which calls on Britain and Poland to redouble their efforts
+      to rethink and reverse their decision to <a>opt</a> <a>out</a>.
+  - s: Detta är också anledningen till att vi fokuserar på fortbildning, utbildning,
+      livslångt lärande, kampen mot utslagning och en sund invandringspolitik samt
+      jämställdhet mellan könen, för det faktum att begåvade kvinnor <v>hoppar</v>
+      <p>av</p> innebär också en sorts forskarflykt.
+    t: This is also why all our attention is focused on training, education, lifelong
+      learning, the fight against exclusion and sound migration policy and indeed,
+      gender equality, for the fact that talented women <a>opt</a> <a>out</a> is also
+      a form of brain drain.
+  - s: Vad som skrevs in i fördraget denna gång var inte rätten att <v>hoppa</v> <p>av</p>
+      utan rätten för medlemsstater att sträva efter integration inom den gemensamma
+      institutionella ramen, utan att bli blockerad av ett veto.
+    t: What was written into the Treaty this time was not the right to <a>opt</a>
+      <a>out</a> but the right for Member States to pursue integration within the
+      single institutional framework without being blocked by a veto.
+- c: 2
+  r: 2
+  v: resign
+  x:
+  - s: Vad gäller problemet med en tjänsteman från GD Konkurrens som <v>hoppade</v>
+      <p>av</p>, så har jag redan uttryckt min beklagan rörande detta avhopp.
+    t: Concerning the problem of one DG Competition official who <a>resigned</a>,
+      I have already expressed my regret about that resignation.
+  - s: Att ytterligare öka rätten till försvar, förfarandenas öppenhet, inklusive
+      utfrågningstjänstemannens stärkta ställning, är något som ligger mig varmt om
+      hjärtat och som jag tänker på, med beaktande av åtskilliga faktorer som t.ex.
+      de användbara idéer som uttrycktes av denna tjänsteman innan han <v>hoppade</v>
+      <p>av</p>.
+    t: Further increasing the right of defence, the transparency of the procedures,
+      including the enhanced position of the hearing officer, is something to which
+      I am very much attached and upon which I am reflecting, taking into account
+      several inputs including the useful ideas provided by that official before he
+      <a>resigned</a>.
+- c: 1
+  r: 3
+  v: retreat
+  x:
+  - s: Men nu har jag ju lagt fram ett muntligt ändringsförslag, i samarbete med kommissionen
+      faktiskt, så jag hoppas verkligen att kommissionen inte <v>hoppar</v> <p>av</p>
+      i sista stund.
+    t: However, I have tabled a verbal amendment, in collaboration with the Commission
+      in fact, so I hope the Commission will not <a>retreat</a> at the last moment.
+- c: 1
+  r: 3
+  v: abandon
+  x:
+  - s: Jag tänker särskilt på dem som har <v>hoppat</v> <p>av</p> sina studier, invandrare
+      och dem som bara talar ett språk eller vars språkkompetens inte är så stor.
+    t: I am referring in particular to those people who have <a>abandoned</a> their
+      studies, immigrants and those who speak only one language or who are linguistically
+      less competent.
+- c: 1
+  r: 3
+  v: drop
+  x:
+  - s: Jag hyser även förhoppningen att detta unika förbud mot en kemikalie i en konsumentprodukt
+      skall få signaleffekten att vi kanske äntligen börjar tänka på och våga göra
+      upp med PVC:n, att faktiskt <v>hoppa</v> <p>av</p> denna farliga teknik.
+    t: I hope that banning a chemical from a consumer product for the first time will
+      give a signal that we are perhaps finally considering abandoning PVC and will
+      have the courage to <a>drop</a> this dangerous technology.
+- c: 1
+  r: 3
+  v: drop out
+  x:
+  - s: Unga människor som inte klarar skolan och <v>hoppar</v> <p>av</p> ingår i den
+      här gruppen, liksom äldre människor som trots att de har arbetat i årtionden
+      får låga pensioner som bara räcker till det absolut nödvändigaste.
+    t: Young people who cannot cope with school and <a>drop</a> <a>out</a> are part
+      of this group, as are older people who, despite having worked for decades, receive
+      small pensions that cover only the bare necessities.
+  - s: Vi kanske kan vara lite mer generösa med de två minuterna eftersom min föregångare
+      <v>hoppade</v> <p>av</p>.
+    t: Mr President, perhaps we can be a bit more generous with these two minutes
+      since my predecessor is <a>dropping</a> <a>out</a>.
+- c: 1
+  r: 3
+  v: Mexican siesta
+  x:
+  - s: mer Europa, eller att <v>hoppa</v> <p>av</p>.
+    t: Time for reflection, however, ladies and gentlemen, cannot, and must not, become
+      a <a>Mexican</a> <a>siesta</a>.
+- c: 1
+  r: 3
+  v: drop out
+  x:
+  - s: Unga människor som inte klarar skolan och <v>hoppar</v> <p>av</p> ingår i den
+      här gruppen, liksom äldre människor som trots att de har arbetat i årtionden
+      får låga pensioner som bara räcker till det absolut nödvändigaste.
+    t: Young people who cannot cope with school and <a>drop</a> <a>out</a> are part
+      of this group, as are older people who, despite having worked for decades, receive
+      small pensions that cover only the bare necessities.
+  - s: Vi kanske kan vara lite mer generösa med de två minuterna eftersom min föregångare
+      <v>hoppade</v> <p>av</p>.
+    t: Mr President, perhaps we can be a bit more generous with these two minutes
+      since my predecessor is <a>dropping</a> <a>out</a>.
+es:
+- c: 2
+  r: 1
+  v: desertar
+  x:
+  - s: Det stämmer att folkets mujaheddin inte längre är terroriststämplade med det
+      är fortfarande en dunkel sekt som använder sig av våld mot de medlemmar som
+      vill <v>hoppa</v> <p>av</p>.
+    t: Es cierto que los Muyahidines del Pueblo Iraní ya no figuran en la lista de
+      organizaciones terroristas, pero siguen siendo un culto poco transparente que
+      trata de forma brutal a aquellos de sus miembros que desean <a>desertar</a>.
+  - s: Han gavs ofullständig amnesti efter att han <v>hoppade</v> <p>av</p> med cirka
+      10 000 anhängare 1996.
+    t: Le fue concedida una amnistía parcial después de <a>desertar</a> con cerca
+      de 10.000 seguidores en 1996.
+- c: 1
+  r: 2
+  v: haber dimitir
+  x:
+  - s: Vad gäller problemet med en tjänsteman från GD Konkurrens som <v>hoppade</v>
+      <p>av</p>, så har jag redan uttryckt min beklagan rörande detta avhopp.
+    t: Respecto al caso del funcionario de la DG de Competencia que <a>ha</a> <a>dimitido</a>,
+      ya he expresado mi pesar respecto a dicha dimisión.
+- c: 1
+  r: 2
+  v: mantenerse
+  x:
+  - s: Vad som skrevs in i fördraget denna gång var inte rätten att <v>hoppa</v> <p>av</p>
+      utan rätten för medlemsstater att sträva efter integration inom den gemensamma
+      institutionella ramen, utan att bli blockerad av ett veto.
+    t: Lo que figura en el Tratado esta vez no es el derecho a <a>mantenerse</a> al
+      margen, sino el derecho de los Estados miembros a perseguir la integración en
+      el marco institucional único sin quedar bloqueados por un veto.
+- c: 1
+  r: 2
+  v: marchar
+  x:
+  - s: Vi kanske kan vara lite mer generösa med de två minuterna eftersom min föregångare
+      <v>hoppade</v> <p>av</p>.
+    t: Señor Presidente, tal vez podamos ser un poco más generosos con los dos minutos
+      de intervención que me corresponden, ya que mi predecesor se ha tenido que <a>marchar</a>.
+- c: 1
+  r: 2
+  v: echar atrás
+  x:
+  - s: Men nu har jag ju lagt fram ett muntligt ändringsförslag, i samarbete med kommissionen
+      faktiskt, så jag hoppas verkligen att kommissionen inte <v>hoppar</v> <p>av</p>
+      i sista stund.
+    t: No obstante, he presentado una enmienda oral, de hecho en colaboración con
+      la Comisión, de manera que espero pues que la Comisión no se <a>eche</a> ahora
+      <a>atrás</a> en el último momento.
+- c: 1
+  r: 2
+  v: abandonar
+  x:
+  - s: Jag tänker särskilt på dem som har <v>hoppat</v> <p>av</p> sina studier, invandrare
+      och dem som bara talar ett språk eller vars språkkompetens inte är så stor.
+    t: Me refiero en particular a las personas que han <a>abandonado</a> sus estudios,
+      a los inmigrantes y a quienes hablan solo un idioma o tienen menos habilidad
+      para los idiomas.
+fr:
+- c: 3
+  r: 1
+  v: abandonner
+  x:
+  - s: Unga människor som inte klarar skolan och <v>hoppar</v> <p>av</p> ingår i den
+      här gruppen, liksom äldre människor som trots att de har arbetat i årtionden
+      får låga pensioner som bara räcker till det absolut nödvändigaste.
+    t: Les jeunes qui ne s’en sortent pas à l’école et qui <a>abandonnent</a> leurs
+      études font partie de ce groupe, de même que les personnes âgées qui, bien qu’elles
+      aient travaillé pendant des dizaines d’années, perçoivent de faibles pensions
+      qui ne couvrent que le strict nécessaire.
+  - s: Jag tänker särskilt på dem som har <v>hoppat</v> <p>av</p> sina studier, invandrare
+      och dem som bara talar ett språk eller vars språkkompetens inte är så stor.
+    t: Je parle notamment des personnes qui ont <a>abandonné</a> leurs études, les
+      immigrés et les personnes monolingues ou linguistiquement moins compétentes.
+  - s: Det som gör mig mest nedslagen är inställningen hos den europeiska högern,
+      eftersom den var fast besluten från förhandlingarnas början att <v>hoppa</v>
+      <p>av</p> så fort som telefonerna började ringa från stats- eller regeringscheferna.
+    t: Je regrette particulièrement l’attitude de la droite européenne qui s’est montrée
+      plus que déterminée au début des négociations pour <a>abandonner</a> aux premiers
+      coups de téléphone de chefs d’État.
+- c: 1
+  r: 2
+  v: opt
+  x:
+  - s: De ska således inte endast ha valet att <v>hoppa</v> <p>av</p>, vilket skulle
+      lägga ansvaret, ansträngningarna och kostnaderna på upphovsmännens axlar.
+    t: Il ne suffit pas en effet de donner à ces titulaires une possibilité d’<a>opt</a>
+      out (retrait a posteriori) qui obligerait les auteurs à assumer toutes les responsabilités,
+      les efforts et les coûts.
+- c: 1
+  r: 2
+  v: dérober
+  x:
+  - s: Men nu har jag ju lagt fram ett muntligt ändringsförslag, i samarbete med kommissionen
+      faktiskt, så jag hoppas verkligen att kommissionen inte <v>hoppar</v> <p>av</p>
+      i sista stund.
+    t: Or, j’avais déposé un amendement oral - en réalité, de concert avec la Commission
+      - et j’espère que celle-ci ne se <a>dérobera</a> pas à la dernière minute.
+- c: 1
+  r: 2
+  v: démission
+  x:
+  - s: Att ytterligare öka rätten till försvar, förfarandenas öppenhet, inklusive
+      utfrågningstjänstemannens stärkta ställning, är något som ligger mig varmt om
+      hjärtat och som jag tänker på, med beaktande av åtskilliga faktorer som t.ex.
+      de användbara idéer som uttrycktes av denna tjänsteman innan han <v>hoppade</v>
+      <p>av</p>.
+    t: Le renforcement du droit de défense, de la transparence des procédures, y compris
+      le renforcement de la position du conseiller-auditeur, est un sujet auquel j’attache
+      une grande importance et sur lequel je suis occupé à réfléchir, en prenant en
+      compte plusieurs apports, y compris des idées intéressantes émises par ce fonctionnaire
+      lui-même avant sa <a>démission</a>.
+- c: 1
+  r: 2
+  v: avoir démissionner
+  x:
+  - s: Vad gäller problemet med en tjänsteman från GD Konkurrens som <v>hoppade</v>
+      <p>av</p>, så har jag redan uttryckt min beklagan rörande detta avhopp.
+    t: Au sujet du problème d’un fonctionnaire de la DG Concurrence qui <a>a</a> <a>démissionné</a>,
+      j’ai déjà exprimé mes regrets à l’égard de cette démission.
+it:
+- c: 2
+  r: 1
+  v: abbandonare
+  x:
+  - s: Unga människor som inte klarar skolan och <v>hoppar</v> <p>av</p> ingår i den
+      här gruppen, liksom äldre människor som trots att de har arbetat i årtionden
+      får låga pensioner som bara räcker till det absolut nödvändigaste.
+    t: I giovani che non riescono a scuola e la <a>abbandonano</a> fanno parte di
+      questo gruppo, così come gli anziani che, pur avendo lavorato per decenni, percepiscono
+      delle pensioni irrisorie che a malapena coprono i bisogni primari.
+  - s: Jag tänker särskilt på dem som har <v>hoppat</v> <p>av</p> sina studier, invandrare
+      och dem som bara talar ett språk eller vars språkkompetens inte är så stor.
+    t: Il nostro approccio si basa su questo diritto acquisito, rafforza l’importanza
+      dell’apprendimento permanente e mira a coinvolgere i gruppi più vulnerabili
+      della società - mi riferisco in particolare a quelle persone che hanno <a>abbandonato</a>
+      gli studi, agli immigrati e a chi parla una sola lingua o è meno competente
+      dal punto di vista linguistico.
+- c: 1
+  r: 2
+  v: opt-out
+  x:
+  - s: Det står också helt klart att om det finns en klausul som gör det möjligt att
+      <v>hoppa</v> <p>av</p>, då kommer många nationella regeringar inte att ställa
+      den nödvändiga finansieringen till förfogande, vilket resulterar i att förslaget
+      inte genomförs.
+    t: Se esiste una clausola di <a>opt-out</a>, molti governi nazionali non metteranno
+      a disposizione i fondi corrispondenti, con il risultato che la proposta non
+      sarà realizzata;
+- c: 1
+  r: 2
+  v: defezionare
+  x:
+  - s: Det stämmer att folkets mujaheddin inte längre är terroriststämplade med det
+      är fortfarande en dunkel sekt som använder sig av våld mot de medlemmar som
+      vill <v>hoppa</v> <p>av</p>.
+    t: È vero che i mujaheddin del popolo non sono più sulla lista dei terroristi,
+      ma rimangono sempre un culto oscuro che brutalizza gli aderenti che vorrebbero
+      <a>defezionare</a>.
+- c: 1
+  r: 2
+  v: opting-out
+  x:
+  - s: Vad som skrevs in i fördraget denna gång var inte rätten att <v>hoppa</v> <p>av</p>
+      utan rätten för medlemsstater att sträva efter integration inom den gemensamma
+      institutionella ramen, utan att bli blockerad av ett veto.
+    t: Il testo introdotto nel Trattato non riguardava il diritto dell’<a>opting-out</a>,
+      ma il diritto degli Stati membri di far progredire l’integrazione in un quadro
+      istituzionale unico, senza essere bloccati da un veto.
+- c: 1
+  r: 2
+  v: siesta messicano
+  x:
+  - s: mer Europa, eller att <v>hoppa</v> <p>av</p>.
+    t: Ma la pausa di riflessione, cari colleghi, non può e non deve diventare una
+      <a>siesta</a> <a>messicana</a>.
+pt:
+- c: 1
+  r: 1
+  v: lamentar
+  x:
+  - s: Vad gäller problemet med en tjänsteman från GD Konkurrens som <v>hoppade</v>
+      <p>av</p>, så har jag redan uttryckt min beklagan rörande detta avhopp.
+    t: No que se refere ao problema da demissão de um funcionário da Direcção-Geral
+      da Concorrência, <a>lamentei</a> já essa demissão.
+- c: 1
+  r: 1
+  v: sesta mexicano
+  x:
+  - s: mer Europa, eller att <v>hoppa</v> <p>av</p>.
+    t: Mas a pausa para reflexão, Senhoras e Senhores Deputados, não pode nem deve
+      tornar-se uma <a>sesta</a> <a>mexicana</a>.
+- c: 1
+  r: 1
+  v: disponibilizar
+  x:
+  - s: Det står också helt klart att om det finns en klausul som gör det möjligt att
+      <v>hoppa</v> <p>av</p>, då kommer många nationella regeringar inte att ställa
+      den nödvändiga finansieringen till förfogande, vilket resulterar i att förslaget
+      inte genomförs.
+    t: É também evidente que se não for prevista uma cláusula de opção, muitos governos
+      nacionais não <a>disponibilizarão</a> a sua parte do co-financiamento, com o
+      resultado de que a proposta não será aplicada.
+- c: 1
+  r: 1
+  v: desistir
+  x:
+  - s: I stället för de tidigare skillnaderna mellan the have-nots and the haves har
+      vi nu skillnader mellan de som följer med och de som inte följer med eller som
+      <v>hoppar</v> <p>av</p> det här samhället.
+    t: Em vez das antigas diferenças entre havenots and the haves, temos, neste momento,
+      as diferenças entre os que conseguem acompanhar e os que não conseguem acompanhar,
+      ou que <a>desistem</a>, nesta sociedade, facto que constitui um risco enorme.
+- c: 1
+  r: 1
+  v: faltar
+  x:
+  - s: En nyligen genomförd undersökning i Nederländerna har visat att hälften av
+      de unga mödrar som till en början försökt fortsätta arbeta ändå <v>hoppar</v>
+      <p>av</p> efter ett antal månader, med allt vad det efteråt innebär för deras
+      ställning på arbetsmarknaden.
+    t: As palavras são bonitas e podem-se escrever e proferir mas, quando <a>faltam</a>
+      os recursos materiais para pôr as políticas em prática, as palavras não passam
+      de palavras e todos temos sido testemunhas dessa realidade, especialmente no
+      que respeita às questões relacionadas com as mulheres.
+- c: 1
+  r: 1
+  v: fugir
+  x:
+  - s: Det stämmer att folkets mujaheddin inte längre är terroriststämplade med det
+      är fortfarande en dunkel sekt som använder sig av våld mot de medlemmar som
+      vill <v>hoppa</v> <p>av</p>.
+    t: Se é um facto que os Mujahedin do Povo já não constam da lista do terrorismo,
+      também é verdade que continuam a ser uma seita opaca, que brutaliza os membros
+      que querem <a>fugir</a>.

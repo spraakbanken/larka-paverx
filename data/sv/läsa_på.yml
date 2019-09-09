@@ -1,0 +1,128 @@
+---
+de:
+- c: 1
+  r: 1
+  v: haben
+  x:
+  - s: Jag har <v>läst</v> <p>på</p> lite grand och jag har till min glädje upptäckt
+      att brittiska ministrar har varit närvarande vid varje plenarsammanträde under
+      ordförandeskapet.
+    t: Ich <a>habe</a> ein paar Zahlen gesammelt und war sehr erfreut zu sehen, daß
+      an jeder Plenarsitzung während der britischen Ratspräsidentschaft britische
+      Minister teilgenommen haben.
+en:
+- c: 1
+  r: 1
+  v: do
+  x:
+  - s: Jag har <v>läst</v> <p>på</p> lite grand och jag har till min glädje upptäckt
+      att brittiska ministrar har varit närvarande vid varje plenarsammanträde under
+      ordförandeskapet.
+    t: For example, I have been <a>doing</a> a little homework and I have been very
+      pleased to find that British ministers have appeared at every plenary session
+      during the presidency.
+- c: 1
+  r: 1
+  v: read
+  x:
+  - s: Nyligen <v>läste</v> vi <p>på</p> nytt att president Putin omger sig med personer
+      och ber dem komma med förslag om en hållbar politik för att återskapa det lugn
+      och den säkerhet som är möjlig att åstadkomma i Tjetjenien.
+    t: Once again, we <a>read</a> recently that President Putin collects people around
+      him and asks them to moot ideas for a viable policy to inject, where possible,
+      peace and security into Chechnya once again.
+es:
+- c: 1
+  r: 1
+  v: haber documentándo
+  x:
+  - s: Jag har <v>läst</v> <p>på</p> lite grand och jag har till min glädje upptäckt
+      att brittiska ministrar har varit närvarande vid varje plenarsammanträde under
+      ordförandeskapet.
+    t: Por ejemplo, <a>he</a> estado <a>documentándome</a> un poco y me ha complacido
+      mucho descubrir que los ministros británicos han acudido a todas las sesiones
+      plenarias durante la Presidencia.
+- c: 1
+  r: 1
+  v: favor buscar
+  x:
+  - s: <v>Läs</v> <p>på</p> om brott mot mänskliga rättigheter och brutala massinsatser
+      från polisens sida på Internet, och se till att det aldrig kan hända igen.
+    t: Por <a>favor</a>, <a>busquen</a> en Internet información sobre los abusos de
+      los derechos humanos y sobre la brutalidad policial en Hungría y asegúrense
+      de que no vuelve a ocurrir.
+- c: 1
+  r: 1
+  v: leer
+  x:
+  - s: En gemensam ståndpunkt som skall leda fram till ett direktiv om kaffe och cikoria
+      verkar vara en rent teknisk fråga, men den som <v>läst</v> <p>på</p> ordentligt
+      om det här ärendet, och som även gjort det med andra ärenden i livsmedelsfrågor,
+      kan konstatera att de ofta är sammankopplade med politiskt laddade aspekter.
+    t: Señor Presidente, la posición común sobre la adopción de una directiva relativa
+      al café y la achicoria parece ser una cuestión puramente técnica, pero quien
+      <a>lea</a> este expediente con atención y quien proceda de la misma forma con
+      otros expedientes alimentarios, constatará que con frecuencia entran también
+      en juego aspectos políticos.
+fr:
+- c: 1
+  r: 1
+  v: avoir
+  x:
+  - s: Jag har <v>läst</v> <p>på</p> lite grand och jag har till min glädje upptäckt
+      att brittiska ministrar har varit närvarande vid varje plenarsammanträde under
+      ordförandeskapet.
+    t: Par exemple, j’<a>ai</a> un peu travaillé chez moi et j’ai découvert à ma grande
+      joie que des ministres britanniques ont assisté à chacune des sessions plénières
+      au cours de cette présidence.
+- c: 1
+  r: 1
+  v: apprendre
+  x:
+  - s: Nyligen <v>läste</v> vi <p>på</p> nytt att president Putin omger sig med personer
+      och ber dem komma med förslag om en hållbar politik för att återskapa det lugn
+      och den säkerhet som är möjlig att åstadkomma i Tjetjenien.
+    t: Récemment, nous avons <a>appris</a> que le président Poutine s’entoure actuellement
+      de personnes qui ont pour mission de trouver des idées qui devront permettre
+      d’appliquer une politique réaliste, qui rende à la Tchétchénie autant de calme
+      et de sécurité que possible.
+- c: 1
+  r: 1
+  v: lit
+  x:
+  - s: En gemensam ståndpunkt som skall leda fram till ett direktiv om kaffe och cikoria
+      verkar vara en rent teknisk fråga, men den som <v>läst</v> <p>på</p> ordentligt
+      om det här ärendet, och som även gjort det med andra ärenden i livsmedelsfrågor,
+      kan konstatera att de ofta är sammankopplade med politiskt laddade aspekter.
+    t: Monsieur le Président, la position de l’Union visant à adopter une directive
+      sur le café et la chicorée semble être une simple question technique, mais quiconque
+      <a>lit</a> avec attention ce dossier ou d’autres dossiers dans le secteur alimentaire
+      réalisera que cela implique souvent des aspects nettement politiques.
+pt:
+- c: 1
+  r: 1
+  v: ler
+  x:
+  - s: i annat fall skickar vi er en kopia så ni kan <v>läsa</v> <p>på</p> inför ert
+      arbetsprogram.
+    t: se não ouviste, enviar-te-emos uma cópia para que possas <a>lê</a>-lo já para
+      o teu programa de trabalho.
+- c: 1
+  r: 1
+  v: favor pesquisa
+  x:
+  - s: <v>Läs</v> <p>på</p> om brott mot mänskliga rättigheter och brutala massinsatser
+      från polisens sida på Internet, och se till att det aldrig kan hända igen.
+    t: Por <a>favor</a>, façam algumas <a>pesquisas</a> na Internet sobre as violações
+      dos direitos humanos e as brutalidades policiais cometidas em massa na Hungria
+      e certifiquem-se de que tal não pode acontecer, nunca mais.
+- c: 1
+  r: 1
+  v: fazer
+  x:
+  - s: Jag har <v>läst</v> <p>på</p> lite grand och jag har till min glädje upptäckt
+      att brittiska ministrar har varit närvarande vid varje plenarsammanträde under
+      ordförandeskapet.
+    t: Por exemplo, estive a <a>fazer</a> umas revisões e verifiquei com muita satisfação
+      que houve ministros britânicos presentes em todas as sessões plenárias realizadas
+      durante esta Presidência.

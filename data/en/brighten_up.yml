@@ -1,0 +1,61 @@
+---
+de:
+- c: 1
+  r: 1
+  v: erstrahlen
+  x:
+  - s: we would like to see the carnations that <v>brightened</v> <p>up</p> Portugal
+      do the same in Cuba;
+    t: wir möchten sehen, wie die Nelken, die Portugal haben <a>erstrahlen</a> lassen,
+      das gleiche in Kuba tun;
+es:
+- c: 1
+  r: 1
+  v: animarse
+  x:
+  - s: Our Quaestors are going to ascertain as quickly as possible what can be done
+      that is not too costly and which respects the artistic copyright of the building
+      designers, so that the rather miserable areas can be <v>brightened</v> <p>up</p>.
+    t: Nuestros cuestores van a examinar lo antes posible todo lo que se podría hacer
+      que no fuera muy caro, y respetando la propiedad artística de los autores del
+      edificio, para que los lugares un poco tristes pudieran <a>animarse</a>.
+fr:
+- c: 1
+  r: 1
+  v: égayer
+  x:
+  - s: Our Quaestors are going to ascertain as quickly as possible what can be done
+      that is not too costly and which respects the artistic copyright of the building
+      designers, so that the rather miserable areas can be <v>brightened</v> <p>up</p>.
+    t: Nos questeurs vont examiner le plus rapidement possible tout ce que nous pourrions
+      faire de moins coûteux, et dans le respect de la propriété artistique des auteurs
+      du bâtiment, pour que les endroits un peu tristes puissent être <a>égayés</a>.
+it:
+- c: 1
+  r: 1
+  v: ravvivato
+  x:
+  - s: Our Quaestors are going to ascertain as quickly as possible what can be done
+      that is not too costly and which respects the artistic copyright of the building
+      designers, so that the rather miserable areas can be <v>brightened</v> <p>up</p>.
+    t: I questori esamineranno il più rapidamente possibile ciò che si potrebbe fare,
+      a costi ridotti e nel rispetto della proprietà artistica degli autori dell’edificio,
+      affinché i luoghi un po’ tristi possano essere <a>ravvivati</a>.
+pt:
+- c: 2
+  r: 1
+  v: alegrar
+  x:
+  - s: we would like to see the carnations that <v>brightened</v> <p>up</p> Portugal
+      do the same in Cuba;
+    t: Ora, o que nós queremos agora é que Cuba possa ser o «Portugal das Caraíbas»,
+      que os cravos que <a>alegraram</a> o nosso país possam brilhar também em Cuba,
+      que nós possamos partilhar da alegria, da cor e do calor da cultura cubana,
+      cultura que muito apreciamos, muito estimamos e queremos ver sorrir e crescer
+      em liberdade.
+  - s: Our Quaestors are going to ascertain as quickly as possible what can be done
+      that is not too costly and which respects the artistic copyright of the building
+      designers, so that the rather miserable areas can be <v>brightened</v> <p>up</p>.
+    t: Os nossos questores vão analisar o mais rapidamente possível tudo o que poderíamos
+      fazer sem gastar muito, e no respeito pela propriedade artística dos autores
+      do edifício, para que os locais um pouco tristes possam ser <a>alegrados</a>.

@@ -1,0 +1,131 @@
+---
+en:
+- c: 1
+  r: 1
+  v: strap
+  x:
+  - s: Om ni hade säkerhetsbälten skulle jag be er att <v>spänna</v> <p>fast</p> er.
+    t: Colleagues, if you had seatbelts I would tell you to <a>strap</a> yourselves
+      in.
+- c: 1
+  r: 1
+  v: fasten
+  x:
+  - s: Kom ihåg att <v>spänna</v> <p>fast</p> bilbältet även i baksätet!
+    t: Remember to <a>fasten</a> your safety belt in the back too.
+es:
+- c: 1
+  r: 1
+  v: asegurar
+  x:
+  - s: Det får inte längre vara tillåtet att <v>spänna</v> <p>fast</p> större barn
+      med de bälten som är avsedda för vuxna.
+    t: Tampoco puede seguir siendo admisible el uso de cinturones de seguridad para
+      adultos para <a>asegurar</a> a los niños de más edad.
+- c: 1
+  r: 1
+  v: abrochar
+  x:
+  - s: Kom ihåg att <v>spänna</v> <p>fast</p> bilbältet även i baksätet!
+    t: ¡Acuérdense de <a>abrocharse</a> el cinturón también en el asiento trasero!
+- c: 1
+  r: 1
+  v: sujétense
+  x:
+  - s: Bara som en säkerhetsåtgärd, om ni har ett säkerhetsbälte, så <v>spänn</v>
+      <p>fast</p> er.
+    t: Como precaución, si tienen un cinturón de seguridad, <a>sujétense</a>.
+fr:
+- c: 1
+  r: 1
+  v: suggérer attacher
+  x:
+  - s: Om ni hade säkerhetsbälten skulle jag be er att <v>spänna</v> <p>fast</p> er.
+    t: Chers collègues, si vous aviez des ceintures de sécurité, je vous <a>suggérerais</a>
+      de les <a>attacher</a>.
+- c: 1
+  r: 1
+  v: attacher
+  x:
+  - s: Kom ihåg att <v>spänna</v> <p>fast</p> bilbältet även i baksätet!
+    t: Pensez à <a>attacher</a> vos ceintures à l’arrière aussi.
+it:
+- c: 1
+  r: 1
+  v: allacciare
+  x:
+  - s: Kom ihåg att <v>spänna</v> <p>fast</p> bilbältet även i baksätet!
+    t: Ricordatevi di <a>allacciare</a> le cinture anche sui sedili posteriori.
+- c: 1
+  r: 1
+  v: ancorare
+  x:
+  - s: Kommissionens förslag är en skärpning av ett tidigare direktiv som innebär
+      att samtliga passagerare i fordon som är utrustade med säkerhetsbälten skall
+      använda dessa, att alla barn skall <v>spännas</v> <p>fast</p> i godkända bilbarnstolar,
+      undantagen försvinner, att barn under tre år inte får åka i en bil utan lämplig
+      bilbarnstol, med undantag av taxibil, och att användningen av bakåtvända bilbarnstolar
+      förbjuds om krockkudden inte har avaktiverats.
+    t: tutti gli occupanti di un veicolo munito di cinture di sicurezza sono tenuti
+      a utilizzarle, tutti i bambini debbono essere <a>ancorati</a> a seggiolini omologati,
+      non sono più ammesse deroghe, i bambini al di sotto dei tre anni d’età non possono
+      salire a bordo di una vettura priva di un seggiolino adeguato con la sola eccezione
+      dei taxi, mentre l’uso di seggiolini rivolti all’indietro viene proibito se
+      l’airbag non è stato disattivato.
+- c: 1
+  r: 1
+  v: tenere forte
+  x:
+  - s: Om ni hade säkerhetsbälten skulle jag be er att <v>spänna</v> <p>fast</p> er.
+    t: Colleghi, <a>tenetevi</a> <a>forte</a>.
+- c: 1
+  r: 1
+  v: affrettare
+  x:
+  - s: Bara som en säkerhetsåtgärd, om ni har ett säkerhetsbälte, så <v>spänn</v>
+      <p>fast</p> er.
+    t: Vi consiglio quindi di allacciare le cinture di sicurezza, come io stesso mi
+      <a>affretterò</a> a fare.
+pt:
+- c: 1
+  r: 1
+  v: bem
+  x:
+  - s: Bara som en säkerhetsåtgärd, om ni har ett säkerhetsbälte, så <v>spänn</v>
+      <p>fast</p> er.
+    t: Por uma questão de precaução, se têm um cinto de segurança, <a>apertem-no</a>
+      <a>bem</a>.
+- c: 1
+  r: 1
+  v: apertar
+  x:
+  - s: Aktivt påhejade av EU vill de i framtiden <v>spänna</v> <p>fast</p> länder
+      som Portugal ännu hårdare i tvångströjan, och göra dem till måltavla för förnedrande
+      tryck, utpressning och hot i fråga om finansiellt kapital.
+    t: Querem, no futuro, <a>apertar</a> ainda mais o colete-de-forças sobre países,
+      como Portugal, alvo de aviltantes pressões, chantagens e ameaças por parte do
+      capital financeiro, com a cumplicidade activa da UE.
+- c: 1
+  r: 1
+  v: apertar cinto
+  x:
+  - s: Kom ihåg att <v>spänna</v> <p>fast</p> bilbältet även i baksätet!
+    t: Lembrem-se de <a>apertar</a> os <a>cintos</a> de segurança, mesmo no banco
+      de trás.
+- c: 1
+  r: 1
+  v: transportar
+  x:
+  - s: Kommissionens förslag är en skärpning av ett tidigare direktiv som innebär
+      att samtliga passagerare i fordon som är utrustade med säkerhetsbälten skall
+      använda dessa, att alla barn skall <v>spännas</v> <p>fast</p> i godkända bilbarnstolar,
+      undantagen försvinner, att barn under tre år inte får åka i en bil utan lämplig
+      bilbarnstol, med undantag av taxibil, och att användningen av bakåtvända bilbarnstolar
+      förbjuds om krockkudden inte har avaktiverats.
+    t: A proposta da Comissão constitui um reforço de uma directiva anterior e estipula
+      que todos os passageiros de veículos equipados com cintos de segurança sejam
+      obrigados a usá-los, que todas as crianças sejam <a>transportadas</a> em cadeiras
+      de bebé homologadas, sem excepção, que as crianças de idade inferior a três
+      anos não possam ser transportadas em viaturas sem a cadeira de bebé adequada,
+      à excepção do transporte em táxis, e que a utilização de cadeiras de bebé viradas
+      para a retaguarda seja proibida se não tiver sido desactivado o «airbag».

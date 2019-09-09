@@ -1,0 +1,503 @@
+---
+de:
+- c: 2
+  r: 1
+  v: wachrütteln
+  x:
+  - s: Det är egentligen tragiskt att det först krävdes sådana händelser som dessa
+      dramatiska terrorattacker i New York och Washington för att Europa och särskilt
+      Europeiska rådet skulle <v>skakas</v> <p>om</p>.
+    t: Es ist eigentlich tragisch, dass es zuerst eines Ereignisses wie dieser dramatischen
+      Terrorattacken in New York und in Washington bedurfte, damit Europa und insbesondere
+      der Europäische Rat <a>wachgerüttelt</a> wurden.
+  - s: Det parlamentariska undersökningsarbetet och de politiska påtryckningar som
+      utövats på kommissionen har <v>skakat</v> <p>om</p> denna och fått en hel del
+      saker att hända inom gemenskapen.
+    t: Die Arbeit des parlamentarischen Untersuchungsausschusses und der auf die Kommission
+      ausgeübte politische Druck haben die Kommission <a>wachgerüttelt</a> und bei
+      der Gemeinschaft einiges in Bewegung gebracht.
+- c: 2
+  r: 1
+  v: erschüttern
+  x:
+  - s: Kränkningar av den fysiska och psykiska integriteten, våldtäkt, mord, tortyr,
+      inspärrning, har <v>skakat</v> <p>om</p> till och med landets institutioner.
+    t: Angriffe auf die körperliche und geistige Unversehrtheit, Vergewaltigung, Mord,
+      Folter und Freiheitsberaubungen haben die Institutionen dieses Landes bis in
+      die Grundfesten <a>erschüttert</a>.
+  - s: Jag skall inte breda ut mig här i kväll om skandalerna med smittat blod, som
+      med rätta fått förtroendet att svikta och som dessutom <v>skakat</v> <p>om</p>
+      några politiskt ansvariga på grund av bristande vaksamhet eller till och med
+      brist på kompetens.
+    t: Ich werde mich heute Abend nicht über die Skandale mit verseuchtem Blut auslassen,
+      die dieses Vertrauen verständlicherweise <a>erschüttert</a> und einige Politiker,
+      die sich der Nachlässigkeit oder gar der Inkompetenz schuldig gemacht hatten,
+      in starke Bedrängnis gebracht haben.
+- c: 1
+  r: 2
+  v: auflegen
+  x:
+  - s: Eller kommer Europa också att utforma en stödpolitik för de ekonomiska sektorer
+      som <v>skakades</v> <p>om</p> av den barbariska chocken?
+    t: Oder wird es ebenfalls eine Politik der Unterstützung für die durch den barbarischen
+      Schock erschütterten Wirtschaftssektoren <a>auflegen</a>?
+- c: 1
+  r: 2
+  v: durcheinanderwirbeln
+  x:
+  - s: Jag vill här gratulera Philippe de Coene till hans utmärkta arbete, och inte
+      bara för att jag instämmer i hans analys, utan också för att denna analys förmodligen
+      kommer att ”<v>skaka</v> <p>om</p>” vissa av kommissionens avdelningar, och
+      framför allt medlemsstaterna.
+    t: Ich möchte Philippe de Coene zu seiner guten Arbeit beglückwünschen, nicht
+      nur weil ich mich seiner Analyse anschließe, sondern auch weil diese Analyse
+      wahrscheinlich einige Dienststellen der Kommission und vor allem der Mitgliedstaaten
+      „<a>durcheinanderwirbeln</a>“ wird.
+- c: 1
+  r: 2
+  v: durchschütteln
+  x:
+  - s: Jag är benägen att säga till kommissionären att - utan att ta hänsyn till vad
+      man kallar det eller hur man uppnår det - man måste ta problemet, <v>skaka</v>
+      <p>om</p> det ordentligt, gå vidare med det och försöka tvinga medlemsstaterna
+      att få till stånd det resultat som alla håller med om krävs, och ta reda på
+      hur det egentligen kommer att påverka industrin.
+    t: Sie sollten meiner Meinung nach das Problem packen, es gut <a>durchschütteln</a>,
+      weitermachen und die Mitgliedstaaten zwingen, das Ergebnis herbeizuführen, das
+      jeder für erforderlich hält, sowie klären, welche tatsächlichen Auswirkungen
+      es auf den Wirtschaftszweig hat.
+- c: 1
+  r: 2
+  v: haben Erschütterung
+  x:
+  - s: Detta har <v>skakat</v> <p>om</p> ordentligt även i U-länderna.
+    t: Das <a>hat</a> auch in den Entwicklungsländern heftige <a>Erschütterungen</a>
+      ausgelöst.
+en:
+- c: 2
+  r: 1
+  v: shake up
+  x:
+  - s: Vidare har vi informationssamhället som kommer att <v>skaka</v> <p>om</p> handeln
+      i grunden och ändra förhållandet både till konsumenten och till bankväsendet.
+    t: Furthermore, there is the information society which will thoroughly <a>shake</a>
+      <a>up</a> commerce and the relationship with both the consumer and the banks
+      will change.
+  - s: 'Jag välkomnar åtgärden att <v>skaka</v> <p>om</p> Europas energimarknader:'
+    t: 'I welcome the move to <a>shake</a> <a>up</a> Europe’s energy markets:'
+- c: 1
+  r: 2
+  v: shake down
+  x:
+  - s: Jag skall inte breda ut mig här i kväll om skandalerna med smittat blod, som
+      med rätta fått förtroendet att svikta och som dessutom <v>skakat</v> <p>om</p>
+      några politiskt ansvariga på grund av bristande vaksamhet eller till och med
+      brist på kompetens.
+    t: I shall not speak tonight about the contaminated blood scandals, which understandably
+      <a>shook</a> this confidence and which, furthermore, brought <a>down</a> some
+      political leaders who sinned through lack of vigilance, not to say incompetence.
+- c: 1
+  r: 2
+  v: slumber
+  x:
+  - s: Det är egentligen tragiskt att det först krävdes sådana händelser som dessa
+      dramatiska terrorattacker i New York och Washington för att Europa och särskilt
+      Europeiska rådet skulle <v>skakas</v> <p>om</p>.
+    t: Madam President, Commissioner, ladies and gentlemen, it is actually tragic
+      that it took an event like the dramatic terrorist attacks in New York and in
+      Washington to rouse Europe, and the European Council in particular, from <a>slumber</a>,
+      but I am glad that we have managed in such a very short time to put together
+      a package - a counter-terrorism package.
+- c: 1
+  r: 2
+  v: shake
+  x:
+  - s: Jag är benägen att säga till kommissionären att - utan att ta hänsyn till vad
+      man kallar det eller hur man uppnår det - man måste ta problemet, <v>skaka</v>
+      <p>om</p> det ordentligt, gå vidare med det och försöka tvinga medlemsstaterna
+      att få till stånd det resultat som alla håller med om krävs, och ta reda på
+      hur det egentligen kommer att påverka industrin.
+    t: I would be inclined to say to the Commissioner that, no matter what you call
+      it or how you achieve it, what you should do is to take the problem, give it
+      a good <a>shaking</a>, get on with it and to try and force Member States to
+      bring about the result everyone agrees is required and sort out how it will
+      really affect the industry.
+- c: 1
+  r: 2
+  v: weaken
+  x:
+  - s: Eller kommer Europa också att utforma en stödpolitik för de ekonomiska sektorer
+      som <v>skakades</v> <p>om</p> av den barbariska chocken?
+    t: Or will she also establish a policy to support those economic sectors <a>weakened</a>
+      by this terrible shock?
+- c: 1
+  r: 2
+  v: about
+  x:
+  - s: Jag vill här gratulera Philippe de Coene till hans utmärkta arbete, och inte
+      bara för att jag instämmer i hans analys, utan också för att denna analys förmodligen
+      kommer att ”<v>skaka</v> <p>om</p>” vissa av kommissionens avdelningar, och
+      framför allt medlemsstaterna.
+    t: I must congratulate Philippe De Coene on the excellent work he has done, not
+      only because I agree with his analysis, but also because it has probably given
+      certain Commission services and in particular the Member States something to
+      think <a>about</a>.
+- c: 1
+  r: 2
+  v: strong repercussion
+  x:
+  - s: Detta har <v>skakat</v> <p>om</p> ordentligt även i U-länderna.
+    t: They also had <a>strong</a> <a>repercussions</a> in the developing countries.
+- c: 1
+  r: 2
+  v: upset
+  x:
+  - s: Detta förhållande har under de senaste månaderna <v>skakats</v> <p>om</p> av
+      just detta uttagningsförfarande.
+    t: That relationship has been <a>upset</a> by this very selection process in the
+      last few months.
+es:
+- c: 1
+  r: 1
+  v: remover
+  x:
+  - s: Kränkningar av den fysiska och psykiska integriteten, våldtäkt, mord, tortyr,
+      inspärrning, har <v>skakat</v> <p>om</p> till och med landets institutioner.
+    t: Los ataques contra la integridad física y mental, las violaciones, los asesinatos,
+      las torturas y los secuestros, han <a>removido</a> hasta las propias instituciones
+      de este país.
+- c: 1
+  r: 1
+  v: revolucionar
+  x:
+  - s: Jag vill här gratulera Philippe de Coene till hans utmärkta arbete, och inte
+      bara för att jag instämmer i hans analys, utan också för att denna analys förmodligen
+      kommer att ”<v>skaka</v> <p>om</p>” vissa av kommissionens avdelningar, och
+      framför allt medlemsstaterna.
+    t: Querría felicitar aquí a Philippe de Coene por el trabajo de gran calidad que
+      ha realizado, no sólo porque comparto su análisis, sino también porque probablemente
+      «<a>revoluciona</a>» determinados servicios de la Comisión y, sobre todo, de
+      los Estados miembros.
+- c: 1
+  r: 1
+  v: haber
+  x:
+  - s: Såsom ni kanske också har konstaterat ville jag, så snart jag fått vetskap
+      om Yaguine Koitas och Fodé Tounkaras död under ovanligt tragiska omständigheter,
+      klargöra att dessa dödsfall verkligen <v>skakat</v> <p>om</p> mig.
+    t: Señorías, como quizá también lo sepan, tan pronto como me he enterado del fallecimiento,
+      en circunstancias particularmente dramáticas, de Yaguine Koita y de Fodé Tounkara,
+      he deseado transmitir la consternación que estas muertes trágicas me <a>han</a>
+      causado.
+- c: 1
+  r: 1
+  v: torno
+  x:
+  - s: Därför är det viktigt att Europaparlament höjer sin röst för att å det bestämdaste
+      och utan förmildranden fördöma den människoslakt som <v>skakat</v> <p>om</p>
+      folkopinionen i hela världen.
+    t: La masacre de 45 indígenas a finales de diciembre y los problemas persistentes
+      desde ese momento, demuestran que los problemas en <a>torno</a> a las acciones
+      paramilitares y a la impunibilidad no se han solucionado todavía.
+- c: 1
+  r: 1
+  v: sopor
+  x:
+  - s: Det är egentligen tragiskt att det först krävdes sådana händelser som dessa
+      dramatiska terrorattacker i New York och Washington för att Europa och särskilt
+      Europeiska rådet skulle <v>skakas</v> <p>om</p>.
+    t: Señora Presidenta, señor Comisario, Señorías, en realidad es un hecho trágico
+      que haya sido necesario que ocurriera un suceso tan dramático como los ataques
+      terroristas de Nueva York y Washington para despertar de su <a>sopor</a> a Europa
+      y en particular al Consejo Europeo.
+- c: 1
+  r: 1
+  v: causar alteración profundo
+  x:
+  - s: Vidare har vi informationssamhället som kommer att <v>skaka</v> <p>om</p> handeln
+      i grunden och ändra förhållandet både till konsumenten och till bankväsendet.
+    t: Por otra parte, el auge de la sociedad de la información <a>causará</a> <a>alteraciones</a>
+      <a>profundas</a> en el sistema comercial, así como en sus relaciones, tanto
+      con los consumidores como con los bancos.
+- c: 1
+  r: 1
+  v: debilitar
+  x:
+  - s: Eller kommer Europa också att utforma en stödpolitik för de ekonomiska sektorer
+      som <v>skakades</v> <p>om</p> av den barbariska chocken?
+    t: ¿O va también a definir una política de apoyo a los sectores económicos <a>debilitados</a>
+      por el ataque salvaje?
+- c: 1
+  r: 1
+  v: dar
+  x:
+  - s: Jag är benägen att säga till kommissionären att - utan att ta hänsyn till vad
+      man kallar det eller hur man uppnår det - man måste ta problemet, <v>skaka</v>
+      <p>om</p> det ordentligt, gå vidare med det och försöka tvinga medlemsstaterna
+      att få till stånd det resultat som alla håller med om krävs, och ta reda på
+      hur det egentligen kommer att påverka industrin.
+    t: Me inclinaría a decir al Sr. Comisario que, con independencia de cómo lo denomine
+      o cómo lo logre, lo que debe hacer es afrontar el problema, <a>darle</a> una
+      buena sacudida, seguir adelante e intentar obligar a los Estados miembros a
+      que alcancen el resultado que todos consideramos necesario y que averigüen cómo
+      éste afectará realmente al sector.
+- c: 1
+  r: 1
+  v: fuerte sacudir
+  x:
+  - s: Detta har <v>skakat</v> <p>om</p> ordentligt även i U-länderna.
+    t: Esto también ha provocado <a>fuertes</a> <a>sacudidas</a> en los países en
+      vías de desarrollo, cuyos efectos persisten aún.
+fr:
+- c: 3
+  r: 1
+  v: secouer
+  x:
+  - s: Vi hoppas, Patijn, att ni kommer att lyckas <v>skaka</v> <p>om</p> alla europeiska
+      regeringar.
+    t: Nous espérons, Monsieur Patijn, que vous saurez <a>secouer</a> tous les gouvernements
+      européens.
+  - s: Det är egentligen tragiskt att det först krävdes sådana händelser som dessa
+      dramatiska terrorattacker i New York och Washington för att Europa och särskilt
+      Europeiska rådet skulle <v>skakas</v> <p>om</p>.
+    t: Madame la Présidente, Monsieur le Commissaire, chers collègues, il est tragique
+      qu’il ait fallu un événement comme les terribles attaques terroristes du 11
+      septembre à New York et à Washington pour <a>secouer</a> l’Europe, et en particulier
+      le Conseil européen.
+  - s: Det parlamentariska undersökningsarbetet och de politiska påtryckningar som
+      utövats på kommissionen har <v>skakat</v> <p>om</p> denna och fått en hel del
+      saker att hända inom gemenskapen.
+    t: Le travail d’enquête parlementaire et la pression politique exercée sur la
+      Commission ont <a>secoué</a> cette dernière et fait bouger pas mal de choses
+      sur le plan communautaire.
+- c: 3
+  r: 1
+  v: ébranler
+  x:
+  - s: Eller kommer Europa också att utforma en stödpolitik för de ekonomiska sektorer
+      som <v>skakades</v> <p>om</p> av den barbariska chocken?
+    t: Ou va-t-elle également définir une politique de soutien aux secteurs économiques
+      <a>ébranlés</a> par le choc barbare ?
+  - s: Jag skall inte breda ut mig här i kväll om skandalerna med smittat blod, som
+      med rätta fått förtroendet att svikta och som dessutom <v>skakat</v> <p>om</p>
+      några politiskt ansvariga på grund av bristande vaksamhet eller till och med
+      brist på kompetens.
+    t: Je n’épiloguerai pas ce soir sur les scandales du sang contaminé, qui ont <a>ébranlé</a>
+      à juste titre cette confiance et, par ailleurs, bousculé quelques responsables
+      politiques pour avoir péché par manque de vigilance, sinon par incompétence.
+  - s: Om vi inte kan hålla utvidgningen under kontroll finns det risk för att vi
+      kommer att uppleva extrema politiska urladdningar som kan <v>skaka</v> <p>om</p>
+      hela unionen.
+    t: Si nous ne sommes pas capables de gérer l’élargissement de façon contrôlée
+      et de telle sorte qu’il reçoive l’adhésion des citoyens, nous risquons d’assister
+      à des explosions de violence politique extrémiste qui <a>ébranleront</a> toute
+      l’Union européenne.
+- c: 1
+  r: 2
+  v: remuer
+  x:
+  - s: Kränkningar av den fysiska och psykiska integriteten, våldtäkt, mord, tortyr,
+      inspärrning, har <v>skakat</v> <p>om</p> till och med landets institutioner.
+    t: Les atteintes à l’intégrité physique et mentale, le viol, les assassinats,
+      les tortures, les séquestrations, ont <a>remué</a> jusqu’aux institutions de
+      ce pays.
+- c: 1
+  r: 2
+  v: relatif
+  x:
+  - s: Därför är det viktigt att Europaparlament höjer sin röst för att å det bestämdaste
+      och utan förmildranden fördöma den människoslakt som <v>skakat</v> <p>om</p>
+      folkopinionen i hela världen.
+    t: Le massacre de 45 indiens survenu à la fin du mois de décembre et les problèmes
+      incessants observés depuis ce moment donnent à penser que les problèmes <a>relatifs</a>
+      aux actions paramilitaires et à l’impunité ne sont pas encore résolus.
+- c: 1
+  r: 2
+  v: venir bousculer
+  x:
+  - s: Två nya händelser har dock <v>skakat</v> <p>om</p> den nuvarande situationen.
+    t: Deux événements nouveaux sont <a>venus</a> <a>bousculer</a> la donne.
+- c: 1
+  r: 2
+  v: officiel
+  x:
+  - s: Detta förhållande har under de senaste månaderna <v>skakats</v> <p>om</p> av
+      just detta uttagningsförfarande.
+    t: Notre langue n’est pas <a>officielle</a> au sein de l’État espagnol, et cet
+      État ne reconnaît pas notre droit à l’autodétermination.
+- c: 1
+  r: 2
+  v: bousculer
+  x:
+  - s: Jag vill här gratulera Philippe de Coene till hans utmärkta arbete, och inte
+      bara för att jag instämmer i hans analys, utan också för att denna analys förmodligen
+      kommer att ”<v>skaka</v> <p>om</p>” vissa av kommissionens avdelningar, och
+      framför allt medlemsstaterna.
+    t: Je tiens ici à féliciter Philippe de Coene pour le travail de qualité qu’il
+      a fourni, non seulement parce que je partage son analyse, mais aussi parce qu’elle
+      «<a>bouscule</a>» probablement certains services de la Commission et surtout
+      des États membres.
+- c: 1
+  r: 2
+  v: bras
+  x:
+  - s: Jag är benägen att säga till kommissionären att - utan att ta hänsyn till vad
+      man kallar det eller hur man uppnår det - man måste ta problemet, <v>skaka</v>
+      <p>om</p> det ordentligt, gå vidare med det och försöka tvinga medlemsstaterna
+      att få till stånd det resultat som alla håller med om krävs, och ta reda på
+      hur det egentligen kommer att påverka industrin.
+    t: J’aurais envie de dire au commissaire que, quel que soit le nom que l’on donne
+      au procédé ou la manière dont il sera mené à bien, je pense qu’il faut prendre
+      ce problème à <a>bras</a> le corps, s’y atteler, essayer de forcer les États
+      membres à fournir le résultat que tout le monde considère comme indispensable
+      et déterminer dans quelle mesure il affectera réellement l’industrie.
+it:
+- c: 2
+  r: 1
+  v: scuotere
+  x:
+  - s: Kränkningar av den fysiska och psykiska integriteten, våldtäkt, mord, tortyr,
+      inspärrning, har <v>skakat</v> <p>om</p> till och med landets institutioner.
+    t: Gli attentati all’integrità fisica e mentale, lo stupro, gli assassini, le
+      torture, i sequestri hanno <a>scosso</a> persino le istituzioni.
+  - s: Det parlamentariska undersökningsarbetet och de politiska påtryckningar som
+      utövats på kommissionen har <v>skakat</v> <p>om</p> denna och fått en hel del
+      saker att hända inom gemenskapen.
+    t: L’attività d’inchiesta parlamentare e di pressione politica esercitata sulla
+      Commissione hanno <a>scosso</a> quest’ultima e fatto smuovere parecchie cose
+      sul piano comunitario.
+- c: 1
+  r: 2
+  v: avere
+  x:
+  - s: Detta har <v>skakat</v> <p>om</p> ordentligt även i U-länderna.
+    t: Ciò <a>ha</a> portato, anche nei paesi in via di sviluppo, ad enormi rivolgimenti,
+      di cui si avvertono ancora i sussulti.
+- c: 1
+  r: 2
+  v: riorganizzare
+  x:
+  - s: 'Jag välkomnar åtgärden att <v>skaka</v> <p>om</p> Europas energimarknader:'
+    t: Accolgo con favore l’iniziativa volta a <a>riorganizzare</a> i mercati europei
+      dell’energia elettrica, che in questo modo diventeranno più aperti ed accessibili
+      a tutti.
+- c: 1
+  r: 2
+  v: ribaltare
+  x:
+  - s: Jag är benägen att säga till kommissionären att - utan att ta hänsyn till vad
+      man kallar det eller hur man uppnår det - man måste ta problemet, <v>skaka</v>
+      <p>om</p> det ordentligt, gå vidare med det och försöka tvinga medlemsstaterna
+      att få till stånd det resultat som alla håller med om krävs, och ta reda på
+      hur det egentligen kommer att påverka industrin.
+    t: Sarei tentato di dire al Commissario che, a prescindere dal nome che gli si
+      attribuisce o dai mezzi utilizzati, il problema va preso di petto, <a>ribaltato</a>
+      da cima a fondo, risolto in qualche modo tentando di obbligare gli Stati membri
+      a produrre il risultato che tutti ritengono necessario e cercando di capire
+      quali saranno le ripercussioni concrete sul settore.
+- c: 1
+  r: 2
+  v: ricordare
+  x:
+  - s: Fallet Samira har <v>skakat</v> <p>om</p> vårt samhälle och Belgien har genomfört
+      en del justeringar för att öka lagens respekt för den enskilda människan och
+      naturligtvis förbjuda användningen av ”kudde”, samtidigt som man bibehåller
+      lagens politiska huvudinriktning.
+    t: Desidero, inoltre, <a>ricordare</a> che in Belgio nessun ministro ha dato le
+      dimissioni nell’estate del 1996, quando furono rinvenuti i cadaveri dei quattro
+      bambini nell’ambito del caso Dutroux, che nessuno ha dato le dimissioni quando
+      in Ruanda dieci paracadutisti furono orrendamente massacrati e che nessuno dà
+      le dimissioni quando nel mio paese, con la regolarità di un orologio, la popolazione
+      autoctona è vittima di stupri, rapine o assassini ad opera, ad esempio, di immigrati
+      illegali o richiedenti asilo.
+- c: 1
+  r: 2
+  v: risvegliare
+  x:
+  - s: Det är egentligen tragiskt att det först krävdes sådana händelser som dessa
+      dramatiska terrorattacker i New York och Washington för att Europa och särskilt
+      Europeiska rådet skulle <v>skakas</v> <p>om</p>.
+    t: Signora Presidente, signor Commissario, onorevoli colleghi, è tragico che ci
+      siano voluti eventi come i drammatici attentati terroristici di New York e Washington
+      perché l’Europa e in particolare il Consiglio si <a>risvegliassero</a>.
+- c: 1
+  r: 2
+  v: sconvolgere
+  x:
+  - s: Såsom ni kanske också har konstaterat ville jag, så snart jag fått vetskap
+      om Yaguine Koitas och Fodé Tounkaras död under ovanligt tragiska omständigheter,
+      klargöra att dessa dödsfall verkligen <v>skakat</v> <p>om</p> mig.
+    t: Cari colleghi, come avrete forse sentito, non appena ho appreso del decesso
+      in condizioni particolarmente tragiche di Yaguine Koita e di Fodé Tounkara,
+      ho voluto esprimere quanto tali morti mi abbiano <a>sconvolto</a>.
+- c: 1
+  r: 2
+  v: terrorista
+  x:
+  - s: Eller kommer Europa också att utforma en stödpolitik för de ekonomiska sektorer
+      som <v>skakades</v> <p>om</p> av den barbariska chocken?
+    t: Ma con questo tipo di tutela dei dati abbiamo reso un servizio più ai <a>terroristi</a>
+      che alle loro vittime.
+- c: 1
+  r: 2
+  v: parlare
+  x:
+  - s: De händelser som har inträffat under de två åren, som de tragiska dödsfallen
+      med marockanska medborgare och personer från Västsahara i Gibraltarsundet och
+      vid de andalusiska kusterna, de invandrare som dog i Dover eller de nyligen
+      inträffade händelserna i Irland, den avskyvärda handeln med minderåriga och
+      prostitutionen samt ETA:s fruktansvärda mord och tragedin den 11 september,
+      har <v>skakat</v> <p>om</p> debatten och påskyndat åtgärderna för att bemöta
+      ett så farligt och oroande panorama.
+    t: Dopo un intervento simile sono contento che l’onorevole Schulz mi abbia preso
+      un minuto e abbia potuto <a>parlare</a> più a lungo.
+pt:
+- c: 5
+  r: 1
+  v: abalar
+  x:
+  - s: Jordbrukare med små och medelstora gårdar har varit ute på gatorna i två veckor
+      i en kamp som <v>skakat</v> <p>om</p> hela landet.
+    t: Senhora Presidente, há quinze dias que os pequenos e médios agricultores se
+      manifestam nas ruas numa luta que <a>abalou</a> todo o país.
+  - s: Kränkningar av den fysiska och psykiska integriteten, våldtäkt, mord, tortyr,
+      inspärrning, har <v>skakat</v> <p>om</p> till och med landets institutioner.
+    t: Os atentados à integridade física e mental, a violação, os assassínios, as
+      torturas e os sequestros <a>abalaram</a> até as instituições do país.
+  - s: Eller kommer Europa också att utforma en stödpolitik för de ekonomiska sektorer
+      som <v>skakades</v> <p>om</p> av den barbariska chocken?
+    t: Ou vai também definir uma política de apoio aos sectores económicos <a>abalados</a>
+      por este choque bárbaro.
+  - s: Det parlamentariska undersökningsarbetet och de politiska påtryckningar som
+      utövats på kommissionen har <v>skakat</v> <p>om</p> denna och fått en hel del
+      saker att hända inom gemenskapen.
+    t: A acção de inquérito parlamentar e a pressão política exercida sobre a Comissão
+      <a>abalaram</a> esta última e alteraram bastantes coisas a nível comunitário.
+  - s: Jag vill här gratulera Philippe de Coene till hans utmärkta arbete, och inte
+      bara för att jag instämmer i hans analys, utan också för att denna analys förmodligen
+      kommer att ”<v>skaka</v> <p>om</p>” vissa av kommissionens avdelningar, och
+      framför allt medlemsstaterna.
+    t: Quero felicitar Philippe de Coene pelo trabalho de qualidade que apresentou,
+      não só porque partilho da sua análise, mas também porque ela «<a>abala</a>»
+      provavelmente certos serviços da Comissão e, sobretudo, dos Estados-Membros.
+- c: 1
+  r: 2
+  v: abalo violento
+  x:
+  - s: Detta har <v>skakat</v> <p>om</p> ordentligt även i U-länderna.
+    t: Isso provocou também <a>abalos</a> <a>violentos</a> nos países em vias de desenvolvimento.
+- c: 1
+  r: 2
+  v: despertar
+  x:
+  - s: Vi hoppas, Patijn, att ni kommer att lyckas <v>skaka</v> <p>om</p> alla europeiska
+      regeringar.
+    t: Esperamos, Senhor Patijn, presidente em exercício do Conselho, que saiba <a>despertar</a>
+      todos os governos europeus.
+- c: 1
+  r: 2
+  v: agitar
+  x:
+  - s: 'Jag välkomnar åtgärden att <v>skaka</v> <p>om</p> Europas energimarknader:'
+    t: Congratulo-me com a iniciativa de <a>agitar</a> os mercados da energia na Europa,
+      tornando-os mais abertos e acessíveis a todos.

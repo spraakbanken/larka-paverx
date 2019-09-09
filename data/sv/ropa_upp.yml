@@ -1,0 +1,523 @@
+---
+de:
+- c: 5
+  r: 1
+  v: aufrufen werden
+  x:
+  - s: Jag ber om ursäkt till alla som inte <v>ropades</v> <p>upp</p>.
+    t: Ich entschuldige mich bei allen, die nicht <a>aufgerufen</a> <a>wurden</a>.
+  - s: Jag tror dock att han <v>ropades</v> <p>upp</p> som förespråkare.
+    t: Ich glaube aber, daß er als Befürworter <a>aufgerufen</a> <a>wurde</a>.
+  - s: Jag har suttit här nästan en halvtimme och väntat på att mitt namn <v>ropas</v>
+      <p>upp</p> då jag upplystes av sessionstjänsten att jag måste vara närvarande
+      för att min röstförklaring skulle inges som skriftlig.
+    t: Seit fast einer halben Stunde sitze ich nun schon hier und warte darauf, dass
+      mein Name <a>aufgerufen</a> <a>wird</a>.
+  - s: Det har just kommit till min kännedom att min fråga i går under frågestunden
+      <v>ropades</v> <p>upp</p> när jag inte var där.
+    t: Herr Präsident, ich habe eben erfahren, dass bei der gestrigen Fragestunde
+      meine Anfrage <a>aufgerufen</a> <a>wurde</a> und ich nicht anwesend war.
+  - s: Jag ber om ursäkt för att jag inte var i kammaren när jag först <v>ropades</v>
+      <p>upp</p>, men jag har haft ganska mycket otur med mina resplaner i dag.
+    t: Verzeihen Sie, dass ich nicht im Hause war, als ich das erste Mal <a>aufgerufen</a>
+      <a>wurde</a>, aber mit meiner Anreise hat es heute ein paar Probleme gegeben.
+- c: 3
+  r: 2
+  v: aufrufen
+  x:
+  - s: Om dessa ändringsförslag enligt arbetsordningen har lämnats in i tid <v>ropas</v>
+      de normalt <p>upp</p> av talmannen och behandlas.
+    t: Wenn diese Abänderungsanträge nach der Geschäftsordnung fristgerecht eingereicht
+      wurden, werden sie vom Präsidenten normal <a>aufgerufen</a> und behandelt.
+  - s: Jag angav att jag ville göra en skriftlig röstförklaring och man sade mig att
+      jag måste vara närvarande vid omröstningen för det första och att jag måste
+      vänta till dess att jag <v>ropades</v> <p>upp</p> för att säga att jag ville
+      lämna den skriftligen.
+    t: Daraufhin wurde mir gesagt, dass ich in jedem Fall bei der Abstimmung anwesend
+      sein und warten müsse, bis ich <a>aufgerufen</a> würde, damit ich bekannt geben
+      könne, dass ich eine schriftliche Erklärung zur Abstimmung abgeben möchte.
+  - s: Ni måste nu <v>ropa</v> <p>upp</p> dem, och om de inte är här, så kan de inte
+      heller lämna någon skriftlig förklaring.
+    t: Sie müssen sie jetzt <a>aufrufen</a>, und wenn sie nicht da sind, können sie
+      auch keine schriftliche Erklärung abgeben.
+- c: 1
+  r: 3
+  v: haben
+  x:
+  - s: Jag hade redan bett om ordet, men ni <v>ropade</v> <p>upp</p> Arlene McCarthy
+      i stället, vilket jag kan förstå eftersom damerna bör komma först.
+    t: Ich hatte bereits um das Wort gebeten, aber Sie <a>haben</a> es zuerst Frau
+      McCarthy erteilt, was ich verstehe, da der Dame der Vortritt gehört.
+- c: 1
+  r: 3
+  v: aufrufen haben
+  x:
+  - s: Jag ber om ursäkt för att jag inte var här när ni först <v>ropade</v> <p>upp</p>
+      mig.
+    t: Bitte entschuldigen Sie, dass ich nicht hier war, als Sie mich zum ersten Mal
+      <a>aufgerufen</a> <a>haben</a>.
+- c: 1
+  r: 3
+  v: aufrufen vorbeibewegen
+  x:
+  - s: När ni <v>ropade</v> <p>upp</p> Hans-Peter Martin när han faktiskt var närvarande
+      gick han förbi där vi satt.
+    t: Zu diesem Zeitpunkt - während Sie ihn <a>aufgerufen</a> haben bzw. während
+      er tatsächlich hier war - hat sich Hans-Peter Martin an unserem Platz <a>vorbeibewegt</a>.
+- c: 1
+  r: 3
+  v: wieder
+  x:
+  - s: Ni borde ha <v>ropat</v> <p>upp</p> mig innan den omröstningen.
+    t: Herr <a>Falconer</a>, es freut mich, daß Sie uns immer <a>wieder</a> die Anweisungen
+      des Präsidiums ins Gedächtnis rufen, für den Fall, daß jemand sie vergessen
+      haben sollte.
+- c: 1
+  r: 3
+  v: Ziffer
+  x:
+  - s: Några av oss har hört olika nummer <v>ropas</v> <p>upp</p>.
+    t: Beim Aufruf haben einige unter uns unterschiedliche <a>Ziffern</a> gehört.
+- c: 1
+  r: 3
+  v: drannehmen
+  x:
+  - s: Därför kan ni inte anklaga mig för att inte <v>ropa</v> <p>upp</p> någon.
+    t: Sie können mir also auch nicht vorwerfen, ich hätte niemand <a>drangenommen</a>.
+- c: 1
+  r: 3
+  v: überlassen vortragen
+  x:
+  - s: Ni har inte <v>ropat</v> <p>upp</p> Hernández Mollar, som hade bett mig hålla
+      anförandet i hans namn.
+    t: Er hat mir seinen Beitrag <a>überlassen</a>, damit ich ihn in seinem Namen
+      <a>vortrage</a>.
+en:
+- c: 10
+  r: 1
+  v: call
+  x:
+  - s: Ni har inte <v>ropat</v> <p>upp</p> Hernández Mollar, som hade bett mig hålla
+      anförandet i hans namn.
+    t: Madam President, I notice that you have not <a>called</a> Mr Hernández Mollar,
+      who had asked me to speak on his behalf.
+  - s: Jag ber om ursäkt till alla som inte <v>ropades</v> <p>upp</p>.
+    t: I apologise to everyone who was not <a>called</a>.
+  - s: Jag ber om ursäkt för att jag inte var här när ni först <v>ropade</v> <p>upp</p>
+      mig.
+    t: Mr President, I apologise for not being here when you first <a>called</a> me.
+  - s: Jag har suttit här tålmodigt och jag finner det anmärkningsvärt att ni inte
+      <v>ropar</v> <p>upp</p> mig.
+    t: I have sat here patiently and I find it quite extraordinary that you are not
+      <a>calling</a> me.
+  - s: Jag har suttit här nästan en halvtimme och väntat på att mitt namn <v>ropas</v>
+      <p>upp</p> då jag upplystes av sessionstjänsten att jag måste vara närvarande
+      för att min röstförklaring skulle inges som skriftlig.
+    t: I have been sitting here for almost half an hour waiting for my name to be
+      <a>called</a> because I was informed by the services that I had to be present
+      in order for my explanation of vote to be taken as written.
+  - s: Ni måste nu <v>ropa</v> <p>upp</p> dem, och om de inte är här, så kan de inte
+      heller lämna någon skriftlig förklaring.
+    t: You must now <a>call</a> them, and if they are not here they cannot make a
+      written explanation either.
+  - s: Vi kan visserligen överblicka det härifrån, men om ni så önskar, så <v>ropar</v>
+      jag <p>upp</p> de berörda parterna.
+    t: Although we can see that from here, I will <a>call</a> them if you wish.
+  - s: Därför kan ni inte anklaga mig för att inte <v>ropa</v> <p>upp</p> någon.
+    t: Therefore, you cannot accuse me of not <a>calling</a> anyone.
+  - s: Jag ber om ursäkt för att jag inte var i kammaren när jag först <v>ropades</v>
+      <p>upp</p>, men jag har haft ganska mycket otur med mina resplaner i dag.
+    t: Mr President, I apologise for not being in the House when I was first <a>called</a>
+      but my travel arrangements went rather awry today.
+  - s: Tack så mycket, herr Crowley, men hur som helst, när det är dags enligt listan
+      kommer jag att <v>ropa</v> <p>upp</p> ert namn och om ni inte är här, enligt
+      er förklaring, ber jag rådsordföranden att besvara frågan skriftligt.
+    t: In any event, when we come to your question, I will <a>call</a> your name.
+- c: 4
+  r: 2
+  v: be call
+  x:
+  - s: Några av oss har hört olika nummer <v>ropas</v> <p>upp</p>.
+    t: Some of us have been hearing different numbers <a>being</a> <a>called</a>.
+  - s: Jag tror dock att han <v>ropades</v> <p>upp</p> som förespråkare.
+    t: I think he <a>was</a> <a>called</a> as a supporter, however.
+  - s: Jag angav att jag ville göra en skriftlig röstförklaring och man sade mig att
+      jag måste vara närvarande vid omröstningen för det första och att jag måste
+      vänta till dess att jag <v>ropades</v> <p>upp</p> för att säga att jag ville
+      lämna den skriftligen.
+    t: I indicated that I wanted to make my explanation of vote in writing and I was
+      told that I would have to be here for the vote in the first instance and that
+      I would have to wait until I <a>was</a> <a>called</a> to indicate that I wanted
+      to make it in writing.
+  - s: Det har just kommit till min kännedom att min fråga i går under frågestunden
+      <v>ropades</v> <p>upp</p> när jag inte var där.
+    t: Mr President, it has just come to my notice that at Question Time yesterday
+      my question <a>was</a> <a>called</a> and I was not there.
+- c: 2
+  r: 3
+  v: call Mrs
+  x:
+  - s: Jag hade redan bett om ordet, men ni <v>ropade</v> <p>upp</p> Arlene McCarthy
+      i stället, vilket jag kan förstå eftersom damerna bör komma först.
+    t: Mr President, I had already asked for the floor, but you <a>called</a> <a>Mrs</a>
+      McCarthy instead, which I quite understand, since it should be ladies first.
+  - s: Ni har <v>ropat</v> <p>upp</p> d’Anconas betänkande, men jag skulle på grundval
+      av artikel 129 i arbetsordningen vilja begära att vi återförvisar d’Anconas
+      betänkande till utskottet.
+    t: You have <a>called</a> for <a>Mrs</a> d’Ancona’s report and I should like to
+      request, pursuant to Rule 129 of the Rules of Procedure, that we refer Mrs d’Ancona’s
+      report back to committee.
+- c: 1
+  r: 4
+  v: then usual
+  x:
+  - s: Om dessa ändringsförslag enligt arbetsordningen har lämnats in i tid <v>ropas</v>
+      de normalt <p>upp</p> av talmannen och behandlas.
+    t: If, according to the agenda, these proposed amendments have been submitted
+      in time, <a>then</a> the President will call them and deal with them as <a>usual</a>.
+- c: 1
+  r: 4
+  v: afraid start
+  x:
+  - s: Det gick inte att höra vilken omröstning ni <v>ropade</v> <p>upp</p> och vilket
+      omröstningsresultatet blev.
+    t: But I am <a>afraid</a> I cannot <a>start</a> the vote again.
+es:
+- c: 5
+  r: 1
+  v: llamar
+  x:
+  - s: Ni har inte <v>ropat</v> <p>upp</p> Hernández Mollar, som hade bett mig hålla
+      anförandet i hans namn.
+    t: Señora Presidenta, veo que no ha <a>llamado</a> usted al Sr. Hernández Mollar,
+      y éste me había dejado su intervención para que yo la pronunciara en su nombre.
+  - s: Jag har suttit här nästan en halvtimme och väntat på att mitt namn <v>ropas</v>
+      <p>upp</p> då jag upplystes av sessionstjänsten att jag måste vara närvarande
+      för att min röstförklaring skulle inges som skriftlig.
+    t: Llevo sentado aquí casi media hora esperando a que me <a>llamen</a>, porque
+      según me han informado los servicios del Parlamento, debo estar presente para
+      que mi explicación de voto por escrito sea aceptada.
+  - s: Jag angav att jag ville göra en skriftlig röstförklaring och man sade mig att
+      jag måste vara närvarande vid omröstningen för det första och att jag måste
+      vänta till dess att jag <v>ropades</v> <p>upp</p> för att säga att jag ville
+      lämna den skriftligen.
+    t: He indicado que quería realizar mi explicación de voto por escrito y me han
+      dicho que debía estar presente para la votación, en primer lugar, y que tendría
+      que esperar hasta que me <a>llamaran</a> para indicar que quiero hacerlo por
+      escrito.
+  - s: Ni måste nu <v>ropa</v> <p>upp</p> dem, och om de inte är här, så kan de inte
+      heller lämna någon skriftlig förklaring.
+    t: Tiene que <a>llamar</a> ahora y si no están ahí, no pueden tampoco emitir una
+      explicación por escrito.
+  - s: Jag ber om ursäkt för att jag inte var i kammaren när jag först <v>ropades</v>
+      <p>upp</p>, men jag har haft ganska mycket otur med mina resplaner i dag.
+    t: Señor Presidente, pido disculpas por no estar en la Asamblea cuando me han
+      <a>llamado</a> por primera vez, pero he tenido problemas para llegar aquí.
+- c: 1
+  r: 2
+  v: pronunciar
+  x:
+  - s: Några av oss har hört olika nummer <v>ropas</v> <p>upp</p>.
+    t: Algunos de nosotros hemos oído que se <a>pronunciaban</a> números distintos.
+- c: 1
+  r: 2
+  v: invocarla
+  x:
+  - s: Då behöver jag inte <v>ropa</v> <p>upp</p> er.
+    t: Entonces no necesito <a>invocarlas</a>.
+- c: 1
+  r: 2
+  v: '&x2c7;'
+  x:
+  - s: Ni borde ha <v>ropat</v> <p>upp</p> mig innan den omröstningen.
+    t: Seor Falconer, me alegro de que siempre nos recuerde las instrucciones de la
+      Presidencia, <a>&#x02C7;</a>no vaya a ser que alguien se haya olvidado de ellas!
+- c: 1
+  r: 2
+  v: haber intervenir
+  x:
+  - s: Jag ber om ursäkt till alla som inte <v>ropades</v> <p>upp</p>.
+    t: Le pido disculpas a todos los que no <a>han</a> <a>intervenido</a>.
+- c: 1
+  r: 2
+  v: invocar
+  x:
+  - s: Tack så mycket, herr Crowley, men hur som helst, när det är dags enligt listan
+      kommer jag att <v>ropa</v> <p>upp</p> ert namn och om ni inte är här, enligt
+      er förklaring, ber jag rådsordföranden att besvara frågan skriftligt.
+    t: Muchas gracias, señor Crowley, pero, en todo caso, cuando llegue el momento
+      en la lista, yo <a>invocaré</a> su nombre y, si no está aquí, habida cuenta
+      de la explicación que usted nos ha dado, invitaré al Sr. Presidente en ejercicio
+      del Consejo a que le responda por escrito.
+- c: 1
+  r: 2
+  v: sacar
+  x:
+  - s: Om dessa ändringsförslag enligt arbetsordningen har lämnats in i tid <v>ropas</v>
+      de normalt <p>upp</p> av talmannen och behandlas.
+    t: Si estas enmiendas se presentan dentro de plazo según el Reglamento serán <a>sacadas</a>
+      a la palestra y tratadas normalmente por el Presidente.
+fr:
+- c: 4
+  r: 1
+  v: appeler
+  x:
+  - s: När ni <v>ropade</v> <p>upp</p> Hans-Peter Martin när han faktiskt var närvarande
+      gick han förbi där vi satt.
+    t: Au moment où vous avez <a>appelé</a> Hans-Peter Martin, et alors qu’il se trouvait
+      bien ici, celui-ci nous a croisés.
+  - s: Jag har suttit här tålmodigt och jag finner det anmärkningsvärt att ni inte
+      <v>ropar</v> <p>upp</p> mig.
+    t: J’ai attendu patiemment et je suis assez surprise que vous ne m’<a>appeliez</a>
+      pas.
+  - s: Ni måste nu <v>ropa</v> <p>upp</p> dem, och om de inte är här, så kan de inte
+      heller lämna någon skriftlig förklaring.
+    t: J’insiste pour que vous <a>appeliez</a> ces personnes et si elles ne sont pas
+      là, elles ne peuvent pas non plus déposer d’explication de vote par écrit.
+  - s: Därför kan ni inte anklaga mig för att inte <v>ropa</v> <p>upp</p> någon.
+    t: On ne pourra donc pas m’accuser n’avoir <a>appelé</a> personne.
+- c: 2
+  r: 2
+  v: être appeler
+  x:
+  - s: Det har just kommit till min kännedom att min fråga i går under frågestunden
+      <v>ropades</v> <p>upp</p> när jag inte var där.
+    t: Monsieur le Président, je viens d’apprendre que, pendant l’heure des questions
+      hier, lorsque ma question a <a>été</a> <a>appelée</a>, je n’étais pas présent.
+  - s: Jag ber om ursäkt för att jag inte var i kammaren när jag först <v>ropades</v>
+      <p>upp</p>, men jag har haft ganska mycket otur med mina resplaner i dag.
+    t: Monsieur le Président, je m’excuse de ne pas avoir été présent dans ce Parlement
+      lorsque j’ai <a>été</a> <a>appelé</a> pour la première fois, mais mes déplacements
+      ont été chamboulés aujourd’hui.
+- c: 1
+  r: 3
+  v: recommencer
+  x:
+  - s: Det gick inte att höra vilken omröstning ni <v>ropade</v> <p>upp</p> och vilket
+      omröstningsresultatet blev.
+    t: Mais j’ai bien peur de ne pas pouvoir <a>recommencer</a> le vote.
+- c: 1
+  r: 3
+  v: appeler monsieur
+  x:
+  - s: Ni har inte <v>ropat</v> <p>upp</p> Hernández Mollar, som hade bett mig hålla
+      anförandet i hans namn.
+    t: Madame la Présidente, je constate que vous n’avez pas <a>appelé</a> <a>M.</a>
+      Hernández Mollar, et celui-ci m’avait donné son intervention pour que je la
+      lise en son nom.
+- c: 1
+  r: 3
+  v: aller appeler
+  x:
+  - s: Vi kan visserligen överblicka det härifrån, men om ni så önskar, så <v>ropar</v>
+      jag <p>upp</p> de berörda parterna.
+    t: On peut le constater de visu, mais puisque vous le souhaitez, je <a>vais</a>
+      <a>appeler</a> les personnes concernées.
+- c: 1
+  r: 3
+  v: citer
+  x:
+  - s: Tack så mycket, herr Crowley, men hur som helst, när det är dags enligt listan
+      kommer jag att <v>ropa</v> <p>upp</p> ert namn och om ni inte är här, enligt
+      er förklaring, ber jag rådsordföranden att besvara frågan skriftligt.
+    t: Merci beaucoup, Monsieur Crowley, mais en tout cas, le moment venu, je <a>citerai</a>
+      votre nom, et si vous êtes absent, compte tenu de l’explication que vous nous
+      avez donnée, j’inviterai M. le président en exercice du Conseil à répondre par
+      écrit.
+- c: 1
+  r: 3
+  v: avoir
+  x:
+  - s: Jag har suttit här nästan en halvtimme och väntat på att mitt namn <v>ropas</v>
+      <p>upp</p> då jag upplystes av sessionstjänsten att jag måste vara närvarande
+      för att min röstförklaring skulle inges som skriftlig.
+    t: J’attends depuis pratiquement une demi-heure que l’on m’appelle, car les services
+      m’<a>ont</a> fait savoir que je devais être présent afin que l’on enregistre
+      ma demande d’explication de vote par écrit.
+- c: 1
+  r: 3
+  v: numéro
+  x:
+  - s: Några av oss har hört olika nummer <v>ropas</v> <p>upp</p>.
+    t: Certains d’entre nous ont entendu des <a>numéros</a> différents.
+it:
+- c: 5
+  r: 1
+  v: chiamare
+  x:
+  - s: Jag angav att jag ville göra en skriftlig röstförklaring och man sade mig att
+      jag måste vara närvarande vid omröstningen för det första och att jag måste
+      vänta till dess att jag <v>ropades</v> <p>upp</p> för att säga att jag ville
+      lämna den skriftligen.
+    t: Ho espresso l’intenzione di presentare la dichiarazione di voto per iscritto
+      e mi è stato riferito che sarei comunque dovuto essere presente in Aula per
+      la votazione e quindi avrei dovuto attendere di essere <a>chiamato</a> per segnalare
+      l’intenzione di presentarla per iscritto.
+  - s: Ni måste nu <v>ropa</v> <p>upp</p> dem, och om de inte är här, så kan de inte
+      heller lämna någon skriftlig förklaring.
+    t: Li deve <a>chiamare</a> adesso e se non sono presenti non possono neppure presentare
+      dichiarazioni scritte.
+  - s: Vi kan visserligen överblicka det härifrån, men om ni så önskar, så <v>ropar</v>
+      jag <p>upp</p> de berörda parterna.
+    t: Lo possiamo verificare anche da qui, ma se lei desidera, <a>chiamerò</a> gli
+      interessati.
+  - s: Därför kan ni inte anklaga mig för att inte <v>ropa</v> <p>upp</p> någon.
+    t: Pertanto non potete accusarmi di non <a>chiamare</a> nessuno.
+  - s: Tack så mycket, herr Crowley, men hur som helst, när det är dags enligt listan
+      kommer jag att <v>ropa</v> <p>upp</p> ert namn och om ni inte är här, enligt
+      er förklaring, ber jag rådsordföranden att besvara frågan skriftligt.
+    t: In ogni caso, quando giungerà il suo turno, la <a>chiamerò</a> e, se non sarà
+      presente, tenuto conto della giustificazione che ci ha dato, inviterò il Presidente
+      in carica del Consiglio a risponderle per iscritto.
+- c: 1
+  r: 2
+  v: introdurre
+  x:
+  - s: Det gick inte att höra vilken omröstning ni <v>ropade</v> <p>upp</p> och vilket
+      omröstningsresultatet blev.
+    t: Non è stato possibile udire quale votazione lei ha <a>introdotto</a> e qual
+      è stato il risultato.
+- c: 1
+  r: 2
+  v: essere essere chiamata
+  x:
+  - s: Jag har suttit här tålmodigt och jag finner det anmärkningsvärt att ni inte
+      <v>ropar</v> <p>upp</p> mig.
+    t: Me ne sono stata pazientemente seduta e sono molto stupita di non <a>esser</a>
+      <a>stata</a> <a>chiamata</a>.
+- c: 1
+  r: 2
+  v: essere chiamare
+  x:
+  - s: Jag ber om ursäkt till alla som inte <v>ropades</v> <p>upp</p>.
+    t: Mi scuso con tutti coloro che non sono <a>stati</a> <a>chiamati</a>.
+- c: 1
+  r: 2
+  v: invitare parlare
+  x:
+  - s: Jag tror dock att han <v>ropades</v> <p>upp</p> som förespråkare.
+    t: Penso però che sia stato <a>invitato</a> a <a>parlare</a> in quanto sostenitore
+      della proposta.
+- c: 1
+  r: 2
+  v: avere avere chiamare
+  x:
+  - s: Talmannen som var ordförande före er <v>ropade</v> <p>upp</p> flera ledamöter
+      - som en del av förfarandet att fånga uppmärksamheten - som inte ens var närvarande
+      i kammaren.
+    t: Il Presidente che l’<a>ha</a> preceduta <a>ha</a> <a>chiamato</a> un gran numero
+      di deputati - secondo la procedura «catch-the-eye» - che non erano nemmeno presenti
+      in Aula.
+- c: 1
+  r: 2
+  v: annunciare
+  x:
+  - s: Några av oss har hört olika nummer <v>ropas</v> <p>upp</p>.
+    t: Alcuni di noi hanno sentito <a>annunciare</a> numeri diversi.
+- c: 1
+  r: 2
+  v: ascoltare
+  x:
+  - s: Då behöver jag inte <v>ropa</v> <p>upp</p> er.
+    t: Pare abbia ragione, non è quindi necessario <a>ascoltarle</a>.
+- c: 1
+  r: 2
+  v: chiamare onorevole
+  x:
+  - s: När ni <v>ropade</v> <p>upp</p> Hans-Peter Martin när han faktiskt var närvarande
+      gick han förbi där vi satt.
+    t: In quel momento - mentre lei <a>chiamava</a> l’<a>onorevole</a> Hans-Peter
+      Martin che era in effetti presente - egli è passato davanti ai nostri seggi.
+- c: 1
+  r: 2
+  v: citare
+  x:
+  - s: Ni borde ha <v>ropat</v> <p>upp</p> mig innan den omröstningen.
+    t: Onorevole Falconer, mi compiaccio del fatto che lei <a>citi</a> sempre il regolamento
+      della Presidenza, nel malaugurato caso che qualcuno se ne sia dimenticato!
+pt:
+- c: 4
+  r: 1
+  v: chamar
+  x:
+  - s: Några av oss har hört olika nummer <v>ropas</v> <p>upp</p>.
+    t: Alguns de nós temos estado a ouvir <a>chamar</a> números diferentes.
+  - s: Jag har suttit här nästan en halvtimme och väntat på att mitt namn <v>ropas</v>
+      <p>upp</p> då jag upplystes av sessionstjänsten att jag måste vara närvarande
+      för att min röstförklaring skulle inges som skriftlig.
+    t: Estou aqui sentado há perto de meia hora, à espera que <a>chamem</a> o meu
+      nome, porque fui informado pelos serviços que tinha de estar presente para que
+      a minha declaração de voto escrita fosse aceite.
+  - s: Jag angav att jag ville göra en skriftlig röstförklaring och man sade mig att
+      jag måste vara närvarande vid omröstningen för det första och att jag måste
+      vänta till dess att jag <v>ropades</v> <p>upp</p> för att säga att jag ville
+      lämna den skriftligen.
+    t: Anunciei que queria apresentar a minha declaração de voto por escrito e disseramme
+      que tinha de começar por estar aqui presente na votação e que devia esperar
+      até que me <a>chamassem</a> para dizer que queria fazer a declaração por escrito.
+  - s: Därför kan ni inte anklaga mig för att inte <v>ropa</v> <p>upp</p> någon.
+    t: Os senhores deputados não poderão, portanto, acusar-me de não <a>chamar</a>
+      alguém.
+- c: 1
+  r: 2
+  v: poder intervir
+  x:
+  - s: Jag ber om ursäkt till alla som inte <v>ropades</v> <p>upp</p>.
+    t: Peço desculpa a todos os que não <a>puderam</a> <a>intervir</a>.
+- c: 1
+  r: 2
+  v: apreço
+  x:
+  - s: Ni har <v>ropat</v> <p>upp</p> d’Anconas betänkande, men jag skulle på grundval
+      av artikel 129 i arbetsordningen vilja begära att vi återförvisar d’Anconas
+      betänkande till utskottet.
+    t: Está em <a>apreço</a> o relatório da senhora deputada d’Ancona e eu queria,
+      nos termos do artigo 129º do Regimento, requerer o reenvio em comissão deste
+      relatório.
+- c: 1
+  r: 2
+  v: chamada
+  x:
+  - s: Ni måste nu <v>ropa</v> <p>upp</p> dem, och om de inte är här, så kan de inte
+      heller lämna någon skriftlig förklaring.
+    t: Tem de efectuar a <a>chamada</a> e, se eles não se <a>encontarem</a> aqui,
+      não poderão entregar a sua declaração de voto por escrito.
+- c: 1
+  r: 2
+  v: chamar vez
+  x:
+  - s: Jag ber om ursäkt för att jag inte var i kammaren när jag först <v>ropades</v>
+      <p>upp</p>, men jag har haft ganska mycket otur med mina resplaner i dag.
+    t: Senhor Presidente, peço desculpa por não ter estado presente no Parlamento,
+      quando fui <a>chamado</a> pela primeira <a>vez</a>, mas tive problemas na minha
+      viagem de hoje.
+- c: 1
+  r: 2
+  v: citar
+  x:
+  - s: Jag tror dock att han <v>ropades</v> <p>upp</p> som förespråkare.
+    t: Creio, porém, que foi <a>citado</a> como defensor.
+- c: 1
+  r: 2
+  v: esquecer
+  x:
+  - s: Ni borde ha <v>ropat</v> <p>upp</p> mig innan den omröstningen.
+    t: Senhor Deputado <a>Falconer</a>, fico contente por nos lembrar sempre as directrizes
+      da Mesa que por sorte talvez ninguém tenha <a>esquecido</a>!
+- c: 1
+  r: 2
+  v: ir chamar
+  x:
+  - s: Det har just kommit till min kännedom att min fråga i går under frågestunden
+      <v>ropades</v> <p>upp</p> när jag inte var där.
+    t: Senhor Presidente, chegou mesmo agora ao meu conhecimento que no período de
+      perguntas de ontem a minha pergunta <a>foi</a> <a>chamada</a> e eu não estava
+      presente.
+- c: 1
+  r: 2
+  v: voltar mencionar
+  x:
+  - s: Om dessa ändringsförslag enligt arbetsordningen har lämnats in i tid <v>ropas</v>
+      de normalt <p>upp</p> av talmannen och behandlas.
+    t: Se estas alterações foram apresentadas dentro do prazo previsto no Regimento,
+      ainda <a>voltarão</a> a ser <a>mencionadas</a> e tratadas pelo Presidente.

@@ -1,0 +1,63 @@
+---
+de:
+- c: 1
+  r: 1
+  v: abbauen
+  x:
+  - s: Effektivitetsförbättringar inom företag är för närvarande så gott som helt
+      inriktade på att <v>rationalisera</v> <p>bort</p> arbete.
+    t: Verbesserungen der Effizienz in Unternehmen sind derzeit fast vollständig darauf
+      ausgerichtet, Arbeitsplätze <a>abzubauen</a>.
+en:
+- c: 1
+  r: 1
+  v: shed
+  x:
+  - s: Effektivitetsförbättringar inom företag är för närvarande så gott som helt
+      inriktade på att <v>rationalisera</v> <p>bort</p> arbete.
+    t: Efficiency improvements in businesses are at the moment almost entirely geared
+      to <a>shedding</a> jobs.
+es:
+- c: 1
+  r: 1
+  v: mano
+  x:
+  - s: Effektivitetsförbättringar inom företag är för närvarande så gott som helt
+      inriktade på att <v>rationalisera</v> <p>bort</p> arbete.
+    t: La media de la presión fiscal sobre la <a>mano</a> de obra y las empresas en
+      la Unión Europea es alta.
+fr:
+- c: 1
+  r: 1
+  v: rationaliser
+  x:
+  - s: hos Marks & Spencer, som omstrukturerar, hos Danone som <v>rationaliserar</v>
+      <p>bort</p> ytterligare arbetstillfällen.
+    t: chez Marks et Spencer, qui se relocalise, chez Danone qui en <a>rationalise</a>
+      d’autres encore, et l’on tire à boulets rouges sur les entreprises qui licencient
+      alors qu’elles font du profit.
+- c: 1
+  r: 1
+  v: dégraissage
+  x:
+  - s: Effektivitetsförbättringar inom företag är för närvarande så gott som helt
+      inriktade på att <v>rationalisera</v> <p>bort</p> arbete.
+    t: L’amélioration de l’efficacité dans les entreprises est actuellement presque
+      exclusivement axée sur le <a>dégraissage</a>.
+pt:
+- c: 1
+  r: 1
+  v: racionalizar
+  x:
+  - s: hos Marks & Spencer, som omstrukturerar, hos Danone som <v>rationaliserar</v>
+      <p>bort</p> ytterligare arbetstillfällen.
+    t: na Marks & Spencer, que está a deslocalizar, na Danone, que está a <a>racionalizar</a>,
+      e atacamos violentamente as empresas que despedem quando estão a dar lucro.
+- c: 1
+  r: 1
+  v: supressão
+  x:
+  - s: Effektivitetsförbättringar inom företag är för närvarande så gott som helt
+      inriktade på att <v>rationalisera</v> <p>bort</p> arbete.
+    t: As melhorias em termos de eficácia, no seio das empresas são, neste momento,
+      praticamente todas elas orientadas para a <a>supressão</a> de mão-de-obra.

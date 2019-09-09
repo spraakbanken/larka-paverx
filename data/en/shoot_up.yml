@@ -1,0 +1,353 @@
+---
+de:
+- c: 1
+  r: 1
+  v: erneuern werden
+  x:
+  - s: Buildings are <v>shooting</v> <p>up</p> here and in Brussels.
+    t: Wir sollten höhere Ziele setzen und dafür sorgen, daß alte Anlagen, die viel
+      Energie verschwenden, <a>erneuert</a> <a>werden</a>.
+- c: 1
+  r: 1
+  v: schießen
+  x:
+  - s: With two-figure growth rates, high-rise buildings were <v>shooting</v> <p>up</p>
+      like mushrooms, output and exports were booming like never before, and Europe
+      was starting to feel the aggressive competition in trade and had to - and is
+      still having to - contend with job relocation.
+    t: Zweistellige Wachstumsraten ließen Hochhäuser wie Pilze aus dem Boden <a>schießen</a>,
+      Produktion und Exportwirtschaft boomten beispiellos, auch Europa bekam die aggressive
+      Handelskonkurrenz zu spüren, hatte und hat mit Arbeitsplatzverlagerungen zu
+      kämpfen.
+- c: 1
+  r: 1
+  v: schießen Höhe
+  x:
+  - s: Inevitably, prices rise, the services provided deteriorate and commercial and
+      marketing spending <v>shoots</v> <p>up</p> to the detriment of research and
+      development, and to the detriment of security.
+    t: Unausweichlich steigen dadurch die Preise, die Servicequalität verschlechtert
+      sich, die kommerziellen und <a>Werbungsausgaben</a> <a>schießen</a> in die <a>Höhe</a>
+      auf Kosten der Forschung und Entwicklung sowie der Sicherheit.
+- c: 1
+  r: 1
+  v: steigen
+  x:
+  - s: Given the political instability that has been rocking the Arab world, this
+      figure could still <v>shoot</v> <p>up</p>.
+    t: In Anbetracht der politischen Instabilität, welche die arabische Welt erschüttert,
+      könnte dieser Betrag sogar noch <a>steigen</a>.
+- c: 1
+  r: 1
+  v: massiv ansteigen
+  x:
+  - s: Ultimately, this is producing truly dramatic consequences for consumers throughout
+      the world because food prices among others have also <v>shot</v> <p>up</p> as
+      a result.
+    t: Das führt am Ende zu wirklich drastischen Folgen für die Verbraucher auf der
+      ganzen Welt, weil die Lebensmittelpreise unter anderem auch deshalb <a>massiv</a>
+      <a>angestiegen</a> sind.
+- c: 1
+  r: 1
+  v: Höhe schnellen
+  x:
+  - s: Unemployment rates across the European Union have <v>shot</v> <p>up</p>.
+    t: Die Arbeitslosenquoten in der gesamten Europäischen Union sind in die <a>Höhe</a>
+      <a>geschnellt</a>.
+- c: 1
+  r: 1
+  v: Höhe schießen
+  x:
+  - s: Agricultural prices, not least for foods, have <v>shot</v> <p>up</p> over a
+      very short period.
+    t: Innerhalb ganz kurzer Zeit sind die Agrarpreise, nicht zuletzt für Lebensmittel,
+      in die <a>Höhe</a> <a>geschossen</a>.
+- c: 1
+  r: 1
+  v: hochschnellen werden
+  x:
+  - s: Chancellor Schröder will not reach his goal of reducing the number of unemployed
+      to 3.5 million in the election year, since the figure is expected to <v>shoot</v>
+      <p>up</p> to 3.8 million.
+    t: Kanzler Schröder wird sein Ziel, im Wahljahr auf 3,5 Millionen Arbeitslose
+      zu kommen, nicht erreichen, da die Zahl auf voraussichtlich 3,8 Millionen <a>hochschnellen</a>
+      <a>wird</a>.
+es:
+- c: 2
+  r: 1
+  v: disparar
+  x:
+  - s: Unemployment rates across the European Union have <v>shot</v> <p>up</p>.
+    t: Las tasas de desempleo en la Unión Europea se han <a>disparado</a>.
+  - s: Ultimately, this is producing truly dramatic consequences for consumers throughout
+      the world because food prices among others have also <v>shot</v> <p>up</p> as
+      a result.
+    t: En última instancia, esta tendencia está teniendo consecuencias realmente dramáticas
+      para los consumidores de todo el mundo porque los precios de los productos alimenticios,
+      entre otros, se han <a>disparado</a>.
+- c: 1
+  r: 2
+  v: ascender
+  x:
+  - s: Chancellor Schröder will not reach his goal of reducing the number of unemployed
+      to 3.5 million in the election year, since the figure is expected to <v>shoot</v>
+      <p>up</p> to 3.8 million.
+    t: El Canciller Schröder no va a alcanzar su objetivo de llegar en el año electoral
+      a 3,5 millones de desempleados ya que la cifra va a <a>ascender</a> previsiblemente
+      a 3,8 millones.
+- c: 1
+  r: 2
+  v: alterar
+  x:
+  - s: The responsibilities of the French Presidency will surely increase given that
+      the European context is disrupted and the global markets in raw material foodstuffs
+      and fuels are <v>shooting</v> <p>up</p>.
+    t: Las responsabilidades de la Presidencia francesa sin duda aumentarán, dado
+      que se altera el contexto europeo y se están <a>alterando</a> los mercados mundiales
+      con el alza de los precios de los productos alimenticios básicos y de los combustibles.
+- c: 1
+  r: 2
+  v: cifra aumentar
+  x:
+  - s: Given the political instability that has been rocking the Arab world, this
+      figure could still <v>shoot</v> <p>up</p>.
+    t: Dada la inestabilidad política que ha estado sacudiendo al mundo árabe, esta
+      <a>cifra</a> aún podría <a>aumentar</a>.
+- c: 1
+  r: 2
+  v: suelo
+  x:
+  - s: With two-figure growth rates, high-rise buildings were <v>shooting</v> <p>up</p>
+      like mushrooms, output and exports were booming like never before, and Europe
+      was starting to feel the aggressive competition in trade and had to - and is
+      still having to - contend with job relocation.
+    t: Tasas de crecimiento de dos cifras hicieron que los rascacielos surgiesen del
+      <a>suelo</a> como setas y la producción y las exportaciones experimentaron un
+      boom sin parangón.
+fr:
+- c: 1
+  r: 1
+  v: coup fatal
+  x:
+  - s: Agricultural prices, not least for foods, have <v>shot</v> <p>up</p> over a
+      very short period.
+    t: Ceci a porté un <a>coup</a> <a>fatal</a> à de nombreux pays en voie de développement,
+      qui dépendent largement d’importations pour se nourrir et dont la situation
+      était déjà précaire.
+- c: 1
+  r: 1
+  v: élever
+  x:
+  - s: Buildings are <v>shooting</v> <p>up</p> here and in Brussels.
+    t: De nouvelles constructions s’<a>élèvent</a> ici et à Bruxelles.
+- c: 1
+  r: 1
+  v: emballer
+  x:
+  - s: The responsibilities of the French Presidency will surely increase given that
+      the European context is disrupted and the global markets in raw material foodstuffs
+      and fuels are <v>shooting</v> <p>up</p>.
+    t: Les responsabilités de la présidence française vont assurément s’accroître,
+      puisque le contexte européen est troublé et que les cours mondiaux des matières
+      premières alimentaires et des hydrocarbures s’<a>emballent</a>.
+- c: 1
+  r: 1
+  v: exploser
+  x:
+  - s: Inevitably, prices rise, the services provided deteriorate and commercial and
+      marketing spending <v>shoots</v> <p>up</p> to the detriment of research and
+      development, and to the detriment of security.
+    t: Fatalement les prix montent, les services rendus se détériorent, les dépenses
+      commerciales et publicitaires <a>explosent</a> au détriment de la recherche
+      et du développement, ainsi que de la sécurité.
+- c: 1
+  r: 1
+  v: monter
+  x:
+  - s: Ultimately, this is producing truly dramatic consequences for consumers throughout
+      the world because food prices among others have also <v>shot</v> <p>up</p> as
+      a result.
+    t: En fin de compte, ceci a des conséquences réellement dramatiques pour les consommateurs
+      dans le monde entier parce que les prix des produits alimentaires, entre autres,
+      ont également fortement <a>monté</a>.
+- c: 1
+  r: 1
+  v: augmenter
+  x:
+  - s: It is a fact that there are highly competent consultants who have argued, for
+      instance, that external costs, including traffic congestion, are <v>shooting</v>
+      <p>up</p> to account for 10% of the gross domestic product of Europe, a figure
+      which may be debatable but which is astounding all the same.
+    t: Nous savons que des consultants très compétents se sont, par exemple, hasardés
+      à dire que les coûts externes, y compris la congestion du trafic, ont <a>augmenté</a>
+      au point d’atteindre 10 % du produit intérieur brut européen, chiffre discutable,
+      mais en tous cas impressionnant.
+it:
+- c: 1
+  r: 1
+  v: aumentare fino
+  x:
+  - s: It is a fact that there are highly competent consultants who have argued, for
+      instance, that external costs, including traffic congestion, are <v>shooting</v>
+      <p>up</p> to account for 10% of the gross domestic product of Europe, a figure
+      which may be debatable but which is astounding all the same.
+    t: Ci risulta che alcuni esperti hanno previsto, ad esempio, che i costi esterni,
+      compresa la congestione del traffico, <a>aumenteranno</a> <a>fino</a> al 10
+      per cento del prodotto interno lordo europeo.
+- c: 1
+  r: 1
+  v: impennata
+  x:
+  - s: Ultimately, this is producing truly dramatic consequences for consumers throughout
+      the world because food prices among others have also <v>shot</v> <p>up</p> as
+      a result.
+    t: In definitiva, tale situazione ha condotto a conseguenze davvero drammatiche
+      per i consumatori nel mondo, poiché di conseguenza i prezzi dei prodotti alimentari
+      tra gli altri hanno inoltre subito un’<a>impennata</a>.
+- c: 1
+  r: 1
+  v: aumento
+  x:
+  - s: a 4% fall in GDP in a single year, unemployment <v>shooting</v> <p>up</p> to
+      10%, a huge hit to our prosperity, a real threat to our societies.
+    t: calo del 4 per cento del PIL in un solo anno, disoccupazione in <a>aumento</a>
+      al 10 per cento, duro colpo inferto alla nostra prosperità, minaccia concreta
+      per le nostre società.
+- c: 1
+  r: 1
+  v: colpo versare
+  x:
+  - s: Agricultural prices, not least for foods, have <v>shot</v> <p>up</p> over a
+      very short period.
+    t: È stato un durissimo <a>colpo</a> per molti paesi in via di sviluppo, che dipendono
+      in maniera massiccia dalle importazioni di alimenti e che già <a>versavano</a>
+      in condizioni di estrema indigenza.
+pt:
+- c: 4
+  r: 1
+  v: disparar
+  x:
+  - s: Given the political instability that has been rocking the Arab world, this
+      figure could still <v>shoot</v> <p>up</p>.
+    t: Face à actual instabilidade política que tem assolado o mundo árabe, este valor
+      poderá ainda <a>disparar</a>.
+  - s: Chancellor Schröder will not reach his goal of reducing the number of unemployed
+      to 3.5 million in the election year, since the figure is expected to <v>shoot</v>
+      <p>up</p> to 3.8 million.
+    t: O Chanceler Schröder não vai conseguir o objectivo que se propôs de fixar em
+      3,5 milhões o número de desempregados no ano de eleições, uma vez que esse número
+      vai <a>disparar</a> previsivelmente para 3,8 milhões.
+  - s: Ultimately, this is producing truly dramatic consequences for consumers throughout
+      the world because food prices among others have also <v>shot</v> <p>up</p> as
+      a result.
+    t: Em ultima análise, esta situação está a desencadear consequências verdadeiramente
+      dramáticas para os consumidores em todo o mundo devido ao facto de os preços
+      dos alimentos terem também <a>disparado</a> como resultado.
+  - s: Agricultural prices, not least for foods, have <v>shot</v> <p>up</p> over a
+      very short period.
+    t: Os preços dos produtos agrícolas, principalmente dos alimentos, <a>dispararam</a>
+      num curto espaço de tempo.
+- c: 1
+  r: 2
+  v: elevar
+  x:
+  - s: It is a fact that there are highly competent consultants who have argued, for
+      instance, that external costs, including traffic congestion, are <v>shooting</v>
+      <p>up</p> to account for 10% of the gross domestic product of Europe, a figure
+      which may be debatable but which is astounding all the same.
+    t: Segundo consta, há consultores muito competentes que admitem que os custos
+      externos, incluindo a congestão do tráfego, se <a>elevam</a> a 10% do produto
+      interno bruto.
+- c: 1
+  r: 2
+  v: crescer cogumelo
+  x:
+  - s: With two-figure growth rates, high-rise buildings were <v>shooting</v> <p>up</p>
+      like mushrooms, output and exports were booming like never before, and Europe
+      was starting to feel the aggressive competition in trade and had to - and is
+      still having to - contend with job relocation.
+    t: Taxas de crescimento de dois dígitos fizeram <a>crescer</a> arranha-céus como
+      se fossem <a>cogumelos</a>, a produção e a exportação registaram um crescimento
+      sem precedentes, a Europa sentiu igualmente os efeitos da agressiva concorrência
+      comercial, teve e ainda tem de combater as transferências de postos de trabalho.
+- c: 1
+  r: 2
+  v: publicitário
+  x:
+  - s: Inevitably, prices rise, the services provided deteriorate and commercial and
+      marketing spending <v>shoots</v> <p>up</p> to the detriment of research and
+      development, and to the detriment of security.
+    t: Assim, dá-se a subida inevitável dos preços, a deterioração dos serviços prestados,
+      o aumento acentuado das despesas comerciais e <a>publicitárias</a> em detrimento
+      da investigação e do desenvolvimento, assim como da segurança.
+sv:
+- c: 4
+  r: 1
+  v: skjuta höjd
+  x:
+  - s: Given the political instability that has been rocking the Arab world, this
+      figure could still <v>shoot</v> <p>up</p>.
+    t: Med hänsyn till den politiska instabiliteten som har skakat arabvärlden kan
+      den siffran fortsätta att <a>skjuta</a> i <a>höjden</a>.
+  - s: Inevitably, prices rise, the services provided deteriorate and commercial and
+      marketing spending <v>shoots</v> <p>up</p> to the detriment of research and
+      development, and to the detriment of security.
+    t: Priserna stiger oundvikligen, de tillhandahållna tjänsterna urholkas och utgifter
+      för handel och marknadsföring <a>skjuter</a> i <a>höjden</a> på bekostnad av
+      forskning och utveckling, och på bekostnad av säkerhet.
+  - s: Ultimately, this is producing truly dramatic consequences for consumers throughout
+      the world because food prices among others have also <v>shot</v> <p>up</p> as
+      a result.
+    t: Detta leder slutligen till verkligt dramatiska konsekvenser för konsumenterna
+      i hela världen, eftersom bl.a. livsmedelspriserna också har <a>skjutit</a> i
+      <a>höjden</a> till följd av detta.
+  - s: Agricultural prices, not least for foods, have <v>shot</v> <p>up</p> over a
+      very short period.
+    t: På kort tid har jordbrukspriserna, inte minst på livsmedel, <a>skjutit</a>
+      i <a>höjden</a>.
+- c: 1
+  r: 2
+  v: rusa upp
+  x:
+  - s: Chancellor Schröder will not reach his goal of reducing the number of unemployed
+      to 3.5 million in the election year, since the figure is expected to <v>shoot</v>
+      <p>up</p> to 3.8 million.
+    t: Förbundskansler Schröder kommer inte att uppnå sitt mål att under valåret komma
+      fram till 3,5 miljoner arbetslösa, eftersom siffran troligen kommer att <a>rusa</a>
+      <a>upp</a> till 3,8 miljoner.
+- c: 1
+  r: 2
+  v: rusa höjd upp
+  x:
+  - s: It is a fact that there are highly competent consultants who have argued, for
+      instance, that external costs, including traffic congestion, are <v>shooting</v>
+      <p>up</p> to account for 10% of the gross domestic product of Europe, a figure
+      which may be debatable but which is astounding all the same.
+    t: Det står klart att vissa mycket kompetenta konsulter har gått så långt som
+      att säga att de externa kostnaderna inklusive trafikstockningar kommer att <a>rusa</a>
+      i <a>höjden</a>, <a>upp</a> till 10 procent av den europeiska bruttonationalinkomsten.
+- c: 1
+  r: 2
+  v: rusa höjd
+  x:
+  - s: The responsibilities of the French Presidency will surely increase given that
+      the European context is disrupted and the global markets in raw material foodstuffs
+      and fuels are <v>shooting</v> <p>up</p>.
+    t: Det franska ordförandeskapets ansvar kommer sannerligen att öka med tanke på
+      att den europeiska ramen har rubbats och de globala marknaderna för råmaterial
+      för livsmedel och bränsle <a>rusar</a> i <a>höjden</a>.
+- c: 1
+  r: 2
+  v: öka dramatiskt
+  x:
+  - s: Unemployment rates across the European Union have <v>shot</v> <p>up</p>.
+    t: Arbetslösheten i EU har <a>ökat</a> <a>dramatiskt</a>.
+- c: 1
+  r: 2
+  v: växa
+  x:
+  - s: With two-figure growth rates, high-rise buildings were <v>shooting</v> <p>up</p>
+      like mushrooms, output and exports were booming like never before, and Europe
+      was starting to feel the aggressive competition in trade and had to - and is
+      still having to - contend with job relocation.
+    t: Tvåsiffriga tillväxttal lät skyskrapor <a>växa</a> som svampar ur jorden.

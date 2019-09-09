@@ -1,0 +1,505 @@
+---
+de:
+- c: 3
+  r: 1
+  v: haben
+  x:
+  - s: Självfallet har den organiserade brottsligheten <v>skjutit</v> <p>in</p> sig
+      på svagheterna i systemet.
+    t: Die organisierte Kriminalität <a>hat</a> die Schwäche des Systems sicherlich
+      ausgenutzt.
+  - s: Den enda reservationen ni <v>sköt</v> <p>in</p> var att det inte skulle ske
+      ?över en natt?
+    t: 'Sie haben das nur eingeschränkt, indem Sie gesagt <a>haben</a>: ’nicht von
+      heute auf morgen’, aber die Zielrichtung ist klar.'
+  - s: Vi har <v>skjutit</v> <p>in</p> en hänvisning till denna artikel 6 som ersättning
+      för en hänvisning till direktivet om dataskydd, eftersom EG-domstolen har fastslagit
+      att direktivet inte är direkt tillämpligt i säkerhetsfrågor.
+    t: Wir <a>haben</a> einen Verweis auf eben diesen Artikel 6 anstelle des Hinweises
+      auf eine Datenschutzrichtlinie eingefügt, weil der Europäische Gerichtshof festgestellt
+      hatte, dass diese Richtlinie auf Sicherheitsfragen nicht unmittelbar anwendbar
+      ist.
+- c: 1
+  r: 2
+  v: Zwischenfrage
+  x:
+  - s: Jag vill bara <v>skjuta</v> <p>in</p> en fråga.
+    t: Ich möchte nur eine <a>Zwischenfrage</a> stellen.
+- c: 1
+  r: 2
+  v: einbringen
+  x:
+  - s: Jag gratulerar Dührkop till att ha varit mycket koncis och till ha haft modet
+      att <v>skjuta</v> <p>in</p> användbara men begränsade riktlinjer rörande antalet
+      platser.
+    t: Ich darf Frau Dührkop zu ihren sehr präzisen Formulierungen beglückwünschen,
+      auch zu ihrem Mut, hilfreiche, aber doch begrenzte Leitlinien zur Zahl der Stellen
+      <a>einzubringen</a>.
+- c: 1
+  r: 2
+  v: einfügen
+  x:
+  - s: För att undvika all eventuell förvirring om de fartyg som har fallit offer
+      för sjöröveri utanför Somalias kust föreslår jag att man <v>skjuter</v> <p>in</p>
+      orden ”särskilt de” efter ordet ”fartyg” i punkt 8.
+    t: Um jede mögliche Verwirrung über die Schiffe zu vermeiden, die vor der Küste
+      Somalias der Piraterie zum Opfer gefallen sind, schlage ich vor, nach dem Wort
+      „Schiffe“ in Ziffer 8 das Wort „insbesondere“ <a>einzufügen</a>.
+- c: 1
+  r: 2
+  v: einfügen Verzögerung
+  x:
+  - s: Jag tror att det kanske vore förståndigt, om vi i framtiden ser till att inte
+      till exempel på tisdagen bestämma oss för att <v>skjuta</v> <p>in</p> en extra
+      röstningsomgång på tisdag kväll.
+    t: Es wäre meiner Ansicht nach, wenn ich die Gelegenheit mißbrauchen darf, vernünftig,
+      wenn wir beispielsweise am Dienstag nicht abstimmen, am Dienstag abend künftig
+      eine zusätzliche Abstimmungsrunde <a>einzufügen</a>, damit wir während der Woche
+      keine weiteren <a>Verzögerungen</a> haben.
+- c: 1
+  r: 2
+  v: Aufnahme
+  x:
+  - s: Budgetutskottet har <v>skjutit</v> <p>in</p> utgifterna för logistiskt och
+      tekniskt stöd i ett separat avsnitt, med 90 procent av dessa anslag i reserv.
+    t: zum einen einen europäischen Flüchtlingsfonds, aus dem strukturell die erforderlichen
+      Maßnahmen für die <a>Aufnahme</a>, die Integration und die freiwillige Rückführung
+      der Flüchtlinge im Falle eines normalen Zustroms finanziert werden sollen, und
+      zum anderen eine zweite Haushaltslinie für Soforthilfemaßnahmen im Falle eines
+      massiven Flüchtlingszustroms.
+- c: 1
+  r: 2
+  v: hier einfügen
+  x:
+  - s: 'Vi vill <v>skjuta</v> <p>in</p> tre ord enligt följande: ”har gjort det uppenbart
+      att ingen hållbar och säker energikälla får lämnas outnyttjad”.'
+    t: 'Wir möchten <a>hier</a> drei Worte <a>einfügen</a>, so dass der Text lauten
+      würde:'
+- c: 1
+  r: 2
+  v: werden
+  x:
+  - s: Ett betänkande om fisket har dock <v>skjutits</v> <p>in</p> mellan ett betänkande
+      från utskottet för ekonomi, valutafrågor och industripolitik och mitt betänkande,
+      vilket skulle följas av ett annat betänkande om fisket.
+    t: Nun <a>wurde</a> zwischen einem Bericht des Wirtschaftsauschusses und meinem
+      Bericht ein Fischereibericht eingeschoben, und dann folgt wiederum ein Fischereibericht.
+- c: 1
+  r: 2
+  v: Ausrichtung
+  x:
+  - s: En reglering av marknaden borde <v>skjuta</v> <p>in</p> sig på framtidens marknader,
+      vilka kommer att kännetecknas av extrem konkurrens och differentiering med en
+      snabb utbredning av nya tjänster och inrikta sig på tillämpning av konkurrensreglerna
+      - competition law - i stället för förhandsreglering, som fastställs från gång
+      till gång.
+    t: Der Ansatz für die Regulierung sollte eine <a>Ausrichtung</a> auf die künftigen
+      Rahmenbedingungen der Märkte, die viel stärker wettbewerbsorientiert und differenziert
+      sein werden und auf denen innovative Dienste rasch verfügbar sein werden, und
+      eine Ausrichtung auf die Anwendung des Wettbewerbsrechts, des competition law,
+      anstelle der von Fall zu Fall festgelegten Vorabverpflichtungen beinhalten.
+en:
+- c: 6
+  r: 1
+  v: insert
+  x:
+  - s: 'Jag föreslår att vi efter ändringsförslag 19 <v>skjuter</v> <p>in</p> texten
+      till detta muntliga ändringsförslag, som jag tror även stöds av föredraganden:
+      ”med beaktande av att det nyligen upptäcktes mycket farliga terroristorganisationer
+      i Italien och Frankrike”.'
+    t: 'Mr President, ladies and gentlemen, I propose that after Amendment 19 we <a>insert</a>
+      the text of this oral amendment, which I believe also has the agreement of the
+      rapporteur: ’in view of the recent discoveries of extremely dangerous terrorist
+      organisations in Italy and France’.'
+  - s: 'Vi vill bara <v>skjuta</v> <p>in</p> tre ord: ”ett hot om”.'
+    t: 'We wish to <a>insert</a> just three words: ’the threat of’.'
+  - s: Vi föreslår att efter orden ”Helsinki European Council” <v>skjuta</v> <p>in</p>
+      orden ”and the Copenhagen criteria”.
+    t: We propose <a>inserting</a> the words ’and the Copenhagen criteria’ after the
+      words ’Helsinki European Council’ .
+  - s: Det är mycket beklagligt att vi inte möjlighet att <v>skjuta</v> <p>in</p>
+      en debatt om hotet om kärnvapenkrig i Asien mellan Indien och Pakistan på vår
+      föredragningslista.
+    t: It is a great pity that we do not have the flexibility to <a>insert</a> on
+      our agenda a debate on the threat of nuclear war in Asia between India and Pakistan.
+  - s: För att undvika all eventuell förvirring om de fartyg som har fallit offer
+      för sjöröveri utanför Somalias kust föreslår jag att man <v>skjuter</v> <p>in</p>
+      orden ”särskilt de” efter ordet ”fartyg” i punkt 8.
+    t: Mr President, in order to avoid any possible confusion about the vessels which
+      have been the victims of piracy off the coast of Somalia, I propose to <a>insert</a>
+      the words ’especially those’ after the word ’vessels’ in paragraph 8.
+  - s: 'Vi vill <v>skjuta</v> <p>in</p> tre ord enligt följande: ”har gjort det uppenbart
+      att ingen hållbar och säker energikälla får lämnas outnyttjad”.'
+    t: We want to <a>insert</a> three words so it would read, ’have made it clear
+      that no sustainable and safe source of energy must be left unused’.
+- c: 3
+  r: 2
+  v: target
+  x:
+  - s: Låt oss inte alltid <v>skjuta</v> <p>in</p> oss på fel fiende.
+    t: Honourable Members, let us not always <a>target</a> the wrong enemy.
+  - s: Låt oss inte <v>skjuta</v> <p>in</p> oss på fel fiende.
+    t: Let us not <a>target</a> the wrong enemy.
+  - s: Jag insisterar på att vi inte ska <v>skjuta</v> <p>in</p> oss på fel fiende.
+    t: let us not <a>target</a> the wrong enemy.
+- c: 1
+  r: 3
+  v: have insert
+  x:
+  - s: Vi har <v>skjutit</v> <p>in</p> en hänvisning till denna artikel 6 som ersättning
+      för en hänvisning till direktivet om dataskydd, eftersom EG-domstolen har fastslagit
+      att direktivet inte är direkt tillämpligt i säkerhetsfrågor.
+    t: We <a>have</a> <a>inserted</a> a reference to that same Article 6, replacing
+      the reference to a directive on data protection, because the European Court
+      of Justice has established that that directive is not directly applicable in
+      security matters.
+- c: 1
+  r: 3
+  v: inject
+  x:
+  - s: Jag gratulerar Dührkop till att ha varit mycket koncis och till ha haft modet
+      att <v>skjuta</v> <p>in</p> användbara men begränsade riktlinjer rörande antalet
+      platser.
+    t: I congratulate Mrs Dührkop for being very concise and having the courage to
+      <a>inject</a> useful but limited guidelines on the number of sites.
+- c: 1
+  r: 3
+  v: be tackle
+  x:
+  - s: Att man <v>skjuter</v> <p>in</p> sig på grundorsakerna snarare än symptomen
+      är det som talar mest för att det vi gör imorgon är ett steg i rätt riktning.
+    t: That fact that we <a>are</a> <a>tackling</a> the root causes rather than the
+      symptoms is what gives us the best indication that what we are going to do tomorrow
+      is a step in the right direction.
+- c: 1
+  r: 3
+  v: pass
+  x:
+  - s: Låt mig bara kort nämna i vilka fall det har rått viss oenighet mellan grupperna
+      - fast jag borde också snabbt <v>skjuta</v> <p>in</p> att de politiska grupperna
+      har samarbetat alldeles utmärkt i ärendet.
+    t: Let me just briefly mention where we have some disagreements between the groups,
+      though I should say in <a>passing</a> that the political groups have shown excellent
+      cooperation over this matter.
+es:
+- c: 2
+  r: 1
+  v: incluir
+  x:
+  - s: Det är mycket beklagligt att vi inte möjlighet att <v>skjuta</v> <p>in</p>
+      en debatt om hotet om kärnvapenkrig i Asien mellan Indien och Pakistan på vår
+      föredragningslista.
+    t: Es muy lamentable que no tengamos la flexibilidad suficiente para <a>incluir</a>
+      en nuestro orden del día un debate sobre la amenaza de una guerra nuclear que
+      se cierne en Asia entre la India y el Pakistán.
+  - s: Vi har <v>skjutit</v> <p>in</p> en hänvisning till denna artikel 6 som ersättning
+      för en hänvisning till direktivet om dataskydd, eftersom EG-domstolen har fastslagit
+      att direktivet inte är direkt tillämpligt i säkerhetsfrågor.
+    t: Hemos <a>incluido</a> una referencia a este mismo artículo 6 en sustitución
+      de la referencia a una directiva sobre la protección de datos, porque el Tribunal
+      de Justicia Europeo ha establecido que esa directiva no se aplique directamente
+      a cuestiones de seguridad.
+- c: 1
+  r: 2
+  v: insertar
+  x:
+  - s: 'Vi vill <v>skjuta</v> <p>in</p> tre ord enligt följande: ”har gjort det uppenbart
+      att ingen hållbar och säker energikälla får lämnas outnyttjad”.'
+    t: 'Queremos <a>insertar</a> tres palabras para que quede así: «han puesto de
+      manifiesto que no debe dejarse de lado ninguna fuente de energía sostenible
+      y segura».'
+- c: 1
+  r: 2
+  v: introducir
+  x:
+  - s: Jag gratulerar Dührkop till att ha varit mycket koncis och till ha haft modet
+      att <v>skjuta</v> <p>in</p> användbara men begränsade riktlinjer rörande antalet
+      platser.
+    t: Felicito a la Sra. Dührkop por su concisión y por haber tenido el valor de
+      <a>introducir</a> directrices útiles pero limitadas sobre el número de puntos.
+- c: 1
+  r: 2
+  v: añadir
+  x:
+  - s: 'Vi vill bara <v>skjuta</v> <p>in</p> tre ord: ”ett hot om”.'
+    t: 'Queremos <a>añadir</a> tan solo tres palabras: «la amenaza de».'
+fr:
+- c: 4
+  r: 1
+  v: insérer
+  x:
+  - s: 'Vi vill bara <v>skjuta</v> <p>in</p> tre ord: ”ett hot om”.'
+    t: 'Nous souhaitons simplement <a>insérer</a> trois mots : «the threat of» (la
+      menace d’un).'
+  - s: För att undvika all eventuell förvirring om de fartyg som har fallit offer
+      för sjöröveri utanför Somalias kust föreslår jag att man <v>skjuter</v> <p>in</p>
+      orden ”särskilt de” efter ordet ”fartyg” i punkt 8.
+    t: Monsieur le Président, afin d’éviter toute confusion éventuelle sur les bateaux
+      pris d’assaut par des pirates au large des côtes somaliennes, je propose d’<a>insérer</a>
+      les mots «en particulier ceux» après le mot «navires» au paragraphe 8.
+  - s: Vi har <v>skjutit</v> <p>in</p> en hänvisning till denna artikel 6 som ersättning
+      för en hänvisning till direktivet om dataskydd, eftersom EG-domstolen har fastslagit
+      att direktivet inte är direkt tillämpligt i säkerhetsfrågor.
+    t: Nous avons <a>inséré</a> une référence à cet article 6 en substitution de la
+      référence à une directive sur la protection des données, car la Cour de justice
+      a établi que cette directive n’était pas directement applicable en matière de
+      sécurité.
+  - s: 'Vi vill <v>skjuta</v> <p>in</p> tre ord enligt följande: ”har gjort det uppenbart
+      att ingen hållbar och säker energikälla får lämnas outnyttjad”.'
+    t: 'Nous voulons <a>insérer</a> trois mots afin que le libellé soit le suivant
+      : «ont montré clairement qu’aucune source d’énergie durable et sûre ne pouvait
+      être négligée».'
+- c: 2
+  r: 2
+  v: tromper
+  x:
+  - s: Låt oss inte <v>skjuta</v> <p>in</p> oss på fel fiende.
+    t: Ne nous <a>trompons</a> pas d’ennemi.
+  - s: Jag insisterar på att vi inte ska <v>skjuta</v> <p>in</p> oss på fel fiende.
+    t: Ne nous <a>trompons</a> pas d’ennemi.
+- c: 1
+  r: 3
+  v: moquerie viser
+  x:
+  - s: Jag tror till och med att den ökända rekommendationen eller standarden för
+      hur man ska laga gulasch, som många europaskeptiker <v>sköt</v> <p>in</p> sig
+      på, snarare var avsedd att skydda något specifikt tjeckiskt eller ungerskt än
+      att angripa den berörda medlemsstaten och dess identitet.
+    t: Je pense même que les légendaires recommandations ou normes sur la préparation
+      du goulasch - objet courant de <a>moquerie</a> eurosceptique - <a>visent</a>
+      davantage à protéger quelque chose de tchèque ou de hongrois qu’a attaquer l’État
+      membre concerné et son identité.
+- c: 1
+  r: 3
+  v: précipiter
+  x:
+  - s: Självfallet har den organiserade brottsligheten <v>skjutit</v> <p>in</p> sig
+      på svagheterna i systemet.
+    t: Quoi de plus normal que la criminalité organisée se soit <a>précipitée</a>
+      sur les faiblesses et lacunes du système.
+- c: 1
+  r: 3
+  v: poser
+  x:
+  - s: Jag vill bara <v>skjuta</v> <p>in</p> en fråga.
+    t: Je voudrais seulement <a>poser</a> une question intermédiaire.
+- c: 1
+  r: 3
+  v: inscrire
+  x:
+  - s: Det är mycket beklagligt att vi inte möjlighet att <v>skjuta</v> <p>in</p>
+      en debatt om hotet om kärnvapenkrig i Asien mellan Indien och Pakistan på vår
+      föredragningslista.
+    t: Il est extrêmement dommage que nous n’affichions pas la flexibilité nécessaire
+      pour <a>inscrire</a> à l’ordre du jour un débat sur la menace d’une guerre nucléaire
+      en Asie entre l’Inde et le Pakistan.
+- c: 1
+  r: 3
+  v: être intercaler
+  x:
+  - s: Ett betänkande om fisket har dock <v>skjutits</v> <p>in</p> mellan ett betänkande
+      från utskottet för ekonomi, valutafrågor och industripolitik och mitt betänkande,
+      vilket skulle följas av ett annat betänkande om fisket.
+    t: Toutefois, un rapport sur la pêche a <a>été</a> <a>intercalé</a> entre un rapport
+      de la commission économique et le mien, lequel serait suivi d’un autre rapport
+      sur la pêche.
+- c: 1
+  r: 3
+  v: introduire
+  x:
+  - s: Jag gratulerar Dührkop till att ha varit mycket koncis och till ha haft modet
+      att <v>skjuta</v> <p>in</p> användbara men begränsade riktlinjer rörande antalet
+      platser.
+    t: Je félicite Mme Dührkop pour sa concision ainsi que pour avoir le courage d’<a>introduire</a>
+      des orientations utiles mais limitées dans un certain nombre de postes.
+it:
+- c: 4
+  r: 1
+  v: inserire
+  x:
+  - s: 'Jag föreslår att vi efter ändringsförslag 19 <v>skjuter</v> <p>in</p> texten
+      till detta muntliga ändringsförslag, som jag tror även stöds av föredraganden:
+      ”med beaktande av att det nyligen upptäcktes mycket farliga terroristorganisationer
+      i Italien och Frankrike”.'
+    t: 'Signor Presidente, onorevoli colleghi, dopo l’emendamento 19, proporrei di
+      <a>inserire</a> il testo di questo emendamento orale, che, credo, trovi anche
+      il gradimento del relatore: «viste le recenti scoperte di pericolosissime organizzazioni
+      terroristiche in Italia e Francia».'
+  - s: Det är mycket beklagligt att vi inte möjlighet att <v>skjuta</v> <p>in</p>
+      en debatt om hotet om kärnvapenkrig i Asien mellan Indien och Pakistan på vår
+      föredragningslista.
+    t: Purtroppo, non siamo abbastanza flessibili per <a>inserire</a> nell’ordine
+      del giorno una discussione sul pericolo di un conflitto nucleare in Asia tra
+      l’India e il Pakistan.
+  - s: För att undvika all eventuell förvirring om de fartyg som har fallit offer
+      för sjöröveri utanför Somalias kust föreslår jag att man <v>skjuter</v> <p>in</p>
+      orden ”särskilt de” efter ordet ”fartyg” i punkt 8.
+    t: Signor Presidente, al fine di evitare qualsiasi possibile confusione circa
+      le navi che sono state vittime della pirateria al largo della costa della Somalia,
+      propongo di <a>inserire</a> le parole «in particolare quelle» dopo la parola
+      «navi» nel paragrafo 8.
+  - s: Vi har <v>skjutit</v> <p>in</p> en hänvisning till denna artikel 6 som ersättning
+      för en hänvisning till direktivet om dataskydd, eftersom EG-domstolen har fastslagit
+      att direktivet inte är direkt tillämpligt i säkerhetsfrågor.
+    t: Abbiamo <a>inserito</a> un riferimento proprio all’articolo 6 del Trattato
+      sull’Unione europea, sostituendo il riferimento ad una direttiva sulla protezione
+      dei dati, perché la Corte di giustizia aveva stabilito che, in materia di sicurezza,
+      quella direttiva non è direttamente applicabile.
+- c: 1
+  r: 2
+  v: aggiungere
+  x:
+  - s: 'Vi vill <v>skjuta</v> <p>in</p> tre ord enligt följande: ”har gjort det uppenbart
+      att ingen hållbar och säker energikälla får lämnas outnyttjad”.'
+    t: 'Vorremmo <a>aggiungere</a> due aggettivi, di modo che il testo finale diventi:
+      «hanno evidenziato che nessuna fonte energetica che sia sostenibile e sicura
+      dev’essere trascurata».'
+- c: 1
+  r: 2
+  v: avere inserire
+  x:
+  - s: Budgetutskottet har <v>skjutit</v> <p>in</p> utgifterna för logistiskt och
+      tekniskt stöd i ett separat avsnitt, med 90 procent av dessa anslag i reserv.
+    t: La commissione per i bilanci <a>ha</a> <a>inserito</a> le spese per il sostegno
+      logistico e l’assistenza tecnica in una sezione separata, con il 90 percento
+      degli stanziamenti in riserva.
+- c: 1
+  r: 2
+  v: affrontare
+  x:
+  - s: Att man <v>skjuter</v> <p>in</p> sig på grundorsakerna snarare än symptomen
+      är det som talar mest för att det vi gör imorgon är ett steg i rätt riktning.
+    t: Il fatto che stiamo <a>affrontando</a> le radici del problema, più che i suoi
+      sintomi, dimostra come meglio non si potrebbe che ciò che faremo domani è un
+      passo nella giusta direzione.
+- c: 1
+  r: 2
+  v: votazione
+  x:
+  - s: Jag tror att det kanske vore förståndigt, om vi i framtiden ser till att inte
+      till exempel på tisdagen bestämma oss för att <v>skjuta</v> <p>in</p> en extra
+      röstningsomgång på tisdag kväll.
+    t: Se mi è consentito cogliere l’occasione, penso che forse sarebbe opportuno
+      se in futuro il martedì non decidessimo di introdurre il martedì sera un’ulteriore
+      tornata di <a>votazioni</a>, in modo da non incorrere in ulteriori ritardi nel
+      corso della settimana.
+- c: 1
+  r: 2
+  v: introdurre
+  x:
+  - s: Jag gratulerar Dührkop till att ha varit mycket koncis och till ha haft modet
+      att <v>skjuta</v> <p>in</p> användbara men begränsade riktlinjer rörande antalet
+      platser.
+    t: Mi congratulo con la onorevole Dührkop per essere stata molto concisa ed aver
+      avuto il coraggio di <a>introdurre</a> orientamenti utili ma limitati riguardo
+      al numero di sedi.
+- c: 1
+  r: 2
+  v: buttare
+  x:
+  - s: Självfallet har den organiserade brottsligheten <v>skjutit</v> <p>in</p> sig
+      på svagheterna i systemet.
+    t: È ovvio che la criminalità organizzata si è <a>buttata</a> sui punti deboli
+      del sistema.
+pt:
+- c: 3
+  r: 1
+  v: inserir
+  x:
+  - s: Vi har <v>skjutit</v> <p>in</p> en hänvisning till denna artikel 6 som ersättning
+      för en hänvisning till direktivet om dataskydd, eftersom EG-domstolen har fastslagit
+      att direktivet inte är direkt tillämpligt i säkerhetsfrågor.
+    t: <a>Inserimos</a> uma referência a esse mesmo artigo 6º do Tratado sobre a União
+      Europeia, substituindo a referência a uma directiva relativa à protecção de
+      dados, porque o Tribunal de Justiça estipulou que, em matéria de segurança,
+      essa directiva não é directamente aplicável.
+  - s: Jag tror att det kanske vore förståndigt, om vi i framtiden ser till att inte
+      till exempel på tisdagen bestämma oss för att <v>skjuta</v> <p>in</p> en extra
+      röstningsomgång på tisdag kväll.
+    t: Penso que - se me for permitido abusar desta ocasião - talvez fosse acertado
+      que, de futuro, não votássemos, por exemplo, às terçasfeiras e que <a>inseríssemos</a>
+      uma ronda de votações suplementar na quintafeira, no sentido de evitar acumulação
+      de atrasos durante a semana.
+  - s: 'Vi vill <v>skjuta</v> <p>in</p> tre ord enligt följande: ”har gjort det uppenbart
+      att ingen hållbar och säker energikälla får lämnas outnyttjad”.'
+    t: O que pretendemos é <a>inserir</a> três palavras, por forma a que a redacção
+      passe a ser «demonstraram que se devem utilizar todas as fontes de energia sustentáveis
+      e seguras».
+- c: 2
+  r: 2
+  v: inserção
+  x:
+  - s: 'Vi vill bara <v>skjuta</v> <p>in</p> tre ord: ”ett hot om”.'
+    t: 'Senhor Presidente, é apenas para informar que propomos uma alteração oral
+      à nossa alteração nº 1, constituída pela <a>inserção</a> de apenas três palavras:
+      «the threat of».'
+  - s: För att undvika all eventuell förvirring om de fartyg som har fallit offer
+      för sjöröveri utanför Somalias kust föreslår jag att man <v>skjuter</v> <p>in</p>
+      orden ”särskilt de” efter ordet ”fartyg” i punkt 8.
+    t: Senhor Presidente, por forma a evitar qualquer possível confusão acerca das
+      embarcações que foram alvo de pirataria ao largo da costa da Somália, proponho
+      a <a>inserção</a> da expressão «em especial» depois da palavra «embarcações»
+      no n.º 8.
+- c: 1
+  r: 3
+  v: ir introduzir
+  x:
+  - s: Ett betänkande om fisket har dock <v>skjutits</v> <p>in</p> mellan ett betänkande
+      från utskottet för ekonomi, valutafrågor och industripolitik och mitt betänkande,
+      vilket skulle följas av ett annat betänkande om fisket.
+    t: No entanto, <a>foi</a> <a>introduzido</a> uma relatório sobre as pescas entre
+      um relatório da Comissão dos Assuntos Económicos e o meu, que será, por seu
+      turno, seguido por outro relatório sobre as pescas.
+- c: 1
+  r: 3
+  v: nele introduzir
+  x:
+  - s: Jag gratulerar Dührkop till att ha varit mycket koncis och till ha haft modet
+      att <v>skjuta</v> <p>in</p> användbara men begränsade riktlinjer rörande antalet
+      platser.
+    t: Felicito a senhora deputada Dührkop Dührkop pelo carácter extremamente conciso
+      do seu relatório e por ter tido a coragem de <a>nele</a> <a>introduzir</a> orientações
+      válidas mas limitadas em termos do número de aspectos contemplados.
+- c: 1
+  r: 3
+  v: constituir
+  x:
+  - s: Budgetutskottet har <v>skjutit</v> <p>in</p> utgifterna för logistiskt och
+      tekniskt stöd i ett separat avsnitt, med 90 procent av dessa anslag i reserv.
+    t: o primeiro <a>constituiria</a> um fundo europeu para os refugiados destinado
+      a financiar de uma forma estrutural as medidas necessárias relativas ao acolhimento,
+      à integração e ao repatriamento voluntário dos refugiados em caso de fluxo normal;
+- c: 1
+  r: 3
+  v: colocar subsidiário
+  x:
+  - s: Jag vill bara <v>skjuta</v> <p>in</p> en fråga.
+    t: Queria apenas <a>colocar</a> uma questão <a>subsidiária</a>.
+- c: 1
+  r: 3
+  v: precipitar
+  x:
+  - s: Självfallet har den organiserade brottsligheten <v>skjutit</v> <p>in</p> sig
+      på svagheterna i systemet.
+    t: É óbvio que o crime organizado se <a>precipitou</a> sobre a vulnerabilidade
+      do sistema.
+- c: 1
+  r: 3
+  v: orientar
+  x:
+  - s: En reglering av marknaden borde <v>skjuta</v> <p>in</p> sig på framtidens marknader,
+      vilka kommer att kännetecknas av extrem konkurrens och differentiering med en
+      snabb utbredning av nya tjänster och inrikta sig på tillämpning av konkurrensreglerna
+      - competition law - i stället för förhandsreglering, som fastställs från gång
+      till gång.
+    t: A abordagem da regulamentação do mercado deverá <a>orientar</a>-se para as
+      futuras condições dos mercados, que serão extremamente competitivas e diferenciadas,
+      com uma rápida difusão dos serviços inovadores, e deverá orientar-se para a
+      aplicação da legislação sobre a concorrência - competition law - em substituição
+      das regras ex ante, definidas caso a caso.
+- c: 1
+  r: 3
+  v: visar
+  x:
+  - s: Låt oss inte alltid <v>skjuta</v> <p>in</p> oss på fel fiende.
+    t: Senhoras e Senhores Deputados, não <a>visemos</a> sempre o inimigo errado.

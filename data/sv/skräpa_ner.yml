@@ -1,0 +1,64 @@
+---
+de:
+- c: 1
+  r: 1
+  v: verabreichen werden
+  x:
+  - s: Programmet har räddat många stadsdelar från det fördärv som skrotade och utbrända
+      fordon som <v>skräpar</v> <p>ner</p> och förorenar miljön innebär, och det har
+      betytt mycket för medborgarnas livskvalitet.
+    t: Dieser Pflock könnte durch eine britische Volksabstimmung <a>verabreicht</a>
+      <a>werden</a>, die ein schallendes „Nein“ ergeben würde.
+en:
+- c: 1
+  r: 1
+  v: litter
+  x:
+  - s: Programmet har räddat många stadsdelar från det fördärv som skrotade och utbrända
+      fordon som <v>skräpar</v> <p>ner</p> och förorenar miljön innebär, och det har
+      betytt mycket för medborgarnas livskvalitet.
+    t: The scheme has saved many neighbourhoods from the blight of scrapped and burnt-out
+      vehicles <a>littering</a> and polluting the environment, making a real difference
+      to the quality of citizens’ lives.
+es:
+- c: 1
+  r: 1
+  v: emitir
+  x:
+  - s: Programmet har räddat många stadsdelar från det fördärv som skrotade och utbrända
+      fordon som <v>skräpar</v> <p>ner</p> och förorenar miljön innebär, och det har
+      betytt mycket för medborgarnas livskvalitet.
+    t: Esta estaca podría ser el referendo británico, que <a>emitiría</a> un rotundo
+      «no».
+fr:
+- c: 1
+  r: 1
+  v: solder
+  x:
+  - s: Programmet har räddat många stadsdelar från det fördärv som skrotade och utbrända
+      fordon som <v>skräpar</v> <p>ner</p> och förorenar miljön innebär, och det har
+      betytt mycket för medborgarnas livskvalitet.
+    t: Un référendum britannique se <a>soldant</a> par un «non» retentissant pourrait
+      le lui administrer.
+it:
+- c: 1
+  r: 1
+  v: deturpare
+  x:
+  - s: Programmet har räddat många stadsdelar från det fördärv som skrotade och utbrända
+      fordon som <v>skräpar</v> <p>ner</p> och förorenar miljön innebär, och det har
+      betytt mycket för medborgarnas livskvalitet.
+    t: esso ha salvato molti quartieri londinesi dal flagello delle carcasse abbandonate
+      di veicoli bruciati che <a>deturpano</a> e inquinano l’ambiente, e ha segnato
+      un concreto salto di qualità nella vita dei cittadini.
+pt:
+- c: 1
+  r: 1
+  v: sujar
+  x:
+  - s: Programmet har räddat många stadsdelar från det fördärv som skrotade och utbrända
+      fordon som <v>skräpar</v> <p>ner</p> och förorenar miljön innebär, och det har
+      betytt mycket för medborgarnas livskvalitet.
+    t: Este programa tem salvo muitos bairros da decadência dos veículos queimados
+      e convertidos em sucata que <a>sujam</a> e poluem o ambiente, perturbando de
+      facto a qualidade de vida dos cidadãos.

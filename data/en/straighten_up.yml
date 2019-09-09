@@ -1,0 +1,43 @@
+---
+de:
+- c: 1
+  r: 1
+  v: regeln werden
+  x:
+  - s: It is very important for this cooperation to be <v>straightened</v> <p>up</p>.
+    t: Es ist wichtig, dass diese Zusammenarbeit <a>geregelt</a> <a>wird</a>.
+es:
+- c: 1
+  r: 1
+  v: reforzar
+  x:
+  - s: It is very important for this cooperation to be <v>straightened</v> <p>up</p>.
+    t: Es primordial que se <a>refuerce</a> esta cooperación.
+fr:
+- c: 1
+  r: 1
+  v: ordre
+  x:
+  - s: It is very important for this cooperation to be <v>straightened</v> <p>up</p>.
+    t: Il est très important de mettre de l’<a>ordre</a> dans cette coopération.
+it:
+- c: 1
+  r: 1
+  v: organizzare
+  x:
+  - s: It is very important for this cooperation to be <v>straightened</v> <p>up</p>.
+    t: È molto importante <a>organizzare</a> tale collaborazione.
+pt:
+- c: 1
+  r: 1
+  v: organizar
+  x:
+  - s: It is very important for this cooperation to be <v>straightened</v> <p>up</p>.
+    t: É muito importante <a>organizar</a> esta cooperação.
+sv:
+- c: 1
+  r: 1
+  v: ordning
+  x:
+  - s: It is very important for this cooperation to be <v>straightened</v> <p>up</p>.
+    t: Det är väldigt viktigt att få <a>ordning</a> på detta samarbete.

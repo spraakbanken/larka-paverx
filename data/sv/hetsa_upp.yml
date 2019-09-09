@@ -1,0 +1,715 @@
+---
+de:
+- c: 3
+  r: 1
+  v: aufregen
+  x:
+  - s: Jag vill inleda med att säga till den spanske författaren att jag inte behöver
+      ett besök från Miguel Ángel Moratino för att <v>hetsa</v> <p>upp</p> mig över
+      vad den spanska regeringen gör.
+    t: Also ich brauche keinen Besuch von Herrn Moratinos, um mich darüber <a>aufzuregen</a>,
+      was die spanische Regierung macht.
+  - s: Detta är ju helt normalt och inget som jag tycker att man behöver <v>hetsa</v>
+      <p>upp</p> sig för!
+    t: Das ist ja völlig normal, und darüber würde ich mich nicht besonders <a>aufregen</a>!
+  - s: men jag förstår inte varför ni <v>hetsar</v> <p>upp</p> er!
+    t: ich verstehe wirklich nicht, warum Sie sich so <a>aufregen</a>!
+- c: 1
+  r: 2
+  v: erregbar
+  x:
+  - s: Werner Langen har alltid lätt att <v>hetsa</v> <p>upp</p> sig.
+    t: Herr Kollege Langen ist immer leicht <a>erregbar</a>.
+- c: 1
+  r: 2
+  v: Gewalttätigkeit
+  x:
+  - s: Det förefaller som om han har velat föra en politik för att <v>hetsa</v> <p>upp</p>
+      stämningen i Latinamerika, vilket tyvärr inträffade för några årtionden sedan
+      och som fick fruktansvärda konsekvenser, bland annat det våld som fortfarande
+      finns i så många latinamerikanska länder som är våra vänner.
+    t: Man bekam den Eindruck, dass er eine Linie verfolgte, mit der er Lateinamerika
+      in Brand stecken wollte, wie dies unglücklicherweise vor einigen Jahrzehnten
+      geschehen ist, was schreckliche Folgen hatte und zu einer <a>Gewalttätigkeit</a>
+      führte, die immer noch in so vielen befreundeten lateinamerikanischen Ländern
+      fortbesteht.
+- c: 1
+  r: 2
+  v: aufhetzen
+  x:
+  - s: När det gäller politikerna ger den metod som består i att <v>hetsa</v> <p>upp</p>
+      olika grupper mot varandra såsom, till exempel, extremhögern gör hos oss, möjlighet
+      att skaffa sig ett politiskt område eller att behålla makten.
+    t: Die Politiker werden durch die Praxis, die Menschen gegeneinander <a>aufzuhetzen</a>,
+      so wie es bei uns beispielsweise die Rechtsextremen machen, in die Lage versetzt,
+      sich politischen Handlungsspielraum zu schaffen oder ihre Macht zu erhalten.
+- c: 1
+  r: 2
+  v: gegeneinander aufhetzen
+  x:
+  - s: De politiska konflikterna fortsätter att pyra, de olika befolkningsgrupperna
+      har <v>hetsat</v> <p>upp</p> sig mot varandra.
+    t: Die politischen Konflikte schwelen weiter, die verschiedenen Bevölkerungsgruppen
+      sind <a>gegeneinander</a> <a>aufgehetzt</a>.
+- c: 1
+  r: 2
+  v: befassen
+  x:
+  - s: Vi <v>hetsar</v> som vanligt <p>upp</p> oss över detaljer.
+    t: Wir <a>befassen</a> uns ständig mit Einzelheiten.
+  - s: Det menar jag med absolut uppriktighet, och vi kommer att sakna henne som kollega
+      när hon inte längre är kvar i parlamentet och inte längre <v>hetsar</v> <p>upp</p>
+      sig i konsumentfrågor.
+    t: Das ist ganz ehrlich gemeint, und wir werden sie als Kollegin vermissen, wenn
+      sie nicht mehr diesem Parlament angehören und sich nicht mehr mit <a>Verbraucherangelegenheiten</a>
+      <a>befassen</a> wird.
+- c: 1
+  r: 2
+  v: Aufhetzung
+  x:
+  - s: Men som jag ser det gäller frågan inte enbart kvinnors ställning, utan maktpolitiska
+      strävanden, där man utnyttjar islam för att <v>hetsa</v> <p>upp</p> det nigerianska
+      folket och bygga upp konstgjorda motsättningar, liksom jag i mina tidigare skriftliga
+      spörsmål har bringat till kommissionens kännedom.
+    t: Hier geht es meiner Auffassung nach aber nicht nur um die Stellung der Frau,
+      sondern um machtpolitische Bestrebungen, bei denen der Islam zur <a>Aufhetzung</a>
+      des nigerianischen Volkes und zur Schaffung künstlicher Konfrontationen benutzt
+      wird, wie ich der Kommission bereits in meinen vorangegangenen schriftlichen
+      Anfragen zur Kenntnis gegeben habe.
+- c: 1
+  r: 2
+  v: gleich aufregen
+  x:
+  - s: man kan väl få göra små kommentarer utan att man <v>hetsar</v> <p>upp</p> sig!
+    t: Man wird doch mal eine kleine Anmerkung machen können, ohne daß sich <a>gleich</a>
+      jemand <a>aufregt</a>!
+- c: 1
+  r: 2
+  v: begeistern
+  x:
+  - s: Jag <v>hetsar</v> inte <p>upp</p> mig av denna debatt, men jag anser att frågan
+      om de mänskliga rättigheternas odelbarhet, om den allmänna förklaringen, såsom
+      den gäller för länderna utanför den Europeiska unionen, också skall gälla inom
+      denna, och därmed måste också frågorna som sammanhänger med sociala, ekonomiska
+      och kulturella rättigheter gälla.
+    t: Zwar <a>begeistere</a> ich mich nicht gerade für diese Debatte, doch bin ich
+      der Auffassung, daß die Frage der Unteilbarkeit der Menschenrechte, der Allgemeinen
+      Menschenrechtserklärung, so wie sie für die Länder außerhalb der Europäische
+      Union gilt, auch innerhalb der EU gelten muß, und daß folglich auch die mit
+      den sozialen, wirtschaftlichen und kulturellen Rechten verknüpften Fragen gelten
+      müssen.
+- c: 1
+  r: 2
+  v: befassen
+  x:
+  - s: Vi <v>hetsar</v> som vanligt <p>upp</p> oss över detaljer.
+    t: Wir <a>befassen</a> uns ständig mit Einzelheiten.
+  - s: Det menar jag med absolut uppriktighet, och vi kommer att sakna henne som kollega
+      när hon inte längre är kvar i parlamentet och inte längre <v>hetsar</v> <p>upp</p>
+      sig i konsumentfrågor.
+    t: Das ist ganz ehrlich gemeint, und wir werden sie als Kollegin vermissen, wenn
+      sie nicht mehr diesem Parlament angehören und sich nicht mehr mit <a>Verbraucherangelegenheiten</a>
+      <a>befassen</a> wird.
+en:
+- c: 3
+  r: 1
+  v: get irritated
+  x:
+  - s: Jag förstår inte varför ni <v>hetsar</v> <p>upp</p> er innan jag ens öppnat
+      munnen!
+    t: Madam President, I do not understand why you are <a>getting</a> so <a>irritated</a>
+      before I have even opened my mouth!
+  - s: men jag förstår inte varför ni <v>hetsar</v> <p>upp</p> er!
+    t: Why are you <a>getting</a> so <a>irritated</a>?
+  - s: man kan väl få göra små kommentarer utan att man <v>hetsar</v> <p>upp</p> sig!
+    t: He is not always against it and it is safe to make minor observations like
+      that without <a>getting</a> <a>irritated</a>!
+- c: 2
+  r: 2
+  v: be get work up
+  x:
+  - s: Jag vill säga … Jag förstår inte varför ni <v>hetsar</v> <p>upp</p> er så,
+      herr Schulz!
+    t: I wish to say something … I do not know why you <a>are</a> <a>getting</a> all
+      <a>worked</a> <a>up</a>, Mr Schulz!
+  - s: vi bedrar våra gäster som ser framför sig en tom kammare, och vi bedrar högern,
+      där ledamöterna <v>hetsar</v> <p>upp</p> sig över att ECB förlorar sitt oberoende,
+      fast Europeiska centralbanken är och kommer att förbli oberoende.
+    t: the deception of our guests, who are faced with an empty Chamber, and deception
+      on the right, where Members <a>are</a> <a>getting</a> <a>worked</a> <a>up</a>
+      about the ECB’s losing its independence, when the European Central Bank is and
+      will remain independent.
+- c: 2
+  r: 2
+  v: stir up
+  x:
+  - s: De politiska konflikterna fortsätter att pyra, de olika befolkningsgrupperna
+      har <v>hetsat</v> <p>upp</p> sig mot varandra.
+    t: Political conflicts continue to smoulder, the animosity of various population
+      groups has been <a>stirred</a> <a>up</a> towards one another.
+  - s: Men som jag ser det gäller frågan inte enbart kvinnors ställning, utan maktpolitiska
+      strävanden, där man utnyttjar islam för att <v>hetsa</v> <p>upp</p> det nigerianska
+      folket och bygga upp konstgjorda motsättningar, liksom jag i mina tidigare skriftliga
+      spörsmål har bringat till kommissionens kännedom.
+    t: The question as I see it, however, is not just the status of women, but an
+      attempt at power politics, where Islam is being used in Nigeria to <a>stir</a>
+      <a>up</a> the feelings of the people and create artificial disputes, as I have
+      brought to the attention of the Commission in my earlier written questions.
+- c: 1
+  r: 3
+  v: be get bogged down
+  x:
+  - s: Vi <v>hetsar</v> som vanligt <p>upp</p> oss över detaljer.
+    t: We <a>are</a> always <a>getting</a> <a>bogged</a> <a>down</a> in details.
+- c: 1
+  r: 3
+  v: attention
+  x:
+  - s: Det aktuella ämne som alla nu <v>hetsar</v> <p>upp</p> sig över, utlämningen
+      eller begäran om utlämning av Öcalan, f.d. PKK-ledare, är ett litet mer komplicerat
+      fall.
+    t: The latest focus of <a>attention</a>, the extradition or request for extradition
+      of Mr Ocalan, the former leader of the PKK, is somewhat more complicated.
+- c: 1
+  r: 3
+  v: get excite
+  x:
+  - s: Det går naturligtvis bra att ändra benämningen, men om man inte ändrar synsättet
+      finns det mycket lite att <v>hetsa</v> <p>upp</p> sig över.
+    t: It is all very well changing what you call them, but if you do not change the
+      approach there is very little to <a>get</a> <a>excited</a> about.
+- c: 1
+  r: 3
+  v: turn
+  x:
+  - s: Det är mycket förståeligt att det finns en ökande oro i Tyskland och Nederländerna,
+      de länder som övertar ledningen för ISAF, för att krigsherrarna vid ett anfall
+      mot Irak skall utnyttja detta till att tillsammans med al-Qaida <v>hetsa</v>
+      <p>upp</p> människorna mot alla västerlänningar, inte enbart soldater utan också
+      hjälparbetare.
+    t: Understandably, there is increasing concern in Germany and the Netherlands,
+      the countries taking over command of the ISAF, that the warlords, together with
+      Al-Qaida, are very likely to use an attack on Iraq to <a>turn</a> people against
+      all Westerners, not only soldiers but aid workers as well.
+- c: 1
+  r: 3
+  v: take
+  x:
+  - s: Jag ber er fortfarande om detta berömda handtag, eftersom det går mycket fortare
+      om parlamentet <v>hetsar</v> <p>upp</p> sig litet när det gäller dessa problem.
+    t: Once again, I appeal to Members to lend us a hand because progress is much
+      faster once the House <a>takes</a> these issues to heart.
+- c: 1
+  r: 3
+  v: pit
+  x:
+  - s: När det gäller politikerna ger den metod som består i att <v>hetsa</v> <p>upp</p>
+      olika grupper mot varandra såsom, till exempel, extremhögern gör hos oss, möjlighet
+      att skaffa sig ett politiskt område eller att behålla makten.
+    t: As far as politicians are concerned, the practice of <a>pitting</a> one group
+      against another, as, for example, the far right does in Europe, allows a political
+      vacuum to be created or power to be maintained.
+- c: 1
+  r: 3
+  v: inflame
+  x:
+  - s: Det förefaller som om han har velat föra en politik för att <v>hetsa</v> <p>upp</p>
+      stämningen i Latinamerika, vilket tyvärr inträffade för några årtionden sedan
+      och som fick fruktansvärda konsekvenser, bland annat det våld som fortfarande
+      finns i så många latinamerikanska länder som är våra vänner.
+    t: It appears that he wanted to pursue a policy of <a>inflaming</a> Latin America,
+      which is what unfortunately happened a few decades ago, with terrible consequences,
+      including the violence that still besets so many Latin American countries that
+      are friends of ours.
+- c: 1
+  r: 3
+  v: get work up about
+  x:
+  - s: Jag tror inte att vi behöver <v>hetsa</v> <p>upp</p> oss.
+    t: I don’t think there’s anything to <a>get</a> <a>worked</a> <a>up</a> <a>about</a>.
+- c: 1
+  r: 3
+  v: get heat up
+  x:
+  - s: Jag vill inleda med att säga till den spanske författaren att jag inte behöver
+      ett besök från Miguel Ángel Moratino för att <v>hetsa</v> <p>upp</p> mig över
+      vad den spanska regeringen gör.
+    t: Madam President, I would like to start by saying to the Spanish rapporteur
+      that I do not need a visit from Mr Moratino to <a>get</a> <a>het</a> <a>up</a>
+      about what the Spanish Government is doing.
+- c: 1
+  r: 3
+  v: excite
+  x:
+  - s: Låt oss, som ansvarstagande företrädare för allmänheten, försöka att lägga
+      fram sanningen för våra medborgare i stället för att försöka vilseleda dem,
+      <v>hetsa</v> <p>upp</p> dem och skrämma dem.
+    t: Let us, as responsible public representatives, try to present the truth to
+      our people instead of trying to mislead them and <a>excite</a> them and frighten
+      them.
+- c: 1
+  r: 3
+  v: excitable
+  x:
+  - s: Werner Langen har alltid lätt att <v>hetsa</v> <p>upp</p> sig.
+    t: Mr Langen is always very <a>excitable</a>.
+es:
+- c: 1
+  r: 1
+  v: irritar
+  x:
+  - s: Jag vill inleda med att säga till den spanske författaren att jag inte behöver
+      ett besök från Miguel Ángel Moratino för att <v>hetsa</v> <p>upp</p> mig över
+      vad den spanska regeringen gör.
+    t: Señora Presidenta, quisiera decir al ponente español que no necesito la visita
+      del señor Moratinos para <a>irritarme</a> por lo que hace el Gobierno español.
+- c: 1
+  r: 1
+  v: nervioso
+  x:
+  - s: Jag vill säga … Jag förstår inte varför ni <v>hetsar</v> <p>upp</p> er så,
+      herr Schulz!
+    t: Deseo decir algo… ¡No sé por qué se están poniendo ustedes tan <a>nerviosos</a>,
+      señor Schulz!
+- c: 1
+  r: 1
+  v: ocuparse
+  x:
+  - s: Det menar jag med absolut uppriktighet, och vi kommer att sakna henne som kollega
+      när hon inte längre är kvar i parlamentet och inte längre <v>hetsar</v> <p>upp</p>
+      sig i konsumentfrågor.
+    t: la echaremos de menos como compañera de trabajo cuando ya no esté con nosotros
+      en este Parlamento y haya dejado de <a>ocuparse</a> de los asuntos del consumidor.
+- c: 1
+  r: 1
+  v: poner nervioso
+  x:
+  - s: man kan väl få göra små kommentarer utan att man <v>hetsar</v> <p>upp</p> sig!
+    t: ¡se pueden hacer comentarios de este tipo, sin que nos <a>pongamos</a> <a>nerviosos</a>!
+- c: 1
+  r: 1
+  v: quedar atascar
+  x:
+  - s: Vi <v>hetsar</v> som vanligt <p>upp</p> oss över detaljer.
+    t: Siempre nos <a>quedamos</a> <a>atascados</a> en los detalles.
+- c: 1
+  r: 1
+  v: agitar
+  x:
+  - s: Jag ber er fortfarande om detta berömda handtag, eftersom det går mycket fortare
+      om parlamentet <v>hetsar</v> <p>upp</p> sig litet när det gäller dessa problem.
+    t: Les sigo pidiendo ese famoso empujón porque todo va mucho más rápidamente si
+      el Parlamento se <a>agita</a> un poco con estos problemas.
+- c: 1
+  r: 1
+  v: alterar
+  x:
+  - s: vi bedrar våra gäster som ser framför sig en tom kammare, och vi bedrar högern,
+      där ledamöterna <v>hetsar</v> <p>upp</p> sig över att ECB förlorar sitt oberoende,
+      fast Europeiska centralbanken är och kommer att förbli oberoende.
+    t: para nuestros invitados, que se han encontrado con un hemiciclo vacío, y para
+      la derecha, cuyos diputados están <a>alterados</a> por la pérdida de independencia
+      del BCE, cuando este es y seguirá siendo independiente.
+- c: 1
+  r: 1
+  v: apasionar
+  x:
+  - s: Jag <v>hetsar</v> inte <p>upp</p> mig av denna debatt, men jag anser att frågan
+      om de mänskliga rättigheternas odelbarhet, om den allmänna förklaringen, såsom
+      den gäller för länderna utanför den Europeiska unionen, också skall gälla inom
+      denna, och därmed måste också frågorna som sammanhänger med sociala, ekonomiska
+      och kulturella rättigheter gälla.
+    t: No me <a>apasiono</a> con este debate, pero considero que el tema de la indivisibilidad
+      de los derechos humanos, de la Declaración Universal, del mismo modo que vale
+      para los países que no pertenecen a la Unión Europea, debe valer dentro de la
+      misma y, por tanto, también deben valer las cuestiones vinculadas a los derechos
+      sociales, económicos y culturales.
+- c: 1
+  r: 1
+  v: enfadar
+  x:
+  - s: Jag förstår inte varför ni <v>hetsar</v> <p>upp</p> er innan jag ens öppnat
+      munnen!
+    t: Señora Presidenta, no comprendo por qué se <a>enfada</a> antes de que yo haya
+      abierto la boca.
+- c: 1
+  r: 1
+  v: enfrentar
+  x:
+  - s: När det gäller politikerna ger den metod som består i att <v>hetsa</v> <p>upp</p>
+      olika grupper mot varandra såsom, till exempel, extremhögern gör hos oss, möjlighet
+      att skaffa sig ett politiskt område eller att behålla makten.
+    t: Para los políticos, la práctica consistente en <a>enfrentar</a> a unos contra
+      otros, como lo hace, por ejemplo, la derecha en nuestro país, permite que se
+      cree un espacio político o que se mantenga el poder constituido.
+- c: 1
+  r: 1
+  v: excitar
+  x:
+  - s: Werner Langen har alltid lätt att <v>hetsa</v> <p>upp</p> sig.
+    t: El señor Langen se <a>excita</a> con facilidad.
+  - s: Låt oss, som ansvarstagande företrädare för allmänheten, försöka att lägga
+      fram sanningen för våra medborgare i stället för att försöka vilseleda dem,
+      <v>hetsa</v> <p>upp</p> dem och skrämma dem.
+    t: Intentemos, como representantes responsables del público, presentar la verdad
+      a nuestros ciudadanos, en lugar de intentar confundirlos, <a>excitarlos</a>
+      y atemorizarlos.
+- c: 1
+  r: 1
+  v: excitar
+  x:
+  - s: Werner Langen har alltid lätt att <v>hetsa</v> <p>upp</p> sig.
+    t: El señor Langen se <a>excita</a> con facilidad.
+  - s: Låt oss, som ansvarstagande företrädare för allmänheten, försöka att lägga
+      fram sanningen för våra medborgare i stället för att försöka vilseleda dem,
+      <v>hetsa</v> <p>upp</p> dem och skrämma dem.
+    t: Intentemos, como representantes responsables del público, presentar la verdad
+      a nuestros ciudadanos, en lugar de intentar confundirlos, <a>excitarlos</a>
+      y atemorizarlos.
+- c: 1
+  r: 1
+  v: inflamar
+  x:
+  - s: Det förefaller som om han har velat föra en politik för att <v>hetsa</v> <p>upp</p>
+      stämningen i Latinamerika, vilket tyvärr inträffade för några årtionden sedan
+      och som fick fruktansvärda konsekvenser, bland annat det våld som fortfarande
+      finns i så många latinamerikanska länder som är våra vänner.
+    t: Parece que quería seguir una política consistente en <a>inflamar</a> América
+      Latina, que desgraciadamente es lo que sucedió hace varias décadas, con terribles
+      consecuencias, incluida la violencia que todavía acucia a tantos países latinoamericanos
+      amigos nuestros.
+fr:
+- c: 2
+  r: 1
+  v: indigner
+  x:
+  - s: Jag vill inleda med att säga till den spanske författaren att jag inte behöver
+      ett besök från Miguel Ángel Moratino för att <v>hetsa</v> <p>upp</p> mig över
+      vad den spanska regeringen gör.
+    t: Madame la Présidente, je voudrais d’abord dire au rapporteur espagnol que je
+      n’ai pas besoin d’une visite de M. Moratino pour m’<a>indigner</a> de l’attitude
+      du gouvernement espagnol.
+  - s: Detta är ju helt normalt och inget som jag tycker att man behöver <v>hetsa</v>
+      <p>upp</p> sig för!
+    t: C’est tout à fait normal et je n’ai pas l’intention de m’en <a>indigner</a>.
+- c: 1
+  r: 2
+  v: incendier
+  x:
+  - s: Det förefaller som om han har velat föra en politik för att <v>hetsa</v> <p>upp</p>
+      stämningen i Latinamerika, vilket tyvärr inträffade för några årtionden sedan
+      och som fick fruktansvärda konsekvenser, bland annat det våld som fortfarande
+      finns i så många latinamerikanska länder som är våra vänner.
+    t: Il apparaît qu’il a voulu suivre une ligne consistant à <a>incendier</a> l’Amérique
+      latine, comme cela a déjà eu lieu il y a quelques décennies avec des conséquences
+      terribles, notamment la violence, encore présente dans de nombreux pays amis
+      d’Amérique latine.
+- c: 1
+  r: 2
+  v: fomenter
+  x:
+  - s: Men som jag ser det gäller frågan inte enbart kvinnors ställning, utan maktpolitiska
+      strävanden, där man utnyttjar islam för att <v>hetsa</v> <p>upp</p> det nigerianska
+      folket och bygga upp konstgjorda motsättningar, liksom jag i mina tidigare skriftliga
+      spörsmål har bringat till kommissionens kännedom.
+    t: au Nigeria, on se sert de l’islam pour <a>fomenter</a> la rébellion dans le
+      peuple et créer des antagonismes artificiels, comme j’ai eu l’occasion de le
+      dire à la Commission dans mes questions écrites antérieures.
+- c: 1
+  r: 2
+  v: énerver
+  x:
+  - s: man kan väl få göra små kommentarer utan att man <v>hetsar</v> <p>upp</p> sig!
+    t: on peut bien faire des petites remarques comme cela, sans qu’on s’<a>énerve</a>
+      !
+- c: 1
+  r: 2
+  v: emporter
+  x:
+  - s: Werner Langen har alltid lätt att <v>hetsa</v> <p>upp</p> sig.
+    t: M. Langen s’<a>emporte</a> toujours rapidement.
+- c: 1
+  r: 2
+  v: laisser occuper
+  x:
+  - s: Det menar jag med absolut uppriktighet, och vi kommer att sakna henne som kollega
+      när hon inte längre är kvar i parlamentet och inte längre <v>hetsar</v> <p>upp</p>
+      sig i konsumentfrågor.
+    t: Ces paroles sont totalement sincères, et son départ du Parlement <a>laissera</a>
+      un vide lorsqu’elle ne sera plus là pour s’<a>occuper</a> de la protection des
+      consommateurs.
+- c: 1
+  r: 2
+  v: monter
+  x:
+  - s: Vi skulle inte föra den här debatten här i dag, kolleger, om det inte fanns
+      en mäktig lobby som gjort allt för att <v>hetsa</v> <p>upp</p> den allmänna
+      opinionen och som till och med lyckats vinna över de flesta politiska grupperna
+      till sin sida.
+    t: Monsieur le Président, mes chers collègues, nous ne serions pas obligés de
+      tenir un tel débat si un puissant lobby n’avait pas mis tout son poids dans
+      la balance pour faire <a>monter</a> l’opinion, un lobby qui est même parvenu
+      à gagner la plupart des groupes à ses vues.
+- c: 1
+  r: 2
+  v: passionner
+  x:
+  - s: Jag <v>hetsar</v> inte <p>upp</p> mig av denna debatt, men jag anser att frågan
+      om de mänskliga rättigheternas odelbarhet, om den allmänna förklaringen, såsom
+      den gäller för länderna utanför den Europeiska unionen, också skall gälla inom
+      denna, och därmed måste också frågorna som sammanhänger med sociala, ekonomiska
+      och kulturella rättigheter gälla.
+    t: Je ne me <a>passionne</a> pas pour ce débat, mais je suis d’avis que la question
+      de l’indivisibilité de droits de l’homme, de la Déclaration universelle, vaut
+      autant pour les pays de l’Union européenne que pour les pays tiers et que, partant,
+      les questions liées aux droits sociaux, économiques et culturelles nous concernent
+      aussi.
+- c: 1
+  r: 2
+  v: agiter
+  x:
+  - s: Jag ber er fortfarande om detta berömda handtag, eftersom det går mycket fortare
+      om parlamentet <v>hetsar</v> <p>upp</p> sig litet när det gäller dessa problem.
+    t: Je vous demande toujours ce fameux coup de main, parce que cela va beaucoup
+      plus rapidement si le Parlement s’<a>agite</a> un peu sur ces problèmes.
+it:
+- c: 2
+  r: 1
+  v: occupare
+  x:
+  - s: Det aktuella ämne som alla nu <v>hetsar</v> <p>upp</p> sig över, utlämningen
+      eller begäran om utlämning av Öcalan, f.d. PKK-ledare, är ett litet mer komplicerat
+      fall.
+    t: L’altro fatto di attualità di cui tutti si <a>occupano</a>, cioè l’estradizione
+      o la richiesta di estradizione di Öcalan, l’ex capo del PKK, si presenta invece
+      come un caso più complesso, e lo è soprattutto perché la richiesta è stata avanzata
+      dalla Turchia, uno dei sette paesi che hanno votato contro l’accordo concluso
+      alla Conferenza di Roma.
+  - s: Det menar jag med absolut uppriktighet, och vi kommer att sakna henne som kollega
+      när hon inte längre är kvar i parlamentet och inte längre <v>hetsar</v> <p>upp</p>
+      sig i konsumentfrågor.
+    t: Sono parole sincere e la onorevole Kuhn ci mancherà quando non siederà più
+      in questo Parlamento e non si <a>occuperà</a> più di problemi dei consumatori.
+- c: 1
+  r: 2
+  v: adirarsi
+  x:
+  - s: men jag förstår inte varför ni <v>hetsar</v> <p>upp</p> er!
+    t: ma non capisco perché lei si <a>adiri</a>!
+- c: 1
+  r: 2
+  v: fibrillazione
+  x:
+  - s: vi bedrar våra gäster som ser framför sig en tom kammare, och vi bedrar högern,
+      där ledamöterna <v>hetsar</v> <p>upp</p> sig över att ECB förlorar sitt oberoende,
+      fast Europeiska centralbanken är och kommer att förbli oberoende.
+    t: la disillusione dei nostri ospiti, che compaiono di fronte a un Emiciclo deserto,
+      e la delusione della destra, i cui membri sono in <a>fibrillazione</a> per l’eventuale
+      perdita di indipendenza della BCE, mentre la Banca centrale europea è e rimarrà
+      indipendente.
+- c: 1
+  r: 2
+  v: eccitabile
+  x:
+  - s: Werner Langen har alltid lätt att <v>hetsa</v> <p>upp</p> sig.
+    t: L’onorevole Langen è sempre molto <a>eccitabile</a>.
+- c: 1
+  r: 2
+  v: indignare
+  x:
+  - s: Jag vill inleda med att säga till den spanske författaren att jag inte behöver
+      ett besök från Miguel Ángel Moratino för att <v>hetsa</v> <p>upp</p> mig över
+      vad den spanska regeringen gör.
+    t: Signora Presidente, per prima cosa vorrei dire al collega spagnolo che non
+      ho bisogno di aspettare una visita del Ministro Moratinos per <a>indignarmi</a>
+      per il comportamento del governo spagnolo.
+- c: 1
+  r: 2
+  v: fare
+  x:
+  - s: Vi <v>hetsar</v> som vanligt <p>upp</p> oss över detaljer.
+    t: Non <a>facciamo</a> altro che perderci in dettagli.
+- c: 1
+  r: 2
+  v: preoccupare
+  x:
+  - s: Detta är ju helt normalt och inget som jag tycker att man behöver <v>hetsa</v>
+      <p>upp</p> sig för!
+    t: Questo è abbastanza normale e non me ne <a>preoccuperei</a> più di tanto.
+- c: 1
+  r: 2
+  v: irritare
+  x:
+  - s: Jag förstår inte varför ni <v>hetsar</v> <p>upp</p> er innan jag ens öppnat
+      munnen!
+    t: Signora Presidente, non capisco perché lei si <a>irriti</a> ancor prima che
+      io abbia aperto bocca!
+- c: 1
+  r: 2
+  v: suscitare nervosismo
+  x:
+  - s: man kan väl få göra små kommentarer utan att man <v>hetsar</v> <p>upp</p> sig!
+    t: sarà pur possibile fare queste piccole osservazioni senza per questo <a>suscitare</a>
+      <a>nervosismi</a>!
+- c: 1
+  r: 2
+  v: scagliare
+  x:
+  - s: När det gäller politikerna ger den metod som består i att <v>hetsa</v> <p>upp</p>
+      olika grupper mot varandra såsom, till exempel, extremhögern gör hos oss, möjlighet
+      att skaffa sig ett politiskt område eller att behålla makten.
+    t: <a>Scagliarsi</a> gli uni contro gli altri è una pratica che permette ai politici
+      di creare uno spazio politico o mantenere il potere.
+- c: 1
+  r: 2
+  v: rallegrare
+  x:
+  - s: Det går naturligtvis bra att ändra benämningen, men om man inte ändrar synsättet
+      finns det mycket lite att <v>hetsa</v> <p>upp</p> sig över.
+    t: Cambiare il nome degli accordi va benissimo, ma se a questo cambiamento non
+      corrisponde una modifica del nostro approccio, c’è ben poco di cui <a>rallegrarsi</a>.
+- c: 1
+  r: 2
+  v: appassionare
+  x:
+  - s: Jag <v>hetsar</v> inte <p>upp</p> mig av denna debatt, men jag anser att frågan
+      om de mänskliga rättigheternas odelbarhet, om den allmänna förklaringen, såsom
+      den gäller för länderna utanför den Europeiska unionen, också skall gälla inom
+      denna, och därmed måste också frågorna som sammanhänger med sociala, ekonomiska
+      och kulturella rättigheter gälla.
+    t: Io non mi <a>appassiono</a> a questo dibattito ma sono del parere che la questione
+      dell’indivisibilità dei diritti umani, della Dichiarazione universale, così
+      come vale per i paesi fuori dell’Unione europea, debba valere all’interno di
+      essa e quindi debbano valere anche le questioni legate ai diritti sociali, economici
+      e culturali.
+- c: 1
+  r: 2
+  v: provocare
+  x:
+  - s: Låt oss, som ansvarstagande företrädare för allmänheten, försöka att lägga
+      fram sanningen för våra medborgare i stället för att försöka vilseleda dem,
+      <v>hetsa</v> <p>upp</p> dem och skrämma dem.
+    t: Auspico che cercheremo invece di rappresentare responsabilmente gli elettori,
+      presentando la verità e evitando di ingannare i cittadini, di <a>provocarli</a>
+      e spaventarli.
+pt:
+- c: 4
+  r: 1
+  v: enervar
+  x:
+  - s: Jag tror inte att vi behöver <v>hetsa</v> <p>upp</p> oss.
+    t: Penso que não precisamos de nos <a>enervar</a>.
+  - s: Jag förstår inte varför ni <v>hetsar</v> <p>upp</p> er innan jag ens öppnat
+      munnen!
+    t: Senhora Presidente, não entendo por que é que se <a>enerva</a> antes mesmo
+      de eu abrir a boca!
+  - s: men jag förstår inte varför ni <v>hetsar</v> <p>upp</p> er!
+    t: ': não percebo porque é que se <a>enerva</a>!'
+  - s: man kan väl få göra små kommentarer utan att man <v>hetsar</v> <p>upp</p> sig!
+    t: Podemse com certeza fazer estas pequenas observações, não há motivo para se
+      <a>enervar</a>!
+- c: 2
+  r: 2
+  v: preocupar
+  x:
+  - s: Det menar jag med absolut uppriktighet, och vi kommer att sakna henne som kollega
+      när hon inte längre är kvar i parlamentet och inte längre <v>hetsar</v> <p>upp</p>
+      sig i konsumentfrågor.
+    t: Digo-o com a máxima sinceridade e sentiremos certamente a sua falta como colega,
+      quando ela deixar este Parlamento e de se <a>preocupar</a> com os assuntos relativos
+      ao consumidor.
+  - s: Detta är ju helt normalt och inget som jag tycker att man behöver <v>hetsa</v>
+      <p>upp</p> sig för!
+    t: É absolutamente normal e eu não me <a>preocuparia</a> muito com isso.
+- c: 1
+  r: 3
+  v: instigar
+  x:
+  - s: De politiska konflikterna fortsätter att pyra, de olika befolkningsgrupperna
+      har <v>hetsat</v> <p>upp</p> sig mot varandra.
+    t: Os conflitos políticos continuam, os diversos grupos étnicos são <a>instigados</a>
+      uns contra os outros.
+- c: 1
+  r: 3
+  v: pôr
+  x:
+  - s: När det gäller politikerna ger den metod som består i att <v>hetsa</v> <p>upp</p>
+      olika grupper mot varandra såsom, till exempel, extremhögern gör hos oss, möjlighet
+      att skaffa sig ett politiskt område eller att behålla makten.
+    t: Para os políticos, a prática que consiste em <a>pôr</a> uns contra os outros,
+      como faz, por exemplo, a extremadireita nos nossos países, permite a criação
+      de um espaço político ou a manutenção do poder.
+- c: 1
+  r: 3
+  v: inflamar
+  x:
+  - s: Låt oss, som ansvarstagande företrädare för allmänheten, försöka att lägga
+      fram sanningen för våra medborgare i stället för att försöka vilseleda dem,
+      <v>hetsa</v> <p>upp</p> dem och skrämma dem.
+    t: Na nossa qualidade de representantes eleitos responsáveis, procuremos mostrar
+      a verdade ao nosso eleitorado, em lugar de o induzir em erro, de o <a>inflamar</a>
+      e de o assustar.
+- c: 1
+  r: 3
+  v: indignar
+  x:
+  - s: Jag vill inleda med att säga till den spanske författaren att jag inte behöver
+      ett besök från Miguel Ángel Moratino för att <v>hetsa</v> <p>upp</p> mig över
+      vad den spanska regeringen gör.
+    t: Senhora Presidente, gostaria de começar por dizer ao relator espanhol que não
+      preciso de uma visita do Senhor Ministro Moratino para me <a>indignar</a> com
+      o que o Governo espanhol está a fazer.
+- c: 1
+  r: 3
+  v: incendiar
+  x:
+  - s: Det förefaller som om han har velat föra en politik för att <v>hetsa</v> <p>upp</p>
+      stämningen i Latinamerika, vilket tyvärr inträffade för några årtionden sedan
+      och som fick fruktansvärda konsekvenser, bland annat det våld som fortfarande
+      finns i så många latinamerikanska länder som är våra vänner.
+    t: E pareceu que quis seguir uma linha de <a>incendiar</a> a América Latina, como
+      desgraçadamente aconteceu há décadas atrás com consequências terríveis na violência
+      que subsiste ainda em tantos países amigos latino-americanos.
+- c: 1
+  r: 3
+  v: entusiasmar
+  x:
+  - s: Werner Langen har alltid lätt att <v>hetsa</v> <p>upp</p> sig.
+    t: O senhor deputado Langen deixa-se sempre <a>entusiasmar</a> muito.
+- c: 1
+  r: 3
+  v: despeito questão
+  x:
+  - s: Då <v>hetsar</v> europeiska regeringschefer <p>upp</p> sig över taxfree-butiker
+      och över moms för frisörer.
+    t: A <a>despeito</a> disso, os Chefes de Estado e de Governo europeus preocupam-se
+      com <a>questões</a> como as vendas isentas de impostos e a aplicação da taxa
+      do IVA aos serviços de cabeleireiro.
+- c: 1
+  r: 3
+  v: constantemente tropeçar
+  x:
+  - s: Vi <v>hetsar</v> som vanligt <p>upp</p> oss över detaljer.
+    t: Estamos <a>constantemente</a> a <a>tropeçar</a> em pormenores.
+- c: 1
+  r: 3
+  v: apaixonar
+  x:
+  - s: Jag <v>hetsar</v> inte <p>upp</p> mig av denna debatt, men jag anser att frågan
+      om de mänskliga rättigheternas odelbarhet, om den allmänna förklaringen, såsom
+      den gäller för länderna utanför den Europeiska unionen, också skall gälla inom
+      denna, och därmed måste också frågorna som sammanhänger med sociala, ekonomiska
+      och kulturella rättigheter gälla.
+    t: Eu não sou um <a>apaixonado</a> por este debate, mas penso que a questão da
+      indivisibilidade dos direitos humanos e da Declaração Universal, sendo válida
+      para os países exteriores à União Europeia, também deve ser válida no interior
+      dessa mesma União, o mesmo acontecendo também com as questões ligadas aos direitos
+      sociais, económicos e culturais.
+- c: 1
+  r: 3
+  v: agitar
+  x:
+  - s: Jag ber er fortfarande om detta berömda handtag, eftersom det går mycket fortare
+      om parlamentet <v>hetsar</v> <p>upp</p> sig litet när det gäller dessa problem.
+    t: Peço-vos essa audácia, pois tudo avançará mais rapidamente se o Parlamento
+      se <a>agitar</a> um pouco a propósito destas questões.

@@ -1,0 +1,194 @@
+---
+de:
+- c: 1
+  r: 1
+  v: Raum lassen
+  x:
+  - s: I had hoped for something more, rather than being <v>hung</v> <p>out</p> to
+      dry!
+    t: Herr Präsident, ich wollte Herrn Fischler das nur sagen, denn ich kann ja das,
+      was er uns hier gesagt hat - und ich hätte etwas mehr erhofft - nicht so im
+      <a>Raum</a> stehen <a>lassen</a>!
+- c: 1
+  r: 1
+  v: machen
+  x:
+  - s: The job of the Committee on Budgetary Control is not to <v>hang</v> the Commission
+      <p>out</p> to dry for the duration of a parliament, but to ensure that Europe’s
+      citizens are served by an executive that implements its political priorities
+      efficiently and effectively.
+    t: Die Aufgabe des Ausschusses für Haushaltskontrolle besteht nicht darin, der
+      Kommission für die Dauer der Legislaturperiode des Parlaments das Leben möglichst
+      schwer zu <a>machen</a>, sondern darin, dafür zu sorgen, daß die im Dienste
+      der Bürger von Europa stehende Exekutive ihre politischen Prioritäten effizient
+      und wirksam umsetzt.
+- c: 1
+  r: 1
+  v: hängen draußen
+  x:
+  - s: This might be a rash of patriotic enthusiasm or the flag might be just <v>hanging</v>
+      <p>out</p> to dry.
+    t: Der Grund dafür kann ein unbesonnenes Zeichen von Patriotismus sein, oder die
+      Flagge <a>hängt</a> möglicherweise nur zum Trocknen <a>draußen</a>.
+es:
+- c: 1
+  r: 1
+  v: colgar
+  x:
+  - s: The job of the Committee on Budgetary Control is not to <v>hang</v> the Commission
+      <p>out</p> to dry for the duration of a parliament, but to ensure that Europe’s
+      citizens are served by an executive that implements its political priorities
+      efficiently and effectively.
+    t: La función de la Comisión de Control Presupuestario no es <a>colgar</a> a la
+      Comisión y ponerla a secar mientras dure el mandato del Parlamento, sino garantizar
+      que a los ciudadanos de Europa les sirve un ejecutivo que aplica sus prioridades
+      políticas con eficacia y eficiencia.
+fr:
+- c: 1
+  r: 1
+  v: dehors
+  x:
+  - s: This might be a rash of patriotic enthusiasm or the flag might be just <v>hanging</v>
+      <p>out</p> to dry.
+    t: Ou peut-être que ce drapeau est simplement en train de sécher <a>dehors</a>.
+- c: 1
+  r: 1
+  v: sortir
+  x:
+  - s: Could we ask whoever has <v>hung</v> <p>out</p> this Union Jack to perhaps
+      remove it, unless we are all to hang our flags outside the windows.
+    t: Pourrions-nous demander à la personne qui a <a>sorti</a> ce drapeau de bien
+      vouloir le retirer, à moins que tout le monde fasse flotter le drapeau de son
+      pays à l’extérieur de sa fenêtre.
+- c: 1
+  r: 1
+  v: abandonner sort
+  x:
+  - s: It is important for customers who have been ripped off to be able to file a
+      compensation claim, otherwise we are just <v>hanging</v> them <p>out</p> to
+      dry.
+    t: Il est important que les clients qui ont été victimes d’escroquerie puissent
+      introduire un recours en réparation, sinon nous ne faisons que les <a>abandonner</a>
+      à leur <a>sort</a>.
+- c: 1
+  r: 1
+  v: exposer
+  x:
+  - s: The Italian Right is so sensitive to that struggle and solidly behind it, that
+      during a recent demonstration of solidarity, many of our members <v>hung</v>
+      <p>out</p> the Tibetan flag on town balconies and the much berated Berlusconi-Fini
+      government was the first in Europe to receive a visit from the Dalai Lama in
+      exile.
+    t: C’est une bataille face à laquelle la droite italienne a fait preuve de grande
+      sensibilité et de solidarité, tant il est vrai que lors d’une récente manifestation
+      de solidarité, de nombreux maires issus de notre coalition ont <a>exposé</a>
+      le drapeau tibétain au balcon municipal et que le gouvernement Berlusconi-Fini,
+      si vivement dénigré, a été le premier en Europe à accueillir le Dalaï-Lama en
+      exil.
+it:
+- c: 1
+  r: 1
+  v: lasciare
+  x:
+  - s: The job of the Committee on Budgetary Control is not to <v>hang</v> the Commission
+      <p>out</p> to dry for the duration of a parliament, but to ensure that Europe’s
+      citizens are served by an executive that implements its political priorities
+      efficiently and effectively.
+    t: Il compito della commissione per il controllo dei bilanci non è <a>lasciare</a>
+      la Commissione inoperosa per tutta la durata della legislatura, bensì assicurare
+      che i cittadini europei siano serviti da un esecutivo che attua le sue priorità
+      politiche in modo efficiente ed efficace.
+- c: 1
+  r: 1
+  v: stendere asciugare
+  x:
+  - s: This might be a rash of patriotic enthusiasm or the flag might be just <v>hanging</v>
+      <p>out</p> to dry.
+    t: forse si tratta di uno slancio di entusiasmo patriottico, o forse la bandiera
+      è stata semplicemente <a>stesa</a> ad <a>asciugare</a>.
+- c: 1
+  r: 1
+  v: sindaco esporre
+  x:
+  - s: The Italian Right is so sensitive to that struggle and solidly behind it, that
+      during a recent demonstration of solidarity, many of our members <v>hung</v>
+      <p>out</p> the Tibetan flag on town balconies and the much berated Berlusconi-Fini
+      government was the first in Europe to receive a visit from the Dalai Lama in
+      exile.
+    t: È una battaglia che comunque ha visto la Destra italiana molto sensibile e
+      solidale, tant’è vero che, in occasione di una recente manifestazione di solidarietà,
+      molti dei nostri <a>sindaci</a> hanno <a>esposto</a> la bandiera tibetana al
+      balcone municipale e il tanto vituperato governo Berlusconi-Fini fu il primo
+      in Europa a ricevere il Dalai Lama in esilio.
+- c: 1
+  r: 1
+  v: esporre
+  x:
+  - s: Could we ask whoever has <v>hung</v> <p>out</p> this Union Jack to perhaps
+      remove it, unless we are all to hang our flags outside the windows.
+    t: Forse potremmo chiedere a chi ha <a>esposto</a> la bandiera - chiunque sia
+      - di ritirarla;
+pt:
+- c: 1
+  r: 1
+  v: expor
+  x:
+  - s: The Italian Right is so sensitive to that struggle and solidly behind it, that
+      during a recent demonstration of solidarity, many of our members <v>hung</v>
+      <p>out</p> the Tibetan flag on town balconies and the much berated Berlusconi-Fini
+      government was the first in Europe to receive a visit from the Dalai Lama in
+      exile.
+    t: Trata-se de uma batalha que muito sensibilizou a Direita italiana, e prova
+      dessa sensibilidade e solidariedade é o facto de, por ocasião de uma recente
+      manifestação de solidariedade, muitos dos nossos presidentes de Câmara terem
+      <a>exposto</a> a bandeira tibetana na varanda municipal.
+- c: 1
+  r: 1
+  v: branco
+  x:
+  - s: I had hoped for something more, rather than being <v>hung</v> <p>out</p> to
+      dry!
+    t: Senhor Presidente, quis apenas dizer isto ao senhor Comissário Fischler, porque
+      não posso deixar passar em <a>branco</a> aquilo que nos disse hoje aqui - e
+      teria esperado um pouco mais.
+sv:
+- c: 1
+  r: 1
+  v: flaggdag
+  x:
+  - s: I warmly welcomed your account of the misery caused by that bombing but I must
+      press this point on you again, because the misery of the Second World War was
+      much worse and the Council has not answered my question about <v>hanging</v>
+      flags <p>out</p> on 15 August, the day the war ended.
+    t: Jag välkomnar verkligen er utläggning om det elände som det bombardemanget
+      orsakade, men jag insisterar återigen på detta, för andra världskrigets elände
+      var mycket större, och rådet har inte besvarat min fråga om <a>flaggdag</a>
+      den 15 augusti, dagen då kriget slutade.
+- c: 1
+  r: 1
+  v: upp
+  x:
+  - s: The Italian Right is so sensitive to that struggle and solidly behind it, that
+      during a recent demonstration of solidarity, many of our members <v>hung</v>
+      <p>out</p> the Tibetan flag on town balconies and the much berated Berlusconi-Fini
+      government was the first in Europe to receive a visit from the Dalai Lama in
+      exile.
+    t: ja, i samband med en nyligen utförd solidaritetsaktion visade många av våra
+      borgmästare <a>upp</a> den tibetanska flaggan på sina stadshusbalkonger;
+- c: 1
+  r: 1
+  v: hänga ute
+  x:
+  - s: This might be a rash of patriotic enthusiasm or the flag might be just <v>hanging</v>
+      <p>out</p> to dry.
+    t: Detta kan vara ett utslag av patriotisk entusiasm eller också <a>hänger</a>
+      flaggan kanske bara <a>ute</a> för att torka.
+- c: 1
+  r: 1
+  v: oemotsagd
+  x:
+  - s: I had hoped for something more, rather than being <v>hung</v> <p>out</p> to
+      dry!
+    t: Herr talman, jag ville bara säga detta till herr Fischler, för jag kan ju inte
+      låta det som han just har sagt till oss här stå <a>oemotsagt</a> - jag hade
+      hoppats på något mera!

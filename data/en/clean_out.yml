@@ -1,0 +1,334 @@
+---
+de:
+- c: 2
+  r: 1
+  v: beseitigen
+  x:
+  - s: People are being evicted who were already evicted in 2005 in Operation Murambatsvina,
+      which incidentally means ’<v>clean</v> <p>out</p> the trash’.
+    t: Es werden Menschen vertrieben, die bereits 2005 bei der Operation Murambatsvina
+      vertrieben wurden, was übrigens „Müll <a>beseitigen</a>“ bedeutet.
+  - s: The same people who were <v>cleaned</v> <p>out</p> as trash last time are being
+      evicted now.
+    t: Dieselben Personen, die als Müll <a>beseitigt</a> wurden, werden nun vertrieben.
+- c: 1
+  r: 2
+  v: ausmisten werden
+  x:
+  - s: On the contrary, things came to a head in the crisis and we now know for certain
+      that this Augean stable at any rate is going to be <v>cleaned</v> <p>out</p>.
+    t: Im Gegenteil, es hat einen Kulminationspunkt in die Krise gebracht, und wir
+      haben die Gewißheit, daß zumindest dieser Augiasstall <a>ausgemistet</a> <a>wird</a>.
+es:
+- c: 1
+  r: 1
+  v: limpieza
+  x:
+  - s: The specific cases of the Prestige and the Erika stood out, but we must not
+      forget the pollution that is caused on a daily basis by the uncontrolled dumping
+      of bilge and <v>cleaning</v> <p>out</p> of tanks.
+    t: Fueron notables los casos puntuales del Prestige y del Erika, pero no debemos
+      olvidar la contaminación que se produce a diario por vertidos incontrolados
+      de vaciado de sentinas y <a>limpieza</a> de tanques.
+- c: 1
+  r: 1
+  v: tirar
+  x:
+  - s: People are being evicted who were already evicted in 2005 in Operation Murambatsvina,
+      which incidentally means ’<v>clean</v> <p>out</p> the trash’.
+    t: La gente que está siendo expulsada ya fue expulsada en 2005 durante la Operación
+      Murambatsvina que, dicho sea de paso, significa «<a>tirar</a> la basura».
+- c: 1
+  r: 1
+  v: desaparecer
+  x:
+  - s: On the contrary, things came to a head in the crisis and we now know for certain
+      that this Augean stable at any rate is going to be <v>cleaned</v> <p>out</p>.
+    t: Al contrario, ha supuesto un punto culminante en la crisis y estamos seguros
+      de que esta podredumbre, al menos, va a <a>desaparecer</a>.
+- c: 1
+  r: 1
+  v: echar
+  x:
+  - s: The same people who were <v>cleaned</v> <p>out</p> as trash last time are being
+      evicted now.
+    t: La misma gente que a la que se <a>echó</a> como basura la última vez ahora
+      está siendo expulsada.
+- c: 1
+  r: 1
+  v: limpiar
+  x:
+  - s: In any event, we want the incoming Commission to discharge its responsibilities
+      fully and <v>clean</v> <p>out</p> these Augean stables.
+    t: En cualquier caso, queremos que la próxima Comisión asuma enteramente su responsabilidad
+      de <a>limpiar</a> estos establos de Augias.
+fr:
+- c: 2
+  r: 1
+  v: nettoyer
+  x:
+  - s: In any event, we want the incoming Commission to discharge its responsibilities
+      fully and <v>clean</v> <p>out</p> these Augean stables.
+    t: Nous désirons, quoi qu’il en soit, que la nouvelle Commission prenne ses responsabilité
+      et <a>nettoie</a> ces écuries d’Augias.
+  - s: On the contrary, things came to a head in the crisis and we now know for certain
+      that this Augean stable at any rate is going to be <v>cleaned</v> <p>out</p>.
+    t: Au contraire, cela a poussé la crise à son comble et nous avons au moins la
+      certitude que cette écurie d’Augias est <a>nettoyée</a>.
+- c: 2
+  r: 1
+  v: nettoyage
+  x:
+  - s: The specific cases of the Prestige and the Erika stood out, but we must not
+      forget the pollution that is caused on a daily basis by the uncontrolled dumping
+      of bilge and <v>cleaning</v> <p>out</p> of tanks.
+    t: On peut citer les deux cas spécifiques de l’Erika et du Prestige, mais nous
+      ne devons pas oublier la pollution quotidienne provoquée par le déversement
+      des fonds de cale et le <a>nettoyage</a> des réservoirs (dégazage).
+  - s: Mr President, I have asked for the floor, on the one hand, to congratulate
+      the Commissioner on this vast and intelligent range of measures being adopted
+      on oil spills and, at the same time, to ask a supplementary question about vessels
+      <v>cleaning</v> <p>out</p> their hulls, which is becoming a real scourge on
+      Portuguese coasts.
+    t: Monsieur le Président, j’ai demandé la parole, d’une part, pour féliciter Mme
+      la commissaire pour cet éventail étendu et intelligent de mesures qui seront
+      prises au sujet des rejets d’hydrocarbures et, en même temps, pour poser une
+      question complémentaire concernant le <a>nettoyage</a> des cales des navires
+      qui se transforme en véritable fléau sur les côtes portugaises.
+- c: 1
+  r: 2
+  v: supprimer
+  x:
+  - s: Here in Parliament too, we shall be able to set a good example on Thursday
+      by <v>cleaning</v> <p>out</p> our own pigsty and finally switching to the procedure
+      of only refunding expenses actually incurred.
+    t: Le Parlement pourra montrer l’exemple jeudi si nous décidons de <a>supprimer</a>
+      ces répugnants frais de déplacement pour en arriver enfin à ne se faire rembourser
+      que les dépenses réellement encourues.
+- c: 1
+  r: 2
+  v: faire
+  x:
+  - s: The same people who were <v>cleaned</v> <p>out</p> as trash last time are being
+      evicted now.
+    t: Ce sont les mêmes personnes, dont on s’est débarrassé une première fois comme
+      on le <a>fait</a> d’ordures, qui sont aujourd’hui expulsées.
+- c: 1
+  r: 2
+  v: complètement vider
+  x:
+  - s: Mr Fischler saw for himself on Tuesday, when beekeepers from the majority of
+      Member States visited the House with their produce, which attracted a great
+      deal of interest, that some stands were <v>cleaned</v> <p>out</p> before the
+      beekeepers had time to offer their products to the invited guests.
+    t: M. Fischler a pu s’en convaincre mardi lorsque les apiculteurs provenant de
+      la plupart des États membres ont présenté dans cette Assemblée leurs produits,
+      qui ont d’ailleurs recueilli un tel intérêt que différents stands ont été <a>complètement</a>
+      <a>vidés</a> avant que les apiculteurs ne puissent offrir leurs produits aux
+      invités.
+- c: 1
+  r: 2
+  v: débarrasser
+  x:
+  - s: It is now vital that the masses unite across ethnic and religious lines to
+      <v>clean</v> <p>out</p> the corrupt elites and build genuine democratic societies
+      that can provide decent jobs, decent education and end poverty.
+    t: Il est à présent vital que les peuples dépassent les lignes ethniques et religieuses
+      et s’unissent pour se <a>débarrasser</a> des élites corrompues et mettre en
+      place de véritables sociétés démocratiques capables d’offrir des emplois et
+      un enseignement décents et de mettre un terme à la pauvreté.
+it:
+- c: 2
+  r: 1
+  v: svuotare
+  x:
+  - s: Mr Fischler saw for himself on Tuesday, when beekeepers from the majority of
+      Member States visited the House with their produce, which attracted a great
+      deal of interest, that some stands were <v>cleaned</v> <p>out</p> before the
+      beekeepers had time to offer their products to the invited guests.
+    t: Il Commissario Fischler ha avuto modo di convincersene martedì, quando gli
+      apicoltori di quasi tutti gli Stati membri si sono presentati in Parlamento
+      con i loro prodotti che, tra l’altro, hanno riscosso tanto successo che alcuni
+      stand sono stati <a>svuotati</a> ancor prima che gli apicoltori potessero offrire
+      un assaggio agli invitati.
+  - s: Even though we have good rules, national exemptions may mean that a 100-tonne
+      trawler with a rating of 1000 hp can suddenly turn up, roll out a net the size
+      of a football pitch and simply <v>clean</v> <p>out</p> a sea.
+    t: Anche se ci sono regole valide, le deroghe nazionali possono far sì che improvvisamente
+      arrivi un peschereccio con una rete a strascico di 100 tonnellate e 1000 CV
+      che, con una rete grande come un campo di calcio, è in grado di <a>svuotare</a>
+      il mare.
+- c: 1
+  r: 2
+  v: eliminare
+  x:
+  - s: It is now vital that the masses unite across ethnic and religious lines to
+      <v>clean</v> <p>out</p> the corrupt elites and build genuine democratic societies
+      that can provide decent jobs, decent education and end poverty.
+    t: Ora è fondamentale che le masse si uniscano, prescindendo da differenze religiose
+      ed etniche, per <a>eliminare</a> le élite corrotte e costruire società realmente
+      democratiche in grado di fornire posti di lavoro dignitosi e un’istruzione adeguata
+      ponendo fine alla povertà.
+- c: 1
+  r: 2
+  v: allontanare sfrattare
+  x:
+  - s: The same people who were <v>cleaned</v> <p>out</p> as trash last time are being
+      evicted now.
+    t: Le stesse persone che allora furono <a>allontanate</a> alla stregua di spazzatura,
+      oggi si vedono nuovamente <a>sfrattare</a> con la forza.
+- c: 1
+  r: 2
+  v: risolvere
+  x:
+  - s: On the contrary, things came to a head in the crisis and we now know for certain
+      that this Augean stable at any rate is going to be <v>cleaned</v> <p>out</p>.
+    t: Si è giunti infatti a una svolta nella crisi e ora abbiamo la certezza che
+      almeno questo pasticcio verrà <a>risolto</a>.
+- c: 1
+  r: 2
+  v: pulizia
+  x:
+  - s: Mr President, I have asked for the floor, on the one hand, to congratulate
+      the Commissioner on this vast and intelligent range of measures being adopted
+      on oil spills and, at the same time, to ask a supplementary question about vessels
+      <v>cleaning</v> <p>out</p> their hulls, which is becoming a real scourge on
+      Portuguese coasts.
+    t: Signor Presidente, ho chiesto la parola, da un lato, per felicitarmi con il
+      Commissario per quest’ampia gamma di misure intelligenti in fase di adozione
+      relative allo scarico di idrocarburi e, allo stesso tempo, per porre una domanda
+      complementare sulla <a>pulizia</a> delle navi, che sta diventando un vero e
+      proprio flagello per le coste portoghesi.
+- c: 1
+  r: 2
+  v: disfare
+  x:
+  - s: People are being evicted who were already evicted in 2005 in Operation Murambatsvina,
+      which incidentally means ’<v>clean</v> <p>out</p> the trash’.
+    t: Quanti vengono oggi cacciati erano già stati vittime degli sgomberi del 2005,
+      nell’ambito dell’operazione Murambatsvina che, per inciso, significa «<a>disfarsi</a>
+      della spazzatura».
+pt:
+- c: 2
+  r: 1
+  v: deitar fora
+  x:
+  - s: People are being evicted who were already evicted in 2005 in Operation Murambatsvina,
+      which incidentally means ’<v>clean</v> <p>out</p> the trash’.
+    t: Estão a ser expulsas pessoas que já tinham sido expulsas em 2005 na Operação
+      Murambatsvina, que, a título de curiosidade, significa «<a>deitar</a> <a>fora</a>
+      o lixo».
+  - s: The same people who were <v>cleaned</v> <p>out</p> as trash last time are being
+      evicted now.
+    t: As mesmas pessoas que foram <a>deitadas</a> <a>fora</a> como lixo da última
+      vez estão a ser expulsas agora.
+- c: 2
+  r: 1
+  v: limpeza
+  x:
+  - s: The specific cases of the Prestige and the Erika stood out, but we must not
+      forget the pollution that is caused on a daily basis by the uncontrolled dumping
+      of bilge and <v>cleaning</v> <p>out</p> of tanks.
+    t: Os casos específicos do Prestige e do Erika sobressaíram, mas não podemos esquecer
+      que a poluição é diariamente causada pelas descargas provenientes dos esgotos
+      e da <a>limpeza</a> dos tanques.
+  - s: Mr President, I have asked for the floor, on the one hand, to congratulate
+      the Commissioner on this vast and intelligent range of measures being adopted
+      on oil spills and, at the same time, to ask a supplementary question about vessels
+      <v>cleaning</v> <p>out</p> their hulls, which is becoming a real scourge on
+      Portuguese coasts.
+    t: Senhor Presidente, pedi a palavra por um lado para felicitar a senhora comissária
+      por este leque vasto e inteligente de medidas que estão a ser tomadas relativamente
+      ao derrame de hidrocarbonetos e, ao mesmo tempo, para fazer uma pergunta complementar
+      sobre a <a>limpeza</a> dos navios que se está a transformar num verdadeiro flagelo
+      na costa portuguesa.
+- c: 1
+  r: 2
+  v: purgar
+  x:
+  - s: It is now vital that the masses unite across ethnic and religious lines to
+      <v>clean</v> <p>out</p> the corrupt elites and build genuine democratic societies
+      that can provide decent jobs, decent education and end poverty.
+    t: Neste momento é essencial que os cidadãos ultrapassem fronteiras étnicas e
+      religiosas e se unam para <a>purgar</a> as elites corruptas e construir verdadeiras
+      sociedades democráticas com empregos dignos, um ensino de qualidade e livres
+      de pobreza.
+- c: 1
+  r: 2
+  v: arrumar
+  x:
+  - s: On the contrary, things came to a head in the crisis and we now know for certain
+      that this Augean stable at any rate is going to be <v>cleaned</v> <p>out</p>.
+    t: Felizmente, tal não aconteceu e, muito pelo contrário, gerou um auge em toda
+      esta crise, estando nós agora certos de que todo este caos será, pelo menos,
+      <a>arrumado</a>.
+- c: 1
+  r: 2
+  v: completamente vazio
+  x:
+  - s: Mr Fischler saw for himself on Tuesday, when beekeepers from the majority of
+      Member States visited the House with their produce, which attracted a great
+      deal of interest, that some stands were <v>cleaned</v> <p>out</p> before the
+      beekeepers had time to offer their products to the invited guests.
+    t: O senhor Comissário Fischler teve a possibilidade de se convencer disso na
+      quinta-feira, quando os apicultores da maior parte dos Estados-Membros estiveram
+      presentes na câmara com os seus produtos, que, aliás, despertaram um interesse
+      tão grande que vários stands ficaram <a>completamente</a> <a>vazios</a> antes
+      de os apicultores poderem oferecer os seus produtos aos convidados.
+- c: 1
+  r: 2
+  v: limpar
+  x:
+  - s: Here in Parliament too, we shall be able to set a good example on Thursday
+      by <v>cleaning</v> <p>out</p> our own pigsty and finally switching to the procedure
+      of only refunding expenses actually incurred.
+    t: E aqui no Parlamento poderemos, na 5ª feira, dar um bom exemplo, <a>limpando</a>
+      a «indecência» relacionada com as despesas de viagens e passando, finalmente,
+      a reembolsar apenas as despesas efectivamente realizadas.
+sv:
+- c: 2
+  r: 1
+  v: tömma
+  x:
+  - s: Mr Fischler saw for himself on Tuesday, when beekeepers from the majority of
+      Member States visited the House with their produce, which attracted a great
+      deal of interest, that some stands were <v>cleaned</v> <p>out</p> before the
+      beekeepers had time to offer their products to the invited guests.
+    t: Herr Fischler kunde ju övertyga sig om detta i tisdags, när biodlare från de
+      flesta medlemsländerna var i parlamentet med sina produkter, vilka för övrigt
+      vann så stort intresse att vissa stånd redan hade <a>tömts</a> fullständigt
+      innan biodlarna kunde erbjuda de inbjudna gästerna sina produkter.
+  - s: Even though we have good rules, national exemptions may mean that a 100-tonne
+      trawler with a rating of 1000 hp can suddenly turn up, roll out a net the size
+      of a football pitch and simply <v>clean</v> <p>out</p> a sea.
+    t: Även om man vissa bra bestämmelser, så kan nationella undantag innebära att
+      det plötsligt kommer en trålare på 100 ton och 1 000 hk, som kan dra lika stora
+      nät som en hel fotbollsplan, och helt enkelt <a>tömma</a> ett hav.
+- c: 1
+  r: 2
+  v: undanröja
+  x:
+  - s: It is now vital that the masses unite across ethnic and religious lines to
+      <v>clean</v> <p>out</p> the corrupt elites and build genuine democratic societies
+      that can provide decent jobs, decent education and end poverty.
+    t: Massorna måste nu enas över etniska och religiösa gränser för att <a>undanröja</a>
+      den korrupta eliten och bygga verkligt demokratiska samhällen som kan tillhandahålla
+      anständiga arbetstillfällen och bra utbildning och få ett slut på fattigdomen.
+- c: 1
+  r: 2
+  v: göra
+  x:
+  - s: In any event, we want the incoming Commission to discharge its responsibilities
+      fully and <v>clean</v> <p>out</p> these Augean stables.
+    t: Författningsnätverket i Europa, balansen institutionerna sinsemellan och en
+      starkare rättslig ställning för unionsmedborgarna, allt det står på föredragningslistan,
+      och det har det <a>gjort</a> sedan den senaste regeringskonferensen i Amsterdam.
+- c: 1
+  r: 2
+  v: ursköljning
+  x:
+  - s: The specific cases of the Prestige and the Erika stood out, but we must not
+      forget the pollution that is caused on a daily basis by the uncontrolled dumping
+      of bilge and <v>cleaning</v> <p>out</p> of tanks.
+    t: Men vi får inte glömma de föroreningar som pågår varje dag i form av okontrollerad
+      dumpning av slagvatten och <a>ursköljning</a> av tankar.

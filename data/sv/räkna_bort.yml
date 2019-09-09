@@ -1,0 +1,381 @@
+---
+de:
+- c: 3
+  r: 1
+  v: werden
+  x:
+  - s: Jag tror att man med ett citat av Winston Churchill kan säga att ?den demokratiska
+      parlamentarismen är det värsta styret om man <v>räknar</v> <p>bort</p> alla
+      övriga?
+    t: Ich denke, wir können wie Winston Churchill sagen, dass ’das System der parlamentarischen
+      Demokratie das schlechteste politische System der Welt ist, aber ich kenne kein
+      besseres’, und mir scheint, dass die Venezolaner nun über die neue Form der
+      Verfassung, die sie haben wollen, nachdenken <a>werden</a> müssen.
+  - s: ni har nämnt fem säsonger, som ändringen av den högsta garanterade kvantiteten
+      bygger på, av vilka den bästa och den sämsta <v>räknas</v> <p>bort</p>.
+    t: Sie erinnert mich an die Debatte, die bei der Vorbereitung des Vorschlags in
+      der Kommission geführt <a>wurde</a>.
+  - s: <v>Räknar</v> man <p>bort</p> alla socialbidrag ökar andelen till 24 procent,
+      och situationen riskerar att förvärras.
+    t: <a>Werden</a> alle sozialen Transfers abgerechnet, dann erhöht sich dieser
+      Prozentsatz auf 24 % und die Lage würde sich tendenziell weiter verschlimmern.
+- c: 1
+  r: 2
+  v: rechnen
+  x:
+  - s: Men det var om man <v>räknade</v> <p>bort</p> de europeiska institutionernas,
+      och i synnerhet kommissionens aptit på makt.
+    t: Dabei <a>rechneten</a> sie allerdings nicht mit der Machtbesessenheit der europäischen
+      Institutionen und insbesondere der Kommission.
+- c: 1
+  r: 2
+  v: sein
+  x:
+  - s: Dessa tilläggskostnader skall <v>räknas</v> <p>bort</p> från utbetalningarna
+      till de berörda företagen.
+    t: Diese Zusatzkosten <a>sind</a> mit den Zahlungen an die betreffenden Unternehmen
+      zu verrechnen.
+- c: 1
+  r: 2
+  v: treiben
+  x:
+  - s: Denna galenskap illustreras av utvecklingen i Guantánamo, och om det är denna
+      värdegemenskap vi delar kan ni <v>räkna</v> <p>bort</p> mig.
+    t: Gefangene in Belmarsh in England werden durch unbegrenzte Einkerkerung sprichwörtlich
+      in den Wahnsinn <a>getrieben</a>.
+- c: 1
+  r: 2
+  v: Berechnung lassen
+  x:
+  - s: Därför uppmanar vi kommissionen och rådet att se över stabilitetspakten, framför
+      allt genom att omedelbart <v>räkna</v> <p>bort</p> alla katastrofrelaterade
+      statliga utgifter och investeringar från budgetunderskottet.
+    t: Deshalb ersuchen wir die Kommission und den Rat, den Stabilitätspakt zu überprüfen,
+      und vor allem bei der <a>Berechnung</a> des Haushaltsdefizits künftig alle Ausgaben
+      und öffentlichen Investitionen im Zusammenhang mit dieser Katastrophe unberücksichtigt
+      zu <a>lassen</a>.
+en:
+- c: 2
+  r: 1
+  v: count out
+  x:
+  - s: Denna galenskap illustreras av utvecklingen i Guantánamo, och om det är denna
+      värdegemenskap vi delar kan ni <v>räkna</v> <p>bort</p> mig.
+    t: This folly is demonstrated by what is happening in Guantánamo and if that is
+      the community of values we share, you can <a>count</a> me <a>out</a>.
+  - s: Det är ännu ett exempel på europeisk realpolitik som ni kan <v>räkna</v> <p>bort</p>
+      oss från.
+    t: This is another example of European Realpolitik, which you can <a>count</a>
+      us <a>out</a> of.
+- c: 1
+  r: 2
+  v: eliminate calculate
+  x:
+  - s: Därför uppmanar vi kommissionen och rådet att se över stabilitetspakten, framför
+      allt genom att omedelbart <v>räkna</v> <p>bort</p> alla katastrofrelaterade
+      statliga utgifter och investeringar från budgetunderskottet.
+    t: We therefore appeal to the Commission and the Council to rethink the Stability
+      Pact, and in particular to <a>eliminate</a> all public costs and investment
+      stemming from this calamity forthwith when <a>calculating</a> the budget deficit.
+- c: 1
+  r: 2
+  v: reckon
+  x:
+  - s: Men det var om man <v>räknade</v> <p>bort</p> de europeiska institutionernas,
+      och i synnerhet kommissionens aptit på makt.
+    t: But that was <a>reckoning</a> without the appetite for power of the European
+      institutions, notably the Commission.
+- c: 1
+  r: 2
+  v: take out
+  x:
+  - s: Detta gäller i synnerhet om vi dessutom <v>räknar</v> <p>bort</p> subventionerna
+      till fossila bränslen.
+    t: This is especially true if we also <a>take</a> the fossil fuel subsidies <a>out</a>
+      of the equation.
+- c: 1
+  r: 2
+  v: want
+  x:
+  - s: Jag tror att man med ett citat av Winston Churchill kan säga att ?den demokratiska
+      parlamentarismen är det värsta styret om man <v>räknar</v> <p>bort</p> alla
+      övriga?
+    t: I believe that we can say, like Winston Churchill, that ’parliamentary democracy
+      is the worst political system ? except for all the others’, and I think that
+      the Venezuelans will now have to reflect upon the new type of constitution they
+      <a>want</a>.
+- c: 1
+  r: 2
+  v: be
+  x:
+  - s: Dessa tilläggskostnader skall <v>räknas</v> <p>bort</p> från utbetalningarna
+      till de berörda företagen.
+    t: these additional costs are to <a>be</a> settled by means of payments to the
+      companies concerned.
+- c: 1
+  r: 2
+  v: deduct
+  x:
+  - s: De måste sköta om sina lastbilar, sitt företag, de måste själva utföra lastning
+      och lossning, och dessa arbetsuppgifter måste de utföra utöver sin maximala
+      veckoarbetstid, medan de anställda förarna kan <v>räkna</v> <p>bort</p> allt
+      detta från sin maximala veckoarbetstid.
+    t: They have to look after their lorries, their businesses, they have to load
+      and unload, adding these tasks to their maximum hours, while salaried workers
+      <a>deduct</a> all of this from their maximum hours.
+- c: 1
+  r: 2
+  v: dissociate
+  x:
+  - s: För det tredje att man gör ekonomin ”grönare” och tar med miljökostnaderna,
+      <v>räknar</v> <p>bort</p> den ekonomiska tillväxten från intensiv användning
+      av tillgångarna och satsar på renare teknik.
+    t: Thirdly, an initiative is needed to green the economy by internalising environmental
+      costs, <a>dissociating</a> economic growth from intensive resource use and focusing
+      on cleaner technologies.
+- c: 1
+  r: 2
+  v: out
+  x:
+  - s: Så det är viktigt att öppna möjligheten med mer flexibel användning över hela
+      radiospektrumet utan att <v>räkna</v> <p>bort</p> vissa frekvenser.
+    t: So, it is important to open up the possibility of more flexible use across
+      the whole of the radio spectrum without ruling <a>out</a> certain frequencies.
+es:
+- c: 1
+  r: 1
+  v: contar
+  x:
+  - s: Men det var om man <v>räknade</v> <p>bort</p> de europeiska institutionernas,
+      och i synnerhet kommissionens aptit på makt.
+    t: Pero no se había <a>contado</a> con el apetito de poder de las instituciones
+      europeas y, en particular, de la Comisión.
+- c: 1
+  r: 1
+  v: descontar
+  x:
+  - s: Dessa tilläggskostnader skall <v>räknas</v> <p>bort</p> från utbetalningarna
+      till de berörda företagen.
+    t: Dichos costes adicionales deberán <a>descontarse</a> de los pagos a las correspondientes
+      empresas.
+- c: 1
+  r: 1
+  v: eliminar
+  x:
+  - s: Så det är viktigt att öppna möjligheten med mer flexibel användning över hela
+      radiospektrumet utan att <v>räkna</v> <p>bort</p> vissa frekvenser.
+    t: Por ello, es importante abrir la posibilidad de un uso más flexible en todo
+      el espectro radioeléctrico sin <a>eliminar</a> ciertas frecuencias.
+- c: 1
+  r: 1
+  v: excluir
+  x:
+  - s: Jag tror att man med ett citat av Winston Churchill kan säga att ?den demokratiska
+      parlamentarismen är det värsta styret om man <v>räknar</v> <p>bort</p> alla
+      övriga?
+    t: Creo que parafraseando a Winston Churchill podemos decir que «el régimen de
+      democracia parlamentaria es el peor régimen si se <a>excluyen</a> todos los
+      demás», y me parece que en este momento los venezolanos tendrán que reflexionar
+      sobre el nuevo tipo de Constitución que quieren tener.
+- c: 1
+  r: 1
+  v: literal
+  x:
+  - s: Denna galenskap illustreras av utvecklingen i Guantánamo, och om det är denna
+      värdegemenskap vi delar kan ni <v>räkna</v> <p>bort</p> mig.
+    t: Los internos de Belmarsh en Inglaterra se están volviendo <a>literalmente</a>
+      locos por culpa de su encarcelación indefinida.
+- c: 1
+  r: 1
+  v: disociar
+  x:
+  - s: För det tredje att man gör ekonomin ”grönare” och tar med miljökostnaderna,
+      <v>räknar</v> <p>bort</p> den ekonomiska tillväxten från intensiv användning
+      av tillgångarna och satsar på renare teknik.
+    t: en tercer lugar, que se lance un greening de la economía internalizando los
+      costos medioambientales, <a>disociando</a> el crecimiento económico de la utilización
+      intensiva de los recursos y apostando por tecnologías más limpias;
+- c: 1
+  r: 1
+  v: cómputo
+  x:
+  - s: EU:s finansministrar uppmanas att i Maastrichtfördragets anda <v>räkna</v>
+      <p>bort</p> den typen av investeringar från det offentliga underskottet, så
+      länge EU befinner sig mellan massarbetslöshet och en stabilitetspakt.
+    t: Instamos a los Ministros de Finanzas de la UE a que, mientras la Unión siga
+      debatiéndose entre el paro masivo y el Pacto de Estabilidad, excluyan dichas
+      inversiones del <a>cómputo</a> del déficit público, en consonancia con el espíritu
+      del Tratado de Maastricht.
+fr:
+- c: 1
+  r: 1
+  v: ne souscrire pas
+  x:
+  - s: Det är ännu ett exempel på europeisk realpolitik som ni kan <v>räkna</v> <p>bort</p>
+      oss från.
+    t: C’est un exemple supplémentaire de la Realpolitik européenne, à laquelle nous
+      <a>ne</a> <a>souscrivons</a> <a>pas</a>.
+- c: 1
+  r: 1
+  v: exclure
+  x:
+  - s: Så det är viktigt att öppna möjligheten med mer flexibel användning över hela
+      radiospektrumet utan att <v>räkna</v> <p>bort</p> vissa frekvenser.
+    t: Il est donc important d’élargir la possibilité d’utiliser tout le spectre radioélectrique
+      de manière plus flexible sans <a>exclure</a> certaines fréquences.
+- c: 1
+  r: 1
+  v: être
+  x:
+  - s: ni har nämnt fem säsonger, som ändringen av den högsta garanterade kvantiteten
+      bygger på, av vilka den bästa och den sämsta <v>räknas</v> <p>bort</p>.
+    t: Cela me rappelle le débat qui s’est tenu en commission quand la proposition
+      a <a>été</a> préparée.
+- c: 1
+  r: 1
+  v: compter
+  x:
+  - s: Men det var om man <v>räknade</v> <p>bort</p> de europeiska institutionernas,
+      och i synnerhet kommissionens aptit på makt.
+    t: Mais c’était <a>compter</a> sans l’appétit de pouvoir des institutions européennes,
+      et notamment de la Commission.
+- c: 1
+  r: 1
+  v: calcul
+  x:
+  - s: Därför uppmanar vi kommissionen och rådet att se över stabilitetspakten, framför
+      allt genom att omedelbart <v>räkna</v> <p>bort</p> alla katastrofrelaterade
+      statliga utgifter och investeringar från budgetunderskottet.
+    t: C’est pourquoi nous exhortons la Commission et le Conseil à revoir le pacte
+      de stabilité, notamment en excluant d’emblée du <a>calcul</a> du déficit budgétaire
+      toutes les dépenses et les investissements publics liés à cette catastrophe.
+- c: 1
+  r: 1
+  v: décompter
+  x:
+  - s: EU:s finansministrar uppmanas att i Maastrichtfördragets anda <v>räkna</v>
+      <p>bort</p> den typen av investeringar från det offentliga underskottet, så
+      länge EU befinner sig mellan massarbetslöshet och en stabilitetspakt.
+    t: Les ministres européens des Finances ont été chargés, dans l’esprit du traité
+      de Maastricht, de <a>décompter</a> de tels investissements du déficit public
+      aussi longtemps que l’UE flottera entre chômage de masse et pacte de stabilité.
+- c: 1
+  r: 1
+  v: retirer
+  x:
+  - s: <v>Räknar</v> man <p>bort</p> alla socialbidrag ökar andelen till 24 procent,
+      och situationen riskerar att förvärras.
+    t: Si l’on <a>retire</a> tous les transferts sociaux, le taux passe à 24% et la
+      situation risque d’empirer.
+- c: 1
+  r: 1
+  v: incarcération indéfini
+  x:
+  - s: Denna galenskap illustreras av utvecklingen i Guantánamo, och om det är denna
+      värdegemenskap vi delar kan ni <v>räkna</v> <p>bort</p> mig.
+    t: Les détenus de Belmarsh en Angleterre sont littéralement rendus fous par une
+      <a>incarcération</a> <a>indéfinie</a>.
+it:
+- c: 1
+  r: 1
+  v: oste
+  x:
+  - s: Men det var om man <v>räknade</v> <p>bort</p> de europeiska institutionernas,
+      och i synnerhet kommissionens aptit på makt.
+    t: Ma avevano fatto i conti senza l’<a>oste</a>, senza considerare l’avidità di
+      potere delle Istituzioni europee, e in special modo della Commissione.
+- c: 1
+  r: 1
+  v: venire
+  x:
+  - s: De måste sköta om sina lastbilar, sitt företag, de måste själva utföra lastning
+      och lossning, och dessa arbetsuppgifter måste de utföra utöver sin maximala
+      veckoarbetstid, medan de anställda förarna kan <v>räkna</v> <p>bort</p> allt
+      detta från sin maximala veckoarbetstid.
+    t: Devono prendersi cura dei propri camion, della propria attività, devono provvedere
+      alle operazioni di carico e scarico, sommando tali compiti ai propri orari massimi,
+      mentre, per i lavoratori salariati, tutto questo <a>viene</a> detratto da tali
+      orari.
+- c: 1
+  r: 1
+  v: escludere calcolo
+  x:
+  - s: Därför uppmanar vi kommissionen och rådet att se över stabilitetspakten, framför
+      allt genom att omedelbart <v>räkna</v> <p>bort</p> alla katastrofrelaterade
+      statliga utgifter och investeringar från budgetunderskottet.
+    t: Ci appelliamo pertanto alla Commissione e al Consiglio affinché rivedano il
+      Patto di stabilità, soprattutto affinché vengano <a>escluse</a> le spese pubbliche
+      e gli investimenti connessi alla catastrofe dal <a>calcolo</a> del deficit di
+      bilancio.
+pt:
+- c: 2
+  r: 1
+  v: retirar
+  x:
+  - s: <v>Räknar</v> man <p>bort</p> alla socialbidrag ökar andelen till 24 procent,
+      och situationen riskerar att förvärras.
+    t: Se <a>retirarmos</a> todas as transferências sociais, este valor aumenta para
+      24% e a situação corre o risco de piorar.
+  - s: Detta gäller i synnerhet om vi dessutom <v>räknar</v> <p>bort</p> subventionerna
+      till fossila bränslen.
+    t: Isto é especialmente verdadeiro se também <a>retirarmos</a> da equação os subsídios
+      aos combustíveis fósseis.
+- c: 1
+  r: 2
+  v: não contar
+  x:
+  - s: Denna galenskap illustreras av utvecklingen i Guantánamo, och om det är denna
+      värdegemenskap vi delar kan ni <v>räkna</v> <p>bort</p> mig.
+    t: Este dislate é demonstrado pelo que se passa em Guantánamo e, se essa é a comunidade
+      de valores que partilhamos, <a>não</a> <a>contem</a> comigo.
+- c: 1
+  r: 2
+  v: ser contabilizar
+  x:
+  - s: Dessa tilläggskostnader skall <v>räknas</v> <p>bort</p> från utbetalningarna
+      till de berörda företagen.
+    t: Estes custos adicionais deverão <a>ser</a> <a>contabilizados</a> aquando dos
+      pagamentos às empresas correspondentes.
+- c: 1
+  r: 2
+  v: contar
+  x:
+  - s: Men det var om man <v>räknade</v> <p>bort</p> de europeiska institutionernas,
+      och i synnerhet kommissionens aptit på makt.
+    t: Mas não se <a>contava</a> com a sede de poder das instituições europeias e,
+      nomeadamente da Comissão.
+- c: 1
+  r: 2
+  v: descontar
+  x:
+  - s: ZANU-PF kommer att tvingas utveckla en ny och mer passande politik, så att
+      de kan ta kontakt med det internationella samfundet för att få medel att stabilisera
+      ekonomin och återställa tillväxten, men ZANU-PF:s legitimitet står på spel på
+      grund av den grad hotelser och felaktigheter i valen hjälpte den att vinna och
+      då MDC, även om man <v>räknar</v> <p>bort</p> dessa faktorers inverkan, vann
+      58 platser, nästan lika många som ZANU, med sina 61+1.
+    t: O ZanuPF terá de definir políticas novas e mais adequadas antes de abordar
+      a comunidade internacional com vista a obter financiamentos para estabilizar
+      a economia e relançar o crescimento, mas a legitimidade do ZanuPF está em causa,
+      porque a sua vitória eleitoral se deveu em grande parte à intimidação e à fraude
+      eleitoral, e porque, mesmo <a>descontando</a> esses factores, o MDC obteve 58
+      lugares, ou seja, quase tantos como o Zanu, com 61+1.
+- c: 1
+  r: 2
+  v: excluir
+  x:
+  - s: Så det är viktigt att öppna möjligheten med mer flexibel användning över hela
+      radiospektrumet utan att <v>räkna</v> <p>bort</p> vissa frekvenser.
+    t: Portanto, é importante possibilitar uma utilização mais flexível de todo o
+      espectro de radiofrequências, sem <a>excluir</a> certas frequências.
+- c: 1
+  r: 2
+  v: pensar
+  x:
+  - s: Jag tror att man med ett citat av Winston Churchill kan säga att ?den demokratiska
+      parlamentarismen är det värsta styret om man <v>räknar</v> <p>bort</p> alla
+      övriga?
+    t: Creio que, parafraseando Wiston Churchill, podemos dizer que «o regime de democracia
+      parlamentar é o pior regime, se se excluírem todos os outros», e parece-me que,
+      neste momento, os venezuelanos terão de <a>pensar</a> no novo tipo de Constituição
+      que pretendem.

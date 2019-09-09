@@ -1,0 +1,377 @@
+---
+de:
+- c: 1
+  r: 1
+  v: beschäftigen
+  x:
+  - s: if we end up with the happy, smiling face of Mrs Wällstrom <v>looking</v> <p>down</p>
+      on Brighton beach, I am sure that will be a boon to mankind, but it must stand
+      alongside the blue flag.
+    t: Überdies würde sie die Rahmenrichtlinie, die sich bereits mit diesen Aspekten
+      <a>beschäftigt</a>, überflüssig machen.
+- c: 1
+  r: 1
+  v: schauen
+  x:
+  - s: Mr President, if you were to <v>look</v> <p>down</p> from space at our continent
+      you would not see the European Union, applicant states and non-applicant states.
+    t: Herr Präsident, würden Sie vom Weltall aus auf unseren Kontinent <a>schauen</a>,
+      so sähen Sie nicht die Europäische Union, Bewerberstaaten und Nicht-Bewerberstaaten,
+      sondern alles, was Sie zu sehen bekämen, wäre ein dichtbevölkerter, komplexer
+      und in gegenseitiger Abhängigkeit verwobener Teil Eurasiens.
+- c: 1
+  r: 1
+  v: sehen herab
+  x:
+  - s: People <v>look</v> <p>down</p> upon people who chose to stay home instead of
+      work because they feel as if they are not contributing to society.
+    t: Menschen <a>sehen</a> auf Leute <a>herab</a>, die sich dafür entscheiden, zuhause
+      zu bleiben, anstatt zu arbeiten, weil sie denken, sie würden nichts zur Gesellschaft
+      beitragen.
+- c: 1
+  r: 1
+  v: verachten werden
+  x:
+  - s: Unfortunately, the list of countries where women are <v>looked</v> <p>down</p>
+      on and ill-treated is much longer than this.
+    t: Die Liste der Länder, in denen Frauen <a>verachtet</a> und mißhandelt <a>werden</a>,
+      ist leider noch länger.
+- c: 1
+  r: 1
+  v: werden
+  x:
+  - s: The young people and the others who <v>look</v> <p>down</p> on the Chamber
+      today wonder what we talk about.
+    t: Die jungen Menschen und die anderen, die heute auf der Besuchertribüne sitzen,
+      <a>werden</a> sich vielleicht fragen, worüber wir sprechen.
+- c: 1
+  r: 1
+  v: betrachten herab
+  x:
+  - s: Therefore, let us not merely <v>look</v> <p>down</p> on the Ukrainians from
+      a lofty height as if their highest goal could only possibly be accession to
+      the EU.
+    t: <a>Betrachten</a> wir die Ukrainer also nicht nur von oben <a>herab</a>, so
+      als ob ihr höchstes Ziel zwangsläufig nur der EU-Beitritt sein könnte.
+es:
+- c: 2
+  r: 1
+  v: contemplar
+  x:
+  - s: Mr President, if you were to <v>look</v> <p>down</p> from space at our continent
+      you would not see the European Union, applicant states and non-applicant states.
+    t: Señor Presidente, si tuviera usted que <a>contemplar</a> nuestro continente
+      desde el espacio, no vería usted ni Unión Europea, ni Estados solicitantes ni
+      Estados no solicitantes.
+  - s: The young people and the others who <v>look</v> <p>down</p> on the Chamber
+      today wonder what we talk about.
+    t: Los jóvenes y el resto del público que <a>contempla</a> la Asamblea hoy se
+      preguntan de qué hablamos.
+- c: 1
+  r: 2
+  v: ver
+  x:
+  - s: You would have to stand on a chair, a swivel chair, to be able to <v>look</v>
+      <p>down</p> on the top of this machine.
+    t: Tendrá que subirse en una silla, que es giratoria, para poder <a>ver</a> este
+      aparato desde arriba.
+- c: 1
+  r: 2
+  v: mirar
+  x:
+  - s: For when we <v>look</v> <p>down</p> our own streets we find that the poor of
+      Africa are there as well.
+    t: Porque si <a>miramos</a> nuestras calles encontramos en ellas también a los
+      pobres de África.
+- c: 1
+  r: 2
+  v: infravalorado
+  x:
+  - s: In many countries, however, temporary employment is <v>looked</v> <p>down</p>
+      on, mainly when flexibility and quality of work are not pulling in the same
+      direction.
+    t: Sin embargo, en muchos países, el trabajo temporal se encuentra <a>infravalorado</a>,
+      sobre todo cuando la flexibilidad y la calidad del trabajo no avanzan en la
+      misma dirección.
+- c: 1
+  r: 2
+  v: despreciar
+  x:
+  - s: Unfortunately, the list of countries where women are <v>looked</v> <p>down</p>
+      on and ill-treated is much longer than this.
+    t: La lista de los países en los que las mujeres son <a>despreciadas</a>, maltratadas,
+      es, por desgracia, mucho más larga.
+- c: 1
+  r: 2
+  v: observar
+  x:
+  - s: In addition, when you <v>look</v> <p>down</p> the list of the ‘forty good practices
+      ", you notice that they are minor low-level gimmicks - ranging from the early
+      labelling of prices in euros to longer opening hours at bank counters - whose
+      effect can only be marginal.
+    t: Además, cuando se recorre la lista de las «40 buenas prácticas», se <a>observa</a>
+      que se trata de pequeñas astucias de poca importancia - desde la indicación
+      anticipada de los precios en euros hasta la ampliación de los horarios de apertura
+      de las oficinas bancarias -, cuyo efecto sólo puede ser marginal.
+fr:
+- c: 3
+  r: 1
+  v: mépriser
+  x:
+  - s: In many countries, however, temporary employment is <v>looked</v> <p>down</p>
+      on, mainly when flexibility and quality of work are not pulling in the same
+      direction.
+    t: Dans de nombreux pays, toutefois, le travail intérimaire est <a>méprisé</a>,
+      en particulier lorsque la flexibilité et la qualité du travail ne suivent pas
+      la même direction.
+  - s: As a Swedish Christian Democrat, I should like to have seen us in the European
+      Parliament state that the future Convention should include wording concerning
+      the right to life, implying that disabilities should not form a basis for diagnosing
+      foetuses as unviable, for it is absolutely basic to our view of human beings
+      that people with disabilities should not be <v>looked</v> <p>down</p> upon and
+      their human dignity violated.
+    t: En effet, en tant qu’êtres humains, nous estimons qu’il est absolument fondamental
+      que les personnes handicapées ne soient pas <a>méprisées</a> et que leur dignité
+      humaine ne soit pas violée.
+  - s: Unfortunately, the list of countries where women are <v>looked</v> <p>down</p>
+      on and ill-treated is much longer than this.
+    t: La liste des pays où les femmes sont <a>méprisées</a>, maltraitées est bien
+      plus longue hélas.
+- c: 2
+  r: 2
+  v: regarder
+  x:
+  - s: Therefore, let us not merely <v>look</v> <p>down</p> on the Ukrainians from
+      a lofty height as if their highest goal could only possibly be accession to
+      the EU.
+    t: Ainsi, nous ne devons pas nous contenter de <a>regarder</a> les Ukrainiens
+      d’en haut, comme si leur objectif ultime ne pouvait qu’être l’adhésion à l’Union.
+  - s: You would have to stand on a chair, a swivel chair, to be able to <v>look</v>
+      <p>down</p> on the top of this machine.
+    t: Vous devez monter sur une chaise, qui est une chaise tournante, pour pouvoir
+      <a>regarder</a> cet appareil d’en haut.
+- c: 1
+  r: 3
+  v: assister
+  x:
+  - s: The young people and the others who <v>look</v> <p>down</p> on the Chamber
+      today wonder what we talk about.
+    t: Les jeunes et d’autres personnes qui <a>assistent</a> au débat aujourd’hui
+      se demandent de quoi nous débattons.
+- c: 1
+  r: 3
+  v: regarder haut
+  x:
+  - s: People <v>look</v> <p>down</p> upon people who chose to stay home instead of
+      work because they feel as if they are not contributing to society.
+    t: Les gens <a>regardent</a> de <a>haut</a> les personnes qui choisissent de rester
+      à la maison au lieu de travailler car ils estiment qu’elles ne contribuent pas
+      à la société.
+- c: 1
+  r: 3
+  v: parcourir
+  x:
+  - s: In addition, when you <v>look</v> <p>down</p> the list of the ‘forty good practices
+      ", you notice that they are minor low-level gimmicks - ranging from the early
+      labelling of prices in euros to longer opening hours at bank counters - whose
+      effect can only be marginal.
+    t: De plus, quand on <a>parcourt</a> la liste des «40 bonnes pratiques», on s’aperçoit
+      qu’il s’agit de petites astuces d’un niveau mineur - depuis l’affichage anticipé
+      des prix en euros jusqu’à l’allongement des horaires d’ouverture des guichets
+      bancaires -, dont l’effet ne peut être que marginal.
+it:
+- c: 2
+  r: 1
+  v: guardare
+  x:
+  - s: Mr President, if you were to <v>look</v> <p>down</p> from space at our continent
+      you would not see the European Union, applicant states and non-applicant states.
+    t: Signor Presidente, se <a>guardassimo</a> dallo spazio il nostro continente
+      non vedremmo l’Unione europea, i paesi candidati all’adesione e i paesi non
+      candidati.
+  - s: You would have to stand on a chair, a swivel chair, to be able to <v>look</v>
+      <p>down</p> on the top of this machine.
+    t: Si deve salire su una sedia, che poi è una sedia girevole, per poter <a>guardare</a>
+      l’apparecchio dall’alto.
+- c: 1
+  r: 2
+  v: basso
+  x:
+  - s: As a Swedish Christian Democrat, I should like to have seen us in the European
+      Parliament state that the future Convention should include wording concerning
+      the right to life, implying that disabilities should not form a basis for diagnosing
+      foetuses as unviable, for it is absolutely basic to our view of human beings
+      that people with disabilities should not be <v>looked</v> <p>down</p> upon and
+      their human dignity violated.
+    t: In qualità di membro del partito cristiano democratico svedese, mi avrebbe
+      fatto piacere sentire il Parlamento europeo dichiarare che la futura convenzione
+      deve contenere una formula riguardante il diritto alla vita che alluda al fatto
+      che le disabilità non devono essere una delle possibili cause che sostanziano
+      una diagnosi di non vitalità dei feti, perché è di cruciale importanza per il
+      nostro modo di considerare gli esseri umani che le persone con disabilità non
+      vengano guardate dall’alto in <a>basso</a> e che la loro dignità umana non venga
+      violata.
+- c: 1
+  r: 2
+  v: scorrere
+  x:
+  - s: In addition, when you <v>look</v> <p>down</p> the list of the ‘forty good practices
+      ", you notice that they are minor low-level gimmicks - ranging from the early
+      labelling of prices in euros to longer opening hours at bank counters - whose
+      effect can only be marginal.
+    t: Inoltre, quando si <a>scorre</a> l’elenco delle «quaranta buone prassi», ci
+      si accorge che si tratta di astuzie di basso livello (che vanno dall’esposizione
+      anticipata dei prezzi in euro, al prolungamento degli orari di apertura degli
+      sportelli bancari), i cui effetti non possono che essere marginali.
+- c: 1
+  r: 2
+  v: assistere
+  x:
+  - s: The young people and the others who <v>look</v> <p>down</p> on the Chamber
+      today wonder what we talk about.
+    t: I giovani e in generale coloro che <a>assistono</a> alla seduta odierna si
+      chiedono di che cosa stiamo discutendo.
+- c: 1
+  r: 2
+  v: dovere
+  x:
+  - s: We should not <v>look</v> <p>down</p> from our high moral horse and condemn
+      this phenomenon as long as it is only a question of temporary manifestations
+      on the path towards self-definition.
+    t: Finché si tratta di fenomeni temporanei legati alla ricerca di una propria
+      identità, non <a>dovremmo</a> condannarli a priori, dall’alto della nostra presunzione
+      morale.
+- c: 1
+  r: 2
+  v: guardare basso
+  x:
+  - s: The Mediterranean is, to all intents and purposes, the only European sea, and
+      as long as we, in our plans and policies, <v>look</v> <p>down</p> on the other
+      side of the Mediterranean from on high, then we shall get nowhere.
+    t: Fintantoché, nei nostri progetti e nelle nostre politiche, continueremo a <a>guardare</a>
+      l’altra sponda del Mediterraneo dall’alto in <a>basso</a>, non ci sarà alcun
+      risultato positivo.
+- c: 1
+  r: 2
+  v: umiliare
+  x:
+  - s: Unfortunately, the list of countries where women are <v>looked</v> <p>down</p>
+      on and ill-treated is much longer than this.
+    t: Ma l’elenco dei paesi dove le donne sono <a>umiliate</a> e maltrattate è purtroppo
+      molto più lungo.
+pt:
+- c: 1
+  r: 1
+  v: olhar depreciativamente
+  x:
+  - s: The young people and the others who <v>look</v> <p>down</p> on the Chamber
+      today wonder what we talk about.
+    t: Os jovens e os outros que hoje <a>olham</a> <a>depreciativamente</a> para este
+      hemiciclo interrogam<a>-se</a> sobre o que é que estamos a falar.
+- c: 1
+  r: 1
+  v: observar
+  x:
+  - s: You would have to stand on a chair, a swivel chair, to be able to <v>look</v>
+      <p>down</p> on the top of this machine.
+    t: Terá de subir para uma cadeira, que é giratória, para poder <a>observar</a>
+      de cima este aparelho.
+- c: 1
+  r: 1
+  v: desprezar
+  x:
+  - s: Unfortunately, the list of countries where women are <v>looked</v> <p>down</p>
+      on and ill-treated is much longer than this.
+    t: A lista dos países em que as mulheres são <a>desprezadas</a> e maltratadas
+      é, infelizmente, bem mais longa.
+- c: 1
+  r: 1
+  v: olhar cima
+  x:
+  - s: The Mediterranean is, to all intents and purposes, the only European sea, and
+      as long as we, in our plans and policies, <v>look</v> <p>down</p> on the other
+      side of the Mediterranean from on high, then we shall get nowhere.
+    t: Assim, enquanto nós, nas nossas planificações e nas nossas políticas <a>olharmos</a>
+      de <a>cima</a> o outro lado do Mediterrâneo, não teremos resultados.
+- c: 1
+  r: 1
+  v: discriminar
+  x:
+  - s: As a Swedish Christian Democrat, I should like to have seen us in the European
+      Parliament state that the future Convention should include wording concerning
+      the right to life, implying that disabilities should not form a basis for diagnosing
+      foetuses as unviable, for it is absolutely basic to our view of human beings
+      that people with disabilities should not be <v>looked</v> <p>down</p> upon and
+      their human dignity violated.
+    t: Na qualidade de democrata-cristão sueco, gostaria de ver o Parlamento Europeu
+      a afirmar que a futura Convenção deveria incluir uma formulação relativamente
+      ao direito à vida, o que implicaria não fazer da deficiência uma base para diagnosticar
+      um feto como inviável, pois, para o nosso entendimento do que é um ser humano,
+      é absolutamente essencial que as pessoas com deficiência não sejam <a>discriminadas</a>,
+      nem a sua dignidade humana violada.
+- c: 1
+  r: 1
+  v: olhar
+  x:
+  - s: In many countries, however, temporary employment is <v>looked</v> <p>down</p>
+      on, mainly when flexibility and quality of work are not pulling in the same
+      direction.
+    t: Em muitos países, porém, o emprego temporário é <a>olhado</a> com desprezo,
+      principalmente quando a flexibilidade e a qualidade do trabalho não apontam
+      na mesma direcção.
+  - s: Therefore, let us not merely <v>look</v> <p>down</p> on the Ukrainians from
+      a lofty height as if their highest goal could only possibly be accession to
+      the EU.
+    t: Assim sendo, não nos limitemos a <a>olhar</a> para os ucranianos com sobranceria
+      como se o seu objectivo supremo pudesse ser apenas a adesão à UE.
+- c: 1
+  r: 1
+  v: olhar sobranceiramente
+  x:
+  - s: People <v>look</v> <p>down</p> upon people who chose to stay home instead of
+      work because they feel as if they are not contributing to society.
+    t: As pessoas <a>olham</a> <a>sobranceiramente</a> para quem opta por ficar em
+      casa em vez de trabalhar, porque as vêem como se estas não contribuíssem para
+      a sociedade.
+- c: 1
+  r: 1
+  v: olhar
+  x:
+  - s: In many countries, however, temporary employment is <v>looked</v> <p>down</p>
+      on, mainly when flexibility and quality of work are not pulling in the same
+      direction.
+    t: Em muitos países, porém, o emprego temporário é <a>olhado</a> com desprezo,
+      principalmente quando a flexibilidade e a qualidade do trabalho não apontam
+      na mesma direcção.
+  - s: Therefore, let us not merely <v>look</v> <p>down</p> on the Ukrainians from
+      a lofty height as if their highest goal could only possibly be accession to
+      the EU.
+    t: Assim sendo, não nos limitemos a <a>olhar</a> para os ucranianos com sobranceria
+      como se o seu objectivo supremo pudesse ser apenas a adesão à UE.
+sv:
+- c: 1
+  r: 1
+  v: förakta
+  x:
+  - s: Unfortunately, the list of countries where women are <v>looked</v> <p>down</p>
+      on and ill-treated is much longer than this.
+    t: Förteckningen över de länder där kvinnor <a>föraktas</a> och misshandlas är
+      tyvärr mycket längre.
+- c: 1
+  r: 1
+  v: betrakta
+  x:
+  - s: The Mediterranean is, to all intents and purposes, the only European sea, and
+      as long as we, in our plans and policies, <v>look</v> <p>down</p> on the other
+      side of the Mediterranean from on high, then we shall get nowhere.
+    t: Så länge vi i vår planering och politik <a>betraktar</a> regionerna på andra
+      sidan Medelhavet på ett nedlåtande sätt kommer detta leda till att resultat
+      uteblir.
+- c: 1
+  r: 1
+  v: se
+  x:
+  - s: You would have to stand on a chair, a swivel chair, to be able to <v>look</v>
+      <p>down</p> on the top of this machine.
+    t: Ni måste först ställa er på stolen, en snurrstol, för att kunna <a>se</a> apparaten
+      ovanifrån.

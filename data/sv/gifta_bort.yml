@@ -1,0 +1,48 @@
+---
+de:
+- c: 1
+  r: 1
+  v: vermählen
+  x:
+  - s: En del av dem håller sina döttrar hemma, <v>gifter</v> <p>bort</p> dem och
+      straffar dem när de självständigt söker kontakt med pojkar.
+    t: Einige von ihnen halten ihre Töchter zu Hause, <a>vermählen</a> und bestrafen
+      sie, wenn sie selbständig Kontakt mit Jungen suchen.
+en:
+- c: 1
+  r: 1
+  v: marry off
+  x:
+  - s: En del av dem håller sina döttrar hemma, <v>gifter</v> <p>bort</p> dem och
+      straffar dem när de självständigt söker kontakt med pojkar.
+    t: Some of them keep their daughters at home, <a>marry</a> them <a>off</a> and
+      penalise them for looking for contact with boys independently.
+fr:
+- c: 1
+  r: 1
+  v: mariage
+  x:
+  - s: En del av dem håller sina döttrar hemma, <v>gifter</v> <p>bort</p> dem och
+      straffar dem när de självständigt söker kontakt med pojkar.
+    t: Une partie d’entre eux interdit toute sortie à leur fille, les donne en <a>mariage</a>
+      et les punit si elles cherchent à avoir en toute indépendance des contacts avec
+      les garçons.
+it:
+- c: 1
+  r: 1
+  v: procura matrimonio
+  x:
+  - s: En del av dem håller sina döttrar hemma, <v>gifter</v> <p>bort</p> dem och
+      straffar dem när de självständigt söker kontakt med pojkar.
+    t: Una parte di questi uomini tiene le figlie chiuse in casa, <a>procura</a> loro
+      un <a>matrimonio</a> combinato e le punisce se cercano di avere contatti con
+      ragazzi.
+pt:
+- c: 1
+  r: 1
+  v: casamento
+  x:
+  - s: En del av dem håller sina döttrar hemma, <v>gifter</v> <p>bort</p> dem och
+      straffar dem när de självständigt söker kontakt med pojkar.
+    t: Parte deles mantém as filhas em casa, <a>dá-as</a> em <a>casamento</a> e castiga-as
+      quando estas procuram estabelecer relações autónomas com rapazes.

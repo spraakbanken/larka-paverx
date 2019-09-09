@@ -1,0 +1,319 @@
+---
+de:
+- c: 2
+  r: 1
+  v: greifen
+  x:
+  - s: He <v>hits</v> <p>out</p> at the left in the Parliament, he hits out at the
+      governments in the United Kingdom and Germany, and then he runs out of the Chamber
+      so that he cannot hear the debate.
+    t: Er <a>greift</a> die Linke im Parlament an, er greift die Regierungen im Vereinigten
+      Königreich und in Deutschland an, und dann eilt er aus dem Saal, so dass er
+      nicht hört, was die anderen in der Aussprache zu sagen haben.
+  - s: He hits out at the left in the Parliament, he <v>hits</v> <p>out</p> at the
+      governments in the United Kingdom and Germany, and then he runs out of the Chamber
+      so that he cannot hear the debate.
+    t: Er greift die Linke im Parlament an, er <a>greift</a> die Regierungen im Vereinigten
+      Königreich und in Deutschland an, und dann eilt er aus dem Saal, so dass er
+      nicht hört, was die anderen in der Aussprache zu sagen haben.
+- c: 1
+  r: 2
+  v: dort
+  x:
+  - s: We therefore need to fight against crime by <v>hitting</v> <p>out</p> against
+      it economically, against the proceeds of crime and the assets of criminals.
+    t: Bei einem Großteil der Verbrechen besteht das Ziel natürlich im illegalen Erwerb
+      von Vermögen, so daß das Verbrechen <a>dort</a> bekämpft werden muß, wo es um
+      seine wirtschaftliche Existenz, um Einnahmen und auch um Vermögen geht.
+- c: 1
+  r: 2
+  v: attackieren
+  x:
+  - s: That is why it is <v>hitting</v> <p>out</p> at Communists and ruining socialist/Communist
+      prospects.
+    t: Deshalb werden Kommunisten <a>attackiert</a> und sozialistische bzw. kommunistische
+      Perspektiven verleumdet.
+- c: 1
+  r: 2
+  v: haben
+  x:
+  - s: Mr Kuhne has <v>hit</v> <p>out</p> in the press and also here today at the
+      stance taken by my Group of the Greens/European Free Alliance.
+    t: Herr Kuhne <a>hat</a> in der Presse sowie heute hier die Haltung meiner Fraktion
+      der Grünen und der Regionalisten kritisiert.
+es:
+- c: 1
+  r: 1
+  v: arremeter
+  x:
+  - s: It is a depressing mechanism for defending the interests of big business, it
+      is the European outpost of the global imperialist system, which is <v>hitting</v>
+      <p>out</p> at workers’ rights and building up an army and repressive mechanisms
+      to silence any opposition.
+    t: Es un mecanismo represor para defender los intereses de las grandes empresas,
+      es el reducto europeo del sistema imperialista mundial, que está <a>arremetiendo</a>
+      contra los derechos de los trabajadores y creando un ejército y unos mecanismos
+      represivos para silenciar cualquier oposición.
+- c: 1
+  r: 1
+  v: pegar fuerte
+  x:
+  - s: The powers that be in the Kremlin are <v>hitting</v> <p>out</p>.
+    t: Quienes detentan el poder en el Kremlin <a>pegan</a> <a>fuerte</a>.
+- c: 1
+  r: 1
+  v: destacar golpear
+  x:
+  - s: We therefore need to fight against crime by <v>hitting</v> <p>out</p> against
+      it economically, against the proceeds of crime and the assets of criminals.
+    t: Una gran parte de los crímenes tiene el objetivo obvio de la apropiación ilegal
+      de bienes, por lo que <a>destaca</a> la necesidad de <a>golpear</a> al crimen
+      en su vida económica, en sus ingresos y también en su patrimonio.
+- c: 1
+  r: 1
+  v: atacar
+  x:
+  - s: He hits out at the left in the Parliament, he <v>hits</v> <p>out</p> at the
+      governments in the United Kingdom and Germany, and then he runs out of the Chamber
+      so that he cannot hear the debate.
+    t: Ataca a la izquierda en el Parlamento, <a>ataca</a> a los gobiernos del Reino
+      Unido y Alemania, y después sale corriendo de la Cámara de modo que no puede
+      seguir el debate.
+fr:
+- c: 2
+  r: 1
+  v: coup
+  x:
+  - s: By setting up European political parties as described above, they are trying
+      to get the people to accept the imperialist integration of the EU as a one-way
+      street, as destiny and as the only course available, to <v>hit</v> <p>out</p>
+      at and - if they can - exclude any dissenting voices from the European Parliament
+      and to distance the workers even more from the centres which take the decisions
+      which directly affect them.
+    t: Avec la création, imposée d’en haut, des partis politiques européens, on vise
+      à faire accepter par les peuples la voie unique de l’intégration impérialiste
+      de l’UE en tant que processus fatal et obligatoire, à porter un <a>coup</a>
+      aux voix discordantes - et, si possible, à les exclure du Parlement européen
+      -, mais aussi à éloigner encore davantage les travailleurs des centres décisionnels
+      qui les concernent directement.
+  - s: I therefore think it would be fairly senseless and also less effective to start
+      <v>hitting</v> <p>out</p> wildly and threatening Turkey with even stricter sanctions
+      if it does not end its action against the PKK terrorists within a certain period.
+    t: Dans ces circonstances il me paraît moins sensé et non efficace de menacer
+      la Turquie de nouvelles sanctions - que je considère de surcroît comme des <a>coups</a>
+      d’épée dans l’eau - si ce pays ne met pas un terme dans le délai imparti à ses
+      actions contre le terrorisme du PKK.
+- c: 1
+  r: 2
+  v: martyriser
+  x:
+  - s: Unfortunately, the power of the regimes in these very countries is still sufficient
+      to <v>hit</v> <p>out</p> at the population, as happened most recently on 11
+      March.
+    t: Malheureusement, la puissance des régimes dans de tels pays reste suffisante
+      pour <a>martyriser</a> la population, comme ce fut le cas très récemment, le
+      11 mars.
+- c: 1
+  r: 2
+  v: attaquer
+  x:
+  - s: He <v>hits</v> <p>out</p> at the left in the Parliament, he hits out at the
+      governments in the United Kingdom and Germany, and then he runs out of the Chamber
+      so that he cannot hear the debate.
+    t: Il <a>attaque</a> la gauche au Parlement, il attaque les gouvernements au Royaume-Uni
+      et en Allemagne et il s’enfuit de cette Assemblée pour ne pas entendre les débats.
+- c: 1
+  r: 2
+  v: avoir frapper
+  x:
+  - s: The powers that be in the Kremlin are <v>hitting</v> <p>out</p>.
+    t: Le pouvoir en place au Kremlin <a>a</a> <a>frappé</a>.
+- c: 1
+  r: 2
+  v: épingler
+  x:
+  - s: Mr Kuhne has <v>hit</v> <p>out</p> in the press and also here today at the
+      stance taken by my Group of the Greens/European Free Alliance.
+    t: M. Kuhne a <a>épinglé</a> dans la presse ainsi que dans cette enceinte aujourd’hui
+      l’attitude de mon groupe des verts et des régionalistes.
+- c: 1
+  r: 2
+  v: fouler
+  x:
+  - s: It is a depressing mechanism for defending the interests of big business, it
+      is the European outpost of the global imperialist system, which is <v>hitting</v>
+      <p>out</p> at workers’ rights and building up an army and repressive mechanisms
+      to silence any opposition.
+    t: C’est un mécanisme déprimant pour la défense des intérêts des grandes entreprises,
+      c’est le poste de relais européen du système impérialiste mondial, qui <a>foule</a>
+      aux pieds les droits des travailleurs, lève une armée et construit des mécanismes
+      de répression pour réduire au silence toute opposition.
+- c: 1
+  r: 2
+  v: frapper
+  x:
+  - s: We therefore need to fight against crime by <v>hitting</v> <p>out</p> against
+      it economically, against the proceeds of crime and the assets of criminals.
+    t: Or, une grande partie des crimes a pour but, bien évidemment, l’appropriation
+      illégale de biens, d’où la nécessité de <a>frapper</a> le crime dans sa vie
+      économique, dans ses revenus, et aussi dans son patrimoine.
+it:
+- c: 3
+  r: 1
+  v: colpire
+  x:
+  - s: He <v>hits</v> <p>out</p> at the left in the Parliament, he hits out at the
+      governments in the United Kingdom and Germany, and then he runs out of the Chamber
+      so that he cannot hear the debate.
+    t: Egli <a>colpisce</a> e poi lascia l’Assemblea, colpisce i governi del Regno
+      Unito e della Germania e poi esce dall’Aula in modo da non seguire il dibattito.
+  - s: He hits out at the left in the Parliament, he <v>hits</v> <p>out</p> at the
+      governments in the United Kingdom and Germany, and then he runs out of the Chamber
+      so that he cannot hear the debate.
+    t: Egli colpisce e poi lascia l’Assemblea, <a>colpisce</a> i governi del Regno
+      Unito e della Germania e poi esce dall’Aula in modo da non seguire il dibattito.
+  - s: We therefore need to fight against crime by <v>hitting</v> <p>out</p> against
+      it economically, against the proceeds of crime and the assets of criminals.
+    t: Dunque, la maggior parte dei crimini ha come scopo, si sa, l’appropriazione
+      indebita di beni, di qui la necessità di <a>colpire</a> la criminalità a livello
+      economico, nei redditi, ed anche a livello di patrimonio.
+- c: 1
+  r: 2
+  v: aggredire
+  x:
+  - s: Unfortunately, the power of the regimes in these very countries is still sufficient
+      to <v>hit</v> <p>out</p> at the population, as happened most recently on 11
+      March.
+    t: Purtroppo, il potere dei regimi proprio in questi paesi è ancora sufficiente
+      per <a>aggredire</a> la popolazione, come è avvenuto lo scorso 11 marzo, il
+      caso più recente.
+- c: 1
+  r: 2
+  v: colpo
+  x:
+  - s: I therefore think it would be fairly senseless and also less effective to start
+      <v>hitting</v> <p>out</p> wildly and threatening Turkey with even stricter sanctions
+      if it does not end its action against the PKK terrorists within a certain period.
+    t: Penso che, in tali circostanze, non sarebbe né logico né efficace se noi ora
+      - vorrei usare quest’espressione - ci mettessimo a «menar <a>colpi</a> al buio»,
+      cioè a minacciare la Turchia con sanzioni più pesanti qualora non ponga fine,
+      entro un determinato periodo di tempo, a questo intervento contro i terroristi
+      del PKK.
+- c: 1
+  r: 2
+  v: dispiegamento mettere
+  x:
+  - s: The powers that be in the Kremlin are <v>hitting</v> <p>out</p>.
+    t: Con questo <a>dispiegamento</a> di forze da parte del Cremlino viene <a>messo</a>
+      a repentaglio il progresso verso lo Stato di diritto e un sistema giudiziario
+      indipendente.
+- c: 1
+  r: 2
+  v: assalto voce
+  x:
+  - s: It is a depressing mechanism for defending the interests of big business, it
+      is the European outpost of the global imperialist system, which is <v>hitting</v>
+      <p>out</p> at workers’ rights and building up an army and repressive mechanisms
+      to silence any opposition.
+    t: È un rigido meccanismo di tutela degli interessi dei grandi affaristi, è l’avamposto
+      europeo del sistema imperialista mondiale che va all’<a>assalto</a> delle conquiste
+      dei lavoratori, che crea un esercito e meccanismi preposti a soffocare ogni
+      <a>voce</a> di dissenso.
+pt:
+- c: 5
+  r: 1
+  v: atacar
+  x:
+  - s: He hits out at the left in the Parliament, he <v>hits</v> <p>out</p> at the
+      governments in the United Kingdom and Germany, and then he runs out of the Chamber
+      so that he cannot hear the debate.
+    t: O senhor deputado ataca a esquerda, no Parlamento, <a>ataca</a> os governos
+      do Reino Unido e da Alemanha, para depois fugir do plenário, de molde a não
+      ter de ouvir o debate.
+  - s: Unfortunately, the power of the regimes in these very countries is still sufficient
+      to <v>hit</v> <p>out</p> at the population, as happened most recently on 11
+      March.
+    t: Lamentavelmente, a força do regime nestes países é ainda suficiente para <a>atacar</a>
+      a população, como aconteceu recentemente a 11 de Março, quando muitas pessoas
+      foram presas e torturadas.
+  - s: The powers that be in the Kremlin are <v>hitting</v> <p>out</p>.
+    t: Os detentores do poder no Kremlin <a>atacam</a>, pondo também em perigo os
+      progressos em direcção ao Estado de direito e a um sistema de justiça independente.
+  - s: We therefore need to fight against crime by <v>hitting</v> <p>out</p> against
+      it economically, against the proceeds of crime and the assets of criminals.
+    t: Daí, a necessidade de o <a>atacar</a> na sua ligação com a economia, nos seus
+      rendimentos, e também no seu património.
+  - s: It is a depressing mechanism for defending the interests of big business, it
+      is the European outpost of the global imperialist system, which is <v>hitting</v>
+      <p>out</p> at workers’ rights and building up an army and repressive mechanisms
+      to silence any opposition.
+    t: É um mecanismo odioso que defende os interesses do grande capital, é o posto
+      avançado europeu do sistema imperialista mundial, que <a>ataca</a> os direitos
+      dos trabalhadores e está a formar um exército e um mecanismo repressivo para
+      silenciar todas as vozes que se lhe oponham.
+- c: 1
+  r: 2
+  v: atingir
+  x:
+  - s: By setting up European political parties as described above, they are trying
+      to get the people to accept the imperialist integration of the EU as a one-way
+      street, as destiny and as the only course available, to <v>hit</v> <p>out</p>
+      at and - if they can - exclude any dissenting voices from the European Parliament
+      and to distance the workers even more from the centres which take the decisions
+      which directly affect them.
+    t: Através da criação, imposta de cima, de partidos políticos europeus, procuram
+      passar para os povos a aceitação da construção imperialista da UE como uma via
+      de sentido único, como uma caminhada fatal e obrigatória, procuram <a>atingir</a>
+      - e, se possível, excluir - as vozes dissonantes do Parlamento Europeu e afastar
+      ainda mais os trabalhadores dos centros de tomada de decisões que lhes dizem
+      directamente respeito.
+- c: 1
+  r: 2
+  v: explodir
+  x:
+  - s: Mr Kuhne has <v>hit</v> <p>out</p> in the press and also here today at the
+      stance taken by my Group of the Greens/European Free Alliance.
+    t: O senhor deputado Kuhne <a>explodiu</a> na imprensa, e hoje aqui também, sobre
+      a atitude do meu Grupo dos Verdes/Aliança Livre Europeia, acusando-nos de estarmos
+      a fazer um jogo político partidário.
+sv:
+- c: 2
+  r: 1
+  v: gå attack
+  x:
+  - s: He <v>hits</v> <p>out</p> at the left in the Parliament, he hits out at the
+      governments in the United Kingdom and Germany, and then he runs out of the Chamber
+      so that he cannot hear the debate.
+    t: Han <a>går</a> till <a>attack</a> mot vänstern i parlamentet, han går till
+      attack mot regeringarna i Förenade kungariket och Tyskland, och sedan smiter
+      han från kammaren så att han inte kan höra debatten.
+  - s: He hits out at the left in the Parliament, he <v>hits</v> <p>out</p> at the
+      governments in the United Kingdom and Germany, and then he runs out of the Chamber
+      so that he cannot hear the debate.
+    t: Han går till attack mot vänstern i parlamentet, han <a>går</a> till <a>attack</a>
+      mot regeringarna i Förenade kungariket och Tyskland, och sedan smiter han från
+      kammaren så att han inte kan höra debatten.
+- c: 1
+  r: 2
+  v: slå
+  x:
+  - s: We therefore need to fight against crime by <v>hitting</v> <p>out</p> against
+      it economically, against the proceeds of crime and the assets of criminals.
+    t: Emellertid syftar givetvis en stor del av brotten till att olagligt tillskansa
+      sig tillgångar, därav nödvändigheten att <a>slå</a> till mot brottslighetens
+      ekonomiska sida, dess avkastning och också dess tillgångar.
+- c: 1
+  r: 2
+  v: angripa
+  x:
+  - s: Unfortunately, the power of the regimes in these very countries is still sufficient
+      to <v>hit</v> <p>out</p> at the population, as happened most recently on 11
+      March.
+    t: Olyckligtvis har regimerna i dessa länder alltjämt tillräcklig makt för att
+      <a>angripa</a> befolkningen, vilket senast skedde den 11 mars.
+- c: 1
+  r: 2
+  v: attack
+  x:
+  - s: The powers that be in the Kremlin are <v>hitting</v> <p>out</p>.
+    t: De som har makten i Kreml går till <a>attack</a>.

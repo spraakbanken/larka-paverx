@@ -1,0 +1,143 @@
+---
+de:
+- c: 1
+  r: 1
+  v: lehren
+  x:
+  - s: Det har dock inget att göra med att den nödvändiga kunskapen inte kan <v>läras</v>
+      <p>in</p> och förvärvas på kortare tid, utan framför allt med att universiteten
+      är dåligt utrustade, med bristen på universitetslärare och på en dålig studieorganisation.
+    t: Das hat aber nichts damit zu tun, daß die erforderlichen Kenntnisse nicht in
+      kürzerer Zeit <a>gelehrt</a> und erworben werden könnten, sondern vor allem
+      mit der oftmals schlechten Ausstattung der Universitäten, dem Mangel an Universitätslehrern
+      und einer schlechten Studienorganisation.
+- c: 1
+  r: 1
+  v: erlernen werden
+  x:
+  - s: Men det gäller också att information blir till utbildning, för när allt kommer
+      omkring är det en helt ny pris-, räknings- och värderingskänsla som måste <v>läras</v>
+      <p>in</p>.
+    t: Aber es kommt auch darauf an, daß Information zu Bildung wird, denn schließlich
+      muß ein völlig neues Preis-, Rechen- und Bewertungsgefühl <a>erlernt</a> <a>werden</a>.
+en:
+- c: 1
+  r: 1
+  v: learn
+  x:
+  - s: Om det erbjuds på Internet och man i slutändan därmed också ställer multimediainnehåll
+      till förfogande, kan ni då se någon möjlighet till att man här med hjälp av
+      learning entertainment eller learning adventure skulle göra människor roade
+      av att <v>lära</v> <p>in</p> detta ämnesområde, eftersom det när allt kommer
+      omkring också handlar om att barnens föräldrar skall begripa vilka chanser det
+      här finns för framtiden?
+    t: if this is being offered on the Internet and multimedia information is thus
+      also being made available, do you see any chance of this being learning entertainment
+      or a learning adventure, which will make it an enjoyable experience for people
+      to <a>learn</a> about this subject, because in the end it is also a question
+      of parents finding out from their children what prospects this has to offer
+      for the future?
+es:
+- c: 1
+  r: 1
+  v: debatir
+  x:
+  - s: Ett ansvarsfullt umgänge med dessa ska <v>läras</v> <p>in</p> och läras ut.
+    t: Hay que tener esto en cuenta cuando <a>debatimos</a> sobre estos asuntos.
+- c: 1
+  r: 1
+  v: aprender
+  x:
+  - s: Men det gäller också att information blir till utbildning, för när allt kommer
+      omkring är det en helt ny pris-, räknings- och värderingskänsla som måste <v>läras</v>
+      <p>in</p>.
+    t: Pero también hay que lograr que la información se convierta en formación, pues
+      a la postre hay que <a>aprender</a> una sensación totalmente nueva de precios,
+      cálculos y valoraciones.
+- c: 1
+  r: 1
+  v: impartir
+  x:
+  - s: Det har dock inget att göra med att den nödvändiga kunskapen inte kan <v>läras</v>
+      <p>in</p> och förvärvas på kortare tid, utan framför allt med att universiteten
+      är dåligt utrustade, med bristen på universitetslärare och på en dålig studieorganisation.
+    t: Esto no significa sin embargo que los conocimientos necesarios no puedan ser
+      <a>impartidos</a> y adquiridos en un tiempo menor, sino que tiene que ver, si
+      acaso, con las universidades deficientemente dotadas, la falta de profesores
+      universitarios y un plan de estudios malo.
+fr:
+- c: 1
+  r: 1
+  v: être étudier
+  x:
+  - s: Det har dock inget att göra med att den nödvändiga kunskapen inte kan <v>läras</v>
+      <p>in</p> och förvärvas på kortare tid, utan framför allt med att universiteten
+      är dåligt utrustade, med bristen på universitetslärare och på en dålig studieorganisation.
+    t: Ce rallongement des études n’a rien à voir avec le fait que les connaissances
+      requises ne puissent <a>être</a> <a>étudiées</a> et acquises en moins de temps.
+- c: 1
+  r: 1
+  v: familiariser
+  x:
+  - s: Om det erbjuds på Internet och man i slutändan därmed också ställer multimediainnehåll
+      till förfogande, kan ni då se någon möjlighet till att man här med hjälp av
+      learning entertainment eller learning adventure skulle göra människor roade
+      av att <v>lära</v> <p>in</p> detta ämnesområde, eftersom det när allt kommer
+      omkring också handlar om att barnens föräldrar skall begripa vilka chanser det
+      här finns för framtiden?
+    t: Si cette information est diffusée sur Internet et que des contenus multimédias
+      sont également mis à disposition, croyez-vous qu’il y ait une chance pour qu’à
+      travers un jeu éducatif, on parvienne à inciter les gens à se <a>familiariser</a>
+      avec le thème de l’euro car, finalement, il s’agit aussi que les parents, par
+      l’intermédiaire des enfants, saisissent l’enjeu que cela représente pour l’avenir
+      ?
+- c: 1
+  r: 1
+  v: esprit lo
+  x:
+  - s: Ett ansvarsfullt umgänge med dessa ska <v>läras</v> <p>in</p> och läras ut.
+    t: Il faut garder ces différences à l’<a>esprit</a> lorsque <a>l’on</a> discute
+      de cette question.
+pt:
+- c: 1
+  r: 1
+  v: ser ensinar
+  x:
+  - s: Det har dock inget att göra med att den nödvändiga kunskapen inte kan <v>läras</v>
+      <p>in</p> och förvärvas på kortare tid, utan framför allt med att universiteten
+      är dåligt utrustade, med bristen på universitetslärare och på en dålig studieorganisation.
+    t: Contudo, isso não tem nada a ver com uma impossibilidade de os conhecimentos
+      exigíveis <a>serem</a> <a>ensinados</a> e adquiridos num espaço de tempo mais
+      curto, devendo-se antes, sobretudo, ao frequente mau equipamento das universidades,
+      à falta de professores universitários e a uma má organização dos estudos.
+- c: 1
+  r: 1
+  v: dado discutir
+  x:
+  - s: Ett ansvarsfullt umgänge med dessa ska <v>läras</v> <p>in</p> och läras ut.
+    t: Devemos ter estes <a>dados</a> em atenção quando <a>discutimos</a> este assunto.
+- c: 1
+  r: 1
+  v: iniciar conhecimento
+  x:
+  - s: Om det erbjuds på Internet och man i slutändan därmed också ställer multimediainnehåll
+      till förfogande, kan ni då se någon möjlighet till att man här med hjälp av
+      learning entertainment eller learning adventure skulle göra människor roade
+      av att <v>lära</v> <p>in</p> detta ämnesområde, eftersom det när allt kommer
+      omkring också handlar om att barnens föräldrar skall begripa vilka chanser det
+      här finns för framtiden?
+    t: quando este tema for tratado na Internet e forem também tornados acessíveis
+      conteúdos multimédia, vê alguma possibilidade de, com um learning entertainment
+      ou learning adventure, <a>iniciar</a> de um modo agradável as pessoas nesta
+      temática, pois também está em causa facultar <a>conhecimentos</a> aos pais das
+      crianças, de modo a aperceberem-se das possibilidades existentes para o fuuro?
+- c: 1
+  r: 1
+  v: ser aprender
+  x:
+  - s: Men det gäller också att information blir till utbildning, för när allt kommer
+      omkring är det en helt ny pris-, räknings- och värderingskänsla som måste <v>läras</v>
+      <p>in</p>.
+    t: Contudo acontece também que a informação se deve converter em formação, pois,
+      em última análise, há toda uma nova sensação de preços, de cálculos e de valorização
+      que tem de <a>ser</a> <a>aprendida</a>.

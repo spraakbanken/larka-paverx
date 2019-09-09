@@ -1,0 +1,176 @@
+---
+de:
+- c: 1
+  r: 1
+  v: entspannen
+  x:
+  - s: Man har riktat in sig på buller, eftersom motorbåtar oftast används inom områden
+      dit folk åker för att <v>koppla</v> <p>av</p>.
+    t: Die Geräuschbelästigung bildet einen Schwerpunkt, weil Motorboote oft in Gegenden
+      benutzt werden, in denen sich die Menschen <a>entspannen</a> wollen.
+- c: 1
+  r: 1
+  v: zurücklehnen
+  x:
+  - s: Jag hoppades att vi i dag skulle få höra våra företrädare i konventet berätta
+      vad de tänker göra i fortsättningen i konventet och jag vill verkligen uppmana
+      dem att inte <v>koppla</v> <p>av</p>, att inte tro att allt är klart, att inget
+      kan ändras, och att vi dessutom skulle ha segrat.
+    t: Ich hatte gehofft, heute von unseren Vertretern zu hören, was sie noch in diesem
+      Konvent zu tun beabsichtigen, und ich fordere sie nachdrücklich dazu auf, sich
+      nicht <a>zurückzulehnen</a> und zu glauben, nunmehr sei alles getan, nichts
+      könne mehr geändert werden und außerdem hätten wir ja gesiegt.
+- c: 1
+  r: 1
+  v: erholen
+  x:
+  - s: Vi studerar, arbetar, <v>kopplar</v> <p>av</p> och reser utanför våra egna
+      länders gränser.
+    t: Wir studieren, arbeiten, <a>erholen</a> uns und reisen außerhalb der Grenzen
+      unseres Heimatlandes.
+- c: 1
+  r: 1
+  v: Entspannen
+  x:
+  - s: Ryssland har förändrats enormt sedan Sovjetunionens tid. Medelklassen har god
+      betalningsförmåga och är intresserade av att lära sig mer om världen, resa,
+      <v>koppla</v> <p>av</p> och shoppa.
+    t: Die Mittelklasse ist zahlungsfähig und hat Interesse an Reisen, <a>Entspannen</a>
+      und Einkaufen und daran, etwas über die Welt zu lernen.
+en:
+- c: 3
+  r: 1
+  v: relax
+  x:
+  - s: Ryssland har förändrats enormt sedan Sovjetunionens tid. Medelklassen har god
+      betalningsförmåga och är intresserade av att lära sig mer om världen, resa,
+      <v>koppla</v> <p>av</p> och shoppa.
+    t: The middle class is solvent and is interested in learning about the world,
+      travelling, <a>relaxing</a> and shopping.
+  - s: Invånarna i Montenegro bör naturligtvis inte luta sig tillbaka nu och <v>koppla</v>
+      <p>av</p>, utan helt och hållet uppfylla avtalet som de har undertecknat.
+    t: The Montenegrins, of course, should not sit back and <a>relax</a> now but should
+      fully implement the agreement they have signed.
+  - s: Man har riktat in sig på buller, eftersom motorbåtar oftast används inom områden
+      dit folk åker för att <v>koppla</v> <p>av</p>.
+    t: Noise pollution has been targeted, because motor boats are often used in areas
+      where people go to <a>relax</a>.
+es:
+- c: 2
+  r: 1
+  v: relajarse
+  x:
+  - s: Invånarna i Montenegro bör naturligtvis inte luta sig tillbaka nu och <v>koppla</v>
+      <p>av</p>, utan helt och hållet uppfylla avtalet som de har undertecknat.
+    t: Los montenegrinos, desde luego, no deben quedarse sentados y <a>relajarse</a>
+      ahora, sino aplicar en su totalidad el acuerdo que han firmado.
+  - s: Man har riktat in sig på buller, eftersom motorbåtar oftast används inom områden
+      dit folk åker för att <v>koppla</v> <p>av</p>.
+    t: La contaminación acústica se ha convertido en tema de debate porque las embarcaciones
+      de motor suelen utilizarse en zonas a las que la gente acude para <a>relajarse</a>.
+- c: 1
+  r: 2
+  v: relajar
+  x:
+  - s: Jag hoppades att vi i dag skulle få höra våra företrädare i konventet berätta
+      vad de tänker göra i fortsättningen i konventet och jag vill verkligen uppmana
+      dem att inte <v>koppla</v> <p>av</p>, att inte tro att allt är klart, att inget
+      kan ändras, och att vi dessutom skulle ha segrat.
+    t: Hoy esperaba oír a nuestros representantes pronunciarse sobre qué tienen pensado
+      hacer aún en esta Convención, y les insto verdaderamente a que no se <a>relajen</a>,
+      a que no piensen que ya está todo hecho, que no se puede cambiar nada, y que
+      además hemos ganado.
+- c: 1
+  r: 2
+  v: establecer
+  x:
+  - s: Ett beslut kommer att fattas vid ett senare datum, och därefter kommer alla
+      att kunna <v>koppla</v> <p>av</p> i fem år till.
+    t: el Consejo es el órgano jurídico responsable de esta cuestión y no es capaz
+      de <a>establecer</a> un reglamento.
+fr:
+- c: 2
+  r: 1
+  v: détendre
+  x:
+  - s: Man har riktat in sig på buller, eftersom motorbåtar oftast används inom områden
+      dit folk åker för att <v>koppla</v> <p>av</p>.
+    t: L’objectif a été placé sur la pollution sonore, parce que les bateaux à moteur
+      sont souvent utilisés dans des zones où les gens se rendent pour se <a>détendre</a>.
+  - s: Vi studerar, arbetar, <v>kopplar</v> <p>av</p> och reser utanför våra egna
+      länders gränser.
+    t: Nous étudions, nous travaillons, nous nous <a>détendons</a> et nous voyageons
+      au-delà des frontières de notre propre pays.
+- c: 1
+  r: 2
+  v: faire
+  x:
+  - s: Jag hoppades att vi i dag skulle få höra våra företrädare i konventet berätta
+      vad de tänker göra i fortsättningen i konventet och jag vill verkligen uppmana
+      dem att inte <v>koppla</v> <p>av</p>, att inte tro att allt är klart, att inget
+      kan ändras, och att vi dessutom skulle ha segrat.
+    t: J’espérais que nos représentants allaient nous dire aujourd’hui ce qu’ils allaient
+      faire à la Convention et je leur demande instamment de ne pas rester là à ne
+      rien <a>faire</a> et à penser que tout est fini maintenant, que rien ne peut
+      plus être changé et que, qui plus est, nous avons gagné.
+- c: 1
+  r: 2
+  v: œuvre
+  x:
+  - s: Invånarna i Montenegro bör naturligtvis inte luta sig tillbaka nu och <v>koppla</v>
+      <p>av</p>, utan helt och hållet uppfylla avtalet som de har undertecknat.
+    t: ils doivent veiller à la bonne mise en <a>œuvre</a> de l’accord qu’ils ont
+      signé.
+it:
+- c: 1
+  r: 1
+  v: divertire
+  x:
+  - s: Vi studerar, arbetar, <v>kopplar</v> <p>av</p> och reser utanför våra egna
+      länders gränser.
+    t: Studiamo, lavoriamo, ci <a>divertiamo</a> e viaggiamo oltre i confini del nostro
+      paese.
+- c: 1
+  r: 1
+  v: rilassare
+  x:
+  - s: Jag hoppades att vi i dag skulle få höra våra företrädare i konventet berätta
+      vad de tänker göra i fortsättningen i konventet och jag vill verkligen uppmana
+      dem att inte <v>koppla</v> <p>av</p>, att inte tro att allt är klart, att inget
+      kan ändras, och att vi dessutom skulle ha segrat.
+    t: Io speravo di sentire oggi dai nostri rappresentanti che cosa ancora intendono
+      fare in questa Convenzione e li incito veramente a non <a>rilassarsi</a>, a
+      pensare che ormai tutto è fatto, che niente si potrà cambiare, e che per di
+      più abbiamo vinto.
+pt:
+- c: 2
+  r: 1
+  v: descansar
+  x:
+  - s: Jag hoppades att vi i dag skulle få höra våra företrädare i konventet berätta
+      vad de tänker göra i fortsättningen i konventet och jag vill verkligen uppmana
+      dem att inte <v>koppla</v> <p>av</p>, att inte tro att allt är klart, att inget
+      kan ändras, och att vi dessutom skulle ha segrat.
+    t: Esperava ouvir hoje da parte dos nossos representantes o que eles pretendem
+      fazer nesta Convenção e incito-os energicamente a não <a>descansar</a> e a pensar
+      que já está tudo feito, que nada poderá mudar e, o que é mais, que vencemos.
+  - s: Man har riktat in sig på buller, eftersom motorbåtar oftast används inom områden
+      dit folk åker för att <v>koppla</v> <p>av</p>.
+    t: A poluição sonora foi visada porque as embarcações de recreio são frequentemente
+      utilizadas em zonas que as pessoas procuram para <a>descansar</a>.
+- c: 1
+  r: 2
+  v: viajar
+  x:
+  - s: Vi studerar, arbetar, <v>kopplar</v> <p>av</p> och reser utanför våra egna
+      länders gränser.
+    t: Estudamos, trabalhamos e <a>viajamos</a> fora das fronteiras do nosso país.
+- c: 1
+  r: 2
+  v: descontrair
+  x:
+  - s: Ryssland har förändrats enormt sedan Sovjetunionens tid. Medelklassen har god
+      betalningsförmåga och är intresserade av att lära sig mer om världen, resa,
+      <v>koppla</v> <p>av</p> och shoppa.
+    t: A classe média é solvente e está interessada em conhecer o mundo, viajar, <a>descontrair</a>-se
+      e fazer compras.

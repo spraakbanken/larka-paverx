@@ -1,0 +1,37 @@
+---
+de:
+- c: 1
+  r: 1
+  v: abspielen
+  x:
+  - s: Vi får hoppas att de snart <v>kastar</v> <p>upp</p> den.
+    t: Wir hoffen, daß sie ihn bald <a>abspielt</a>.
+en:
+- c: 1
+  r: 1
+  v: act
+  x:
+  - s: Vi får hoppas att de snart <v>kastar</v> <p>upp</p> den.
+    t: Let us hope it <a>acts</a> soon.
+es:
+- c: 1
+  r: 1
+  v: jugar
+  x:
+  - s: Vi får hoppas att de snart <v>kastar</v> <p>upp</p> den.
+    t: Esperamos que <a>juegue</a> pronto.
+pt:
+- c: 1
+  r: 1
+  v: jogue
+  x:
+  - s: Vi får hoppas att de snart <v>kastar</v> <p>upp</p> den.
+    t: Espero que a <a>jogue</a> rapidamente.
+- c: 1
+  r: 1
+  v: dar
+  x:
+  - s: Samtidigt pågick flottövningar i området och fyra timmar efter det att övningarna
+      hade inletts började valarna <v>kasta</v> sig <p>upp</p> på stränderna.
+    t: Estavam, nessa altura, a ser efectuados exercícios navais na área e, quatro
+      horas depois de terem começado, as baleias começaram a <a>dar</a> à costa.

@@ -1,0 +1,1180 @@
+---
+de:
+- c: 3
+  r: 1
+  v: fressen
+  x:
+  - s: Det är för värdefullt för att <v>ätas</v> <p>upp</p> av mal.
+    t: Er ist zu wertvoll, um von Motten <a>gefressen</a> zu werden.
+  - s: Nyligen tog hunden en korv från matbordet och <v>åt</v> <p>upp</p> den.
+    t: Vor kurzem hat mein Hund eine Wurst vom Tisch geklaut und sie <a>gefressen</a>.
+  - s: Att ha en marin strategi som inte fokuserar på fisk är som att fylla en guldfiskskål
+      med rent vatten efter att katten redan har <v>ätit</v> <p>upp</p> guldfisken!
+    t: Eine Meeresstrategie zu verfolgen, bei der nicht der Fisch im Mittelpunkt steht,
+      ist etwa so, als würde man ein Goldfischbassin mit sauberem Wasser füllen, nachdem
+      die Katze den Goldfisch <a>gefressen</a> hat.
+- c: 1
+  r: 2
+  v: schlucken
+  x:
+  - s: Den gränslösa öppningen för den offentliga upphandlingen leder endast till
+      att de små leverantörerna runtom i världen <v>äts</v> <p>upp</p> av de stora.
+    t: Die grenzenlose Öffnung des öffentlichen Beschaffungswesens führt nur dazu,
+      daß die großen weltweit die kleinen Anbieter <a>schlucken</a>.
+- c: 1
+  r: 2
+  v: verzehren
+  x:
+  - s: Man kan inte båda ha kakan och <v>äta</v> <p>upp</p> den genom att förneka
+      att det finns en sådan inneboende flexibilitet i fördraget.
+    t: Man kann nicht einerseits den Kuchen in all seiner Weichheit <a>verzehren</a>
+      wollen und andererseits die im Vertrag bereits enthaltene Flexibilität leugnen.
+- c: 1
+  r: 2
+  v: verzehren können
+  x:
+  - s: Nederländerna producerar mycket mer kött än vad nederländarna själva kan <v>äta</v>
+      <p>upp</p>.
+    t: Die Niederlande erzeugen weitaus mehr Fleisch als die Niederländer selbst <a>verzehren</a>
+      <a>können</a>.
+- c: 1
+  r: 2
+  v: werden
+  x:
+  - s: Vi ser exempelvis positivt på förslaget om höjning av bidraget och det särskilda
+      stödet vilka inte har höjts sedan 1993 med följd att de har <v>ätits</v> <p>upp</p>
+      av inflationen.
+    t: Wir begrüßen zum Beispiel den Vorschlag für die Erhöhung der Prämie und des
+      <a>Pauschalbetrags</a>, die sich seit 1993 nicht erhöht haben und durch die
+      Inflation im Wert verringert <a>worden</a> sind.
+  - s: Vargen <v>åt</v> <p>upp</p> alla fåren.
+    t: Mehr als die Hälfte der 95 Millionen Mexikaner leben bereits in Armut, wobei
+      diejenigen nicht mitgezählt wurden, die eben aufgrund dieser auf Ausbeutung
+      beruhenden Art von Partnerschaft gezwungen <a>wurden</a> auszuwandern.
+- c: 1
+  r: 2
+  v: werden
+  x:
+  - s: Vi ser exempelvis positivt på förslaget om höjning av bidraget och det särskilda
+      stödet vilka inte har höjts sedan 1993 med följd att de har <v>ätits</v> <p>upp</p>
+      av inflationen.
+    t: Wir begrüßen zum Beispiel den Vorschlag für die Erhöhung der Prämie und des
+      <a>Pauschalbetrags</a>, die sich seit 1993 nicht erhöht haben und durch die
+      Inflation im Wert verringert <a>worden</a> sind.
+  - s: Vargen <v>åt</v> <p>upp</p> alla fåren.
+    t: Mehr als die Hälfte der 95 Millionen Mexikaner leben bereits in Armut, wobei
+      diejenigen nicht mitgezählt wurden, die eben aufgrund dieser auf Ausbeutung
+      beruhenden Art von Partnerschaft gezwungen <a>wurden</a> auszuwandern.
+- c: 1
+  r: 2
+  v: werden auszehren werden
+  x:
+  - s: Europeiska centralbanken (ECB) uppmanar till återhållsamhet för de arbetstagare
+      vars köpkraft ständigt <v>äts</v> <p>upp</p> av ökade priser på energi och livsmedel.
+    t: die Arbeitnehmer <a>werden</a> durch die EZB zur Mäßigung aufgerufen, während
+      ihre Kaufkraft ständig durch Preissteigerungen für Energie und Lebensmittel
+      <a>ausgezehrt</a> <a>wird</a>.
+- c: 1
+  r: 2
+  v: zunächst
+  x:
+  - s: I annat fall förvandlas vår inre marknad till en dödsbringande damm där de
+      stora fiskarna <v>äter</v> <p>upp</p> de små och därefter troligen varandra.
+    t: Sonst wird unser freier Binnenmarkt zu einem tödlichen Teich, in dem die großen
+      Fische <a>zunächst</a> die kleinen und dann wahrscheinlich sich gegenseitig
+      auffressen würden.
+- c: 1
+  r: 2
+  v: verdrängen
+  x:
+  - s: Man måste alltså hitta sådana nya tjänster som skapar arbetstillfällen och
+      mervärde, men som inte <v>äter</v> <p>upp</p> andra arbetstillfällen.
+    t: Es müssen also solche neuen Dienstleistungen ausfindig gemacht werden, die
+      neue Arbeitsplätze und Mehrwert schaffen, aber keine anderen Arbeitsplätze <a>verdrängen</a>.
+- c: 1
+  r: 2
+  v: überwiegen
+  x:
+  - s: Det kan lätt bli så att de vinster man gör i form av ökad effektivitet <v>äts</v>
+      <p>upp</p> av ökade administrativa kostnader.
+    t: Man sollte ganz allgemein sehr vorsichtig sein mit allzu detaillierten Regelungen,
+      z.B. Einer genauen Regelung der Gebühren, Fristen u.ä., denn die durch den höheren
+      administrativen Aufwand entstehenden Kosten könnten leicht die Vorteile größerer
+      Effektivität <a>überwiegen</a>.
+- c: 1
+  r: 2
+  v: schlucken werden
+  x:
+  - s: Innovationerna får inte <v>ätas</v> <p>upp</p> av forskningen.
+    t: Innovation darf nicht von der Forschung <a>geschluckt</a> <a>werden</a>.
+- c: 1
+  r: 2
+  v: Konsumtion
+  x:
+  - s: Hittills har de förbättringar som gjorts <v>ätits</v> <p>upp</p> av den ökade
+      produktionen och konsumtionen.
+    t: Bisher wurden die erreichten Verbesserungen stets von wachsender Produktion
+      und <a>Konsumtion</a> zunichte gemacht.
+- c: 1
+  r: 2
+  v: Kuh
+  x:
+  - s: Han vill både <v>äta</v> <p>upp</p> kakan och ha den kvar.
+    t: Er will die <a>Kuh</a> schlachten, aber weiterhin Milch haben.
+- c: 1
+  r: 2
+  v: Nahrungsmittel
+  x:
+  - s: Sedan urminnes tider har det varit självklart att människor inte bara <v>äter</v>
+      <p>upp</p> djur utan även använder dem till alla andra ändamål som kan medföra
+      fördelar.
+    t: Über Jahrhunderte hinweg war es eine Selbstverständlichkeit, dass Menschen
+      Tiere nicht nur als <a>Nahrungsmittel</a> verwenden, sondern auch für alle sonstigen
+      Zwecke, wovon sie sich einen Nutzen versprachen.
+- c: 1
+  r: 2
+  v: Verstorbene fressen
+  x:
+  - s: hur de, frusna som de var den långa vintern 1992, värmde sig genom att bränna
+      däck och plastflaskor, och hur kropparna av dem som dött av svält och köld <v>åts</v>
+      <p>upp</p> av hundar.
+    t: und wie die Körper der an Hunger und Schutzlosigkeit <a>Verstorbenen</a> von
+      Hunden <a>gefressen</a> wurden.
+- c: 1
+  r: 2
+  v: auftreten
+  x:
+  - s: Vegetabiliska produkter, som människor tidigare åt direkt, matar man nu grisarna
+      med, och de grisarna <v>äts</v> sedan <p>upp</p> av människor.
+    t: Die Viruserkrankung bei Schweinen, die für den Menschen ungefährlich ist, kann
+      immer wieder <a>auftreten</a>, da das Virus aufgrund infizierter <a>Wildschweinbestände</a>
+      in einigen Regionen der EU weiterhin vorhanden ist.
+- c: 1
+  r: 2
+  v: auslöffeln
+  x:
+  - s: Jag skulle framför allt ha önskat att ni inte måste <v>äta</v> <p>upp</p> den
+      soppa som möjligen andra har kokat ihop.
+    t: Ich hätte mir vor allem gewünscht, daß Sie nicht eine Suppe <a>auslöffeln</a>
+      müssen, die Ihnen unter Umständen andere eingebrockt haben.
+- c: 1
+  r: 2
+  v: beschäftigen
+  x:
+  - s: Man kan faktiskt inte reformera ett så omfattande verktyg för omfördelning
+      som den gemensamma jordbrukspolitiken utgör, fastställa ambitiösa målsättningar
+      när det gäller utvidgning, göra åtaganden för två mandatperioder genom Agenda
+      2000, utan att samtidigt förbereda sig för att genomföra de tekniska instrument
+      som skyddar inte bara mot det som man kallat eventuella asymmetriska chocker
+      utan även mot en släpphänthet som långsamt skulle <v>äta</v> <p>upp</p> resultatet
+      av den återfunna tillväxten, enbart till förmån för kategoriska och egoistiska
+      intressen och till nackdel för det allmänna intresset.
+    t: Man denken nur an die Zahl der bei den Zentralbanken in den einzelnen Mitgliedstaaten
+      beschäftigten Personen, die sich derzeit auf 60 000 beläuft, während das EWI
+      insgesamt nur 281 Personen <a>beschäftigt</a>.
+- c: 1
+  r: 2
+  v: fressen werden
+  x:
+  - s: Vid ett av mina många besök i området såg jag blommor och jordgubbar ruttna
+      på gatorna i Gaza och <v>ätas</v> <p>upp</p> av åsnorna medan de palestinska
+      odlarna förtvivlat och hjälplösa bara kunde titta på.
+    t: Bei einem meiner zahlreichen Besuche in der Region habe ich in Gaza Blumen
+      und Erdbeeren verderben sehen, die auf der Straße lagen und von Eseln <a>gefressen</a>
+      <a>wurden</a>, während die palästinensischen Erzeuger ohnmächtig und verzweifelt
+      zusahen.
+- c: 1
+  r: 2
+  v: Getreide fressen
+  x:
+  - s: Vilket slags dialog har vi med USA, där 25 procent av spannmålet <v>äts</v>
+      <p>upp</p> av bilar snarare än av boskap?
+    t: Welchen Dialog führen wir mit den USA, wo 25 % des <a>Getreides</a> von Autos
+      <a>gefressen</a> wird und nicht von Rindern?
+- c: 1
+  r: 2
+  v: verarbeitend
+  x:
+  - s: Producenter och återförsäljare kommer att <v>äta</v> <p>upp</p> allt.
+    t: Sie wird lediglich der <a>verarbeitenden</a> Industrie und den Einzelhändlern
+      nutzen.
+en:
+- c: 8
+  r: 1
+  v: eat
+  x:
+  - s: Man kan inte båda ha kakan och <v>äta</v> <p>upp</p> den genom att förneka
+      att det finns en sådan inneboende flexibilitet i fördraget.
+    t: You cannot have your fudge cake and <a>eat</a> it by denying such inherent
+      flexibility in the Treaty.
+  - s: Vi kan inte både ha kvar kakan och <v>äta</v> <p>upp</p> den - vi kan inte
+      göra nedskärningar och samtidigt satsa på infrastruktur.
+    t: 'We cannot have our cake and <a>eat</a> it:'
+  - s: Sedan urminnes tider har det varit självklart att människor inte bara <v>äter</v>
+      <p>upp</p> djur utan även använder dem till alla andra ändamål som kan medföra
+      fördelar.
+    t: For centuries, it has been a matter of course that people should not only <a>eat</a>
+      animals, but also use them in all other areas where they expect to benefit.
+  - s: Gå framåt, förvisso, se till att våra rättigheter drivs framåt, men det skulle
+      till att börja med inte vara så illa om man avstod från att backa, eftersom
+      invandrarnas rättigheter i våra länder hela tiden naggas i kanten och <v>äts</v>
+      <p>upp</p>.
+    t: To make progress, certainly, to make progress with these rights, but really
+      it would not be a bad thing if we could just stop regressing, because, in our
+      countries, the rights of foreigners in particular, are being nibbled at, <a>eaten</a>
+      away little by little, and defending the rights of foreigners in our land is
+      now part of the battle for human rights.
+  - s: Nyligen tog hunden en korv från matbordet och <v>åt</v> <p>upp</p> den.
+    t: Recently, my dog took a sausage from the table and <a>ate</a> it.
+  - s: Vilket slags dialog har vi med USA, där 25 procent av spannmålet <v>äts</v>
+      <p>upp</p> av bilar snarare än av boskap?
+    t: What sort of dialogue have we with the US, where 25% of their corn is <a>eaten</a>
+      by cars rather than cattle?
+  - s: Vid ett av mina många besök i området såg jag blommor och jordgubbar ruttna
+      på gatorna i Gaza och <v>ätas</v> <p>upp</p> av åsnorna medan de palestinska
+      odlarna förtvivlat och hjälplösa bara kunde titta på.
+    t: On one of my many visits to the area, I have seen flowers and strawberries
+      rotting, lying in the streets of Gaza and being <a>eaten</a> by the donkeys
+      while their Palestinian producers look on helplessly in despair.
+  - s: Vegetabiliska produkter, som människor tidigare åt direkt, matar man nu grisarna
+      med, och de grisarna <v>äts</v> sedan <p>upp</p> av människor.
+    t: Vegetable products that used to be eaten directly by human beings were fed
+      to pigs and the pigs were subsequently <a>eaten</a> by people.
+- c: 4
+  r: 2
+  v: eat up
+  x:
+  - s: Vi måste komma bort från föreställningen att en hållbar tillväxt på något sätt
+      innebär 3 procent år efter år, om detta <v>äter</v> <p>upp</p> våra begränsade
+      resurser och förorenar vår miljö.
+    t: We have to get away from this idea that sustainable growth somehow means 3%
+      year after year, if that is going to <a>eat</a> <a>up</a> our finite resources
+      and pollute our environment.
+  - s: Men hur kan det då komma sig att den ökade produktionen och den ökade konsumtionen
+      har ”<v>ätit</v> <p>upp</p>” alla de miljöinsatser som vi faktiskt hittills
+      har gjort och det som görs?
+    t: If this is the case, how can we explain the fact that increased production
+      and increased consumption have <a>eaten</a> <a>up</a> all the environmental
+      initiatives which we have so far carried out and are carrying out?
+  - s: Det finns tyvärr en tendens, när energin blir billigare genom effektiviseringar,
+      att sparandet <v>äts</v> <p>upp</p> genom en s.k. rebound-effekt, dvs. vi ökar
+      efterfrågan.
+    t: When energy becomes cheaper due to efficiency measures, there is unfortunately
+      a tendency for savings to be <a>eaten</a> <a>up</a> through the so-called rebound
+      effect;
+  - s: Är det vargarna i Pyrenéerna eller Alperna som <v>äter</v> <p>upp</p> fåraherdarna,
+      eller importerat lamm från Nya Zeeland?
+    t: Is it the wolves in the Pyrenees or the Alps that are <a>eating</a> <a>up</a>
+      the shepherds, or lamb imported from New Zealand?
+- c: 3
+  r: 3
+  v: swallow up
+  x:
+  - s: Innovationerna får inte <v>ätas</v> <p>upp</p> av forskningen.
+    t: Innovation must not be <a>swallowed</a> <a>up</a> by research.
+  - s: Den gränslösa öppningen för den offentliga upphandlingen leder endast till
+      att de små leverantörerna runtom i världen <v>äts</v> <p>upp</p> av de stora.
+    t: Placing no limit on opening public procurement merely allows large suppliers
+      to <a>swallow</a> <a>up</a> small suppliers all over the world.
+  - s: Det kan lätt bli så att de vinster man gör i form av ökad effektivitet <v>äts</v>
+      <p>upp</p> av ökade administrativa kostnader.
+    t: It can easily lead to a situation where the gains made through increased efficiency
+      are <a>swallowed</a> <a>up</a> by administrative costs.
+- c: 3
+  r: 3
+  v: consume
+  x:
+  - s: Rikedomarna <v>äts</v> <p>upp</p> av korruptionen och dåligt styre gör resten.
+    t: Its wealth is <a>consumed</a> by corruption, and bad governance does the rest.
+  - s: I mitt distrikt Coimbra, som är det värst drabbade, har lågorna <v>ätit</v>
+      <p>upp</p> 32 km2 enbart i kommunen Pampilhosa da Serra, och endast 8 km2 skog
+      återstod.
+    t: In my district, Coimbra, which is the worst affected, the flames have <a>consumed</a>
+      32 km2 in the municipality of Pampilhosa da Serra alone, and only 8 km2 of forest
+      remained.
+  - s: Nederländerna producerar mycket mer kött än vad nederländarna själva kan <v>äta</v>
+      <p>upp</p>.
+    t: The Netherlands produces far more meat than the Dutch themselves can <a>consume</a>.
+- c: 2
+  r: 4
+  v: up
+  x:
+  - s: Föredraganden vill nästa år till och med <v>äta</v> <p>upp</p> den reservoaren
+      på en gång!
+    t: The rapporteur even wants to see this backlog used <a>up</a> in one go next
+      year!
+  - s: Jag skulle framför allt ha önskat att ni inte måste <v>äta</v> <p>upp</p> den
+      soppa som möjligen andra har kokat ihop.
+    t: I wish above all that you had not had to take the blame for a policy possibly
+      cooked <a>up</a> for you by others.
+- c: 2
+  r: 4
+  v: cancel out
+  x:
+  - s: Dessutom kommer det senaste IMF-stödet att <v>ätas</v> <p>upp</p> av Rysslands
+      räntebetalningar och amorteringar till IMF.
+    t: Moreover, the latest IMF assistance will be <a>cancelled</a> <a>out</a> by
+      debt-servicing payments due to the IMF by Russia.
+  - s: Bara den ökade flygtrafiken under de kommande femton åren <v>äter</v> <p>upp</p>
+      alla minskningar i Kyotoprotokollet.
+    t: The increase in air traffic in the next fifteen years alone will <a>cancel</a>
+      <a>out</a> the reductions achieved via the Kyoto Protocol.
+- c: 1
+  r: 5
+  v: eat away
+  x:
+  - s: Det är för värdefullt för att <v>ätas</v> <p>upp</p> av mal.
+    t: it is too valuable to be <a>eaten</a> <a>away</a> by moths.
+- c: 1
+  r: 5
+  v: be erode
+  x:
+  - s: Vi ser exempelvis positivt på förslaget om höjning av bidraget och det särskilda
+      stödet vilka inte har höjts sedan 1993 med följd att de har <v>ätits</v> <p>upp</p>
+      av inflationen.
+    t: For example, we agree that it is good idea to increase premiums and special
+      aid, which have not risen since 1993 and have since <a>been</a> <a>eroded</a>
+      by inflation.
+- c: 1
+  r: 5
+  v: absorb
+  x:
+  - s: På Irland kan amorteringar, hälso- och sjukvårdskostnader och bilkostnader
+      <v>äta</v> <p>upp</p> större delen av en familjs inkomst, även om familjerna
+      ofta har en rimlig inkomst.
+    t: In Ireland, although families often earn a reasonable income, mortgage, health
+      and car payments can <a>absorb</a> the majority of that income and leave little
+      for raising children.
+- c: 1
+  r: 5
+  v: whittle away
+  x:
+  - s: Europeiska centralbanken (ECB) uppmanar till återhållsamhet för de arbetstagare
+      vars köpkraft ständigt <v>äts</v> <p>upp</p> av ökade priser på energi och livsmedel.
+    t: the ECB urges moderation on employees whose spending power is continuously
+      <a>whittled</a> <a>away</a> by higher prices for energy and food.
+- c: 1
+  r: 5
+  v: throw back
+  x:
+  - s: För att säga det i klartext, revisionsrätten säger i likhet med föredragande
+      Lehne eller också i likhet med EG-domstolen att det ögonblick då vi beslutar
+      om kommissionsförslaget kommer vi att få <v>äta</v> <p>upp</p> tillämpningsbestämmelserna
+      och i slutändan bara använda bestämmelserna i tjänsteföreskrifterna för tjänstemän
+      och övriga anställda.
+    t: In other words, the Court of Auditors totally agrees with your rapporteur and
+      with the European Court of Justice that if we adopt the Commission proposal,
+      the implementing regulations will be <a>thrown</a> <a>back</a> at us and in
+      the end only the provisions of the Staff Regulations for officials and other
+      servants will apply.
+- c: 1
+  r: 5
+  v: be engulf
+  x:
+  - s: Vad skulle hända om framtida pensionärers långsiktiga sparande <v>åts</v> <p>upp</p>
+      i en krasch till följd av vågade investeringar?
+    t: What would happen if the long-term savings of future pensioners <a>were</a>
+      <a>engulfed</a> in a stock-market crash?
+- c: 1
+  r: 5
+  v: be replace
+  x:
+  - s: Vägtransporterna - bilarna - ger en oerhört allvarlig nettopåverkan på miljön,
+      så mycket att dessa i sig själva <v>äter</v> <p>upp</p>, och alltså ökar, alla
+      minskningar vi gör inom andra industriella områden av växthusgasutsläppen.
+    t: The fact is that road transport - automobiles - have a clear and very serious
+      environmental impact, so much so that they alone <a>are</a> <a>replacing</a>,
+      and therefore increasing, what all the other industrial sectors are saving in
+      terms of greenhouse gases.
+- c: 1
+  r: 5
+  v: spend on
+  x:
+  - s: Saken är den att en stor del av de mål som eftersträvas med Europeiska året
+      skulle misslyckas om det i slutändan visade sig att dessa resurser till stor
+      del hade <v>ätits</v> <p>upp</p> av ’utredningar och rapporter’.
+    t: It must be stated, however, that many of the aims pursued with the European
+      Year would not ultimately be achieved if we saw that a significant part of those
+      resources were being <a>spent</a> <a>on</a> more ’surveys and studies’.
+- c: 1
+  r: 5
+  v: soak up
+  x:
+  - s: Alla medlemsstater försöker göra nedskärningar i sina nationella budgetar och
+      ändå fortsätter EU:s budget att utökas, vilket <v>äter</v> <p>upp</p> medlemsstaternas
+      besparingar.
+    t: All of our Member States are looking to make reductions in their national budgets
+      and yet the European Union budget keeps expanding, <a>soaking</a> <a>up</a>
+      their savings.
+- c: 1
+  r: 5
+  v: reap
+  x:
+  - s: Om man inte tryggar allmänna och offentliga intressen lägger de rika, stora
+      och snabba beslag på allt, <v>äter</v> <p>upp</p> alla frukter av den nya tekniska
+      utvecklingen.
+    t: if the common and public interest is not secured, the richest, largest and
+      fastest players will take all, and they will <a>reap</a> all the fruits of the
+      new technological developments.
+- c: 1
+  r: 5
+  v: offset
+  x:
+  - s: Hittills har de förbättringar som gjorts <v>ätits</v> <p>upp</p> av den ökade
+      produktionen och konsumtionen.
+    t: Up until now, the improvements that have been made have been <a>offset</a>
+      by increased production and consumption.
+- c: 1
+  r: 5
+  v: gnaw away
+  x:
+  - s: Man kan faktiskt inte reformera ett så omfattande verktyg för omfördelning
+      som den gemensamma jordbrukspolitiken utgör, fastställa ambitiösa målsättningar
+      när det gäller utvidgning, göra åtaganden för två mandatperioder genom Agenda
+      2000, utan att samtidigt förbereda sig för att genomföra de tekniska instrument
+      som skyddar inte bara mot det som man kallat eventuella asymmetriska chocker
+      utan även mot en släpphänthet som långsamt skulle <v>äta</v> <p>upp</p> resultatet
+      av den återfunna tillväxten, enbart till förmån för kategoriska och egoistiska
+      intressen och till nackdel för det allmänna intresset.
+    t: These would <a>gnaw</a> <a>away</a> at the refound fruits of growth to the
+      sole benefit of category-specific and selfish interests, disregarding the common
+      good.
+- c: 1
+  r: 5
+  v: feeding
+  x:
+  - s: Den lämnar sedan älvarna och flyttar ut i Östersjön för att <v>äta</v> <p>upp</p>
+      sig.
+    t: It then leaves the rivers and moves into the Baltic Sea for <a>feeding</a>.
+- c: 1
+  r: 5
+  v: exposure eat
+  x:
+  - s: hur de, frusna som de var den långa vintern 1992, värmde sig genom att bränna
+      däck och plastflaskor, och hur kropparna av dem som dött av svält och köld <v>åts</v>
+      <p>upp</p> av hundar.
+    t: and how the bodies of those who died of starvation and <a>exposure</a> were
+      <a>eaten</a> by dogs.
+- c: 1
+  r: 5
+  v: be absorb
+  x:
+  - s: Därför gläder det mig mycket att vår föredragande James Elles har sagt att
+      vi vill finansiera fler program och mindre administration, även om kommissionen
+      fortfarande måste visa att den kan sköta programmen ordentligt och att allt
+      detta inte kommer att <v>ätas</v> <p>upp</p> av administrationskostnader.
+    t: It is for that reason that I am very glad that our rapporteur, Mr Elles, has
+      said that we want to fund more programmes and less administration, although
+      what the Commission still has to do is to demonstrate that it can run the programmes
+      in a proper manner and that all this will not <a>be</a> <a>absorbed</a> by administration
+      costs.
+- c: 1
+  r: 5
+  v: eating
+  x:
+  - s: Kollega Blokland sade nyss att kärnan i den här frågan ligger i att man sedan
+      <v>äter</v> <p>upp</p> puddingen.
+    t: My colleague, Mr Blokland, just said that the proof of the pudding is in the
+      <a>eating</a>.
+es:
+- c: 3
+  r: 1
+  v: comer
+  x:
+  - s: Det är för värdefullt för att <v>ätas</v> <p>upp</p> av mal.
+    t: es demasiado valioso para que se lo <a>coman</a> las polillas.
+  - s: Är det verkligen så förståndigt att först utfodra grisar med vegetabilisk föda
+      lämplig för mänsklig konsumtion, och sedan <v>äta</v> <p>upp</p> dessa grisar
+      när köttet från dessa djur har lägre näringsvärde än den ursprungliga produkten?
+    t: ¿Es razonable alimentar deliberadamente con vegetales a los cerdos y luego
+      <a>comernos</a> los cerdos, teniendo en cuenta que la carne de esos animales
+      tiene un valor nutritivo menor que el producto original?
+  - s: Endast få människor har vid närmare eftertanke verkligen något emot resistensodling
+      genom genteknisk modifiering av majs, om man därigenom kan hålla undan insekter
+      som kan <v>äta</v> <p>upp</p> majsen.
+    t: Si recapacitan a fondo, sólo pocos tienen realmente algo en contra de una selección
+      de resistencia mediante modificaciones genéticas en el maíz si de este modo
+      se mantiene alejado el insecto que se lo puede <a>comer</a>.
+- c: 3
+  r: 1
+  v: absorber
+  x:
+  - s: Därför gläder det mig mycket att vår föredragande James Elles har sagt att
+      vi vill finansiera fler program och mindre administration, även om kommissionen
+      fortfarande måste visa att den kan sköta programmen ordentligt och att allt
+      detta inte kommer att <v>ätas</v> <p>upp</p> av administrationskostnader.
+    t: Por ese motivo estoy encantado de que nuestro ponente, el señor Elles, haya
+      dicho que queremos financiar más programas y menos administración, aunque lo
+      que la Comisión todavía tiene que hacer es demostrar que es capaz de aplicar
+      los programas como es debido y que todo esto no será <a>absorbido</a> por los
+      costes administrativos.
+  - s: En sådan signal skulle minska rädslan i Tjeckien, och den energi som nu <v>äts</v>
+      <p>upp</p> av rädslan kan utnyttjas produktivt i förberedelserna inför en tjeckisk
+      anslutning till EU 2004.
+    t: Si llegase esa señal, disminuirían los temores en la República checa y las
+      energías que actualmente <a>absorben</a> tales temores se podrían utilizar productivamente
+      en los preparativos de la República Checa para la adhesión a la UE en el 2004.
+  - s: Alla medlemsstater försöker göra nedskärningar i sina nationella budgetar och
+      ändå fortsätter EU:s budget att utökas, vilket <v>äter</v> <p>upp</p> medlemsstaternas
+      besparingar.
+    t: Todos nuestros Estados miembros están pensando en reducir sus presupuestos
+      nacionales y sin embargo el presupuesto de la Unión Europea sigue aumentando,
+      <a>absorbiendo</a> sus ahorros.
+- c: 1
+  r: 2
+  v: reducir
+  x:
+  - s: Europeiska centralbanken (ECB) uppmanar till återhållsamhet för de arbetstagare
+      vars köpkraft ständigt <v>äts</v> <p>upp</p> av ökade priser på energi och livsmedel.
+    t: Se avecina la recesión, el BCE insta a la moderación a los trabajadores cuyo
+      poder adquisitivo se <a>reduce</a> constantemente por el incremento de los precios
+      de los alimentos y la energía.
+- c: 1
+  r: 2
+  v: pastel-disparate
+  x:
+  - s: Man kan inte båda ha kakan och <v>äta</v> <p>upp</p> den genom att förneka
+      att det finns en sådan inneboende flexibilitet i fördraget.
+    t: No se puede guardar el <a>pastel-disparate</a> y al mismo tiempo comérselo
+      simplemente negando que el Tratado ofrece esa flexibilidad.
+- c: 1
+  r: 2
+  v: mermar
+  x:
+  - s: '? Framför allt, vågar de hindra dessa bolag från att orsaka skada genom att
+      tvinga dem att införa förebyggande åtgärder, även om dessa <v>äter</v> <p>upp</p>
+      en del av vinsterna?'
+    t: Sobre todo, ¿se atreverán a impedirles causar daños obligándoles a tomar medidas
+      de precaución aunque <a>mermen</a> sus beneficios?
+- c: 1
+  r: 2
+  v: estar reponer
+  x:
+  - s: Vägtransporterna - bilarna - ger en oerhört allvarlig nettopåverkan på miljön,
+      så mycket att dessa i sig själva <v>äter</v> <p>upp</p>, och alltså ökar, alla
+      minskningar vi gör inom andra industriella områden av växthusgasutsläppen.
+    t: El hecho es que los transportes rodados por carretera —los automóviles— producen
+      un impacto medioambiental neto y gravísimo, hasta tal punto que ellos solos
+      <a>están</a> <a>reponiendo</a> y, por tanto, aumentando, lo que en el resto
+      de las áreas industriales estamos ahorrando en gases de efecto invernadero.
+- c: 1
+  r: 2
+  v: engullido
+  x:
+  - s: Men hur kan det då komma sig att den ökade produktionen och den ökade konsumtionen
+      har ”<v>ätit</v> <p>upp</p>” alla de miljöinsatser som vi faktiskt hittills
+      har gjort och det som görs?
+    t: Pero, ¿cómo es posible entonces que la mayor producción y el mayor consumo
+      hayan «<a>engullido</a>» todos los esfuerzos medioambientales que hemos realizado
+      y los que se están realizando?
+- c: 1
+  r: 2
+  v: engordar
+  x:
+  - s: Den lämnar sedan älvarna och flyttar ut i Östersjön för att <v>äta</v> <p>upp</p>
+      sig.
+    t: Los salmones nacen en los ríos del Norte de Suecia y posteriormente los abandonan
+      internándose en el mar Báltico, donde crecen y <a>engordan</a>.
+- c: 1
+  r: 2
+  v: devorado
+  x:
+  - s: Hittills har de förbättringar som gjorts <v>ätits</v> <p>upp</p> av den ökade
+      produktionen och konsumtionen.
+    t: Hasta ahora, las mejoras han sido <a>devoradas</a> por la mayor producción
+      y el aumento del consumo.
+- c: 1
+  r: 2
+  v: desvanecer
+  x:
+  - s: Vad skulle hända om framtida pensionärers långsiktiga sparande <v>åts</v> <p>upp</p>
+      i en krasch till följd av vågade investeringar?
+    t: ¿Qué ocurriría si el ahorro a largo plazo de los futuros jubilados se <a>desvaneciera</a>
+      en inversiones arriesgadas?
+- c: 1
+  r: 2
+  v: consumir
+  x:
+  - s: Nederländerna producerar mycket mer kött än vad nederländarna själva kan <v>äta</v>
+      <p>upp</p>.
+    t: Los Países Bajos producen mucha más carne de la que su propia población puede
+      <a>consumir</a>.
+- c: 1
+  r: 2
+  v: tomarse
+  x:
+  - s: Jag skulle framför allt ha önskat att ni inte måste <v>äta</v> <p>upp</p> den
+      soppa som möjligen andra har kokat ihop.
+    t: Yo habría deseado, sobre todo que ustedes no tuvieran que <a>tomarse</a> una
+      sopa que, eventualmente, otros condimentaron.
+- c: 1
+  r: 2
+  v: ser absorber
+  x:
+  - s: Innovationerna får inte <v>ätas</v> <p>upp</p> av forskningen.
+    t: La innovación no debe <a>ser</a> <a>absorbida</a> por la investigación.
+- c: 1
+  r: 2
+  v: comerselo
+  x:
+  - s: Producenter och återförsäljare kommer att <v>äta</v> <p>upp</p> allt.
+    t: El procesado y la venta a l por menor acabarán por <a>comerselo</a> todo.
+- c: 1
+  r: 2
+  v: comprobáramo consumir
+  x:
+  - s: Saken är den att en stor del av de mål som eftersträvas med Europeiska året
+      skulle misslyckas om det i slutändan visade sig att dessa resurser till stor
+      del hade <v>ätits</v> <p>upp</p> av ’utredningar och rapporter’.
+    t: La verdad es que buena parte de los objetivos perseguidos con el Año Europeo
+      resultarían frustrados, si, al final, <a>comprobáramos</a> que se habían <a>consumido</a>
+      en gran parte dichos recursos en más «exámenes y estudios».
+- c: 1
+  r: 2
+  v: volver
+  x:
+  - s: Bortsett från hälsoproblemen dignar skogsvegetationen, skördarna och sårbara
+      ekosystem under oavbruten förgiftning, och vårt dyrbara europeiska kulturarv
+      - byggnader och monument som har stått i århundraden - <v>äts</v> <p>upp</p>
+      av aggressiva kemikalier i luften.
+    t: Lo que se ve entonces son árboles que crecen de modos extraños, ramas sin vida,
+      lagos tan claros como piscinas y carentes de vida, flores que desaparecen para
+      nunca más <a>volver</a>, insectos y mariscos que han encontrado el mismo destino
+      y peces que ya no son capaces de reproducirse.
+fr:
+- c: 3
+  r: 1
+  v: engloutir
+  x:
+  - s: Det kan lätt bli så att de vinster man gör i form av ökad effektivitet <v>äts</v>
+      <p>upp</p> av ökade administrativa kostnader.
+    t: D’une façon générale, il faut user d’une grande circonspection face aux projets
+      de réglementation trop détaillés, qui fixent, comme c’est par exemple le cas
+      ici, le montant des taxes, les délais, etc. Car les gains obtenus en terme d’efficacité
+      peuvent se trouver rapidement <a>engloutis</a> par les coûts administratifs.
+  - s: Det finns tyvärr en tendens, när energin blir billigare genom effektiviseringar,
+      att sparandet <v>äts</v> <p>upp</p> genom en s.k. rebound-effekt, dvs. vi ökar
+      efterfrågan.
+    t: On constate malheureusement un phénomène qui veut que lorsque le prix de l’énergie
+      baisse, grâce à des efforts dans le sens de la rentabilité, l’économie ainsi
+      obtenue est <a>engloutie</a> par ce qu’on appelle un effet de rebound, c’est-à-dire
+      que la demande augmente.
+  - s: Vad skulle hända om framtida pensionärers långsiktiga sparande <v>åts</v> <p>upp</p>
+      i en krasch till följd av vågade investeringar?
+    t: Qu’arriverait-il si l’épargne à long terme des futurs retraités était <a>engloutie</a>
+      dans le crash d’investissements risqués ?
+- c: 3
+  r: 1
+  v: manger
+  x:
+  - s: hur de, frusna som de var den långa vintern 1992, värmde sig genom att bränna
+      däck och plastflaskor, och hur kropparna av dem som dött av svält och köld <v>åts</v>
+      <p>upp</p> av hundar.
+    t: et comment les corps de ceux qui mourraient de faim et de froid étaient <a>mangés</a>
+      par les chiens.
+  - s: Vargen <v>åt</v> <p>upp</p> alla fåren.
+    t: Et le loup <a>mangea</a> tous les moutons.
+  - s: Att ha en marin strategi som inte fokuserar på fisk är som att fylla en guldfiskskål
+      med rent vatten efter att katten redan har <v>ätit</v> <p>upp</p> guldfisken!
+    t: Monsieur le Président, élaborer une stratégie marine sans se concentrer sur
+      le poisson, c’est comme changer l’eau du bocal d’un poisson rouge après que
+      le chat l’a <a>mangé</a> !
+- c: 3
+  r: 1
+  v: absorber
+  x:
+  - s: Därför gläder det mig mycket att vår föredragande James Elles har sagt att
+      vi vill finansiera fler program och mindre administration, även om kommissionen
+      fortfarande måste visa att den kan sköta programmen ordentligt och att allt
+      detta inte kommer att <v>ätas</v> <p>upp</p> av administrationskostnader.
+    t: Par conséquent, je me félicite des paroles de notre rapporteur, M. Elles, lequel
+      a déclaré que nous voulions financer davantage de programmes et moins d’administration,
+      bien qu’il incombe encore à la Commission de démontrer qu’elle est capable de
+      gérer des programmes de façon correcte et que tout cet argent ne sera pas <a>absorbé</a>
+      par les coûts administratifs.
+  - s: Den gränslösa öppningen för den offentliga upphandlingen leder endast till
+      att de små leverantörerna runtom i världen <v>äts</v> <p>upp</p> av de stora.
+    t: L’ouverture des frontières dans le domaine des marchés publics conduit uniquement
+      à ce que les grands <a>absorbent</a> les petits fournisseurs à l’échelle mondiale.
+  - s: Alla medlemsstater försöker göra nedskärningar i sina nationella budgetar och
+      ändå fortsätter EU:s budget att utökas, vilket <v>äter</v> <p>upp</p> medlemsstaternas
+      besparingar.
+    t: Tous les États membres cherchent à réduire leur budget national et pourtant,
+      le budget de l’Union européenne ne cesse d’augmenter, <a>absorbant</a> leurs
+      économies.
+- c: 2
+  r: 2
+  v: consommer
+  x:
+  - s: Nederländerna producerar mycket mer kött än vad nederländarna själva kan <v>äta</v>
+      <p>upp</p>.
+    t: Les Pays-Bas produisent bien plus de viande que les Néerlandais peuvent en
+      <a>consommer</a> eux-mêmes.
+  - s: Vegetabiliska produkter, som människor tidigare åt direkt, matar man nu grisarna
+      med, och de grisarna <v>äts</v> sedan <p>upp</p> av människor.
+    t: Les produits végétaux, qui étaient autrefois <a>consommés</a> directement par
+      l’homme, ont été donnés en pâture aux porcs, qui étaient ensuite mangés par
+      l’homme.
+- c: 2
+  r: 2
+  v: être engloutir
+  x:
+  - s: Innovationerna får inte <v>ätas</v> <p>upp</p> av forskningen.
+    t: L’innovation ne doit pas <a>être</a> <a>engloutie</a> par la recherche.
+  - s: Hittills har de förbättringar som gjorts <v>ätits</v> <p>upp</p> av den ökade
+      produktionen och konsumtionen.
+    t: Jusqu’à présent, les améliorations obtenues ont <a>été</a> <a>englouties</a>
+      par l’augmentation de la production et de la consommation.
+- c: 1
+  r: 3
+  v: avaler
+  x:
+  - s: Men hur kan det då komma sig att den ökade produktionen och den ökade konsumtionen
+      har ”<v>ätit</v> <p>upp</p>” alla de miljöinsatser som vi faktiskt hittills
+      har gjort och det som görs?
+    t: Mais comment se fait-il que l’accroissement de la production et de la consommation
+      aient «<a>avalé</a>» tous les efforts environnementaux que nous avons fournis
+      jusqu’ici et ceux que nous fournissons maintenant ?
+- c: 1
+  r: 3
+  v: être laisser
+  x:
+  - s: Det är för värdefullt för att <v>ätas</v> <p>upp</p> av mal.
+    t: Il est trop précieux pour <a>être</a> <a>laissé</a> aux mites.
+- c: 1
+  r: 3
+  v: être neutraliser
+  x:
+  - s: Vi ser exempelvis positivt på förslaget om höjning av bidraget och det särskilda
+      stödet vilka inte har höjts sedan 1993 med följd att de har <v>ätits</v> <p>upp</p>
+      av inflationen.
+    t: Ainsi, nous trouvons positive la proposition visant à augmenter la prime et
+      l’aide spéciale, qui ne l’ont pas été depuis 1993, ce qui a eu comme conséquence
+      qu’elles ont <a>été</a> <a>neutralisées</a> par l’inflation.
+- c: 1
+  r: 3
+  v: grignoter
+  x:
+  - s: Jag tror att det egentligen är det mest negativa system som vi har här i Europa
+      eftersom det, under uppbyggandet av en pension, delvis <v>äts</v> <p>upp</p>
+      av skatter och det är alltså riktigt ätande och kanske underskattas det ibland.
+    t: Je pense qu’il est en fait le système le plus négatif que nous connaissions
+      en Europe, car l’impôt <a>grignote</a> la pension pendant sa constitution ;
+- c: 1
+  r: 3
+  v: grignoter manger
+  x:
+  - s: Gå framåt, förvisso, se till att våra rättigheter drivs framåt, men det skulle
+      till att börja med inte vara så illa om man avstod från att backa, eftersom
+      invandrarnas rättigheter i våra länder hela tiden naggas i kanten och <v>äts</v>
+      <p>upp</p>.
+    t: Avancer, certainement, faire avancer ces droits, mais déjà ce ne serait pas
+      mal si on s’abstenait de reculer, car, dans nos pays, le droit des étrangers,
+      en particulier, est petit à petit <a>grignoté</a>, <a>mangé</a>, et aujourd’hui
+      défendre le droit des étrangers sur notre territoire fait partie de cette bataille
+      pour les droits de l’homme.
+- c: 1
+  r: 3
+  v: ingurgiter
+  x:
+  - s: Vilket slags dialog har vi med USA, där 25 procent av spannmålet <v>äts</v>
+      <p>upp</p> av bilar snarare än av boskap?
+    t: Quelle sorte de dialogue entretenons-nous avec les États-Unis, où 25 % des
+      céréales produites sont <a>ingurgités</a> par leurs voitures plutôt que leur
+      bétail ?
+- c: 1
+  r: 3
+  v: ouvrir
+  x:
+  - s: Föredraganden vill nästa år till och med <v>äta</v> <p>upp</p> den reservoaren
+      på en gång!
+    t: Or, le rapporteur entend <a>ouvrir</a> d’un seul coup les vannes du lac de
+      retenue l’an prochain !
+- c: 1
+  r: 3
+  v: rebattre
+  x:
+  - s: För att säga det i klartext, revisionsrätten säger i likhet med föredragande
+      Lehne eller också i likhet med EG-domstolen att det ögonblick då vi beslutar
+      om kommissionsförslaget kommer vi att få <v>äta</v> <p>upp</p> tillämpningsbestämmelserna
+      och i slutändan bara använda bestämmelserna i tjänsteföreskrifterna för tjänstemän
+      och övriga anställda.
+    t: En clair, à l’instar du rapporteur Lehne ou aussi de la Cour de justice des
+      Communautés européennes, la Cour des comptes déclare qu’au moment où nous traiterons
+      la proposition de la Commission, on nous <a>rebattra</a> les oreilles avec les
+      dispositions d’exécution et on appliquera finalement uniquement les dispositions
+      du statut sur les fonctionnaires et autres agents.
+- c: 1
+  r: 3
+  v: goûter
+  x:
+  - s: Kollega Blokland sade nyss att kärnan i den här frågan ligger i att man sedan
+      <v>äter</v> <p>upp</p> puddingen.
+    t: Mon collègue M. Blokland vient de dire que «c’est en <a>goûtant</a> que l’on
+      sait si c’est bon».
+- c: 1
+  r: 3
+  v: beurre
+  x:
+  - s: Vi kan inte både ha kvar kakan och <v>äta</v> <p>upp</p> den - vi kan inte
+      göra nedskärningar och samtidigt satsa på infrastruktur.
+    t: Union européenne, parlements nationaux, gouvernements, pour chercher ensemble
+      la façon de solidariser nos dépenses et nos façons de travailler budgétairement,
+      parce qu’on ne peut pas à la fois vouloir le beurre et l’argent du <a>beurre</a>,
+      c’est-à-dire à la fois le rabais et, en même temps, les dépenses dans les infrastructures.
+- c: 1
+  r: 3
+  v: écorner
+  x:
+  - s: '? Framför allt, vågar de hindra dessa bolag från att orsaka skada genom att
+      tvinga dem att införa förebyggande åtgärder, även om dessa <v>äter</v> <p>upp</p>
+      en del av vinsterna?'
+    t: Oseront-elles, surtout, les empêcher de nuire en les contraignant à prendre
+      les mesures de précaution, quitte à ce qu’elles <a>écornent</a> leurs profits
+      ?
+- c: 1
+  r: 3
+  v: espèce
+  x:
+  - s: Bortsett från hälsoproblemen dignar skogsvegetationen, skördarna och sårbara
+      ekosystem under oavbruten förgiftning, och vårt dyrbara europeiska kulturarv
+      - byggnader och monument som har stått i århundraden - <v>äts</v> <p>upp</p>
+      av aggressiva kemikalier i luften.
+    t: des arbres présentent une croissance aberrante, des sapins meurent, des lacs
+      deviennent aussi transparents que des piscines mais se vident de toute forme
+      de vie, des <a>espèces</a> de fleurs disparaissent à jamais, des insectes et
+      des crustacés connaissent le même destin, des poissons ne parviennent plus à
+      se reproduire.
+it:
+- c: 3
+  r: 1
+  v: consumare
+  x:
+  - s: Saken är den att en stor del av de mål som eftersträvas med Europeiska året
+      skulle misslyckas om det i slutändan visade sig att dessa resurser till stor
+      del hade <v>ätits</v> <p>upp</p> av ’utredningar och rapporter’.
+    t: In verità, buona parte degli obiettivi perseguiti con l’Anno europeo sarebbe
+      vanificata se alla fine dovessimo constatare che quelle risorse sono state <a>consumate</a>
+      soprattutto per ulteriori ’indagini e studi?
+  - s: Gå framåt, förvisso, se till att våra rättigheter drivs framåt, men det skulle
+      till att börja med inte vara så illa om man avstod från att backa, eftersom
+      invandrarnas rättigheter i våra länder hela tiden naggas i kanten och <v>äts</v>
+      <p>upp</p>.
+    t: Progredire, certamente, far progredire questi diritti, ma già non sarebbe male
+      se ci si astenesse dall’arretrare, in quanto, nei nostri paesi, il diritto degli
+      stranieri, in particolare, viene rosicchiato, <a>consumato</a>, a poco a poco,
+      e oggi difendere il diritto degli stranieri sul nostro territorio fa parte di
+      questa battaglia per i diritti dell’uomo.
+  - s: Nederländerna producerar mycket mer kött än vad nederländarna själva kan <v>äta</v>
+      <p>upp</p>.
+    t: I Paesi Bassi producono più carne di quanta gli olandesi possano <a>consumare</a>.
+- c: 2
+  r: 2
+  v: assorbire
+  x:
+  - s: Därför gläder det mig mycket att vår föredragande James Elles har sagt att
+      vi vill finansiera fler program och mindre administration, även om kommissionen
+      fortfarande måste visa att den kan sköta programmen ordentligt och att allt
+      detta inte kommer att <v>ätas</v> <p>upp</p> av administrationskostnader.
+    t: La Commissione in tal senso deve anche dimostrare di poter realizzare i programmi
+      correttamente senza che tutto sia <a>assorbito</a> dai costi di amministrazione.
+  - s: Dessutom kommer det senaste IMF-stödet att <v>ätas</v> <p>upp</p> av Rysslands
+      räntebetalningar och amorteringar till IMF.
+    t: Gli ultimi fondi forniti dal FMI verranno <a>assorbiti</a> dagli interessi
+      che la Russia deve pagare al FMI;
+- c: 2
+  r: 2
+  v: mangiare
+  x:
+  - s: I annat fall förvandlas vår inre marknad till en dödsbringande damm där de
+      stora fiskarna <v>äter</v> <p>upp</p> de små och därefter troligen varandra.
+    t: Altrimenti, il nostro mercato interno libero diventerà una pozza stagnante
+      dove i pesci grandi <a>mangeranno</a> quelli piccoli e poi probabilmente si
+      mangeranno tra loro.
+  - s: Är det verkligen så förståndigt att först utfodra grisar med vegetabilisk föda
+      lämplig för mänsklig konsumtion, och sedan <v>äta</v> <p>upp</p> dessa grisar
+      när köttet från dessa djur har lägre näringsvärde än den ursprungliga produkten?
+    t: È ragionevole che noi alimentiamo deliberatamente con sostanze vegetali i suini
+      e poi <a>mangiamo</a> questi suini, ricordando che la carne di questi animali
+      ha un valore nutritivo inferiore rispetto al prodotto originale?
+- c: 2
+  r: 2
+  v: divorare
+  x:
+  - s: Vilket slags dialog har vi med USA, där 25 procent av spannmålet <v>äts</v>
+      <p>upp</p> av bilar snarare än av boskap?
+    t: Qualche genere di dialogo abbiamo con gli USA, dove il 25 per cento del granoturco
+      è <a>divorato</a> dalle automobili anziché dal bestiame?
+  - s: Hittills har de förbättringar som gjorts <v>ätits</v> <p>upp</p> av den ökade
+      produktionen och konsumtionen.
+    t: Sin qui, i miglioramenti ottenuti sono stati <a>divorati</a> dall’incremento
+      della produzione e dei consumi.
+- c: 1
+  r: 3
+  v: azzerare
+  x:
+  - s: Vi ser exempelvis positivt på förslaget om höjning av bidraget och det särskilda
+      stödet vilka inte har höjts sedan 1993 med följd att de har <v>ätits</v> <p>upp</p>
+      av inflationen.
+    t: Ad esempio, consideriamo positiva la proposta di aumentare il premio e l’aiuto
+      speciale, mai incrementati dal 1993 ad oggi e quindi <a>azzerati</a> dall’inflazione.
+- c: 1
+  r: 3
+  v: vanificare
+  x:
+  - s: Men hur kan det då komma sig att den ökade produktionen och den ökade konsumtionen
+      har ”<v>ätit</v> <p>upp</p>” alla de miljöinsatser som vi faktiskt hittills
+      har gjort och det som görs?
+    t: Ma allora perché l’aumento della produzione e dei consumi ha <a>vanificato</a>
+      tutti gli interventi per l’ambiente sin qui attuati - e che sono attuati tuttora?
+- c: 1
+  r: 3
+  v: venire corrodere
+  x:
+  - s: Bortsett från hälsoproblemen dignar skogsvegetationen, skördarna och sårbara
+      ekosystem under oavbruten förgiftning, och vårt dyrbara europeiska kulturarv
+      - byggnader och monument som har stått i århundraden - <v>äts</v> <p>upp</p>
+      av aggressiva kemikalier i luften.
+    t: Problemi sanitari a parte, la vegetazione nelle foreste, le coltivazioni e
+      gli ecosistemi vulnerabili soccombono sempre di più al costante avvelenamento
+      e il nostro prezioso patrimonio culturale europeo - edifici e monumenti che
+      hanno retto il trascorrere dei secoli - <a>vengono</a> <a>corrosi</a> dagli
+      agenti chimici aggressivi contenuti nell’aria.
+- c: 1
+  r: 3
+  v: venire sprecare
+  x:
+  - s: Rikedomarna <v>äts</v> <p>upp</p> av korruptionen och dåligt styre gör resten.
+    t: La sua ricchezza <a>viene</a> <a>sprecata</a> dalla corruzione, e la cattiva
+      amministrazione fa il resto.
+- c: 1
+  r: 3
+  v: sopprimere
+  x:
+  - s: Man måste alltså hitta sådana nya tjänster som skapar arbetstillfällen och
+      mervärde, men som inte <v>äter</v> <p>upp</p> andra arbetstillfällen.
+    t: È pertanto necessario trovare nuovi servizi che creino, e non <a>sopprimano</a>,
+      posti di lavoro e valore aggiunto.
+- c: 1
+  r: 3
+  v: venire divorare
+  x:
+  - s: Jag tror att det egentligen är det mest negativa system som vi har här i Europa
+      eftersom det, under uppbyggandet av en pension, delvis <v>äts</v> <p>upp</p>
+      av skatter och det är alltså riktigt ätande och kanske underskattas det ibland.
+    t: Invece, in realtà rappresenta, a mio avviso, il sistema più negativo che esista
+      in Europa perché in un sistema di questo tipo la pensione <a>viene</a> divorata
+      dal fisco già durante il processo di costituzione e allora si può veramente
+      parlare qui di mangiare o meglio <a>divorare</a> nel vero senso della parola,
+      un aspetto questo che viene talvolta sottovalutato.
+- c: 1
+  r: 3
+  v: assaggiare
+  x:
+  - s: Kollega Blokland sade nyss att kärnan i den här frågan ligger i att man sedan
+      <v>äter</v> <p>upp</p> puddingen.
+    t: L’onorevole Blokland ha appena osservato che per provare la torta bisogna <a>assaggiarla</a>;
+- c: 1
+  r: 3
+  v: assideramento mangiare
+  x:
+  - s: hur de, frusna som de var den långa vintern 1992, värmde sig genom att bränna
+      däck och plastflaskor, och hur kropparna av dem som dött av svält och köld <v>åts</v>
+      <p>upp</p> av hundar.
+    t: di come, assiderati nel lungo inverno del 1992, si riscaldavano bruciando pneumatici
+      e bottiglie di plastica e di come i corpi dei morti per denutrizione e per <a>assideramento</a>
+      venivano <a>mangiati</a> dai cani.
+pt:
+- c: 4
+  r: 1
+  v: comer
+  x:
+  - s: Kollega Blokland sade nyss att kärnan i den här frågan ligger i att man sedan
+      <v>äter</v> <p>upp</p> puddingen.
+    t: O meu colega, senhor deputado Blokland, acabou de referir que, por assim dizer,
+      para saber se se gosta, tem de se <a>comer</a>.
+  - s: Men hur kan det då komma sig att den ökade produktionen och den ökade konsumtionen
+      har ”<v>ätit</v> <p>upp</p>” alla de miljöinsatser som vi faktiskt hittills
+      har gjort och det som görs?
+    t: Como foi, então, que o aumento da produção e o aumento do consumo «<a>comeram</a>»
+      todos os esforços de protecção do ambiente que temos feito até agora?
+  - s: I annat fall förvandlas vår inre marknad till en dödsbringande damm där de
+      stora fiskarna <v>äter</v> <p>upp</p> de små och därefter troligen varandra.
+    t: De outro modo, o nosso mercado interno livre tornar-se-á num lago mortífero
+      onde os peixes grandes comerão os pequenos e depois, provavelmente, <a>comer</a><a>-se</a>-ão
+      uns aos outros.
+  - s: Nyligen tog hunden en korv från matbordet och <v>åt</v> <p>upp</p> den.
+    t: Há pouco tempo, o meu cão tirou uma salsicha da mesa e <a>comeu</a>-a.
+  - s: Vargen <v>åt</v> <p>upp</p> alla fåren.
+    t: O lobo <a>comeu</a> todas as ovelhinhas.
+- c: 3
+  r: 2
+  v: consumir
+  x:
+  - s: I mitt distrikt Coimbra, som är det värst drabbade, har lågorna <v>ätit</v>
+      <p>upp</p> 32 km2 enbart i kommunen Pampilhosa da Serra, och endast 8 km2 skog
+      återstod.
+    t: No meu distrito de Coimbra, o mais atingido, as chamas <a>consumiram</a>, só
+      no concelho da Pampilhosa da Serra, 32 Km2, restando tão só e apenas 8 Km2 de
+      floresta.
+  - s: Nederländerna producerar mycket mer kött än vad nederländarna själva kan <v>äta</v>
+      <p>upp</p>.
+    t: Os Países Baixos produzem muito mais carne do que a que sua própria população
+      consegue <a>consumir</a>.
+  - s: Vegetabiliska produkter, som människor tidigare åt direkt, matar man nu grisarna
+      med, och de grisarna <v>äts</v> sedan <p>upp</p> av människor.
+    t: Os produtos de origem vegetal, que no passado eram <a>consumidos</a> directamente
+      pelas pessoas, eram dados aos suínos que, por sua vez, eram comidos pelas pessoas.
+- c: 2
+  r: 3
+  v: devorar
+  x:
+  - s: Det är för värdefullt för att <v>ätas</v> <p>upp</p> av mal.
+    t: É demasiado valioso para ser <a>devorado</a> pelas traças.
+  - s: hur de, frusna som de var den långa vintern 1992, värmde sig genom att bränna
+      däck och plastflaskor, och hur kropparna av dem som dött av svält och köld <v>åts</v>
+      <p>upp</p> av hundar.
+    t: e que os corpos dos que morriam de fome e de frio eram <a>devorados</a> pelos
+      cães.
+- c: 2
+  r: 3
+  v: absorver
+  x:
+  - s: Hittills har de förbättringar som gjorts <v>ätits</v> <p>upp</p> av den ökade
+      produktionen och konsumtionen.
+    t: Até agora, as melhorias alcançadas têm sido <a>absorvidas</a> pelo aumento
+      da produção e do consumo.
+  - s: Producenter och återförsäljare kommer att <v>äta</v> <p>upp</p> allt.
+    t: Os transformadores e os retalhistas vão <a>absorver</a> tudo.
+- c: 1
+  r: 4
+  v: desaparecer
+  x:
+  - s: Vad skulle hända om framtida pensionärers långsiktiga sparande <v>åts</v> <p>upp</p>
+      i en krasch till följd av vågade investeringar?
+    t: O que aconteceria se a poupança a longo prazo dos futuros reformados <a>desaparecesse</a>
+      no crash de investimentos de risco?
+- c: 1
+  r: 4
+  v: destruir
+  x:
+  - s: Man måste alltså hitta sådana nya tjänster som skapar arbetstillfällen och
+      mervärde, men som inte <v>äter</v> <p>upp</p> andra arbetstillfällen.
+    t: Então, há que encontrar novos serviços que criem emprego e mais valia, sem
+      <a>destruir</a> outros empregos.
+- c: 1
+  r: 4
+  v: esgotar
+  x:
+  - s: Föredraganden vill nästa år till och med <v>äta</v> <p>upp</p> den reservoaren
+      på en gång!
+    t: No próximo ano, a relatora pretende inclusivamente <a>esgotar</a> de uma só
+      vez esse saldo!
+- c: 1
+  r: 4
+  v: estar repor
+  x:
+  - s: Vägtransporterna - bilarna - ger en oerhört allvarlig nettopåverkan på miljön,
+      så mycket att dessa i sig själva <v>äter</v> <p>upp</p>, och alltså ökar, alla
+      minskningar vi gör inom andra industriella områden av växthusgasutsläppen.
+    t: Eu penso que esta é uma das bases que justificam a tarifação, pois, como sabem,
+      os transportes rodoviários, isto é, os automóveis, têm um impacto ambiental
+      claro e gravíssimo, a ponto de só por si <a>estarem</a> a <a>repor</a>, e, portanto,
+      a aumentar, o que nas restantes áreas industriais estamos a evitar, em termos
+      de gases com efeito de estufa.
+- c: 1
+  r: 4
+  v: impor
+  x:
+  - s: Vilket slags dialog har vi med USA, där 25 procent av spannmålet <v>äts</v>
+      <p>upp</p> av bilar snarare än av boskap?
+    t: Vão reexaminar a continuação da política de contracção <a>imposta</a> à agricultura?
+- c: 1
+  r: 4
+  v: inviabilizar
+  x:
+  - s: Den gränslösa öppningen för den offentliga upphandlingen leder endast till
+      att de små leverantörerna runtom i världen <v>äts</v> <p>upp</p> av de stora.
+    t: A liberalização sem limites dos concursos públicos apenas faz com que, em todo
+      o mundo, as grandes empresas <a>inviabilizem</a> as pequenas empresas.
+- c: 1
+  r: 4
+  v: minar
+  x:
+  - s: Europeiska centralbanken (ECB) uppmanar till återhållsamhet för de arbetstagare
+      vars köpkraft ständigt <v>äts</v> <p>upp</p> av ökade priser på energi och livsmedel.
+    t: o BCE convida os trabalhadores à moderação, enquanto o seu poder de compra
+      vai sendo continuamente <a>minado</a> pelo aumento dos preços da energia e da
+      alimentação.
+- c: 1
+  r: 4
+  v: refinaria
+  x:
+  - s: Det är inte meningsfullt och det gynnar inte jordbrukarna att dessa 1,3 eller
+      1,5 miljarder betalas ut som stöd - det <v>äts</v> <p>upp</p> och gynnar inte
+      jordbruken.
+    t: Na Grécia, o encerramento de <a>refinarias</a> equivale a cidades mortas e,
+      principalmente, cidades mortas em zonas remotas.
+- c: 1
+  r: 4
+  v: ser abafar
+  x:
+  - s: Innovationerna får inte <v>ätas</v> <p>upp</p> av forskningen.
+    t: A inovação não pode <a>ser</a> <a>abafada</a> pela investigação.
+- c: 1
+  r: 4
+  v: ser absorver
+  x:
+  - s: Därför gläder det mig mycket att vår föredragande James Elles har sagt att
+      vi vill finansiera fler program och mindre administration, även om kommissionen
+      fortfarande måste visa att den kan sköta programmen ordentligt och att allt
+      detta inte kommer att <v>ätas</v> <p>upp</p> av administrationskostnader.
+    t: Fiquei, por isso, muito satisfeito pelo facto de o nosso relator, senhor deputado
+      Elles, ter sublinhado que queremos financiar mais programas e menos administração,
+      embora a Comissão deva ainda mostrar que é capaz de gerir eficazmente os programas
+      sem que tudo acabe por <a>ser</a> <a>absorvido</a> por custos administrativos.
+- c: 1
+  r: 4
+  v: anular
+  x:
+  - s: Vi ser exempelvis positivt på förslaget om höjning av bidraget och det särskilda
+      stödet vilka inte har höjts sedan 1993 med följd att de har <v>ätits</v> <p>upp</p>
+      av inflationen.
+    t: Por exemplo, consideramos positiva a proposta relativa ao aumento do prémio
+      e da ajuda especial, que não foram aumentados desde 1993, acabando por ser <a>anulados</a>
+      pela inflação.
+- c: 1
+  r: 4
+  v: suprimir
+  x:
+  - s: Man kan inte båda ha kakan och <v>äta</v> <p>upp</p> den genom att förneka
+      att det finns en sådan inneboende flexibilitet i fördraget.
+    t: Não podemos <a>suprimir</a> essa flexibilidade, inerente ao Tratado.
+- c: 1
+  r: 4
+  v: burro
+  x:
+  - s: Han vill både <v>äta</v> <p>upp</p> kakan och ha den kvar.
+    t: Queria o <a>burro</a> e o dinheiro do burro.
+- c: 1
+  r: 4
+  v: comer
+  x:
+  - s: Kollega Blokland sade nyss att kärnan i den här frågan ligger i att man sedan
+      <v>äter</v> <p>upp</p> puddingen.
+    t: O meu colega, senhor deputado Blokland, acabou de referir que, por assim dizer,
+      para saber se se gosta, tem de se <a>comer</a>.
+  - s: Men hur kan det då komma sig att den ökade produktionen och den ökade konsumtionen
+      har ”<v>ätit</v> <p>upp</p>” alla de miljöinsatser som vi faktiskt hittills
+      har gjort och det som görs?
+    t: Como foi, então, que o aumento da produção e o aumento do consumo «<a>comeram</a>»
+      todos os esforços de protecção do ambiente que temos feito até agora?
+  - s: I annat fall förvandlas vår inre marknad till en dödsbringande damm där de
+      stora fiskarna <v>äter</v> <p>upp</p> de små och därefter troligen varandra.
+    t: De outro modo, o nosso mercado interno livre tornar-se-á num lago mortífero
+      onde os peixes grandes comerão os pequenos e depois, provavelmente, <a>comer</a><a>-se</a>-ão
+      uns aos outros.
+  - s: Nyligen tog hunden en korv från matbordet och <v>åt</v> <p>upp</p> den.
+    t: Há pouco tempo, o meu cão tirou uma salsicha da mesa e <a>comeu</a>-a.
+  - s: Vargen <v>åt</v> <p>upp</p> alla fåren.
+    t: O lobo <a>comeu</a> todas as ovelhinhas.

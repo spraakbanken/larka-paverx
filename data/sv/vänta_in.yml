@@ -1,0 +1,72 @@
+---
+de:
+- c: 1
+  r: 1
+  v: erst einmal abwarten
+  x:
+  - s: Jag vill bara rekommendera det isländska folket att <v>vänta</v> <p>in</p>
+      slutresultatet av förhandlingarna innan de intar en ståndpunkt.
+    t: Meine einfache Empfehlung für die isländische Bevölkerung lautet, <a>erst</a>
+      <a>einmal</a> das Endergebnis <a>abzuwarten</a> und erst dann Stellung zu beziehen.
+en:
+- c: 1
+  r: 1
+  v: rely upon materialize
+  x:
+  - s: Jag frågar också om det är någon mening att begära yttranden om de inte kan
+      <v>väntas</v> <p>in</p> och beaktas.
+    t: what is the point of asking for opinions unless they can be <a>relied</a> <a>upon</a>
+      to <a>materialize</a> and taken notice of?
+es:
+- c: 1
+  r: 1
+  v: estar esperar
+  x:
+  - s: Det är inte så att resten av världen <v>väntar</v> <p>in</p> oss.
+    t: Señorías, el resto del mundo no nos <a>está</a> <a>esperando</a>;
+fr:
+- c: 1
+  r: 1
+  v: passer
+  x:
+  - s: Hon var tvungen att <v>vänta</v> <p>in</p> flera fordon innan det rätta fordonet
+      kom, med lågt golv så att hon verkligen kunde komma på fordonet.
+    t: Un de mes amis m’a raconté que, dans un dépôt de bus de Wolverhampton, une
+      femme avec une poussette d’enfant a dû laisser <a>passer</a> plusieurs véhicules
+      avant de voir arriver le bon, c’est-à-dire un véhicule au plancher suffisamment
+      bas pour lui permettre d’y monter.
+- c: 1
+  r: 1
+  v: attendre
+  x:
+  - s: Jag frågar också om det är någon mening att begära yttranden om de inte kan
+      <v>väntas</v> <p>in</p> och beaktas.
+    t: Je pose donc la question de savoir quel intérêt il y a à demander des avis
+      d’autres commissions si on ne peut pas les <a>attendre</a> ni en tenir compte.
+- c: 1
+  r: 1
+  v: attendre pas
+  x:
+  - s: Det är inte så att resten av världen <v>väntar</v> <p>in</p> oss.
+    t: Mesdames et Messieurs les députés, le reste du monde ne nous <a>attend</a>
+      <a>pas</a>.
+it:
+- c: 1
+  r: 1
+  v: attendere
+  x:
+  - s: Hon var tvungen att <v>vänta</v> <p>in</p> flera fordon innan det rätta fordonet
+      kom, med lågt golv så att hon verkligen kunde komma på fordonet.
+    t: Quella donna ha dovuto <a>attendere</a> diversi mezzi prima che arrivasse quello
+      giusto, con il pianale ribassato, in modo da poter salire sull’autobus.
+pt:
+- c: 1
+  r: 1
+  v: deixar passar
+  x:
+  - s: Hon var tvungen att <v>vänta</v> <p>in</p> flera fordon innan det rätta fordonet
+      kom, med lågt golv så att hon verkligen kunde komma på fordonet.
+    t: Um amigo meu contou-me o caso de uma senhora numa central de autocarros em
+      Wolverhampton, com uma criança numa cadeirinha, que teve de <a>deixar</a> <a>passar</a>
+      vários autocarros até que aparecesse um de piso rebaixado para ela poder, de
+      facto, entrar.

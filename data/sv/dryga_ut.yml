@@ -1,0 +1,168 @@
+---
+de:
+- c: 1
+  r: 1
+  v: werden
+  x:
+  - s: För att <v>dryga</v> <p>ut</p> djurfodret till så låg kostnad som möjligt tillsätter
+      man ohälsosamma ämnen.
+    t: Dem Tierfutter <a>werden</a> zur preisgünstigen Streckung ungesunde Stoffe
+      beigemischt.
+- c: 1
+  r: 1
+  v: aufbessern
+  x:
+  - s: När jag stannade för att prata lite med honom, så upptäckte jag att det var
+      en pensionär som försökte <v>dryga</v> <p>ut</p> sin pension med att fånga ett
+      par fiskar.
+    t: Dabei habe ich erfahren, dass er ein Rentner war und seine Rente durch etwas
+      Fischfang <a>aufzubessern</a> versuchte.
+en:
+- c: 2
+  r: 1
+  v: supplement
+  x:
+  - s: När jag stannade för att prata lite med honom, så upptäckte jag att det var
+      en pensionär som försökte <v>dryga</v> <p>ut</p> sin pension med att fånga ett
+      par fiskar.
+    t: I stopped for a chat and learned that he was a pensioner who was trying to
+      catch a few fish to <a>supplement</a> his pension.
+  - s: Det råder stor säkerhet kring att blod från en frivillig och stabil stab av
+      givare bestående av medborgare som gärna ställer sitt blod till förfogande för
+      sina medmänniskor i samhället är av bättre kvalité än det blod man får från
+      människor som vill <v>dryga</v> <p>ut</p> sina inkomster genom att ge blod.
+    t: It is absolutely certain that blood from a voluntary and stable body of donors
+      who readily make their blood available to their fellow members of society is
+      of a better quality than blood obtained from people wishing to <a>supplement</a>
+      their income in this way.
+- c: 1
+  r: 2
+  v: 'off'
+  x:
+  - s: Det är självklart ett utmärkt politiskt alternativ till en sänkning av bidragen
+      och ett bra sätt att snappa åt er några ecu för att <v>dryga</v> <p>ut</p> era
+      inkomster.
+    t: It is evidently an excellent political remedy to the policy of levelling down
+      and a good way of gleaning a few ECUs to round <a>off</a> your month end.
+es:
+- c: 2
+  r: 1
+  v: complementar
+  x:
+  - s: Precis kl. 24.00 hörde jag kommissionär Byrnes säga - det skulle dock kunna
+      vara ett översättningsfel och jag skulle därför gärna vilja höra det igen -
+      att han inte anser att blod från en stabil och frivillig stab av givare, vilket
+      tillämpas i en del medlemsländer, kan sägas vara förknippat med bättre kvalité
+      och högre säkerhet än blod från människor som <v>drygar</v> <p>ut</p> sin inkomst
+      genom att ge blod.
+    t: Precisamente a las 12.00 oí decir al señor Comisario Byrne —pero puede ser
+      un fallo de traducción por lo que me gustaría que lo repitiera— que no cree
+      que haya una mejor calidad y seguridad vinculada a la sangre procedente de un
+      cuerpo de donantes estable y voluntario, tal como sabemos en algunos de los
+      países miembros, frente a la sangre obtenida de individuos que <a>complementan</a>
+      sus ingresos con la donación de sangre.
+  - s: Det råder stor säkerhet kring att blod från en frivillig och stabil stab av
+      givare bestående av medborgare som gärna ställer sitt blod till förfogande för
+      sina medmänniskor i samhället är av bättre kvalité än det blod man får från
+      människor som vill <v>dryga</v> <p>ut</p> sina inkomster genom att ge blod.
+    t: Hay certeza absoluta de que la sangre del cuerpo de donantes voluntarios y
+      estables formado por ciudadanos que gustosamente se ponen con su sangre a disposición
+      del beneficio de su prójimo en la sociedad presenta una mejor calidad que la
+      sangre obtenida de individuos que quieren <a>complementar</a> sus ingresos mediante
+      la donación de sangre.
+- c: 2
+  r: 1
+  v: redondear
+  x:
+  - s: Det är självklart ett utmärkt politiskt alternativ till en sänkning av bidragen
+      och ett bra sätt att snappa åt er några ecu för att <v>dryga</v> <p>ut</p> era
+      inkomster.
+    t: Evidentemente, es un remedio político excelente de nivelación por abajo y un
+      buen medio de sisar algunos ecus para <a>redondear</a> sus fines de mes.
+  - s: När jag stannade för att prata lite med honom, så upptäckte jag att det var
+      en pensionär som försökte <v>dryga</v> <p>ut</p> sin pension med att fånga ett
+      par fiskar.
+    t: Me detuve para charlar con él y me enteré que era un pensionista que trataba
+      de pescar algún pez para <a>redondear</a> su pensión.
+- c: 1
+  r: 2
+  v: aumentar
+  x:
+  - s: För att <v>dryga</v> <p>ut</p> djurfodret till så låg kostnad som möjligt tillsätter
+      man ohälsosamma ämnen.
+    t: Se añaden sustancias nocivas a los piensos para <a>aumentar</a> su volumen
+      a un precio favorable.
+- c: 1
+  r: 2
+  v: histórico
+  x:
+  - s: Under åren har den gemensamma jordbrukspolitiken medfört korruption (som skenbara
+      vinodlingar) och vissa politiker från EU-länder som äger ”jordbruk” har kunnat
+      <v>dryga</v> <p>ut</p> sin inkomst, vilket UKIP är emot.
+    t: El Partido por la Independencia del Reino Unido se opone a la corrupción con
+      la que se ha utilizado <a>históricamente</a> la PAC (por ejemplo, los viñedos
+      fantasma) o la forma en la que se ha utilizado para aumentar los ingresos de
+      ciertos políticos de la UE que son propietarios de «granjas».
+fr:
+- c: 1
+  r: 1
+  v: nocif être mélanger
+  x:
+  - s: För att <v>dryga</v> <p>ut</p> djurfodret till så låg kostnad som möjligt tillsätter
+      man ohälsosamma ämnen.
+    t: Des substances <a>nocives</a> <a>sont</a> <a>mélangées</a> au fourrage afin
+      de diminuer les coûts.
+- c: 1
+  r: 1
+  v: suppléer
+  x:
+  - s: Precis kl. 24.00 hörde jag kommissionär Byrnes säga - det skulle dock kunna
+      vara ett översättningsfel och jag skulle därför gärna vilja höra det igen -
+      att han inte anser att blod från en stabil och frivillig stab av givare, vilket
+      tillämpas i en del medlemsländer, kan sägas vara förknippat med bättre kvalité
+      och högre säkerhet än blod från människor som <v>drygar</v> <p>ut</p> sin inkomst
+      genom att ge blod.
+    t: À 24 heures précises, j’ai entendu le commissaire Byrne déclarer - mais peut-être
+      s’agit-il d’une erreur d’interprétation, aussi je souhaiterais qu’il le répète
+      - que, selon lui, le sang provenant d’un corps de donneurs stable et bénévole,
+      à l’instar des corps qui existent dans certains États membres, n’est pas de
+      meilleure qualité et ne garantit pas une plus grande sécurité que le sang provenant
+      de personnes qui <a>suppléent</a> leurs revenus en donnant du sang.
+it:
+- c: 1
+  r: 1
+  v: venire
+  x:
+  - s: För att <v>dryga</v> <p>ut</p> djurfodret till så låg kostnad som möjligt tillsätter
+      man ohälsosamma ämnen.
+    t: Al mangime per animali <a>vengono</a> aggiunte sostanze tossiche di basso costo.
+- c: 1
+  r: 1
+  v: arrotondare
+  x:
+  - s: När jag stannade för att prata lite med honom, så upptäckte jag att det var
+      en pensionär som försökte <v>dryga</v> <p>ut</p> sin pension med att fånga ett
+      par fiskar.
+    t: Fermatomi a chiacchierare, ho appreso che era un pensionato che, per <a>arrotondare</a>
+      la pensione, cercava di pescare qualche pesce.
+pt:
+- c: 1
+  r: 1
+  v: historicamente
+  x:
+  - s: Under åren har den gemensamma jordbrukspolitiken medfört korruption (som skenbara
+      vinodlingar) och vissa politiker från EU-länder som äger ”jordbruk” har kunnat
+      <v>dryga</v> <p>ut</p> sin inkomst, vilket UKIP är emot.
+    t: O Partido da Independência do Reino Unido opõe-se ao modo como a PAC tem sido
+      <a>historicamente</a> utilizada de formas corruptas (por exemplo, vinhas fantasmas)
+      ou ao modo como é utilizada para aumentar os rendimentos de determinados políticos,
+      em países da UE, que possuem «explorações agrícolas».
+- c: 1
+  r: 1
+  v: arredondar
+  x:
+  - s: När jag stannade för att prata lite med honom, så upptäckte jag att det var
+      en pensionär som försökte <v>dryga</v> <p>ut</p> sin pension med att fånga ett
+      par fiskar.
+    t: Parando para dar dois dedos de conversa, soube que era um reformado que, para
+      <a>arredondar</a> a pensão de reforma, tentava pescar algum peixe.

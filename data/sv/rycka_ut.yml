@@ -1,0 +1,429 @@
+---
+de:
+- c: 2
+  r: 1
+  v: ausrücken
+  x:
+  - s: Det är nu egentligen så att vi reagerar som en by med femton brandkårer som
+      sitter i ändlösa sammanträden innan de <v>rycker</v> <p>ut</p> för att släcka
+      en brand, och då är det inte så konstigt att Förenta staterna passerar oss och
+      ofta redan finns på plats vid ett visst brandområde innan Europa överhuvudtaget
+      har diskuterat klart.
+    t: Praktisch verhält es sich heute so, daß wir wie ein Dorf mit fünfzehn Feuerwehren
+      reagieren, die endlos beraten, bevor sie <a>ausrücken</a>, um einen Brand zu
+      löschen;
+  - s: den europeiska räddningstjänsten måste kunna <v>rycka</v> <p>ut</p> omedelbart
+      vid katastrofer och själva ta sig till platsen.
+    t: Der europäische Zivilschutz muss bei Katastrophen sofort <a>ausrücken</a> können
+      und mit eigener Ausrüstung vor Ort einsatzbereit sein.
+- c: 1
+  r: 2
+  v: werden
+  x:
+  - s: Denna extraction force är inte till för att driva konfliktbevakningsprocessen
+      inom ramen för OSSE, utan det är en trupp för nödsituationer, en trupp som kan
+      <v>rycka</v> <p>ut</p>, om det skulle uppstå en verklig nödsituation för de
+      civila obeväpnade medarbetarna i OSSE.
+    t: Die extraction force ist nicht dazu da, den Prozeß der Konfliktüberwachung
+      im Rahmen der OSZE durchzusetzen, sondern ist eine echte Notfalltruppe, eine
+      Truppe, die vorgehalten <a>wird</a>, falls es zu einem echten Notfall für die
+      zivilen unbewaffneten Mitarbeiterinnen und Mitarbeiter der OSZE kommt.
+- c: 1
+  r: 2
+  v: sein eilen
+  x:
+  - s: Genast <v>ryckte</v> tyska kolleger <p>ut</p> för att hjälpa sina nederländska
+      vänner med det ofta farliga arbete som var nödvändigt för att bekämpa katastrofen.
+    t: Deutsche Kolleginnen und Kollegen <a>sind</a> ihren niederländischen Freunden
+      sofort zu Hilfe <a>geeilt</a>, um die zur Bekämpfung der Katastrophe erforderliche,
+      oft gefährliche Arbeit zu leisten.
+- c: 1
+  r: 2
+  v: unterwegs
+  x:
+  - s: Alla hjälper alla, och frivilliga från brandförsvaret visar en beundransvärd
+      hängivenhet när de <v>rycker</v> <p>ut</p>.
+    t: Jeder hilft jedem, und mit bemerkenswertem Engagement ist die freiwillige Feuerwehr
+      <a>unterwegs</a>.
+- c: 1
+  r: 2
+  v: Friedensmission
+  x:
+  - s: Kofi Annan vill ha en styrka för snabba insatser som kan <v>rycka</v> <p>ut</p>
+      för freden.
+    t: Kofi Annan möchte eine schnelle Eingreiftruppe für <a>Friedensmissionen</a>.
+- c: 1
+  r: 2
+  v: Feuerwehreinsatz
+  x:
+  - s: En annan, minst lika viktig erfarenhet är dock att det är bättre att förekomma
+      en kris än att behöva <v>rycka</v> <p>ut</p> i efterhand.
+    t: Eine weitere, mindestens ebenso wichtige Erfahrung ist jedoch, daß einer Krise
+      vorbeugen wichtiger ist als spätere <a>Feuerwehreinsätze</a>.
+en:
+- c: 2
+  r: 1
+  v: out
+  x:
+  - s: den europeiska räddningstjänsten måste kunna <v>rycka</v> <p>ut</p> omedelbart
+      vid katastrofer och själva ta sig till platsen.
+    t: Secondly, the European civil protection intervention corps must be able to
+      turn <a>out</a> immediately in an emergency and arrive with its own equipment.
+  - s: Att komma överens om en gemensam ståndpunkt verkar vara ett steg för mycket
+      för dem. Det är anmärkningsvärt, eftersom det var rådet självt som bad om att
+      få detta gemensamma ramverk, och dessutom ovanligt, eftersom just rådet omedelbart
+      brukar <v>rycka</v> <p>ut</p> och föreslå alla möjliga regler om något händer,
+      utan att ta hänsyn till förslagens kvalitet, deras konsekvenser för exempelvis
+      den inre marknaden eller för de europeiska medborgarna, vad det anbelangar.
+    t: This is quite remarkable, given the fact that the Council asked for this common
+      framework itself, and <a>out</a> of character too, because, if anything happens,
+      then the Council is all too keen to be the first to immediately announce all
+      manner of rules without really taking the quality of the proposals into account,
+      their ramifications for the internal market, for example, or the European citizens
+      for that matter.
+- c: 1
+  r: 2
+  v: come
+  x:
+  - s: Ja, för bakom en tilltalande titel som antyder att Bryssel kommer att <v>rycka</v>
+      <p>ut</p> och hjälpa dem som drabbas ekonomiskt och socialt av en ohämmad globalisering
+      finner man en krassare verklighet.
+    t: 'Yes, because behind an attractive title suggesting that Brussels is going
+      to <a>come</a> to the aid of the economic and social victims of untrammelled
+      globalisation, one finds a more mundane reality:'
+- c: 1
+  r: 2
+  v: intervene
+  x:
+  - s: Kofi Annan vill ha en styrka för snabba insatser som kan <v>rycka</v> <p>ut</p>
+      för freden.
+    t: Kofi Annan wants a rapid reaction force to <a>intervene</a> for peace.
+- c: 1
+  r: 2
+  v: act
+  x:
+  - s: Denna extraction force är inte till för att driva konfliktbevakningsprocessen
+      inom ramen för OSSE, utan det är en trupp för nödsituationer, en trupp som kan
+      <v>rycka</v> <p>ut</p>, om det skulle uppstå en verklig nödsituation för de
+      civila obeväpnade medarbetarna i OSSE.
+    t: it is a genuine emergency force which will <a>act</a> in the event that the
+      unarmed civilian OSCE personnel face a real emergency.
+- c: 1
+  r: 2
+  v: No. do
+  x:
+  - s: Vi <v>rycker</v> bara <p>ut</p> för att släcka elden i form av punktinsatser,
+      utan en tydlig och bestämd politik i förebyggande syfte - när vi mer än väl
+      vet att svälten i Afrika och i tredje världen brukar uppstå med jämna mellanrum.
+    t: <a>No.</a> All we <a>do</a> is try to put the fire out with occasional aid,
+      without a clear or decisive policy for prevention although we know perfectly
+      well that famine in Africa, and in the third world in general, happens periodically.
+- c: 1
+  r: 2
+  v: notice out
+  x:
+  - s: Genast <v>ryckte</v> tyska kolleger <p>ut</p> för att hjälpa sina nederländska
+      vänner med det ofta farliga arbete som var nödvändigt för att bekämpa katastrofen.
+    t: At a moment’s <a>notice</a>, German colleagues joined forces with their Dutch
+      friends to carry <a>out</a> the frequently dangerous activities which were necessary
+      to control the disaster.
+- c: 1
+  r: 2
+  v: rip out
+  x:
+  - s: Organiserad brottslighet är ett tusenhövdat monster som vi måste <v>rycka</v>
+      <p>ut</p> det finansiella hjärtat och lungorna på.
+    t: Organised crime is a multi-headed monster whose financial heart and lungs need
+      to be <a>ripped</a> <a>out</a>.
+- c: 1
+  r: 2
+  v: rush
+  x:
+  - s: Den ekonomiska krisen började med bankernas verksamhet, men regeringarnas svar
+      har varit att <v>rycka</v> <p>ut</p> för att rädda dem. Vi måste styra bankernas
+      utlåningsverksamhet, det vill säga den inkomstbringande verksamheten.
+    t: The economic crisis started with the activities of the banks, but the response
+      of governments has been to <a>rush</a> to their rescue.
+- c: 1
+  r: 2
+  v: set out
+  x:
+  - s: Alla hjälper alla, och frivilliga från brandförsvaret visar en beundransvärd
+      hängivenhet när de <v>rycker</v> <p>ut</p>.
+    t: In the report, we make reference to the principle of solidarity, which comes
+      into play in villages when the floods come, with everyone helping everyone else,
+      and the volunteers from the fire brigade showing admirable dedication in <a>setting</a>
+      <a>out</a>.
+- c: 1
+  r: 2
+  v: turn out
+  x:
+  - s: Det är nu egentligen så att vi reagerar som en by med femton brandkårer som
+      sitter i ändlösa sammanträden innan de <v>rycker</v> <p>ut</p> för att släcka
+      en brand, och då är det inte så konstigt att Förenta staterna passerar oss och
+      ofta redan finns på plats vid ett visst brandområde innan Europa överhuvudtaget
+      har diskuterat klart.
+    t: We still tend to react like a village with 15 fire brigades, which have to
+      hold endless meetings before they <a>turn</a> <a>out</a> to a fire, so it is
+      not surprising that the United States often gets to the fire first, before we
+      have even finished talking about it.
+es:
+- c: 1
+  r: 1
+  v: actuar
+  x:
+  - s: Det är helt oacceptabelt att kommissionen <v>rycker</v> <p>ut</p> som en sorts
+      åsiktspolis när en av unionens regeringschefer har kommit med berättigad kritik
+      mot dess agerande.
+    t: Es totalmente inaceptable que la Comisión <a>actúe</a> como un agente de policía
+      de opinión cuando uno de los jefes de gobierno de la Unión critica su conducta.
+- c: 1
+  r: 1
+  v: anunciar
+  x:
+  - s: Att komma överens om en gemensam ståndpunkt verkar vara ett steg för mycket
+      för dem. Det är anmärkningsvärt, eftersom det var rådet självt som bad om att
+      få detta gemensamma ramverk, och dessutom ovanligt, eftersom just rådet omedelbart
+      brukar <v>rycka</v> <p>ut</p> och föreslå alla möjliga regler om något händer,
+      utan att ta hänsyn till förslagens kvalitet, deras konsekvenser för exempelvis
+      den inre marknaden eller för de europeiska medborgarna, vad det anbelangar.
+    t: Algo que resulta muy sorprendente, en vista de que el propio Consejo solicitó
+      este marco común, y también fuera de lugar, ya que si sucede algo, el Consejo
+      es el primero en <a>anunciar</a> de inmediato todo tipo de normas sin tener
+      realmente en cuenta la calidad de las propuestas, sus consecuencias para el
+      mercado interior, por ejemplo, o incluso para los ciudadanos europeos.
+- c: 1
+  r: 1
+  v: decidirse
+  x:
+  - s: Det är nu egentligen så att vi reagerar som en by med femton brandkårer som
+      sitter i ändlösa sammanträden innan de <v>rycker</v> <p>ut</p> för att släcka
+      en brand, och då är det inte så konstigt att Förenta staterna passerar oss och
+      ofta redan finns på plats vid ett visst brandområde innan Europa överhuvudtaget
+      har diskuterat klart.
+    t: En realidad, ahora reaccionamos como un municipio con quince cuerpos de bomberos
+      que celebran reuniones interminables antes de <a>decidirse</a> a apagar un incendio,
+      y por tanto no es extraño que Estados Unidos se nos adelante y a menudo ya esté
+      presente en una determinada zona de fuego, mientras Europa todavía está enzarzada
+      en discusiones.
+- c: 1
+  r: 1
+  v: intervenir
+  x:
+  - s: Kofi Annan vill ha en styrka för snabba insatser som kan <v>rycka</v> <p>ut</p>
+      för freden.
+    t: Kofi Annan quiere que una fuerza de reacción rápida <a>intervenga</a> por la
+      paz.
+- c: 1
+  r: 1
+  v: salir
+  x:
+  - s: den europeiska räddningstjänsten måste kunna <v>rycka</v> <p>ut</p> omedelbart
+      vid katastrofer och själva ta sig till platsen.
+    t: En segundo lugar, el cuerpo europeo de protección civil tiene que <a>salir</a>
+      de inmediato en caso de emergencia y llegar con su propio equipo.
+- c: 1
+  r: 1
+  v: resolver
+  x:
+  - s: En annan, minst lika viktig erfarenhet är dock att det är bättre att förekomma
+      en kris än att behöva <v>rycka</v> <p>ut</p> i efterhand.
+    t: Otra experiencia igualmente importante es, sin embargo, que es preferible prevenir
+      las crisis que tener que <a>resolverlas</a>.
+- c: 1
+  r: 1
+  v: llegar
+  x:
+  - s: Denna extraction force är inte till för att driva konfliktbevakningsprocessen
+      inom ramen för OSSE, utan det är en trupp för nödsituationer, en trupp som kan
+      <v>rycka</v> <p>ut</p>, om det skulle uppstå en verklig nödsituation för de
+      civila obeväpnade medarbetarna i OSSE.
+    t: La misión de la extraction force no consiste en vigilar el conflicto en el
+      marco de la OSCE sino que se trata de tropas de emergencia, tropas que han de
+      entrar en acción en caso de que los colaboradores civiles de la OSCE, que no
+      disponen de armas, <a>lleguen</a> a hallarse en una situación de emergencia.
+fr:
+- c: 3
+  r: 1
+  v: intervenir
+  x:
+  - s: En annan, minst lika viktig erfarenhet är dock att det är bättre att förekomma
+      en kris än att behöva <v>rycka</v> <p>ut</p> i efterhand.
+    t: à savoir qu’il vaut mieux prévenir les crises, plutôt que d’être obligé d’<a>intervenir</a>
+      après coup.
+  - s: Denna extraction force är inte till för att driva konfliktbevakningsprocessen
+      inom ramen för OSSE, utan det är en trupp för nödsituationer, en trupp som kan
+      <v>rycka</v> <p>ut</p>, om det skulle uppstå en verklig nödsituation för de
+      civila obeväpnade medarbetarna i OSSE.
+    t: elle est bel et bien une force d’urgence, une force prête à <a>intervenir</a>
+      au cas où une véritable urgence naîtrait pour les collaborateurs civils de l’OSCE.
+  - s: Kofi Annan vill ha en styrka för snabba insatser som kan <v>rycka</v> <p>ut</p>
+      för freden.
+    t: Kofi Annan souhaite qu’une force de réaction rapide soit en mesure d’<a>intervenir</a>
+      pour la paix.
+- c: 1
+  r: 2
+  v: survenir
+  x:
+  - s: Alla hjälper alla, och frivilliga från brandförsvaret visar en beundransvärd
+      hängivenhet när de <v>rycker</v> <p>ut</p>.
+    t: Dans le rapport, nous faisons référence au principe de solidarité, qui entre
+      en jeu dans les villages quand <a>surviennent</a> des inondations, chacun aidant
+      son prochain, et les pompiers volontaires faisant preuve d’un dévouement admirable.
+- c: 1
+  r: 2
+  v: extirper
+  x:
+  - s: Organiserad brottslighet är ett tusenhövdat monster som vi måste <v>rycka</v>
+      <p>ut</p> det finansiella hjärtat och lungorna på.
+    t: La criminalité organisée est une énorme machine dont nous devons <a>extirper</a>
+      le cur et financiers et les poumons.
+- c: 1
+  r: 2
+  v: brandir
+  x:
+  - s: Det är helt oacceptabelt att kommissionen <v>rycker</v> <p>ut</p> som en sorts
+      åsiktspolis när en av unionens regeringschefer har kommit med berättigad kritik
+      mot dess agerande.
+    t: Il est tout à fait inacceptable que la Commission <a>brandisse</a> une sorte
+      de police des opinions lorsque l’un des chefs de gouvernements de l’Union dirige
+      contre son action une critique justifiée.
+- c: 1
+  r: 2
+  v: apporter
+  x:
+  - s: Vi <v>rycker</v> bara <p>ut</p> för att släcka elden i form av punktinsatser,
+      utan en tydlig och bestämd politik i förebyggande syfte - när vi mer än väl
+      vet att svälten i Afrika och i tredje världen brukar uppstå med jämna mellanrum.
+    t: Nous n’<a>apportons</a> que des aides ponctuelles, sans une politique claire
+      et décidée de prévention - alors que nous savons que la faim en Afrique et,
+      en général, dans le tiers monde apparaît périodiquement.
+- c: 1
+  r: 2
+  v: annoncer
+  x:
+  - s: Att komma överens om en gemensam ståndpunkt verkar vara ett steg för mycket
+      för dem. Det är anmärkningsvärt, eftersom det var rådet självt som bad om att
+      få detta gemensamma ramverk, och dessutom ovanligt, eftersom just rådet omedelbart
+      brukar <v>rycka</v> <p>ut</p> och föreslå alla möjliga regler om något händer,
+      utan att ta hänsyn till förslagens kvalitet, deras konsekvenser för exempelvis
+      den inre marknaden eller för de europeiska medborgarna, vad det anbelangar.
+    t: C’est assez incroyable, étant donné que le Conseil a réclamé lui-même ce cadre
+      commun, et étrange également, parce que quand quelque chose se passe, alors
+      le Conseil est bien trop content d’être le premier a immédiatement <a>annoncer</a>
+      toutes sortes de règles sans vraiment tenir compte de la qualité des propositions,
+      de leurs conséquences pour le marché intérieur, par exemple, ou pour les citoyens
+      européens.
+it:
+- c: 1
+  r: 1
+  v: accorrere
+  x:
+  - s: Vi <v>rycker</v> bara <p>ut</p> för att släcka elden i form av punktinsatser,
+      utan en tydlig och bestämd politik i förebyggande syfte - när vi mer än väl
+      vet att svälten i Afrika och i tredje världen brukar uppstå med jämna mellanrum.
+    t: No. <a>Accorriamo</a> solo a spegnere il fuoco con aiuti tempestivi, ma senza
+      una politica di prevenzione chiara e decisa, mentre invece sappiamo benissimo
+      che la fame in Africa, e in generale nel terzo mondo, compare periodicamente.
+- c: 1
+  r: 1
+  v: essere venire
+  x:
+  - s: Genast <v>ryckte</v> tyska kolleger <p>ut</p> för att hjälpa sina nederländska
+      vänner med det ofta farliga arbete som var nödvändigt för att bekämpa katastrofen.
+    t: I colleghi tedeschi <a>sono</a> subito <a>venuti</a> in soccorso ai loro amici
+      olandesi per svolgere la spesso pericolosa opera resasi necessaria per far fronte
+      alla catastrofe.
+- c: 1
+  r: 1
+  v: attività
+  x:
+  - s: Alla hjälper alla, och frivilliga från brandförsvaret visar en beundransvärd
+      hängivenhet när de <v>rycker</v> <p>ut</p>.
+    t: tutti si aiutano reciprocamente e i volontari del corpo dei vigili del fuoco
+      dimostrano una dedizione ammirevole alla loro <a>attività</a>.
+- c: 1
+  r: 1
+  v: scagliare
+  x:
+  - s: Det är helt oacceptabelt att kommissionen <v>rycker</v> <p>ut</p> som en sorts
+      åsiktspolis när en av unionens regeringschefer har kommit med berättigad kritik
+      mot dess agerande.
+    t: È intollerabile che la Commissione si <a>scagli</a> come una furia, quasi si
+      trattasse della polizia, contro i reati d’opinione, non appena un capo di governo
+      dell’Unione formula una legittima critica al suo operato.
+- c: 1
+  r: 1
+  v: strappare
+  x:
+  - s: Organiserad brottslighet är ett tusenhövdat monster som vi måste <v>rycka</v>
+      <p>ut</p> det finansiella hjärtat och lungorna på.
+    t: L’Europa è una terra vergine, il crimine organizzato è un mostro con mille
+      teste a cui devono essere <a>strappati</a> il cuore e i polmoni finanziari.
+pt:
+- c: 1
+  r: 1
+  v: prevenção
+  x:
+  - s: Det finns nu fem fasta utlandsbaserade tekniska assistenter vid regionkontoret
+      i Amman som täcker Irak och hela Mellanöstern, ytterligare en expert i Jerusalem
+      och en sjunde som är beredd att <v>rycka</v> <p>ut</p> från Amman.
+    t: Neste momento há cinco assistentes técnicos expatriados a título permanente
+      na delegação regional de Amã que cobre o Iraque e toda a região do Médio Oriente,
+      mais um perito sedeado em Jerusalém e um sétimo elemento de <a>prevenção</a>
+      em Amã.
+- c: 1
+  r: 1
+  v: abrir caminho
+  x:
+  - s: Alla hjälper alla, och frivilliga från brandförsvaret visar en beundransvärd
+      hängivenhet när de <v>rycker</v> <p>ut</p>.
+    t: No relatório, fazemos referência ao princípio da solidariedade, aplicado nas
+      localidades aquando das cheias, com todos a ajudarem todos, enquanto, dando
+      provas de admirável dedicação, os bombeiros voluntários <a>abrem</a> <a>caminho</a>
+      para ajudar.
+- c: 1
+  r: 1
+  v: apagar
+  x:
+  - s: Vi <v>rycker</v> bara <p>ut</p> för att släcka elden i form av punktinsatser,
+      utan en tydlig och bestämd politik i förebyggande syfte - när vi mer än väl
+      vet att svälten i Afrika och i tredje världen brukar uppstå med jämna mellanrum.
+    t: Só <a>apagamos</a> o fogo com ajudas pontuais, sem uma política clara e decidida
+      de prevenção - quando estamos plenamente conscientes de que a fome em África
+      e, em geral, no terceiro mundo surge periodicamente.
+- c: 1
+  r: 1
+  v: arrancar
+  x:
+  - s: Organiserad brottslighet är ett tusenhövdat monster som vi måste <v>rycka</v>
+      <p>ut</p> det finansiella hjärtat och lungorna på.
+    t: A criminalidade organizada é um monstro de mil cabeças, ao qual há que <a>arrancar</a>
+      o coração e os pulmões financeiros.
+- c: 1
+  r: 1
+  v: comportar
+  x:
+  - s: Det är helt oacceptabelt att kommissionen <v>rycker</v> <p>ut</p> som en sorts
+      åsiktspolis när en av unionens regeringschefer har kommit med berättigad kritik
+      mot dess agerande.
+    t: É inadmissível que a Comissão se <a>comporte</a> como uma espécie de polícia
+      das ideias quando a sua actuação é legitimamente criticada por um dos chefes
+      de governo da União.
+- c: 1
+  r: 1
+  v: sair
+  x:
+  - s: Genast <v>ryckte</v> tyska kolleger <p>ut</p> för att hjälpa sina nederländska
+      vänner med det ofta farliga arbete som var nödvändigt för att bekämpa katastrofen.
+    t: Com efeito, os colegas alemães <a>saíram</a> de imediato em socorro dos seus
+      colegas neerlandeses para os ajudar a realizar as tarefas, por vezes arriscadas,
+      que se impunha realizar para combater a catástrofe.
+- c: 1
+  r: 1
+  v: intervir eclodir
+  x:
+  - s: En annan, minst lika viktig erfarenhet är dock att det är bättre att förekomma
+      en kris än att behöva <v>rycka</v> <p>ut</p> i efterhand.
+    t: No entanto, outro ensinamento, pelo menos tão importante, é o de que é melhor
+      prevenir uma crise do que ter de <a>intervir</a> depois de ela <a>eclodir</a>.

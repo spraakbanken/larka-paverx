@@ -1,0 +1,19 @@
+---
+de:
+- c: 1
+  r: 1
+  v: Steuerrad einnicken
+  x:
+  - s: Den tidigare taktiken att <v>slumra</v> <p>till</p> vid ratten för den ekonomiska
+      ledningen var oansvarig.
+    t: Der frühere Ansatz, am <a>Steuerrad</a> der Wirtschaft <a>einzunicken</a>,
+      war verantwortungslos.
+en:
+- c: 1
+  r: 1
+  v: nod off
+  x:
+  - s: Den tidigare taktiken att <v>slumra</v> <p>till</p> vid ratten för den ekonomiska
+      ledningen var oansvarig.
+    t: The previous approach, of <a>nodding</a> <a>off</a> at the wheel of economic
+      management, was irresponsible.

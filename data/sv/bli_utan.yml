@@ -1,0 +1,228 @@
+---
+de:
+- c: 1
+  r: 1
+  v: lassen
+  x:
+  - s: Denna risk bör vi mycket medvetet ta med i våra beräkningar så att det inte
+      slutar med att vi hjälper dem som inte behöver någon hjälp medan de som faktiskt
+      behöver hjälp <v>blir</v> <p>utan</p>.
+    t: Diese Gefahr sollten wir ganz bewusst in unsere Überlegungen mit einbeziehen,
+      damit wir letztlich nicht jenen helfen, die keine Hilfe brauchen, und die, die
+      Hilfe brauchen, im Regen stehen <a>lassen</a>.
+- c: 1
+  r: 1
+  v: gehen leer
+  x:
+  - s: I denna idé ignoreras dessvärre helt och hållet att det redan är den gruppen
+      som är vinnarna, den breda massan <v>blir</v> <p>utan</p>.
+    t: Diese Idee ignoriert leider völlig, daß diese Gruppe bereits die Gewinnerinnen
+      und Gewinner sind, die breite Masse <a>geht</a> <a>leer</a> aus.
+- c: 1
+  r: 1
+  v: kommen
+  x:
+  - s: Men vi vet också att det rör sig om en avgörande punkt när det gäller lika
+      rättigheter och möjligheter för alla medborgare i ett land, och att dessa lika
+      möjligheter och rättigheter inte kan begränsas till lönsamhetskriterier, eller
+      huvudsakligen lönsamhet, vilket oundvikligen skulle leda till att de som befinner
+      sig där servicen inte är lönsam skulle <v>bli</v> <p>utan</p>, medan de som
+      bor i bl.a. de stora städerna skulle erbjudas tjänsterna under ekonomiskt mer
+      gynnsamma förhållanden.
+    t: Doch wir wissen auch, daß es sich dabei um ein wesentliches Element für die
+      Rechts- und Chancengleichheit aller Bürger eines Landes handelt und daß diese
+      Rechts- und Chancengleichheit natürlich nicht allein oder hauptsächlich auf
+      der Grundlage von Rentabilitätskriterien gesichert werden kann, die zwangsläufig
+      dazu führen würden, daß Bürger unter ungünstigen wirtschaftlichen Bedingungen
+      nicht mehr in den Genuß von Leistungen <a>kommen</a>, mit denen andere, die
+      insbesondere in Großstädten unter günstigeren wirtschaftlichen Bedingungen leben,
+      weiterhin versorgt werden.
+- c: 1
+  r: 1
+  v: wirkungslos bleiben
+  x:
+  - s: Vädjan till den internationella gemenskapen, att med alla medel hålla tillbaka
+      angrepp på civilbefolkningen, hotar under dessa omständigheter att <v>bli</v>
+      <p>utan</p> verkan.
+    t: Der Appell an die internationale Gemeinschaft, den Angriffen auf die Zivilbevölkerung
+      mit allen Mitteln Einhalt zu gebieten, droht unter diesen Umständen <a>wirkungslos</a>
+      zu <a>bleiben</a>.
+en:
+- c: 1
+  r: 1
+  v: rain
+  x:
+  - s: Denna risk bör vi mycket medvetet ta med i våra beräkningar så att det inte
+      slutar med att vi hjälper dem som inte behöver någon hjälp medan de som faktiskt
+      behöver hjälp <v>blir</v> <p>utan</p>.
+    t: This danger should be included quite deliberately in our considerations so
+      that we do not ultimately help those who do not need help and leave those who
+      do need help out in the <a>rain</a>.
+- c: 1
+  r: 1
+  v: go away empty-handed
+  x:
+  - s: I denna idé ignoreras dessvärre helt och hållet att det redan är den gruppen
+      som är vinnarna, den breda massan <v>blir</v> <p>utan</p>.
+    t: Unfortunately, this concept totally ignores the fact that this group already
+      represents the winners, while the general mass <a>goes</a> <a>away</a> <a>empty-handed</a>.
+- c: 1
+  r: 1
+  v: completely
+  x:
+  - s: Vädjan till den internationella gemenskapen, att med alla medel hålla tillbaka
+      angrepp på civilbefolkningen, hotar under dessa omständigheter att <v>bli</v>
+      <p>utan</p> verkan.
+    t: In these circumstances, the call to the international community to use every
+      means at its disposal to put an end to the attacks against the civilian population
+      is in danger of remaining <a>completely</a> unheeded.
+- c: 1
+  r: 1
+  v: be deprive
+  x:
+  - s: Men vi vet också att det rör sig om en avgörande punkt när det gäller lika
+      rättigheter och möjligheter för alla medborgare i ett land, och att dessa lika
+      möjligheter och rättigheter inte kan begränsas till lönsamhetskriterier, eller
+      huvudsakligen lönsamhet, vilket oundvikligen skulle leda till att de som befinner
+      sig där servicen inte är lönsam skulle <v>bli</v> <p>utan</p>, medan de som
+      bor i bl.a. de stora städerna skulle erbjudas tjänsterna under ekonomiskt mer
+      gynnsamma förhållanden.
+    t: We are well aware of the need to modernise and adapt public services, but we
+      also know that they are a key element in the equal rights and opportunities
+      of all citizens within a country and that this equality cannot, of course, be
+      subject only or mainly to the criteria of profitability, which would inevitably
+      lead to people in unprofitable situations <a>being</a> <a>deprived</a> of services
+      provided in other circumstances to people in cities, for example, in more favourable
+      economic conditions.
+- c: 1
+  r: 1
+  v: will not
+  x:
+  - s: Ryssland får nog sitt lån, men något annat land <v>blir</v> <p>utan</p>, när
+      garantin på hundra procent i onödan förbrukar marginalen i garantifonden för
+      andra.
+    t: Russia will indeed get its loan, but another country <a>will</a> <a>not</a>,
+      as a 100% guarantee needlessly eats into the margin in the Guarantee Fund set
+      aside for others.
+es:
+- c: 1
+  r: 1
+  v: no hacer
+  x:
+  - s: Ryssland får nog sitt lån, men något annat land <v>blir</v> <p>utan</p>, när
+      garantin på hundra procent i onödan förbrukar marginalen i garantifonden för
+      andra.
+    t: Rusia obtendrá ciertamente sus préstamos, pero habrá otros países que <a>no</a>
+      lo <a>hagan</a> debido a que la concesión de una garantía del cien por cien
+      agota innecesariamente el margen del fondo.
+- c: 1
+  r: 1
+  v: 'no'
+  x:
+  - s: Om man räknar med att Storbritanniens bidrag uppgår till precis under 15 procent
+      av den sammanlagda budgeten <v>blir</v> Storbritannien <p>utan</p> pengar för
+      alla nya projekt för vilka vi får mindre än en tredjedel av vinsterna.
+    t: Teniendo en cuenta que las contribuciones de Gran Bretaña <a>no</a> llegan
+      al 15 % del presupuesto total, cualquier nuevo proyecto por el que Gran Bretaña
+      reciba menos de un tercio de los beneficios le costará dinero.
+- c: 1
+  r: 1
+  v: resultar
+  x:
+  - s: Vädjan till den internationella gemenskapen, att med alla medel hålla tillbaka
+      angrepp på civilbefolkningen, hotar under dessa omständigheter att <v>bli</v>
+      <p>utan</p> verkan.
+    t: En estas circunstancias, el llamamiento a la comunidad internacional para que
+      detenga por todos los medios los ataques contra la población civil corre el
+      riesgo de <a>resultar</a> estéril.
+fr:
+- c: 1
+  r: 1
+  v: être priver
+  x:
+  - s: Snart kommer väl användaren att precis som i Förenade kungariket tvingas betala
+      sin elförbrukning i förväg eller <v>bli</v> <p>utan</p> när hans betalkort är
+      tomt?
+    t: Bientôt, l’usager devra-t-il, comme en Grande-Bretagne, payer à l’avance sa
+      consommation d’électricité ou bien en <a>être</a> <a>privé</a> lorsque sa carte
+      de paiement sera épuisée ?
+- c: 1
+  r: 1
+  v: être retrouver plutôt
+  x:
+  - s: Det finns ingen garanti för att medlen kommer att gå till människor som har
+      <v>blivit</v> <p>utan</p> arbete, i stället för ett konsultföretag eller andra
+      mellanhänder.
+    t: Il n’existe aucune garantie que les montants profiteront aux personnes qui
+      se <a>sont</a> <a>retrouvées</a> au chômage <a>plutôt</a> qu’à des entreprises
+      de consultants ou à d’autres intermédiaires.
+- c: 1
+  r: 1
+  v: être
+  x:
+  - s: I denna idé ignoreras dessvärre helt och hållet att det redan är den gruppen
+      som är vinnarna, den breda massan <v>blir</v> <p>utan</p>.
+    t: Malheureusement, cette idée ignore totalement que ces groupes sont déjà les
+      gagnantes et les gagnants, tandis que la grande majorité <a>est</a> laissée
+      pour compte.
+it:
+- c: 1
+  r: 1
+  v: rimanere
+  x:
+  - s: I denna idé ignoreras dessvärre helt och hållet att det redan är den gruppen
+      som är vinnarna, den breda massan <v>blir</v> <p>utan</p>.
+    t: Purtroppo questo significa ignorare del tutto il fatto che questo gruppo è
+      quello destinato ad avere comunque successo, mentre la grande massa <a>rimane</a>
+      a mani vuote.
+- c: 1
+  r: 1
+  v: essere
+  x:
+  - s: Snart kommer väl användaren att precis som i Förenade kungariket tvingas betala
+      sin elförbrukning i förväg eller <v>bli</v> <p>utan</p> när hans betalkort är
+      tomt?
+    t: Gli utenti dovranno forse - come accade in Gran Bretagna - pagare in anticipo
+      il consumo di energia o <a>esserne</a> privati nel caso in cui il credito registrato
+      nella tessera di pagamento risulti esaurito?
+- c: 1
+  r: 1
+  v: privo
+  x:
+  - s: Det vill säga, de vi representerar skulle praktiskt taget <v>bli</v> <p>utan</p>
+      företrädare.
+    t: Ovvero, i rappresentati resterebbero praticamente <a>privi</a> di rappresentanti,
+      il che attenta contro il principio fondamentale difeso dall’onorevole Anastassopoulos,
+      quello della proporzionalità.
+pt:
+- c: 2
+  r: 1
+  v: ter
+  x:
+  - s: Om avregleringen av de nationella posttjänsterna leder till att en mängd postkontor
+      stängs kommer hela regioner att <v>bli</v> <p>utan</p> resurser.
+    t: Se a liberalização dos serviços de correios avançar, dará origem a uma onda
+      de encerramentos de estações de correios e regiões inteiras deixarão de <a>ter</a>
+      atendimento.
+  - s: Det börjar nu bli uppenbart att vissa kandidatländer inte bara kommer att <v>bli</v>
+      <p>utan</p> nettointäkter, utan att de till och med kommer att finansiera budgeten.
+    t: Torna-se agora claro que determinados países candidatos não só não <a>terão</a>
+      receitas líquidas como ainda irão financiar o orçamento.
+- c: 1
+  r: 2
+  v: ser
+  x:
+  - s: Men vi vet också att det rör sig om en avgörande punkt när det gäller lika
+      rättigheter och möjligheter för alla medborgare i ett land, och att dessa lika
+      möjligheter och rättigheter inte kan begränsas till lönsamhetskriterier, eller
+      huvudsakligen lönsamhet, vilket oundvikligen skulle leda till att de som befinner
+      sig där servicen inte är lönsam skulle <v>bli</v> <p>utan</p>, medan de som
+      bor i bl.a. de stora städerna skulle erbjudas tjänsterna under ekonomiskt mer
+      gynnsamma förhållanden.
+    t: Mas sabemos, também, que este é um elemento essencial para a igualdade de direitos
+      e oportunidades de todos os cidadãos num país, e que essa igualdade de direitos
+      e oportunidades não se satisfaz, naturalmente, com critérios de rentabilidade
+      ou, sobretudo, de rentabilidade que, forçosamente, nos levariam a privar aqueles
+      que se encontrassem em condições não rentáveis de serviços que <a>seriam</a>
+      dados a outros que poderiam encontrarse, nomeadamente, nas grandes cidades,
+      em condições economicamente mais favoráveis.

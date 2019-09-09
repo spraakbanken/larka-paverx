@@ -1,0 +1,93 @@
+---
+de:
+- c: 1
+  r: 1
+  v: Verteilerstation anschließen
+  x:
+  - s: Often, landowners are not willing to make their land available to the management
+      of a renewable energy system - windmills, for example - to enable the windmills
+      to be <v>hooked</v> <p>up</p> to the nearest distribution station.
+    t: Oft sind die Grundbesitzer nicht damit einverstanden, dem Betreiber einer Anlage
+      für erneuerbare Energien (zum Beispiel einer Windkraftanlage) ihren Boden zu
+      verkaufen, damit die Windkraftanlage an die nächstgelegene <a>Verteilerstation</a>
+      <a>angeschlossen</a> werden kann.
+- c: 1
+  r: 1
+  v: miteinander
+  x:
+  - s: It will not replace existing national capacities, but rather <v>hook</v> them
+      <p>up</p> to act as a reference and coordination point both in routine and crisis
+      situations.
+    t: Es wird vorhandene nationale Kapazitäten nicht ersetzen, sondern vielmehr <a>miteinander</a>
+      verknüpfen und sowohl in Routine- wie in Krisensituationen Bezugs- und <a>Koordinierungspunkt</a>
+      sein.
+- c: 1
+  r: 1
+  v: Elektrizitätsnetz anschließen
+  x:
+  - s: At the moment it can take a long time for a wind turbine park to be <v>hooked</v>
+      <p>up</p> to an electricity grid and that is unacceptable.
+    t: Derzeit kann es schon eine Weile dauern, bis ein Windpark an ein <a>Elektrizitätsnetz</a>
+      <a>angeschlossen</a> wird, und das ist inakzeptabel.
+es:
+- c: 1
+  r: 1
+  v: unir
+  x:
+  - s: It will not replace existing national capacities, but rather <v>hook</v> them
+      <p>up</p> to act as a reference and coordination point both in routine and crisis
+      situations.
+    t: No sustituirá a las capacidades nacionales existentes, sino que las <a>unirá</a>
+      para actuar como referencia y punto de coordinación tanto en situaciones rutinarias
+      como de crisis.
+- c: 1
+  r: 1
+  v: conectarse
+  x:
+  - s: At the moment it can take a long time for a wind turbine park to be <v>hooked</v>
+      <p>up</p> to an electricity grid and that is unacceptable.
+    t: En estos momentos, un parque eólico puede tardar mucho tiempo en <a>conectarse</a>
+      a la red eléctrica y ese hecho es inaceptable.
+fr:
+- c: 1
+  r: 1
+  v: relais
+  x:
+  - s: It will not replace existing national capacities, but rather <v>hook</v> them
+      <p>up</p> to act as a reference and coordination point both in routine and crisis
+      situations.
+    t: Il ne remplacera pas les capacités nationales existantes, mais leur servira
+      de <a>relais</a> et agira comme point de référence et de coordination aussi
+      bien dans des situations de routine qu’en cas de crise.
+- c: 1
+  r: 1
+  v: raccordement
+  x:
+  - s: Often, landowners are not willing to make their land available to the management
+      of a renewable energy system - windmills, for example - to enable the windmills
+      to be <v>hooked</v> <p>up</p> to the nearest distribution station.
+    t: Souvent, les propriétaires fonciers ne sont pas d’accord pour céder leur terrain
+      à l’exploitant d’une installation d’énergie renouvelable, (une éolienne, par
+      exemple, ) pour permettre le <a>raccordement</a> de cette éolienne à la station
+      de distribution la plus proche.
+it:
+- c: 1
+  r: 1
+  v: eolico allacciamento
+  x:
+  - s: Often, landowners are not willing to make their land available to the management
+      of a renewable energy system - windmills, for example - to enable the windmills
+      to be <v>hooked</v> <p>up</p> to the nearest distribution station.
+    t: Spesso i proprietari fondiari non accettano di cedere il loro terreno all’esercente
+      di un impianto di energia rinnovabile (un motore <a>eolico</a>, ad esempio)
+      per consentire l’<a>allacciamento</a> dello stesso alla centrale di distribuzione
+      più vicina.
+pt:
+- c: 1
+  r: 1
+  v: turbina
+  x:
+  - s: At the moment it can take a long time for a wind turbine park to be <v>hooked</v>
+      <p>up</p> to an electricity grid and that is unacceptable.
+    t: Neste momento, ainda é possível que demore muito a ligar em cadeia um parque
+      de <a>turbinas</a> eólicas a uma rede de energia eléctrica, coisa que é inadmissível.

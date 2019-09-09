@@ -1,0 +1,86 @@
+---
+de:
+- c: 1
+  r: 1
+  v: weglassen
+  x:
+  - s: Återstoden av anmärkningarna till denna post har <v>strukits</v> <p>över</p>
+      på grund av ett tekniskt fel;
+    t: Der übrige Teil der Erläuterungen zu dieser Haushaltszeile wurde aufgrund eines
+      technischen Fehlers <a>weggelassen</a>;
+- c: 1
+  r: 1
+  v: Namensangabe
+  x:
+  - s: Allmänheten bör säkras tillgång till insyn i medlens användning (eventuellt
+      kan konkreta upplysningar om namn <v>strykas</v> <p>över</p> innan dokumenten
+      lämnas ut).
+    t: Der Öffentlichkeit muß Zugang zur Akteneinsicht in die Verwendung der Mittel
+      gewährt werden (gegebenenfalls, indem konkrete <a>Namensangaben</a> vor der
+      Auslieferung überstrichen werden).
+en:
+- c: 1
+  r: 1
+  v: be strike through
+  x:
+  - s: Återstoden av anmärkningarna till denna post har <v>strukits</v> <p>över</p>
+      på grund av ett tekniskt fel;
+    t: The remainder of the remark on this line has <a>been</a> <a>struck</a> <a>through</a>
+      because of a technical error;
+- c: 1
+  r: 1
+  v: delete
+  x:
+  - s: Allmänheten bör säkras tillgång till insyn i medlens användning (eventuellt
+      kan konkreta upplysningar om namn <v>strykas</v> <p>över</p> innan dokumenten
+      lämnas ut).
+    t: The public should be guaranteed access to the files on the use of the resources
+      (possibly with the actual names involved being <a>deleted</a> before they are
+      handed over).
+es:
+- c: 1
+  r: 1
+  v: tachar
+  x:
+  - s: Återstoden av anmärkningarna till denna post har <v>strukits</v> <p>över</p>
+      på grund av ett tekniskt fel;
+    t: La parte restante del comentario de la misma línea aparece <a>tachada</a> debido
+      a un error técnico;
+fr:
+- c: 1
+  r: 1
+  v: être supprimer
+  x:
+  - s: Återstoden av anmärkningarna till denna post har <v>strukits</v> <p>över</p>
+      på grund av ett tekniskt fel;
+    t: Le reste de la remarque de cette ligne a <a>été</a> <a>supprimé</a> en raison
+      d’une erreur technique ;
+it:
+- c: 1
+  r: 1
+  v: depennare
+  x:
+  - s: Återstoden av anmärkningarna till denna post har <v>strukits</v> <p>över</p>
+      på grund av ett tekniskt fel;
+    t: La parte rimanente del commento alla stessa linea si presenta <a>depennata</a>
+      a causa di un errore tecnico e di conseguenza detta parte di testo non deve
+      essere soppressa.
+pt:
+- c: 1
+  r: 1
+  v: ir remover
+  x:
+  - s: Återstoden av anmärkningarna till denna post har <v>strukits</v> <p>över</p>
+      på grund av ett tekniskt fel;
+    t: A parte remanescente da observação a essa linha <a>foi</a> <a>removida</a>
+      devido a um erro técnico;
+- c: 1
+  r: 1
+  v: suprimir
+  x:
+  - s: Allmänheten bör säkras tillgång till insyn i medlens användning (eventuellt
+      kan konkreta upplysningar om namn <v>strykas</v> <p>över</p> innan dokumenten
+      lämnas ut).
+    t: Deverá ser permitida a consulta pública de documentos relativos à utilização
+      de meios comunitários (eventualmente, com indicação concreta de nomes <a>suprimidos</a>
+      antes da transferência).

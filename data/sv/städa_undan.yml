@@ -1,0 +1,55 @@
+---
+de:
+- c: 1
+  r: 1
+  v: aufräumen
+  x:
+  - s: Vi hade en hel rad med medarbetare som arbetade mycket hårt för att faktiskt
+      se till att vi kunde ?<v>städa</v> <p>undan</p>? och komma överens om så mycket
+      som möjligt i handlingsplanen.
+    t: Eine ganze Reihe unserer Mitarbeiter haben hart gearbeitet und dafür gesorgt,
+      dass wir vieles ’<a>aufräumen</a>’ und uns im Aktionsplan über so viele Themen
+      wie möglich einigen konnten.
+en:
+- c: 1
+  r: 1
+  v: clear deck
+  x:
+  - s: Vi hade en hel rad med medarbetare som arbetade mycket hårt för att faktiskt
+      se till att vi kunde ?<v>städa</v> <p>undan</p>? och komma överens om så mycket
+      som möjligt i handlingsplanen.
+    t: We had a whole range of colleagues working very hard to ensure, in fact, that
+      we could ’<a>clear</a> the <a>decks</a>’ and agree on as much as possible in
+      the action plan.
+es:
+- c: 1
+  r: 1
+  v: limpiar
+  x:
+  - s: Vi hade en hel rad med medarbetare som arbetade mycket hårt för att faktiskt
+      se till att vi kunde ?<v>städa</v> <p>undan</p>? och komma överens om så mycket
+      som möjligt i handlingsplanen.
+    t: Muchos de nuestros colaboradores trabajaron intensamente para que pudiésemos
+      ’<a>limpiar</a>’ y alcanzar acuerdos en torno al plan de acción.
+fr:
+- c: 1
+  r: 1
+  v: ménage
+  x:
+  - s: Vi hade en hel rad med medarbetare som arbetade mycket hårt för att faktiskt
+      se till att vi kunde ?<v>städa</v> <p>undan</p>? och komma överens om så mycket
+      som möjligt i handlingsplanen.
+    t: Nous avions toute une série de collaborateurs, qui ont travaillé d’arrache-pied
+      pour que nous puissions «faire le <a>ménage</a>» et nous mettre d’accord sur
+      une partie aussi importante que possible du plan d’action à adopter.
+pt:
+- c: 1
+  r: 1
+  v: limpar
+  x:
+  - s: Vi hade en hel rad med medarbetare som arbetade mycket hårt för att faktiskt
+      se till att vi kunde ?<v>städa</v> <p>undan</p>? och komma överens om så mycket
+      som möjligt i handlingsplanen.
+    t: Muitos dos nossos colaboradores trabalharam arduamente para «<a>limpar</a>
+      o terreno» a fim de podermos chegar a acordo sobre a maior parte possível do
+      plano de acção.

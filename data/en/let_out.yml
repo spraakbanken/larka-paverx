@@ -1,0 +1,237 @@
+---
+de:
+- c: 2
+  r: 1
+  v: herauslassen
+  x:
+  - s: Even there it is still possible to <v>let</v> some air <p>out</p>.
+    t: Auch da ist es noch möglich, Luft <a>herauszulassen</a>.
+  - s: After that the animals must be <v>let</v> <p>out</p>, given a rest period of
+      24 hours and be fed and watered.
+    t: Dann müssen die Tiere <a>herausgelassen</a> werden und eine Ruhezeit von 24
+      Stunden bekommen;
+es:
+- c: 2
+  r: 1
+  v: dejar salir
+  x:
+  - s: It is almost as if air is being <v>let</v> <p>out</p> of the tyre of enthusiasm
+      in relation to it.
+    t: Es casi como si se estuviese <a>dejando</a> <a>salir</a> aire del neumático
+      del entusiasmo con respecto a esta cuestión.
+  - s: Once I’ m inside, you might as well <v>let</v> me <p>out</p>!
+    t: Si estoy dentro, por favor, <a>déjenme</a> <a>salir</a>.
+- c: 1
+  r: 2
+  v: desahogar
+  x:
+  - s: It is a difficult process to turn this into a reality, but we know what has
+      to be brought about, and we cannot allow ourselves to become notorious for mentioning
+      the Arab initiative over and over and then <v>letting</v> all the steam <p>out</p>
+      of it by saying ’now let us see what happens’.
+    t: Hacerlo realidad es un proceso difícil, pero sabemos que tiene que producirse,
+      y no podemos permitirnos hacernos famosos por mencionar la iniciativa árabe
+      una y otra vez y después <a>desahogarnos</a> diciendo «a ver qué pasa ahora».
+- c: 1
+  r: 2
+  v: sacar
+  x:
+  - s: After that the animals must be <v>let</v> <p>out</p>, given a rest period of
+      24 hours and be fed and watered.
+    t: Después deben ser <a>sacados</a>, deben tener un período de descanso de 24
+      horas y se les debe suministrar alimentación y agua.
+- c: 1
+  r: 2
+  v: rienda
+  x:
+  - s: Children <v>let</v> <p>out</p> the hatred instilled in them for the decadent
+      Western culture in the school playground and on the street or even turn into
+      potential terrorists.
+    t: Los niños dan <a>rienda</a> suelta al odio hacia la decadente cultura occidental
+      que les han inculcado en el patio de la escuela y en la calle, convirtiéndose
+      incluso en terroristas potenciales.
+- c: 1
+  r: 2
+  v: no salir
+  x:
+  - s: You need only imagine what would happen if we were to lock the 25 European
+      finance ministers in a room and <v>let</v> them <p>out</p> only when the white
+      smoke had appeared and they had agreed on tax harmonisation;
+    t: Solo hay que imaginarse lo que sucedería si encerráramos a los 25 Ministros
+      de Hacienda de la UE y <a>no</a> los dejáramos <a>salir</a> hasta que saliera
+      una fumata blanca que anunciara que habrían llegado a una armonización fiscal;
+- c: 1
+  r: 2
+  v: hacer
+  x:
+  - s: Jean-Marie Le Pen intended to open Pandora’s box, in an attempt to <v>let</v>
+      <p>out</p> the old demons of our common past;
+    t: Jean-Marie Le Pen ha querido abrir la caja de Pandora con su intento de <a>hacer</a>
+      resurgir los viejos demonios de nuestra historia común.
+fr:
+- c: 1
+  r: 1
+  v: laisser sortir
+  x:
+  - s: Once I’ m inside, you might as well <v>let</v> me <p>out</p>!
+    t: Une fois que je suis dedans, <a>laissez</a>-moi <a>sortir</a> !
+- c: 1
+  r: 1
+  v: laisser échapper
+  x:
+  - s: At last we can <v>let</v> <p>out</p> a sigh of relief after more than 12 years
+      of fun and frolics and at last we can look forward to an internal market in
+      services, which may be one that has had a limb cut off, but it is better than
+      nothing.
+    t: Nous pouvons enfin <a>laisser</a> <a>échapper</a> un soupir de soulagement
+      après plus de douze années de rigolade et de batifolage et espérer un marché
+      intérieur des services, qui pourrait bien être partiellement amputé, mais c’est
+      mieux que rien.
+- c: 1
+  r: 1
+  v: laisser
+  x:
+  - s: It is a difficult process to turn this into a reality, but we know what has
+      to be brought about, and we cannot allow ourselves to become notorious for mentioning
+      the Arab initiative over and over and then <v>letting</v> all the steam <p>out</p>
+      of it by saying ’now let us see what happens’.
+    t: C’est un processus difficile à mettre en œuvre, mais nous savons ce qu’il faut
+      amener, et nous ne pouvons nous permettre de passer à la postérité pour avoir
+      mentionné l’initiative arabe de manière répétée avant de <a>laisser</a> le projet
+      tourner court en disant «on verra bien ce qui va se passer.
+- c: 1
+  r: 1
+  v: voir
+  x:
+  - s: Jean-Marie Le Pen intended to open Pandora’s box, in an attempt to <v>let</v>
+      <p>out</p> the old demons of our common past;
+    t: Jean-Marie Le Pen a voulu ouvrir la boîte de Pandorre, cherchant à <a>voir</a>
+      resurgir les vieux démons de notre histoire commune.
+- c: 1
+  r: 1
+  v: ne laisser ressortir
+  x:
+  - s: You need only imagine what would happen if we were to lock the 25 European
+      finance ministers in a room and <v>let</v> them <p>out</p> only when the white
+      smoke had appeared and they had agreed on tax harmonisation;
+    t: Il vous suffit d’imaginer ce qui arriverait si nous devions enfermer les 25
+      ministres des finances dans une pièce et <a>ne</a> les <a>laisser</a> <a>ressortir</a>
+      que lorsqu’ils auraient annoncé par une fumée blanche qu’ils se sont mis d’accord
+      sur l’harmonisation fiscale ;
+it:
+- c: 2
+  r: 1
+  v: fare
+  x:
+  - s: It is a difficult process to turn this into a reality, but we know what has
+      to be brought about, and we cannot allow ourselves to become notorious for mentioning
+      the Arab initiative over and over and then <v>letting</v> all the steam <p>out</p>
+      of it by saying ’now let us see what happens’.
+    t: È un processo difficile da realizzare, ma sappiamo che cosa dobbiamo ottenere,
+      e non possiamo permettere di farci la fama di quelli che nominano l’iniziativa
+      araba più e più volte per poi <a>far</a> scemare tutto l’entusiasmo dicendo
+      «adesso vediamo cosa accade».
+  - s: Jean-Marie Le Pen intended to open Pandora’s box, in an attempt to <v>let</v>
+      <p>out</p> the old demons of our common past;
+    t: Jean-Marie Le Pen ha voluto aprire il vaso di Pandora cercando di <a>far</a>
+      risorgere gli antichi demoni della nostra storia comune.
+- c: 1
+  r: 2
+  v: tirare
+  x:
+  - s: At last we can <v>let</v> <p>out</p> a sigh of relief after more than 12 years
+      of fun and frolics and at last we can look forward to an internal market in
+      services, which may be one that has had a limb cut off, but it is better than
+      nothing.
+    t: Finalmente possiamo <a>tirare</a> un sospiro di sollievo dopo oltre 12 anni
+      di frizzi e lazzi, e finalmente possiamo attenderci un mercato interno dei servizi,
+      forse monco, ma sempre meglio di niente.
+- c: 1
+  r: 2
+  v: lasciare uscire
+  x:
+  - s: Once I’ m inside, you might as well <v>let</v> me <p>out</p>!
+    t: Se sono entrata, <a>lasciatemi</a> <a>uscire</a>!
+- c: 1
+  r: 2
+  v: danno sfogo
+  x:
+  - s: Children <v>let</v> <p>out</p> the hatred instilled in them for the decadent
+      Western culture in the school playground and on the street or even turn into
+      potential terrorists.
+    t: I minori <a>danno</a> <a>sfogo</a> all’odio instillato in loro nei confronti
+      della decadente cultura occidentale in atti violenti nel cortile della scuola
+      e per la strada o si trasformano in potenziali terroristi.
+pt:
+- c: 2
+  r: 1
+  v: deixar sair
+  x:
+  - s: After that the animals must be <v>let</v> <p>out</p>, given a rest period of
+      24 hours and be fed and watered.
+    t: Ao fim desse tempo, é necessário <a>deixar</a> <a>sair</a> os animais, que
+      devem ter um período de repouso de 24 horas, ser alimentados e dessedentados.
+  - s: Once I’ m inside, you might as well <v>let</v> me <p>out</p>!
+    t: Se estou lá dentro, <a>deixem</a>-me <a>sair</a> por favor!
+- c: 1
+  r: 2
+  v: libertar
+  x:
+  - s: Even there it is still possible to <v>let</v> some air <p>out</p>.
+    t: Também nesse caso é ainda possível <a>libertar</a> margens.
+- c: 1
+  r: 2
+  v: sair
+  x:
+  - s: It is almost as if air is being <v>let</v> <p>out</p> of the tyre of enthusiasm
+      in relation to it.
+    t: É como se o ar estivesse a <a>sair</a> do pneu do entusiasmos em relação a
+      esta questão.
+  - s: You need only imagine what would happen if we were to lock the 25 European
+      finance ministers in a room and <v>let</v> them <p>out</p> only when the white
+      smoke had appeared and they had agreed on tax harmonisation;
+    t: Basta imaginar o que aconteceria se fechássemos os 25 Ministros das Finanças
+      europeus numa sala e só voltássemos a <a>deixá-los</a> <a>sair</a> quando houvesse
+      fumo branco e tivessem chegado a acordo sobre uma harmonização fiscal.
+- c: 1
+  r: 2
+  v: dar
+  x:
+  - s: Children <v>let</v> <p>out</p> the hatred instilled in them for the decadent
+      Western culture in the school playground and on the street or even turn into
+      potential terrorists.
+    t: As crianças <a>dão</a> vazão ao ódio pela decadente cultura ocidental que lhes
+      foi instilado, e fazem-no no recreio da escola, nas ruas ou podem até tornar-se
+      potenciais terroristas.
+- c: 1
+  r: 2
+  v: sair
+  x:
+  - s: It is almost as if air is being <v>let</v> <p>out</p> of the tyre of enthusiasm
+      in relation to it.
+    t: É como se o ar estivesse a <a>sair</a> do pneu do entusiasmos em relação a
+      esta questão.
+  - s: You need only imagine what would happen if we were to lock the 25 European
+      finance ministers in a room and <v>let</v> them <p>out</p> only when the white
+      smoke had appeared and they had agreed on tax harmonisation;
+    t: Basta imaginar o que aconteceria se fechássemos os 25 Ministros das Finanças
+      europeus numa sala e só voltássemos a <a>deixá-los</a> <a>sair</a> quando houvesse
+      fumo branco e tivessem chegado a acordo sobre uma harmonização fiscal.
+sv:
+- c: 1
+  r: 1
+  v: dra
+  x:
+  - s: At last we can <v>let</v> <p>out</p> a sigh of relief after more than 12 years
+      of fun and frolics and at last we can look forward to an internal market in
+      services, which may be one that has had a limb cut off, but it is better than
+      nothing.
+    t: Till sist kan vi <a>dra</a> en lättnadens suck efter mer än 12 år av skoj och
+      glam och till sist kan vi se fram emot en inre marknad för tjänster, som kanske
+      har förlorat en arm eller ett ben, men det är bättre än ingenting.
+- c: 1
+  r: 1
+  v: vilja
+  x:
+  - s: Even there it is still possible to <v>let</v> some air <p>out</p>.
+    t: 'Men jag <a>vill</a> mycket klart säga er, herr rådsordförande och fru kommissionär:'

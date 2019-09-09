@@ -1,0 +1,528 @@
+---
+de:
+- c: 1
+  r: 1
+  v: überlasten
+  x:
+  - s: That has <v>clogged</v> <p>up</p> the system, making all the rest of us wait
+      longer for our answers, costing a fortune because all such questions have to
+      be translated into every language, circulated around the Commissioners for a
+      collective reply and collegiate reply, and is a waste of our time and resources.
+    t: Dadurch war das System <a>überlastet</a> und wir anderen mussten länger auf
+      unsere Antworten warten.
+- c: 1
+  r: 1
+  v: verstopfen
+  x:
+  - s: Indeed, if we do nothing, our roads will <v>clog</v> <p>up</p>.
+    t: Wenn wir nichts unternehmen, werden allerdings unsere Straßen <a>verstopfen</a>.
+- c: 1
+  r: 1
+  v: Stauung kommen
+  x:
+  - s: There is a risk of bottlenecks developing and of the limited port and airport
+      facilities getting <v>clogged</v> <p>up</p>.
+    t: Es besteht nämlich die Gefahr, daß es in den wenigen Hafen- und Flughafenanlagen
+      wie in einem Flaschenhals zu <a>Stauungen</a> <a>kommt</a>.
+- c: 1
+  r: 1
+  v: rechen Überlastung
+  x:
+  - s: To conclude, Madam President, we shall vote against these reports, not because
+      they are bad, but because they do not solve the problems which are raised, since
+      having noted that the Committee on Petitions is becoming <v>clogged</v> <p>up</p>,
+      the rapporteurs propose yet more bureaucracy as a solution.
+    t: Abschließend möchte ich sagen, daß wir gegen diese Berichte stimmen werden,
+      und zwar nicht, weil sie schlecht sind, sondern weil sie den anstehenden Problemen
+      nicht <a>gerecht</a> werden, da die Berichterstatter im Anschluß an die Feststellung
+      der völligen <a>Überlastung</a> des Petitionsausschusses ein noch größeres Maß
+      an Bürokratie als Lösung vorschlagen.
+- c: 1
+  r: 1
+  v: sowieso Hand haben
+  x:
+  - s: SOLVIT seems to me to be a viable alternative to the judicial route, with the
+      courts also being so <v>clogged</v> <p>up</p> with all kinds of different cases.
+    t: SOLVIT scheint für mich eine gangbare Alternative zum justiziellen Weg zu sein,
+      wobei die Gerichte <a>sowieso</a> längst alle <a>Hände</a> voll zu tun <a>haben</a>
+      mit allen möglichen Fällen.
+- c: 1
+  r: 1
+  v: ausnutzen verstopfen
+  x:
+  - s: However, as it is, and although some amendments have helped to improve it,
+      the report by Mrs Guillaume is a real incentive for people to abuse this process,
+      <v>clogging</v> <p>up</p> the relevant services and depriving those who really
+      need their case to be reviewed quickly.
+    t: Wie die Dinge jedoch stehen, ist der Bericht von Frau Guillaume, auch wenn
+      einige Änderungsanträge dazu beigetragen haben, ihn zu verbessern, ein echter
+      Anreiz, dieses Verfahren <a>auszunutzen</a>, die zuständigen Dienste zu <a>verstopfen</a>
+      und diejenigen, die wirklich auf eine schnelle Überprüfung ihres Falls angewiesen
+      sind, der Hilfe zu berauben.
+- c: 1
+  r: 1
+  v: Zeitverlust
+  x:
+  - s: Mr President, Commissioner, ladies and gentlemen, our trans-European routes,
+      our roads and motorways, are being <v>clogged</v> <p>up</p> daily by millions
+      of lorries, buses and cars, which leads to wasted time, wasteful energy consumption
+      and significant environmental damage, amongst other things.
+    t: Unsere transeuropäischen Strecken, unsere Straßen und Autobahnen erleiden tagtäglich
+      einen Kollaps durch Millionen von Lastkraftwagen, Autobussen und Personenkraftwagen,
+      die zudem mit beträchtlichen <a>Zeitverlusten</a>, Energieverschwendung und
+      einer starken Umweltbelastung einhergehen.
+es:
+- c: 2
+  r: 1
+  v: saturar
+  x:
+  - s: The continuing growth in business aviation, however, is <v>clogging</v> <p>up</p>
+      the airports in use more and more.
+    t: No obstante, el continuo crecimiento de la aviación de negocios está <a>saturando</a>
+      cada vez más los aeropuertos actuales.
+  - s: Indeed, if we do nothing, our roads will <v>clog</v> <p>up</p>.
+    t: De hecho, si no hacemos nada, nuestras carreteras se <a>saturarán</a>.
+- c: 1
+  r: 2
+  v: colapr
+  x:
+  - s: There is a risk of bottlenecks developing and of the limited port and airport
+      facilities getting <v>clogged</v> <p>up</p>.
+    t: Subsiste el riesgo de que se <a>colapsen</a>, como si se tratara de un cuello
+      de botella, las pocas estructuras portuarias y aeroportuarias.
+- c: 1
+  r: 2
+  v: obstruir
+  x:
+  - s: However, as it is, and although some amendments have helped to improve it,
+      the report by Mrs Guillaume is a real incentive for people to abuse this process,
+      <v>clogging</v> <p>up</p> the relevant services and depriving those who really
+      need their case to be reviewed quickly.
+    t: Sin embargo, tal y como está, y aunque algunas enmiendas han contribuido a
+      mejorarla, el informe de la señora Guillaume es un incentivo real para que la
+      gente abuse de este proceso, <a>obstruyendo</a> los servicios responsables y
+      perjudicando a aquellos que necesitan realmente que su expediente sea revisado
+      con celeridad.
+- c: 1
+  r: 2
+  v: endurecer despecho
+  x:
+  - s: Well, these four participants are a highly dangerous mix which, on the one
+      hand, is trying to eliminate Europe’s real problem, which is the lack of a real
+      economic policy and, on the other hand is doing its best to <v>clog</v> <p>up</p>
+      the system with negotiating games of varying degrees of obscurity, and to hell
+      with unemployment and to hell with the market.
+    t: Pues bien, estos cuatro actores son una mezcla extraordinariamente peligrosa
+      que, por un lado, trata de eliminar el verdadero problema para Europa, es decir,
+      la falta de una verdadera política económica y, por otro, trata de <a>endurecer</a>
+      el sistema con negociaciones poco claras, a <a>despecho</a> del desempleo y
+      del mercado.
+- c: 1
+  r: 2
+  v: congestionar
+  x:
+  - s: SOLVIT seems to me to be a viable alternative to the judicial route, with the
+      courts also being so <v>clogged</v> <p>up</p> with all kinds of different cases.
+    t: En mi opinión, SOLVIT es una alternativa viable a la vía judicial, que ayudará
+      a no sobrecargar aún más a tribunales ya de por si <a>congestionados</a> por
+      la cantidad de casos de índole diversa que deben resolver.
+- c: 1
+  r: 2
+  v: colapsar
+  x:
+  - s: That has <v>clogged</v> <p>up</p> the system, making all the rest of us wait
+      longer for our answers, costing a fortune because all such questions have to
+      be translated into every language, circulated around the Commissioners for a
+      collective reply and collegiate reply, and is a waste of our time and resources.
+    t: Eso ha <a>colapsado</a> el sistema, por lo que los demás hemos tenido que esperar
+      más para obtener nuestras respuestas, además de que ha supuesto un dineral,
+      pues todas esas preguntas han tenido que traducirse a todos los idiomas y trasladarse
+      a los Comisarios a fin obtener una respuesta colectiva y de carácter colegial,
+      y es un desperdicio de nuestro tiempo y nuestros recursos.
+- c: 1
+  r: 2
+  v: atascar
+  x:
+  - s: This should also help us to respond to the many doubts that continue to <v>clog</v>
+      <p>up</p> the formal process which should lead us towards legally binding solutions,
+      within the United Nations framework and preferably in Mexico.
+    t: Y debe ayudarnos a responder a las múltiples dudas que todavía <a>atascan</a>
+      el proceso formal que debe llevarnos a soluciones jurídicamente vinculantes,
+      en el seno de las Naciones Unidas, preferentemente en México.
+- c: 1
+  r: 2
+  v: comprobarse
+  x:
+  - s: To conclude, Madam President, we shall vote against these reports, not because
+      they are bad, but because they do not solve the problems which are raised, since
+      having noted that the Committee on Petitions is becoming <v>clogged</v> <p>up</p>,
+      the rapporteurs propose yet more bureaucracy as a solution.
+    t: Para concluir, señora Presidenta, nosotros votaremos en contra de dichos informes
+      no porque sean malos, sino porque no responden a los problemas planteados, ya
+      que tras <a>comprobarse</a> una gran acumulación de solicitudes en la Comisión
+      de Peticiones, los ponentes proponen como solución un aumento de la burocracia.
+fr:
+- c: 2
+  r: 1
+  v: engorger
+  x:
+  - s: There is a risk of bottlenecks developing and of the limited port and airport
+      facilities getting <v>clogged</v> <p>up</p>.
+    t: Le risque existe que les structures portuaires et aéroportuaires peu nombreuses
+      s’<a>engorgent</a>.
+  - s: However, as it is, and although some amendments have helped to improve it,
+      the report by Mrs Guillaume is a real incentive for people to abuse this process,
+      <v>clogging</v> <p>up</p> the relevant services and depriving those who really
+      need their case to be reviewed quickly.
+    t: Or, en l’état, et même si quelques amendements sont venus l’améliorer, le rapport
+      de Mme Guillaume est une véritable incitation à abuser de cette procédure, <a>engorgeant</a>
+      les services responsables et privant ceux qui en ont réellement besoin d’un
+      examen rapide de leur dossier.
+- c: 1
+  r: 2
+  v: paralyser
+  x:
+  - s: Mr President, Commissioner, ladies and gentlemen, our trans-European routes,
+      our roads and motorways, are being <v>clogged</v> <p>up</p> daily by millions
+      of lorries, buses and cars, which leads to wasted time, wasteful energy consumption
+      and significant environmental damage, amongst other things.
+    t: Monsieur le Président, Madame la Commissaire, Mesdames et Messieurs, nos routes
+      transeuropéennes, nos autoroutes sont quotidiennement <a>paralysées</a> par
+      des millions de camions, d’autobus et d’automobiles, ce qui provoque, entre
+      autres, des pertes de temps importantes, des gaspillages d’énergie et une agression
+      importante envers l’environnement.
+- c: 1
+  r: 2
+  v: émailler
+  x:
+  - s: This should also help us to respond to the many doubts that continue to <v>clog</v>
+      <p>up</p> the formal process which should lead us towards legally binding solutions,
+      within the United Nations framework and preferably in Mexico.
+    t: Ce document devrait également nous aider à lever les nombreux doutes qui continuent
+      d’<a>émailler</a> le processus officiel devant nous mener à des solutions juridiquement
+      contraignantes, dans le cadre des Nations unies et de préférence à Mexico.
+- c: 1
+  r: 2
+  v: puisqu’après
+  x:
+  - s: To conclude, Madam President, we shall vote against these reports, not because
+      they are bad, but because they do not solve the problems which are raised, since
+      having noted that the Committee on Petitions is becoming <v>clogged</v> <p>up</p>,
+      the rapporteurs propose yet more bureaucracy as a solution.
+    t: Pour conclure, Madame le Président, nous voterons contre ces rapports, non
+      pas parce qu’ils sont mauvais, mais parce qu’ils ne répondent pas aux problèmes
+      qui sont posés, <a>puisqu’après</a> un constat d’engorgement de la commission
+      des pétitions, les rapporteurs proposent comme solution un surcroît de bureaucratie.
+- c: 1
+  r: 2
+  v: encombrer
+  x:
+  - s: <v>Clogging</v> <p>up</p> the first six months of the year is not its only
+      use.
+    t: Il ne sert pas seulement à <a>encombrer</a> les six premiers mois de l’année.
+- c: 1
+  r: 2
+  v: durcir
+  x:
+  - s: Well, these four participants are a highly dangerous mix which, on the one
+      hand, is trying to eliminate Europe’s real problem, which is the lack of a real
+      economic policy and, on the other hand is doing its best to <v>clog</v> <p>up</p>
+      the system with negotiating games of varying degrees of obscurity, and to hell
+      with unemployment and to hell with the market.
+    t: et d’autre part tente de <a>durcir</a> le système par des jeux de négociations
+      plus ou moins obscurs, au mépris du chômage et du marché.
+- c: 1
+  r: 2
+  v: congestionner
+  x:
+  - s: That has <v>clogged</v> <p>up</p> the system, making all the rest of us wait
+      longer for our answers, costing a fortune because all such questions have to
+      be translated into every language, circulated around the Commissioners for a
+      collective reply and collegiate reply, and is a waste of our time and resources.
+    t: Cela a <a>congestionné</a> le système, de sorte que les autres députés ont
+      dû attendre plus longtemps pour obtenir des réponses, en plus de coûter une
+      fortune car toutes les questions doivent être traduites dans les différentes
+      langues, puis être transmises aux commissaires en vue d’une réponse collective
+      et collégiale.
+- c: 1
+  r: 2
+  v: engorgement
+  x:
+  - s: The continuing growth in business aviation, however, is <v>clogging</v> <p>up</p>
+      the airports in use more and more.
+    t: La croissance maintenue de l’aviation d’affaires entraîne en effet un <a>engorgement</a>
+      progressif des aéroports.
+it:
+- c: 3
+  r: 1
+  v: intasare
+  x:
+  - s: There is a risk of bottlenecks developing and of the limited port and airport
+      facilities getting <v>clogged</v> <p>up</p>.
+    t: Sussiste un rischio che si <a>intasino</a>, come un collo di bottiglia, le
+      poche strutture portuali e aeroportuali.
+  - s: However, as it is, and although some amendments have helped to improve it,
+      the report by Mrs Guillaume is a real incentive for people to abuse this process,
+      <v>clogging</v> <p>up</p> the relevant services and depriving those who really
+      need their case to be reviewed quickly.
+    t: Tuttavia, nella sua versione attuale, e malgrado alcuni emendamenti l’abbiano
+      migliorata, la relazione Guillaume è un vero incentivo all’abuso di questo processo,
+      in quanto <a>intasa</a> i servizi competenti e penalizza coloro che necessitano
+      davvero di una revisione tempestiva delle loro istanze.
+  - s: That has <v>clogged</v> <p>up</p> the system, making all the rest of us wait
+      longer for our answers, costing a fortune because all such questions have to
+      be translated into every language, circulated around the Commissioners for a
+      collective reply and collegiate reply, and is a waste of our time and resources.
+    t: Il fatto che manchi ha consentito a un deputato di presentare più di un migliaio
+      di interrogazioni parlamentari scritte su argomenti che non hanno niente a che
+      fare con l’Unione europea, <a>intasando</a> il sistema e costringendo tutto
+      il resto di noi ad attendere più a lungo le risposte, costando una fortuna in
+      quanto tutte le interrogazioni sono state tradotte in ogni lingua, sono state
+      distribuite tra i Commissari per una risposta collettiva e una risposta collegiale,
+      e hanno rappresentato uno spreco di tempo e di risorse.
+- c: 1
+  r: 2
+  v: ostacolare
+  x:
+  - s: This plethora of initiatives increasingly <v>clogs</v> <p>up</p> our work in
+      committee, with the result that tomorrow will probably see four of these five
+      initiatives having to be rejected and one of them adopted only if amendments
+      to it by Lord Stockton and others among us can actually be accepted.
+    t: La profusione di iniziative <a>ostacola</a> in misura crescente i lavori della
+      nostra commissione, con il risultato che domani si dovranno verosimilmente respingere
+      quattro delle cinque iniziative e la quinta sarà accolta solo a condizione che
+      si approvino davvero gli emendamenti di Lord Stockton e di altri colleghi.
+  - s: This should also help us to respond to the many doubts that continue to <v>clog</v>
+      <p>up</p> the formal process which should lead us towards legally binding solutions,
+      within the United Nations framework and preferably in Mexico.
+    t: Questo dovrebbe aiutarci a dissipare i numerosi dubbi che continuano ad <a>ostacolare</a>
+      il processo formale, che dovrebbe condurci a soluzioni giuridicamente vincolanti,
+      nell’ambito delle Nazioni Unite, e auspicabilmente in Messico.
+- c: 1
+  r: 2
+  v: congestionare
+  x:
+  - s: The continuing growth in business aviation, however, is <v>clogging</v> <p>up</p>
+      the airports in use more and more.
+    t: La costante crescita dell’aviazione d’affari, tuttavia, sta <a>congestionando</a>
+      sempre più gli aeroporti.
+- c: 1
+  r: 2
+  v: irrigidire
+  x:
+  - s: Well, these four participants are a highly dangerous mix which, on the one
+      hand, is trying to eliminate Europe’s real problem, which is the lack of a real
+      economic policy and, on the other hand is doing its best to <v>clog</v> <p>up</p>
+      the system with negotiating games of varying degrees of obscurity, and to hell
+      with unemployment and to hell with the market.
+    t: Ebbene, questi quattro attori sono un mix pericolosissimo che, da un lato,
+      cerca di eliminare il vero problema per l’Europa, cioè la mancanza di una vera
+      politica economica, dall’altro, cerca di <a>irrigidire</a> il sistema in giochi
+      negoziali più o meno oscuri, alla faccia della disoccupazione e alla faccia
+      del mercato.
+- c: 1
+  r: 2
+  v: paralizzare
+  x:
+  - s: Mr President, Commissioner, ladies and gentlemen, our trans-European routes,
+      our roads and motorways, are being <v>clogged</v> <p>up</p> daily by millions
+      of lorries, buses and cars, which leads to wasted time, wasteful energy consumption
+      and significant environmental damage, amongst other things.
+    t: Signor Presidente, signora Commissario, onorevoli colleghi, le rotte transeuropee,
+      le nostre strade e le nostre autostrade vengono <a>paralizzate</a> ogni giorno
+      da milioni di camion, pullman e automobili.
+- c: 1
+  r: 2
+  v: appesantire
+  x:
+  - s: <v>Clogging</v> <p>up</p> the first six months of the year is not its only
+      use.
+    t: Il semestre europeo serve proprio per questo, non serve solo per <a>appesantire</a>
+      i primi sei mesi dell’anno!
+- c: 1
+  r: 2
+  v: fino
+  x:
+  - s: To conclude, Madam President, we shall vote against these reports, not because
+      they are bad, but because they do not solve the problems which are raised, since
+      having noted that the Committee on Petitions is becoming <v>clogged</v> <p>up</p>,
+      the rapporteurs propose yet more bureaucracy as a solution.
+    t: inoltre, come è già stato detto, vanno migliorati i rapporti con gli Stati
+      membri, dato che le risposte che abbiamo avuto <a>fino</a> ad ora sono insoddisfacenti
+      e tardive.
+- c: 1
+  r: 2
+  v: ostacolare
+  x:
+  - s: This plethora of initiatives increasingly <v>clogs</v> <p>up</p> our work in
+      committee, with the result that tomorrow will probably see four of these five
+      initiatives having to be rejected and one of them adopted only if amendments
+      to it by Lord Stockton and others among us can actually be accepted.
+    t: La profusione di iniziative <a>ostacola</a> in misura crescente i lavori della
+      nostra commissione, con il risultato che domani si dovranno verosimilmente respingere
+      quattro delle cinque iniziative e la quinta sarà accolta solo a condizione che
+      si approvino davvero gli emendamenti di Lord Stockton e di altri colleghi.
+  - s: This should also help us to respond to the many doubts that continue to <v>clog</v>
+      <p>up</p> the formal process which should lead us towards legally binding solutions,
+      within the United Nations framework and preferably in Mexico.
+    t: Questo dovrebbe aiutarci a dissipare i numerosi dubbi che continuano ad <a>ostacolare</a>
+      il processo formale, che dovrebbe condurci a soluzioni giuridicamente vincolanti,
+      nell’ambito delle Nazioni Unite, e auspicabilmente in Messico.
+pt:
+- c: 2
+  r: 1
+  v: obstruir
+  x:
+  - s: That has <v>clogged</v> <p>up</p> the system, making all the rest of us wait
+      longer for our answers, costing a fortune because all such questions have to
+      be translated into every language, circulated around the Commissioners for a
+      collective reply and collegiate reply, and is a waste of our time and resources.
+    t: Tal atitude <a>obstruiu</a> o sistema, fazendo com que o resto de nós tivesse
+      de esperar mais tempo por outras respostas, custando-nos uma fortuna porque
+      todas essas perguntas têm de ser traduzidas para todas as línguas e têm de circular
+      por todos os Comissários para uma resposta colectiva e uma resposta colegial,
+      e é uma perda de tempo e um desperdício de recursos.
+  - s: This should also help us to respond to the many doubts that continue to <v>clog</v>
+      <p>up</p> the formal process which should lead us towards legally binding solutions,
+      within the United Nations framework and preferably in Mexico.
+    t: Isto também nos deveria ajudar a responder às muitas dúvidas que continuam
+      a <a>obstruir</a> o processo formal que nos deveria conduzir a soluções juridicamente
+      vinculativas, no âmbito das Nações Unidas e, preferencialmente, no México.
+- c: 1
+  r: 2
+  v: atulhar
+  x:
+  - s: SOLVIT seems to me to be a viable alternative to the judicial route, with the
+      courts also being so <v>clogged</v> <p>up</p> with all kinds of different cases.
+    t: A SOLVIT parece-me ser uma alternativa viável à via judicial, já que os tribunais
+      estão extremamente <a>atulhados</a> com todo o tipo de casos.
+- c: 1
+  r: 2
+  v: gargalo
+  x:
+  - s: There is a risk of bottlenecks developing and of the limited port and airport
+      facilities getting <v>clogged</v> <p>up</p>.
+    t: Existe o risco de que se entupam, como o <a>gargalo</a> de uma garrafa, as
+      poucas estruturas portuárias e aeroportuárias.
+- c: 1
+  r: 2
+  v: ficar absolutamente bloquear
+  x:
+  - s: Indeed, if we do nothing, our roads will <v>clog</v> <p>up</p>.
+    t: De facto, se não fizermos alguma coisa, o tráfego nas nossas estradas irá <a>ficar</a>
+      <a>absolutamente</a> <a>bloqueado</a>.
+- c: 1
+  r: 2
+  v: endurecer
+  x:
+  - s: Well, these four participants are a highly dangerous mix which, on the one
+      hand, is trying to eliminate Europe’s real problem, which is the lack of a real
+      economic policy and, on the other hand is doing its best to <v>clog</v> <p>up</p>
+      the system with negotiating games of varying degrees of obscurity, and to hell
+      with unemployment and to hell with the market.
+    t: Pois bem, estes quatro actores constituem uma mistura perigosíssima que, por
+      um lado, tenta eliminar o verdadeiro problema para a Europa, nomeadamente a
+      falta de uma verdadeira política económica e, por outro lado, procura <a>endurecer</a>
+      o sistema em jogos negociais mais ou menos obscuros, em termos do desemprego
+      e do mercado.
+- c: 1
+  r: 2
+  v: congestionar
+  x:
+  - s: However, as it is, and although some amendments have helped to improve it,
+      the report by Mrs Guillaume is a real incentive for people to abuse this process,
+      <v>clogging</v> <p>up</p> the relevant services and depriving those who really
+      need their case to be reviewed quickly.
+    t: No entanto, na sua versão actual, e embora algumas alterações nos tenham ajudado
+      a melhorá-lo, o relatório da senhora deputada Guillaume é um verdadeiro incentivo
+      para que as pessoas abusem desse processo, <a>congestionando</a> os serviços
+      competentes e prejudicando aqueles que necessitam verdadeiramente que o seu
+      processo seja examinado rapidamente.
+- c: 1
+  r: 2
+  v: entupimento
+  x:
+  - s: To conclude, Madam President, we shall vote against these reports, not because
+      they are bad, but because they do not solve the problems which are raised, since
+      having noted that the Committee on Petitions is becoming <v>clogged</v> <p>up</p>,
+      the rapporteurs propose yet more bureaucracy as a solution.
+    t: Para concluir, Senhora Presidente, votaremos contra estes relatórios, não porque
+      tenham uma qualidade insuficiente, mas porque não dão uma resposta cabal aos
+      problemas com que nos defrontamos, pois, após verificar-se um «<a>entupimento</a>»
+      na Comissão das Petições, os relatores propõem, como solução, um acréscimo da
+      burocracia.
+- c: 1
+  r: 2
+  v: causar estrangulamento
+  x:
+  - s: The continuing growth in business aviation, however, is <v>clogging</v> <p>up</p>
+      the airports in use more and more.
+    t: O crescimento constante da aviação de negócios está, contudo, a <a>causar</a>
+      cada vez mais <a>estrangulamentos</a> nos aeroportos que existem.
+- c: 1
+  r: 2
+  v: sobrecarregar
+  x:
+  - s: <v>Clogging</v> <p>up</p> the first six months of the year is not its only
+      use.
+    t: Não serve apenas para <a>sobrecarregar</a> os primeiros seis meses do ano.
+sv:
+- c: 2
+  r: 1
+  v: korka igen
+  x:
+  - s: Indeed, if we do nothing, our roads will <v>clog</v> <p>up</p>.
+    t: Om vi inte gör någonting kommer vägarna att <a>korka</a> <a>igen</a>.
+  - s: The development, for example, of the zero stock system, which is highly profitable
+      for private interests, is an aberration from the social point of view, because
+      it is responsible, to a large extent, for <v>clogging</v> <p>up</p> the roads.
+    t: Ett exempel är utvecklingen av det lagerlösa systemet, vilket de privata intressena
+      tjänar på, men som är absurt ur social synvinkel, eftersom det i hög grad medverkar
+      till att vägarna <a>korkar</a> <a>igen</a>.
+- c: 1
+  r: 2
+  v: full upp
+  x:
+  - s: SOLVIT seems to me to be a viable alternative to the judicial route, with the
+      courts also being so <v>clogged</v> <p>up</p> with all kinds of different cases.
+    t: Solvit tycks vara ett gångbart alternativ till rättsliga förfaranden, i synnerhet
+      som domstolarna har <a>fullt</a> <a>upp</a> med andra mål.
+- c: 1
+  r: 2
+  v: lägga hinder
+  x:
+  - s: This should also help us to respond to the many doubts that continue to <v>clog</v>
+      <p>up</p> the formal process which should lead us towards legally binding solutions,
+      within the United Nations framework and preferably in Mexico.
+    t: Detta bör också hjälpa oss att svara på de många tvivel som fortsätter att
+      <a>lägga</a> <a>hinder</a> i vägen för den formella processen som ska leda oss
+      mot rättsligt bindande lösningar inom ramen för FN och helst vid Mexikomötet.
+- c: 1
+  r: 2
+  v: proppa igen
+  x:
+  - s: However, as it is, and although some amendments have helped to improve it,
+      the report by Mrs Guillaume is a real incentive for people to abuse this process,
+      <v>clogging</v> <p>up</p> the relevant services and depriving those who really
+      need their case to be reviewed quickly.
+    t: Även om vissa ändringar har gjorts för att förbättra Sylvie Guillaumes betänkande
+      är det ändå i sin nuvarande form en verklig sporre till missbruk av processen,
+      vilket leder till att myndigheterna <a>proppas</a> <a>igen</a> och att personer
+      som verkligen behöver få sitt ärende behandlat snabbt inte får denna möjlighet.
+- c: 1
+  r: 2
+  v: blockera
+  x:
+  - s: <v>Clogging</v> <p>up</p> the first six months of the year is not its only
+      use.
+    t: Den syftar inte bara till att <a>blockera</a> årets första sex månader.
+- c: 1
+  r: 2
+  v: överbelasta
+  x:
+  - s: That has <v>clogged</v> <p>up</p> the system, making all the rest of us wait
+      longer for our answers, costing a fortune because all such questions have to
+      be translated into every language, circulated around the Commissioners for a
+      collective reply and collegiate reply, and is a waste of our time and resources.
+    t: Systemet har därför <a>överbelastats</a>, vilket har lett till att alla vi
+      andra har fått längre svarstider.

@@ -1,0 +1,38 @@
+---
+en:
+- c: 1
+  r: 1
+  v: wind up
+  x:
+  - s: I går kom jag tillbaka från Ryssland, där jag lagt märke till hur ultraliberala
+      rådgivare - mestadels amerikaner - har <v>jagat</v> <p>upp</p> och vilsefört
+      inte bara ryssarna utan även Europa.
+    t: I came back from Russia yesterday, where I noticed how ultra-liberal advisers,
+      mostly of American origin, have put the <a>wind</a> <a>up</a> and misled the
+      Russians, but also Europe, which means that there is much that we must now put
+      right again together.
+fr:
+- c: 1
+  r: 1
+  v: exploiter
+  x:
+  - s: Vi måste givetvis försvara de personliga rättigheterna, men vi ska inte <v>jaga</v>
+      <p>upp</p> människor.
+    t: Bien sûr, nous devons défendre les droits des personnes, mais sans <a>exploiter</a>
+      leurs craintes.
+it:
+- c: 1
+  r: 1
+  v: demagogia
+  x:
+  - s: Vi måste givetvis försvara de personliga rättigheterna, men vi ska inte <v>jaga</v>
+      <p>upp</p> människor.
+    t: Bisogna certamente difendere i diritti della persona, ma senza <a>demagogia</a>.
+pt:
+- c: 1
+  r: 1
+  v: demagogia
+  x:
+  - s: Vi måste givetvis försvara de personliga rättigheterna, men vi ska inte <v>jaga</v>
+      <p>upp</p> människor.
+    t: É claro que devemos defender os direitos pessoais, mas sem <a>demagogia</a>.

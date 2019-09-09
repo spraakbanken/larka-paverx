@@ -1,0 +1,17 @@
+---
+es:
+- c: 1
+  r: 1
+  v: llegar
+  x:
+  - s: Han avser nu att <v>rida</v> <p>in</p> i regeringen på ryggen av en politisk
+      tiger.
+    t: Ahora se propone <a>llegar</a> al gobierno cabalgando sobre un tigre político.
+fr:
+- c: 1
+  r: 1
+  v: arriver
+  x:
+  - s: Han avser nu att <v>rida</v> <p>in</p> i regeringen på ryggen av en politisk
+      tiger.
+    t: Il veut maintenant <a>arriver</a> au gouvernement sur le dos d’un tigre politique.
